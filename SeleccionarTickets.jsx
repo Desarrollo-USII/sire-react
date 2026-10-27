@@ -1,0 +1,15 @@
+import {useState} from 'react';
+import {claveTicket} from './seleccion-respuestas.js';
+export default function SeleccionarTickets({tickets,excluidos,onChange,disabled}){
+ const [buscar,setBuscar]=useState('');
+ const normal=v=>String(v??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+ const visibles=tickets.filter(t=>normal(`${t.id} ${t.sistema} ${t.descripcionBreve}`).includes(normal(buscar)));
+ const areas=[...new Set(visibles.map(t=>t.sistema))].sort((a,b)=>a.localeCompare(b,'es'));
+ const omitidos=new Set(excluidos),incluidos=tickets.filter(t=>!omitidos.has(claveTicket(t))).length;
+ const cambiarGrupo=(grupo,incluir)=>{const ids=new Set(grupo.map(claveTicket));onChange(incluir?excluidos.filter(k=>!ids.has(k)):[...new Set([...excluidos,...ids])]);};
+ return <section className="seleccionar-tickets"><div className="respuestas-titulo"><h2>Tickets que se incluirán</h2><span className="seleccion-contador">{incluidos} de {tickets.length}</span></div><p className="export-ayuda">Desmarca los tickets que no quieras exportar ni actualizar. Se conservan en la aplicación y en Google Sheets.</p>
+ <div className="tickets-seleccion-herramientas"><label>Buscar ticket<input className="form-control form-control-sm" value={buscar} onChange={e=>setBuscar(e.target.value)} placeholder="Número, área o descripción breve" /></label><button type="button" className="btn btn-outline-secondary btn-sm" disabled={disabled||!visibles.length} onClick={()=>cambiarGrupo(visibles,true)}>Incluir resultados</button><button type="button" className="btn btn-outline-secondary btn-sm" disabled={disabled||!visibles.length} onClick={()=>cambiarGrupo(visibles,false)}>Excluir resultados</button></div>
+ {areas.map(area=>{const grupo=visibles.filter(t=>t.sistema===area),cuenta=grupo.filter(t=>!omitidos.has(claveTicket(t))).length;return <details className="selector-area" key={area}><summary><strong>{area}</strong><span className="area-cantidad">{cuenta} de {grupo.length} incluidos</span></summary><div className="selector-area-contenido"><div className="nube-acciones"><button type="button" className="btn btn-outline-secondary btn-sm" disabled={disabled} onClick={()=>cambiarGrupo(grupo,true)}>Incluir área</button><button type="button" className="btn btn-outline-secondary btn-sm" disabled={disabled} onClick={()=>cambiarGrupo(grupo,false)}>Excluir área</button></div>{grupo.sort((a,b)=>b.id-a.id).map(t=><label key={claveTicket(t)} className={`ticket-inclusion ${omitidos.has(claveTicket(t))?'ticket-excluido':''}`}><input type="checkbox" className="form-check-input" aria-label={`Incluir ticket ${t.id} de ${t.sistema}`} checked={!omitidos.has(claveTicket(t))} disabled={disabled} onChange={e=>onChange(e.target.checked?excluidos.filter(k=>k!==claveTicket(t)):[...excluidos,claveTicket(t)])} /><strong>#{t.id}</strong><span>{t.descripcionBreve}</span><small>{omitidos.has(claveTicket(t))?'Excluido':t.estatus}</small></label>)}</div></details>})}
+ {!visibles.length&&<p className="export-ayuda">No hay tickets que coincidan con la búsqueda.</p>}
+ </section>;
+}

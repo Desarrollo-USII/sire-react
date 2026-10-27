@@ -1,0 +1,2451 @@
+{
+  "metadata": {
+    "sistema": "DPI",
+    "cuenta": "INCUV_DPI",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 59,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 59,
+    "totalSeguimientos": 172,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": "buen día Se instaló nuevamente el cliente y la usuaria pudo realizar el proyecto sin contratiempo. Gracias.",
+      "descripcionBreve": "CAQUIROZ - inconsistencia al crear un anteproyecto",
+      "descripcionDetallada": "Se está creando un anteproyecto y en la U. Resp. se captura la clave 0160 – Docencia e Investigación Xalapa, sin embargo, en la administrativa se está mostrando una clave administrativa que no corresponde, dicha clave se crea en automático, al capturar la clave de U.Resp.\nNo se puede borrar el registro, por lo que se intenta guardar para después proceder a asignar la clave administrativa que corresponde, sin embargo, se detona error.\nSe adjunta documento con el detalle.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "25/09/2026 07:44 p. m.",
+      "fechaRegistroVisible": "25 de Sep, 07:44:04 PM",
+      "id": 7220,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nPara este ticket, el viernes pasado se compartió de manera rápida a Emi el link de descargar para actualizar el cliente, misma que se comparte a continuación: https://drive.google.com/file/d/11nQZn0kr7Jv24zs5i4gpfS7iZf8KOYe2/view?usp=sharing\n\nya que al intentar replicar el problema con este ejecutable no se presento la diferencia de clasificador, se le compartió de manera directa a Emi por la urgencia que se presento para poder llevar a cabo la captura del proyecto correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-10-01T15:47:31.877Z",
+          "fechaTexto": "01/10/2026 09:47 a. m.",
+          "fechaVisible": "1 de Oct, 09:47:31 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "buen día\nSe instaló nuevamente el cliente y la usuaria pudo realizar el proyecto sin contratiempo.\nGracias.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-10-05T16:22:54.407Z",
+          "fechaTexto": "05/10/2026 10:22 a. m.",
+          "fechaVisible": "5 de Oct, 10:22:54 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n33254-- auxiliar: 256\n41107-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "18/09/2026 10:29 a. m.",
+      "fechaRegistroVisible": "18 de Sep, 10:29:21 AM",
+      "id": 7158,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día Alan.\n\nTe informo que ya se encuentra atendido este ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-18T16:36:45.563Z",
+          "fechaTexto": "18/09/2026 10:36 a. m.",
+          "fechaVisible": "18 de Sep, 10:36:45 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-18T17:07:51.973Z",
+          "fechaTexto": "18/09/2026 11:07 a. m.",
+          "fechaVisible": "18 de Sep, 11:07:51 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n35270-- auxiliar: 256\n51204-- auxiliar: 256\n55111-- auxiliar: 256\n57115-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/08/2026 04:09 p. m.",
+      "fechaRegistroVisible": "19 de Aug, 04:09:42 PM",
+      "id": 7026,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nTe comento que ya se encuentra atendido el ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-20T00:13:12.870Z",
+          "fechaTexto": "19/08/2026 06:13 p. m.",
+          "fechaVisible": "19 de Aug, 06:13:12 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-09T00:20:31.060Z",
+          "fechaTexto": "08/09/2026 06:20 p. m.",
+          "fechaVisible": "8 de Sep, 06:20:31 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-18T17:07:40.270Z",
+          "fechaTexto": "18/09/2026 11:07 a. m.",
+          "fechaVisible": "18 de Sep, 11:07:40 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n18820-- auxiliar: 256\n25131-- auxiliar: 256\n33326-- auxiliar: 256\n33327-- auxiliar: 256\n34478-- auxiliar: 256\n56110-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/08/2026 12:16 p. m.",
+      "fechaRegistroVisible": "7 de Aug, 12:16:45 PM",
+      "id": 6986,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido este ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-07T18:28:04.920Z",
+          "fechaTexto": "07/08/2026 12:28 p. m.",
+          "fechaVisible": "7 de Aug, 12:28:04 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-08-07T19:39:05.720Z",
+          "fechaTexto": "07/08/2026 01:39 p. m.",
+          "fechaVisible": "7 de Aug, 01:39:05 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n16308-- auxiliar: 254\n18818-- auxiliar: 256\n18819-- auxiliar: 256\n28221-- auxiliar: 256\n33322-- auxiliar: 256\n33323-- auxiliar: 256\n33324-- auxiliar: 256\n33325-- auxiliar: 256\n54106-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/06/2026 10:14 a. m.",
+      "fechaRegistroVisible": "24 de Jun, 10:14:01 AM",
+      "id": 6754,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nSe informa que ya se encuentra atendido este ticket en ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T16:40:45.357Z",
+          "fechaTexto": "24/06/2026 10:40 a. m.",
+          "fechaVisible": "24 de Jun, 10:40:45 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-24T16:45:25.893Z",
+          "fechaTexto": "24/06/2026 10:45 a. m.",
+          "fechaVisible": "24 de Jun, 10:45:25 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n22211 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "22/05/2026 04:30 p. m.",
+      "fechaRegistroVisible": "22 de May, 04:30:44 PM",
+      "id": 6597,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido el ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-22T23:40:03.863Z",
+          "fechaTexto": "22/05/2026 05:40 p. m.",
+          "fechaVisible": "22 de May, 05:40:03 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:51:12.450Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:12 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-24T16:45:39.843Z",
+          "fechaTexto": "24/06/2026 10:45 a. m.",
+          "fechaVisible": "24 de Jun, 10:45:39 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n32107-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/05/2026 11:28 a. m.",
+      "fechaRegistroVisible": "20 de May, 11:28:12 AM",
+      "id": 6572,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra atendido el ticket en ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-21T03:01:23.950Z",
+          "fechaTexto": "20/05/2026 09:01 p. m.",
+          "fechaVisible": "20 de May, 09:01:23 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-21T03:54:52.943Z",
+          "fechaTexto": "20/05/2026 09:54 p. m.",
+          "fechaVisible": "20 de May, 09:54:52 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:27:49.357Z",
+          "fechaTexto": "22/05/2026 04:27 p. m.",
+          "fechaVisible": "22 de May, 04:27:49 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por la atención, se pudo realizar la carga sin contratiempo.",
+      "descripcionBreve": "ALAGONZALEZ_Problema con la carga de plantilla programa de trabajo en productivo",
+      "descripcionDetallada": "Buenas tardes, tenemos la siguiente situación.\nPor las preparaciones para el ejercicio 2027 y el registro de anteproyectos, se empezaron a acargar plantillas con los clasificadores y demás información, de entre las plantillas que se cargaron fue la de Programa de trabajo.\nComo se ve en la siguiente imagen, la carga fue correcta sin errores, en la ruta que se aprecia:\n \nEl equipo técnico de la DSIA nos responde que la plantilla se cargó sin problema:\n \nIncluso el área nos indica que corroboró (en ese momento) y si veía información en el clasificador PT (lamentablemente de esto no tenemos una imagen).\n\nSin embargo, el día de hoy que iban a revisar unos datos de este clasificador, se dan cuenta que ya no hay información.\n \nPor lo anterior, pedimos el apoyo para que nos puedan indicar ¿qué pasó con la información? ¿por qué ya no aparece? Y poder identificar si es que la información se encuentra internamente y solo es que no se está mostrando, o de plano, si en las tablas no hay información.\n\nQuedo al pendiente.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/05/2026 05:56 p. m.",
+      "fechaRegistroVisible": "7 de May, 05:56:45 PM",
+      "id": 6493,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nRevisando la plantilla de migración del clasificador 24, observo que hay 6 registros que no tienen información en la columna \"Clasificador de detalle\" por lo que es necesario que corrijan su migración por favor, ya que estos registros no pueden quedar de esta forma, ya que al ser un valor que necesita una S o N y quedar vacío va a ocasionar problemas más adelante, por lo que es necesario corrijan la migración a la brevedad posible para validar nuevamente la información por parte del área, así mismo recomiendo revisen las demás plantillas que se vallan a migrar para que no ocurra esto mismo de renglones que les falte información",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-08T00:11:34.433Z",
+          "fechaTexto": "07/05/2026 06:11 p. m.",
+          "fechaVisible": "7 de May, 06:11:34 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nGracias por la atención, asimismo, corroboramos sobre los 6 registros, sin embargo, el resto de registros si cuentan con información y no se visualizan, es decir, no se ve nada en el clasificador 24 del 2027.\n\nQuedo al pendiente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-05-08T00:41:40.530Z",
+          "fechaTexto": "07/05/2026 06:41 p. m.",
+          "fechaVisible": "7 de May, 06:41:40 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nDeben de corregir primero la migración, dado que están dejando campos vacíos que son necesarios para la carga, en este caso el de si es detalle o agrupador el clasificador, este dato es necesario para su correcta visualización.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-05-08T00:58:44.733Z",
+          "fechaTexto": "07/05/2026 06:58 p. m.",
+          "fechaVisible": "7 de May, 06:58:44 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias por la atención, se pudo realizar la carga sin contratiempo.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-19T17:05:57.787Z",
+          "fechaTexto": "19/05/2026 11:05 a. m.",
+          "fechaVisible": "19 de May, 11:05:57 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n33321-- auxiliar: 256\n33322-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/04/2026 04:10 p. m.",
+      "fechaRegistroVisible": "23 de Apr, 04:10:12 PM",
+      "id": 6430,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-27T20:14:58.890Z",
+          "fechaTexto": "27/04/2026 02:14 p. m.",
+          "fechaVisible": "27 de Apr, 02:14:58 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-04-27T20:15:40.357Z",
+          "fechaTexto": "27/04/2026 02:15 p. m.",
+          "fechaVisible": "27 de Apr, 02:15:40 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:28:05.330Z",
+          "fechaTexto": "22/05/2026 04:28 p. m.",
+          "fechaVisible": "22 de May, 04:28:05 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n51514-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/04/2026 04:43 p. m.",
+      "fechaRegistroVisible": "21 de Apr, 04:43:14 PM",
+      "id": 6417,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-22T17:04:37.413Z",
+          "fechaTexto": "22/04/2026 11:04 a. m.",
+          "fechaVisible": "22 de Apr, 11:04:37 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-04-22T17:05:30.163Z",
+          "fechaTexto": "22/04/2026 11:05 a. m.",
+          "fechaVisible": "22 de Apr, 11:05:30 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:28:15.850Z",
+          "fechaTexto": "22/05/2026 04:28 p. m.",
+          "fechaVisible": "22 de May, 04:28:15 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "BUeno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n14433-- auxiliar: 253\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/04/2026 04:33 p. m.",
+      "fechaRegistroVisible": "9 de Apr, 04:33:15 PM",
+      "id": 6368,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-10T17:26:41.847Z",
+          "fechaTexto": "10/04/2026 11:26 a. m.",
+          "fechaVisible": "10 de Apr, 11:26:41 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "BUeno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:28:24.100Z",
+          "fechaTexto": "22/05/2026 04:28 p. m.",
+          "fechaVisible": "22 de May, 04:28:24 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n18815 -- auxiliar: 256\n18816 -- auxiliar: 256\n18817 -- auxiliar: 256\n33253 -- auxiliar: 256\n35269 -- auxiliar: 256\n51513 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "25/03/2026 04:15 p. m.",
+      "fechaRegistroVisible": "25 de Mar, 04:15:04 PM",
+      "id": 6282,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido este ticket en el ambiente producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-26T16:30:59.783Z",
+          "fechaTexto": "26/03/2026 10:30 a. m.",
+          "fechaVisible": "26 de Mar, 10:30:59 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:29:06.180Z",
+          "fechaTexto": "22/05/2026 04:29 p. m.",
+          "fechaVisible": "22 de May, 04:29:06 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n33320-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/03/2026 12:02 p. m.",
+      "fechaRegistroVisible": "12 de Mar, 12:02:37 PM",
+      "id": 6207,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-13T16:17:55.730Z",
+          "fechaTexto": "13/03/2026 10:17 a. m.",
+          "fechaVisible": "13 de Mar, 10:17:55 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:28:59.117Z",
+          "fechaTexto": "22/05/2026 04:28 p. m.",
+          "fechaVisible": "22 de May, 04:28:59 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n15213-- auxiliar: 254\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/03/2026 04:05 p. m.",
+      "fechaRegistroVisible": "9 de Mar, 04:05:14 PM",
+      "id": 6173,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido el ticket en ambiente de producción.\n\nSin más por el momento me despido.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-10T00:25:15.473Z",
+          "fechaTexto": "09/03/2026 06:25 p. m.",
+          "fechaVisible": "9 de Mar, 06:25:15 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:28:53.173Z",
+          "fechaTexto": "22/05/2026 04:28 p. m.",
+          "fechaVisible": "22 de May, 04:28:53 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error al eliminar PbR´s",
+      "descripcionDetallada": "La DPI reporta que se detona error al eliminar los siguientes PbR, ya fue eliminado actividades, resultados y objetivos, pero la pantalla principal sigue marcando error al intentar el borrado final.\nSituación similar fue reportado en el incidente 6113, al eliminar un PbR de la dirección de Proyectos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/02/2026 12:41 p. m.",
+      "fechaRegistroVisible": "27 de Feb, 12:41:18 PM",
+      "id": 6114,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nEl día de hoy se estará dando retroalimentación sobre lo reportado y su atención correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-02T15:11:58.000Z",
+          "fechaTexto": "02/03/2026 09:11 a. m.",
+          "fechaVisible": "2 de Mar, 09:11:58 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nLa atención al ticket ya se tiene, sin embargo, es necesario realizar una actualización de servidor, se revisará con el Mtro. Rafa y la Lic. Angelica Báez si es posible realizar la actualización en esta semana ya sea el día de hoy por la noche o cuando me indiquen",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": "2026-03-03T18:30:14.510Z",
+          "fechaTexto": "03/03/2026 12:30 p. m.",
+          "fechaVisible": "3 de Mar, 12:30:14 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\n\n\nEl día de ayer por la noche se llevo a cabo la actualización del ambiente de producción como parte de la atención a dicho ticket, con la finalidad de que el usuario pueda llevar a cabo el borrado del proyecto correspondiente",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-03-04T16:14:46.320Z",
+          "fechaTexto": "04/03/2026 10:14 a. m.",
+          "fechaVisible": "4 de Mar, 10:14:46 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-04T16:15:31.997Z",
+          "fechaTexto": "04/03/2026 10:15 a. m.",
+          "fechaVisible": "4 de Mar, 10:15:31 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "BUeno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n35110-- auxiliar: 256\n35111-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/02/2026 12:04 p. m.",
+      "fechaRegistroVisible": "19 de Feb, 12:04:08 PM",
+      "id": 6064,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-19T20:02:47.870Z",
+          "fechaTexto": "19/02/2026 02:02 p. m.",
+          "fechaVisible": "19 de Feb, 02:02:47 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-02-19T20:03:20.920Z",
+          "fechaTexto": "19/02/2026 02:03 p. m.",
+          "fechaVisible": "19 de Feb, 02:03:20 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "BUeno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:28:40.817Z",
+          "fechaTexto": "22/05/2026 04:28 p. m.",
+          "fechaVisible": "22 de May, 04:28:40 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "bueno",
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n13130-- auxiliar: 253\n14242-- auxiliar: 253\n14243-- auxiliar: 253\n33252-- auxiliar: 256\n34631-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "11/02/2026 11:36 a. m.",
+      "fechaRegistroVisible": "11 de Feb, 11:36:46 AM",
+      "id": 6015,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-12T02:50:08.987Z",
+          "fechaTexto": "11/02/2026 08:50 p. m.",
+          "fechaVisible": "11 de Feb, 08:50:08 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-02-12T18:05:08.017Z",
+          "fechaTexto": "12/02/2026 12:05 p. m.",
+          "fechaVisible": "12 de Feb, 12:05:08 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-22T22:29:41.180Z",
+          "fechaTexto": "22/05/2026 04:29 p. m.",
+          "fechaVisible": "22 de May, 04:29:41 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n28220-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "28/01/2026 01:03 p. m.",
+      "fechaRegistroVisible": "28 de Jan, 01:03:14 PM",
+      "id": 5925,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en el ambiente de producción.\n\nSin más por el momento me despido.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-28T19:13:10.640Z",
+          "fechaTexto": "28/01/2026 01:13 p. m.",
+          "fechaVisible": "28 de Jan, 01:13:10 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-28T19:14:43.277Z",
+          "fechaTexto": "28/01/2026 01:14 p. m.",
+          "fechaVisible": "28 de Jan, 01:14:43 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-28T20:07:18.710Z",
+          "fechaTexto": "28/01/2026 02:07 p. m.",
+          "fechaVisible": "28 de Jan, 02:07:18 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n16307-- auxiliar: 254\n18530-- auxiliar: 256\n24206-- auxiliar: 256\n32106-- auxiliar: 256\n33319-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/01/2026 02:18 p. m.",
+      "fechaRegistroVisible": "26 de Jan, 02:18:45 PM",
+      "id": 5914,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nTe informo que ya se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-27T00:10:07.067Z",
+          "fechaTexto": "26/01/2026 06:10 p. m.",
+          "fechaVisible": "26 de Jan, 06:10:07 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-27T03:12:18.273Z",
+          "fechaTexto": "26/01/2026 09:12 p. m.",
+          "fechaVisible": "26 de Jan, 09:12:18 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-27T18:17:24.840Z",
+          "fechaTexto": "27/01/2026 12:17 p. m.",
+          "fechaVisible": "27 de Jan, 12:17:24 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n33251 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/01/2026 10:45 a. m.",
+      "fechaRegistroVisible": "13 de Jan, 10:45:16 AM",
+      "id": 5810,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche Alan.\n\nSe encuentra atendido el ticket en ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-15T02:07:32.203Z",
+          "fechaTexto": "14/01/2026 08:07 p. m.",
+          "fechaVisible": "14 de Jan, 08:07:32 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-15T16:56:51.340Z",
+          "fechaTexto": "15/01/2026 10:56 a. m.",
+          "fechaVisible": "15 de Jan, 10:56:51 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n21184-- auxiliar: 256\n33250-- auxiliar: 256\n33318-- auxiliar: 256\n47103-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/01/2026 01:50 p. m.",
+      "fechaRegistroVisible": "7 de Jan, 01:50:57 PM",
+      "id": 5753,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nTe informo que ya se encuentra atendido este ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-07T20:58:57.567Z",
+          "fechaTexto": "07/01/2026 02:58 p. m.",
+          "fechaVisible": "7 de Jan, 02:58:57 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-07T21:01:51.467Z",
+          "fechaTexto": "07/01/2026 03:01 p. m.",
+          "fechaVisible": "7 de Jan, 03:01:51 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-07T23:51:02.647Z",
+          "fechaTexto": "07/01/2026 05:51 p. m.",
+          "fechaVisible": "7 de Jan, 05:51:02 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenos días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n25169-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/11/2025 08:43 a. m.",
+      "fechaRegistroVisible": "27/11/2025 08:43 a. m.",
+      "id": 5533,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "buneo",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 04:24 p. m.",
+          "fechaVisible": "28/11/2025 04:24 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 11:07 a. m.",
+          "fechaVisible": "28/11/2025 11:07 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nte informo que este ticket ya se encuentra atendido en el ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 10:19 a. m.",
+          "fechaVisible": "28/11/2025 10:19 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenos días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n33317-- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/11/2025 11:14 a. m.",
+      "fechaRegistroVisible": "24/11/2025 11:14 a. m.",
+      "id": 5519,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 02:03 p. m.",
+          "fechaVisible": "24/11/2025 02:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 12:51 p. m.",
+          "fechaVisible": "24/11/2025 12:51 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Detalle con el clasificador programático 15205 en productivo",
+      "descripcionDetallada": "Solicitamos el apoyo para revisión de la clave programática 15202.- la cual fue inhabilitada por cuestiones de duplicidad, sin embargo, al intentar volver a habilitarla para que se puede transferir el recurso a otro proyecto (con clave programática correcta) envía el siguiente mensaje:\n \nY como indicamos, se requiere transferir el recurso.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "18/11/2025 11:34 a. m.",
+      "fechaRegistroVisible": "18/11/2025 11:34 a. m.",
+      "id": 5488,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 12:14 p. m.",
+          "fechaVisible": "21/11/2025 12:14 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:12 p. m.",
+          "fechaVisible": "19/11/2025 08:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que por medio del correo que recibimos por parte de la Lic. Angelica Báez, se llevo acabo el apoyo para realizar la activación de la clasificación 15205 del clasificador programático UV como de detalle, para que puedan continuar con sus procesos correspondientes.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/11/2025 04:45 p. m.",
+          "fechaVisible": "18/11/2025 04:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRevisamos en la BD producción el tema que reporta Alan, sin embargo, observamos que tanto en el cliente como en BD la clasificación se encuentra activa, sin embargo, al contactar a Alan de manera directa, me dice que lo que necesitan es activarla de tipo detalle, esto no se identifica en lo reportado dentro del ticket, ya que mencionan que se debe de habilitar, entendemos por habilitar la marca \"clasificación activa\", sin embargo, con esta aclaración que me proporciono Alan se va atender esta parte, ya que surgió esa duda por el siguiente texto \"Solicitamos el apoyo para revisión de la clave programática 15202.- la cual fue inhabilitada por cuestiones de duplicidad, sin embargo, al intentar volver a habilitarla para que se puede transferir el recurso a otro proyecto (con clave programática correcta)\"",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "18/11/2025 02:00 p. m.",
+          "fechaVisible": "18/11/2025 02:00 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - solicitud de apoyo - cambio fecha se asignación en anteproyecto",
+      "descripcionDetallada": "A petición de la DPI se solicita el apoyo para modificar la fecha de asignación del anteproyecto 0000759 de la cabecera 23 del ejercicio 2026.\nDice:01/01/0226\nDebe decir: 01/01/2026\nSe adjunta documento sustento y se agradece de antemano el apoyo que nos puedan brindar.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/11/2025 09:33 a. m.",
+      "fechaRegistroVisible": "13/11/2025 09:33 a. m.",
+      "id": 5459,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece el apoyo brindado.\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 02:22 p. m.",
+          "fechaVisible": "27/11/2025 02:22 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:14 p. m.",
+          "fechaVisible": "19/11/2025 08:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Emi.\n\nInformo que se encuentra atendida la solicitud de apoyo en el ambiente de producción, para que realicen la validación correspondiente y puedan continuar con su proceso correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 10:29 a. m.",
+          "fechaVisible": "13/11/2025 10:29 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenos días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n54105 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/11/2025 04:43 p. m.",
+      "fechaRegistroVisible": "12/11/2025 04:43 p. m.",
+      "id": 5447,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/11/2025 11:42 a. m.",
+          "fechaVisible": "18/11/2025 11:42 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 10:21 a. m.",
+          "fechaVisible": "13/11/2025 10:21 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenos días. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n28218 -- auxiliar: 256\n34620 -- auxiliar: 256\n51403 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/11/2025 08:59 a. m.",
+      "fechaRegistroVisible": "07/11/2025 08:59 a. m.",
+      "id": 5408,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 12:09 p. m.",
+          "fechaVisible": "21/11/2025 12:09 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "07/11/2025 09:36 a. m.",
+          "fechaVisible": "07/11/2025 09:36 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nYa se encuentra atendido este ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/11/2025 09:36 a. m.",
+          "fechaVisible": "07/11/2025 09:36 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Inconsistencia en la transferencia de anteproyectos 2026 a proyectos",
+      "descripcionDetallada": "La Dirección de Planeación Institucional reporta inconsistencias al transferir anteproyectos 2026 a proyectos, en específico con mensajes de error “Error al realizar registro de actividad para proyecto. No se encontró la clave de configuración del avance o no es para actividades.”, sin embargo, de acuerdo a la revisión realizada por dicha Dirección, los anteproyectos si cuentan con la configuración del avance:\n1. Cabecera POA: 000002 Anteproyecto: 0000080\nTiene configuración de avance en la actividad 2\n2. Cabecera POA: 000002 Anteproyecto: 0000095\nNo tiene configuración de avance el resultado 1.1\n3. Cabecera POA: 000002 Anteproyecto: 0000304\nTiene configuración de avece en la actividad 1\n4. Cabecera POA: 000008 Anteproyecto: 0000040\nTiene avance de configuración en actividad 2\nAdicional, se reporta que durante el proceso de transferencia de anteproyectos a proyectos no se pasaron con la marca de es para presupuesto y tuvieron que marcarlos manualmente, por lo que se pide revisar lo correspondiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/10/2025 07:46 p. m.",
+      "fechaRegistroVisible": "27/10/2025 07:46 p. m.",
+      "id": 5339,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 12:50 p. m.",
+          "fechaVisible": "28/10/2025 12:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAdjunto documento de Word con el análisis de los mensajes correspondientes, así mismo les comento que pasaremos la validación del ambiente de calidad al ambiente de producción para que no se pueda registrar un avance de tipo resultado a una actividad como fue el caso, de igual manera para que el usuario avance y no este estado, deberá de desautorizar su anteproyecto y realizar el ajuste en las actividades correspondientes, para volver a autorizar y transferir.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 12:40 p. m.",
+          "fechaVisible": "28/10/2025 12:40 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Solicitud de apoyo para ajustes en Anteproyectos 2026",
+      "descripcionDetallada": "La Dirección de Planeación presenta algunos inconvenientes en la transferencia de anteproyectos 2026 a proyectos, derivado de algunos errores en la captura y omisión en la revisión por parte del área correspondiente.\nPor lo anterior, se requiere de su apoyo con el apoyo de modificar los anteproyectos a fin de que queden con el dato correcto. A continuación, el detalle:\n\n1. Anteproyecto 0000226- cabecera POA: 000001\nSe pide modificar las fechas: de ejercicio presupuestal de anteproyecto, Fechas de asignación, Fecha de inicio programada a 01/01/2026 ya que actualmente tienen la 01/01/2025, también se debe cambiar la fecha final programada a 31/12/2026 ya que actualmente tiene 31/12/2025.\n2. Anteproyecto 0000290- cabecera POA: 000002\nFalta asignar el sub - programa sectorial, se pide asignar el 01 – Educación Pública.\n3. Anteproyecto 0000209- cabecera POA: 000008\nSe pide modificar la fecha final programada a 31/12/2026, ya que actualmente tiene 31/12/0202.\n4. Anteproyecto 0000261 - cabecera POA: 000023\nFalta asignar el sub - programa sectorial, se pide asignar el 01 – Educación Pública.\n5. Anteproyecto 0000734- cabecera POA: 000023\nLa fecha de ejercicio presupuestal de anteproyecto está incorrecta, se pide modificar la fecha a 01/01/2026, ya que actualmente tiene la 01/01/2025.\n6. Anteproyecto 0000744- cabecera POA: 000023\nLa fecha de ejercicio presupuestal de anteproyecto está incorrecta, se pide modificar la fecha a 01/01/2026, ya que actualmente tiene la 01/01/2025.\n7. Anteproyecto 0000759- cabecera POA: 000023\nLa fecha de ejercicio presupuestal de anteproyecto está incorrecta, se pide modificar la fecha a 01/01/2026, ya que actualmente tiene la 01/01/0226.\n\nSe adjunta documento con el detalle e imágenes.\n\nSe agradece la atención de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/10/2025 07:19 p. m.",
+      "fechaRegistroVisible": "27/10/2025 07:19 p. m.",
+      "id": 5338,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\npor parte de la Unidad del SII procedimos a verificar el cambio y posteriormente informamos a la Dirección de Planeación para su revisión, confirmando que los ajustes son correctos de acuerdo a lo solicitado.\nGracias por el apoyo brindado.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 01:17 p. m.",
+          "fechaVisible": "27/11/2025 01:17 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 12:50 p. m.",
+          "fechaVisible": "28/10/2025 12:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe informa que ya se encuentra atendida la solicitud de apoyo de este incidente en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 11:54 a. m.",
+          "fechaVisible": "28/10/2025 11:54 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al autorizar anteproyecto 2026",
+      "descripcionDetallada": "La DPI reporta que al autorizar el anteproyecto 0000066 de la cabecera 22 del ejercicio 2026 el sistema detona un mensaje de que no se puede autorizar porque no tiene requerimientos presupuestales relacionados, sin embargo, el anteproyecto si tiene requerimientos asociados.\nSe adjunta documento con imágenes sustento",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/10/2025 10:52 a. m.",
+      "fechaRegistroVisible": "21/10/2025 10:52 a. m.",
+      "id": 5294,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendida la situación reportada.\nEn caso de que se presente nuevamente, se estará mencionando este incidente como antecedente.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 12:56 p. m.",
+          "fechaVisible": "27/11/2025 12:56 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/10/2025 11:16 a. m.",
+          "fechaVisible": "27/10/2025 11:16 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\neste ticket se encuentra atendido en el ambiente de producción, se derivo a una corrección anterior que no se había contemplado en la corrección dicho proyecto, por lo cual se corrigió la información correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/10/2025 11:15 a. m.",
+          "fechaVisible": "27/10/2025 11:15 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes. Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n13103 -- auxiliar: 253\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/10/2025 01:33 p. m.",
+      "fechaRegistroVisible": "13/10/2025 01:33 p. m.",
+      "id": 5233,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "14/10/2025 09:37 a. m.",
+          "fechaVisible": "14/10/2025 09:37 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "14/10/2025 09:34 a. m.",
+          "fechaVisible": "14/10/2025 09:34 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nLa clasificación 13103 no existe dentro de la base de datos, sin embargo, se consulto con Alan y me comento que es la 12103, por lo cual esta ultima fue la que se atendió con el cambio solicitado.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/10/2025 09:32 a. m.",
+          "fechaVisible": "14/10/2025 09:32 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n34618 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/10/2025 11:37 a. m.",
+      "fechaRegistroVisible": "02/10/2025 11:37 a. m.",
+      "id": 5169,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "02/10/2025 12:24 p. m.",
+          "fechaVisible": "02/10/2025 12:24 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendido en ambiente de producción este ticket.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/10/2025 12:06 p. m.",
+          "fechaVisible": "02/10/2025 12:06 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n49006 -- auxiliar: 256\n49007 -- auxiliar: 256\n49008 -- auxiliar: 256\n49009 -- auxiliar: 256\n49010 -- auxiliar: 256\n49011 -- auxiliar: 256\n33103 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/09/2025 01:02 p. m.",
+      "fechaRegistroVisible": "26/09/2025 01:02 p. m.",
+      "id": 5146,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "02/10/2025 12:24 p. m.",
+          "fechaVisible": "02/10/2025 12:24 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido este ticket en ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:12 p. m.",
+          "fechaVisible": "29/09/2025 12:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n22210 -- auxiliar: 256\n28219 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "17/09/2025 02:07 p. m.",
+      "fechaRegistroVisible": "17/09/2025 02:07 p. m.",
+      "id": 5073,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/09/2025 11:20 a. m.",
+          "fechaVisible": "18/09/2025 11:20 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\n\n\nYa se encuentra atendido en ambiente productivo",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/09/2025 02:21 p. m.",
+          "fechaVisible": "17/09/2025 02:21 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido en ambiente productivo",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "17/09/2025 02:20 p. m.",
+          "fechaVisible": "17/09/2025 02:20 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n47024 -- auxiliar: 256\n47141 -- auxiliar: 256\n47152 -- auxiliar: 256\n47153 -- auxiliar: 256\n47154 -- auxiliar: 256\n47155 -- auxiliar: 256\n47156 -- auxiliar: 256\n47157 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/09/2025 11:39 a. m.",
+      "fechaRegistroVisible": "12/09/2025 11:39 a. m.",
+      "id": 5034,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "buena",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/09/2025 02:11 p. m.",
+          "fechaVisible": "17/09/2025 02:11 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendido el ticket en el ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/09/2025 09:51 a. m.",
+          "fechaVisible": "17/09/2025 09:51 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n22209 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/09/2025 12:08 p. m.",
+      "fechaRegistroVisible": "09/09/2025 12:08 p. m.",
+      "id": 5018,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 05:08 p. m.",
+          "fechaVisible": "11/09/2025 05:08 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 01:12 p. m.",
+          "fechaVisible": "11/09/2025 01:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n22204 -- auxiliar: 256\n22205 -- auxiliar: 256\n22206 -- auxiliar: 256\n22207 -- auxiliar: 256\n24205 -- auxiliar: 256\n47190 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/09/2025 08:52 a. m.",
+      "fechaRegistroVisible": "09/09/2025 08:52 a. m.",
+      "id": 5016,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 12:08 p. m.",
+          "fechaVisible": "09/09/2025 12:08 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 10:17 a. m.",
+          "fechaVisible": "09/09/2025 10:17 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n23147 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/09/2025 12:25 p. m.",
+      "fechaRegistroVisible": "08/09/2025 12:25 p. m.",
+      "id": 5010,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 11:18 a. m.",
+          "fechaVisible": "09/09/2025 11:18 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "08/09/2025 02:48 p. m.",
+          "fechaVisible": "08/09/2025 02:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido lo solicitado en el ticket",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/09/2025 02:47 p. m.",
+          "fechaVisible": "08/09/2025 02:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n33117 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/09/2025 11:16 a. m.",
+      "fechaRegistroVisible": "04/09/2025 11:16 a. m.",
+      "id": 4987,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 11:18 a. m.",
+          "fechaVisible": "09/09/2025 11:18 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 06:16 p. m.",
+          "fechaVisible": "05/09/2025 06:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ambiente de producción el ticket, observo que el auxiliar 1 no lo están llenando desde que dan de alta la clasificación, por lo cual se atendió para este caso, sin embargo, para los próximos solo será atendido el auxiliar 2 que es el que si no se llena desde la plataforma",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:49 p. m.",
+          "fechaVisible": "04/09/2025 12:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n12103 -- auxiliar: 253\n12104 -- auxiliar: 253\n12105 -- auxiliar: 253\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/09/2025 09:50 a. m.",
+      "fechaRegistroVisible": "04/09/2025 09:50 a. m.",
+      "id": 4985,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 11:18 a. m.",
+          "fechaVisible": "09/09/2025 11:18 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 11:09 a. m.",
+          "fechaVisible": "04/09/2025 11:09 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido este ticket en el ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 11:08 a. m.",
+          "fechaVisible": "04/09/2025 11:08 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n22208 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/09/2025 02:14 p. m.",
+      "fechaRegistroVisible": "03/09/2025 02:14 p. m.",
+      "id": 4981,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 11:18 a. m.",
+          "fechaVisible": "09/09/2025 11:18 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:57 a. m.",
+          "fechaVisible": "04/09/2025 12:57 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido el ticket en el ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/09/2025 05:40 p. m.",
+          "fechaVisible": "03/09/2025 05:40 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n28217 -- auxiliar: 256\n54104 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "22/08/2025 12:14 p. m.",
+      "fechaRegistroVisible": "22/08/2025 12:14 p. m.",
+      "id": 4921,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 04:03 p. m.",
+          "fechaVisible": "22/08/2025 04:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe encuentra atendido lo indicado en el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 12:28 p. m.",
+          "fechaVisible": "22/08/2025 12:28 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-DPI_Error al modificar clasificador de anteproyecto sin requerimiento",
+      "descripcionDetallada": "Se requiere cambiar el clasificador sectorial que tiene el anteproyecto 597 de la versión 2 del ejercicio 2026, sin embargo, al momento de intentar realizarlo, el sistema está enviando el mensaje de que existen requerimientos, sin embargo, ya se revisó y el anteproyecto no tiene requerimientos.\nEsta situación ya se había presentado antes y se supone que ya había quedado corregido, pero nuevamente se está presentando.\n \n Por lo anterior, quedamos al pendiente de su atención.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/08/2025 02:27 p. m.",
+      "fechaRegistroVisible": "08/08/2025 02:27 p. m.",
+      "id": 4833,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "11/08/2025 09:55 a. m.",
+          "fechaVisible": "11/08/2025 09:55 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "08/08/2025 06:59 p. m.",
+          "fechaVisible": "08/08/2025 06:59 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe reviso lo reportado por el usuario y se observa lo siguiente:\n\nLos requerimientos presupuestales (001847 y 001898) no fueron eliminados del sistema, fueron cancelados, por lo cual el mensaje es correcto, ya que sigue teniendo la operación ligado un requerimiento presupuestal, por lo cual es importante que los requerimientos sean eliminados y no cancelados, ya que internamente sigue existiendo otra operación relacionada.\n\nSin embargo, se brindo el apoyo correspondiente para que el usuario pueda realizar el cambio del clasificador correspondiente, por lo cual podría intentarlo nuevamente por favor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/08/2025 06:54 p. m.",
+          "fechaVisible": "08/08/2025 06:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buena tarde\nSe adjunta documento para con listado de claves programáticas a las que se requiere la actualización de los auxiliares.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "05/08/2025 06:09 p. m.",
+      "fechaRegistroVisible": "05/08/2025 06:09 p. m.",
+      "id": 4816,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece el apoyo brindado.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "06/08/2025 11:31 a. m.",
+          "fechaVisible": "06/08/2025 11:31 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 06:42 p. m.",
+          "fechaVisible": "05/08/2025 06:42 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendido el ticket en el ambiente de producción, respecto a la asignación del campo slot 2 para las 2 clasificaciones indicadas en el documento de Excel adjunto.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 06:41 p. m.",
+          "fechaVisible": "05/08/2025 06:41 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ - Error al crear requerimiento de ingresos",
+      "descripcionDetallada": "La DPI reporta que una usuaria trata de crear el requerimiento de ingresos para el PbR 388 de la cabecera 000002, en el cual para el clasificador de ingresos 5-PGD de ingresos tiene 99, sin embargo, al guardar le indica un mensaje de error que no se puede guardar la clasificación 12, sin embargo, la 12 está relacionada en el clasificador de Egresos 8-PGD .\n\nSe adjunta documento con el sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/07/2025 04:48 p. m.",
+      "fechaRegistroVisible": "03/07/2025 04:48 p. m.",
+      "id": 4594,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 02:54 p. m.",
+          "fechaVisible": "04/08/2025 02:54 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 06:59 p. m.",
+          "fechaVisible": "03/07/2025 06:59 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe llevo acabo la revisión de lo reportado, se adjunta documento de Word con lo validado y el apoyo para que personal de la USIIU pueda por favor verificar la captura con el usuario.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 06:57 p. m.",
+          "fechaVisible": "03/07/2025 06:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n17798-- auxiliar: 254\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/06/2025 02:54 p. m.",
+      "fechaRegistroVisible": "23/06/2025 02:54 p. m.",
+      "id": 4530,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "26/06/2025 10:44 a. m.",
+          "fechaVisible": "26/06/2025 10:44 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 10:44 a. m.",
+          "fechaVisible": "24/06/2025 10:44 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido en el ambiente de producción el apoyo solicitado",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 10:38 a. m.",
+          "fechaVisible": "24/06/2025 10:38 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n18814-- auxiliar: 254\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/06/2025 02:47 p. m.",
+      "fechaRegistroVisible": "23/06/2025 02:47 p. m.",
+      "id": 4529,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "26/06/2025 10:45 a. m.",
+          "fechaVisible": "26/06/2025 10:45 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 10:44 a. m.",
+          "fechaVisible": "24/06/2025 10:44 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe manda a finalización a petición del personal de UV",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 10:42 a. m.",
+          "fechaVisible": "24/06/2025 10:42 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en el despliegue de objetivos - Requerimeinto 2026",
+      "descripcionDetallada": "Se reporta una situación que se está presentando al intentar realizar un requerimiento del anteproyecto 0000238, de la cabecera 000023 del ejercicio 2026 , pues los objetivos que se muestran no corresponden a los capturados en el anteproyecto (ver descripciones).\nSe adjunta documento con el sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/06/2025 10:05 a. m.",
+      "fechaRegistroVisible": "23/06/2025 10:05 a. m.",
+      "id": 4525,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buenos",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 08:14 a. m.",
+          "fechaVisible": "05/08/2025 08:14 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 03:09 p. m.",
+          "fechaVisible": "24/06/2025 03:09 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPara la atención de este ticket y por la urgencia que presenta la Universidad con y para el usuario, se comparte la liga de descarga, donde se encuentra la versión de SIRECliente con la que deberá de operar el personal para poder continuar de manera correcta con su registro, el problema fue derivado a que el usuario registro dos anteproyectos uno de tipo ambos y otro de egresos con el mismo clasificador proceso/proyecto, esto no se había presentado con anterioridad, dado que siempre capturan uno de egresos y otro de ingresos por separado, de tal forma que al ser uno de tipo ambos y otro de egresos (ya contenido en el de tipo ambos) el sistema muestra los registros del primer anteproyecto (ambos) y no del de egresos.\n\nLos registros mencionados son los siguientes:\n\nClave de anteproyecto 0000046 ubicado en el apartado 000008 y anteproyecto 0000238 en el apartado 000023, el primero es el del tipo ambos, teniendo el clasificador 1411841102E00101 en común.\n\n\n\n\nhttps://drive.google.com/drive/folders/1wXav3b8YJipcm74nW4rIHdK7J25Vr6oX?usp=sharing",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 03:01 p. m.",
+          "fechaVisible": "24/06/2025 03:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "El personal de ingeniería se encuentra revisando lo reportado el día de hoy, una vez tengamos la atención de este ticket, se estará dando retroalimentación para que puedan continuar con su proceso",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 08:08 p. m.",
+          "fechaVisible": "23/06/2025 08:08 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n17797-- auxiliar: 254\n18813 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "18/06/2025 01:59 p. m.",
+      "fechaRegistroVisible": "18/06/2025 01:59 p. m.",
+      "id": 4507,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "26/06/2025 10:45 a. m.",
+          "fechaVisible": "26/06/2025 10:45 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 02:45 p. m.",
+          "fechaVisible": "18/06/2025 02:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido este ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 02:44 p. m.",
+          "fechaVisible": "18/06/2025 02:44 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n18810 -- auxiliar: 256\n18812 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "16/06/2025 02:29 p. m.",
+      "fechaRegistroVisible": "16/06/2025 02:29 p. m.",
+      "id": 4493,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 09:40 a. m.",
+          "fechaVisible": "17/06/2025 09:40 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl ticket ya se encuentra atendido en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/06/2025 07:18 p. m.",
+          "fechaVisible": "16/06/2025 07:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n18811 -- auxiliar: 256\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/06/2025 02:35 p. m.",
+      "fechaRegistroVisible": "13/06/2025 02:35 p. m.",
+      "id": 4487,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 09:40 a. m.",
+          "fechaVisible": "17/06/2025 09:40 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl ticket ya se encuentra atendido en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/06/2025 07:20 p. m.",
+          "fechaVisible": "16/06/2025 07:20 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos con el auxiliar que se indica:\n\n18809 -- auxiliar: 256\n19100 -- auxiliar: 253\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "11/06/2025 01:02 p. m.",
+      "fechaRegistroVisible": "11/06/2025 01:02 p. m.",
+      "id": 4475,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 02:13 p. m.",
+          "fechaVisible": "12/06/2025 02:13 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 11:05 a. m.",
+          "fechaVisible": "12/06/2025 11:05 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nTe comento que ya se encuentra atendida la petición dentro del ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 10:48 a. m.",
+          "fechaVisible": "12/06/2025 10:48 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los siguientes clasificadores programáticos le puedan actualizar el auxiliar 2, con el dato \"256\",\n\nClasificadores:\n18206\n18608\n33316\n34597\n47056\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/05/2025 01:30 p. m.",
+      "fechaRegistroVisible": "19/05/2025 01:30 p. m.",
+      "id": 4344,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se ha revisado y es correcto.\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "23/05/2025 10:50 a. m.",
+          "fechaVisible": "23/05/2025 10:50 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 02:41 p. m.",
+          "fechaVisible": "19/05/2025 02:41 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido lo indicado en el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 02:40 p. m.",
+          "fechaVisible": "19/05/2025 02:40 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Situación en listado proyectos no funciona botón consultar registros “anteriores”",
+      "descripcionDetallada": "Este incidente se resube, originalmente se había registrado en la plataforma anterior con el folio 41409, sin embargo, la situación se sigue presentando.\n\nDerivado de la sugerencia por parte del proveedor para eliminar la seguridad que permite en todos los módulos consultar “99999” registros, con el fin de evitar el consumo de CPU y que esto a su vez afecte otros procesos que se estén ejecutando; se tiene el siguiente inconveniente tanto en Productivo como en Calidad,\nEn el listado de proyecto, al entrar de primera muestra 500 registros, y al darle al botón “Anteriores” no está realizando ninguna acción, lo correcto, al igual que en otros listados, es que vaya sumando de 500 en 500, sin embargo, no hace nada.\n \nAl darle al botón “Anteriores”\n \nSigue mostrando los mismos 500 registros\n \n\nEl módulo de ingresos, por ejemplo, si muestra los registros correctamente:",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/05/2025 09:42 a. m.",
+      "fechaRegistroVisible": "12/05/2025 09:42 a. m.",
+      "id": 4280,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "26/06/2025 02:23 p. m.",
+          "fechaVisible": "26/06/2025 02:23 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "12/05/2025 07:03 p. m.",
+          "fechaVisible": "12/05/2025 07:03 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEs importante que el área de proyectos actualice su cliente por favor, así como el área del USIIU dado que el ultimo cliente que se puso en la liga de producción tiene mejoras de presupuestos y lo de proyectos en la navegación por favor.\n\nEn calidad aun no se pone la mejora correspondiente, se notificará al Mtro. Rafa en cuanto se haga la actualización de calidad que será la misma que nos sirva para desplegar producción en su totalidad (tema que ya no lo mencionaron e informaremos la fecha una vez tengamos listo lo correspondiente y acordado con el Mtro. Rafa).\n\nSi no se actualiza el cliente, no observarán la atención a lo reportado con anterioridad que era lo de avanzar y retroceder registros\n\nLiga donde se encuentra el cliente:\n\nhttps://drive.google.com/drive/folders/1wXav3b8YJipcm74nW4rIHdK7J25Vr6oX?usp=sharing",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/05/2025 06:59 p. m.",
+          "fechaVisible": "12/05/2025 06:59 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en despliegue de actividades en anteproyecto",
+      "descripcionDetallada": "LA DPI reporta que en las actividades que se muestran dentro de la pestaña 2 - Justificación y Beneficios, se están mostrando más registros de actividades que las que tiene relacionada el anteproyecto.\nSe adjunta documento con el sustento, ejemplificando con algunos anteproyectos, sin embargo, la inconsistencia se muestra en la totalidad de anteproyectos, es decir, es general.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/05/2025 06:05 p. m.",
+      "fechaRegistroVisible": "09/05/2025 06:05 p. m.",
+      "id": 4275,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 13,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 13,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 04:37 p. m.",
+          "fechaVisible": "04/08/2025 04:37 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 12,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 11:03 a. m.",
+          "fechaVisible": "24/06/2025 11:03 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Enterado, muchas gracias, se manda a finalizar este ticket",
+          "consecutivo": 11,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 08:05 p. m.",
+          "fechaVisible": "23/06/2025 08:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a su última respuesta, se reviso en productivo y esta correcto\n\nSaludos Cordiales",
+          "consecutivo": 10,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 01:51 p. m.",
+          "fechaVisible": "23/06/2025 01:51 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:15 p. m.",
+          "fechaVisible": "17/06/2025 02:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "El día de hoy 17 de junio se realizará la actualización en productivo, favor de no regresar el incidente a menos que tengan alguna observación posterior a la validación de la corrección del hallazgo en ambiente productivo",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:13 p. m.",
+          "fechaVisible": "17/06/2025 02:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Josue\n\nGracias, nos mantenemos al pendiente nos indiquen cuando esté actualizado en productivo.\n\nSaludos.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/05/2025 09:06 a. m.",
+          "fechaVisible": "23/05/2025 09:06 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe les informará la entrega de la corrección de este incidente una vez se encuentre actualizado el ambiente de producción, para ello nos organizaremos con el Mtro. Rafa",
+          "consecutivo": 6,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "22/05/2025 10:05 p. m.",
+          "fechaVisible": "22/05/2025 10:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nGracias por la aclaración que nos comparten, el personal de ingeniería se encuentra atendiendo este problema, el día de mañana viernes 16/05/2025 les informare la atención y actualización de este mismo",
+          "consecutivo": 5,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "15/05/2025 08:43 p. m.",
+          "fechaVisible": "15/05/2025 08:43 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "También, es importante mencionar que las imágenes que nos proporcionan, en el apartado de justificación y beneficios ustedes están en la pestaña de resultados y lo que nosotros reportamos es en la pestaña actividades.\n\nQuedamos al pendiente.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/05/2025 11:51 a. m.",
+          "fechaVisible": "14/05/2025 11:51 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día\n\nLa pantalla mostrada fue con el cliente actual, se bajó la última versión y se despliega de la manera que se documentó.\n\nAdjunto pantalla del día de hoy, con la cuenta caquiroz y se descargó la última versión.\n\nSe requiere atención.\n\nQuedamos al pendiente.,",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/05/2025 11:41 a. m.",
+          "fechaVisible": "14/05/2025 11:41 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 08:57 p. m.",
+          "fechaVisible": "13/05/2025 08:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe reviso lo reportado, sin embargo, con el cliente del día 05/05/2025 no se observa lo reportado, pediría por favor que el usuario actualice su cliente, se adjunta documento de word con imagenes susntento.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 08:54 p. m.",
+          "fechaVisible": "13/05/2025 08:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ- Respecto a la captura del auxiliar 2 en el Clasif Programático",
+      "descripcionDetallada": "Por petición del proveedor, se vuelve a resubir este incidente el cual estaba en la plataforma anterior con el folio 39237.\n\nSe trata de que en el sistema, en el registro del clasificador programático, se tenga el campo referente a la clave auxiliar 2, ya que actualmente en el sistema no se tiene, sin embargo, si se tiene disponible internamente el campo en las tablas, tan es así, que debemos pedirles apoyo para que registren el dato, ya que repito, por sistema no se tiene el campo para capturar el auxiliar 2, el cual sí es necesario; actualmente se guarda el valor 256 (aunque, éste puede variar dependiendo del clasificador)",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/05/2025 02:45 p. m.",
+      "fechaRegistroVisible": "09/05/2025 02:45 p. m.",
+      "id": 4269,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se verificará con el área, en caso de que estén de acuerdo, se levantaría otro ticket haciendo alusión a éste.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 01:21 p. m.",
+          "fechaVisible": "16/05/2025 01:21 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes. De acuerdo, compartiremos con el área, de momento les estaremos solicitando el apoyo para estas situaciones, como hasta ahora.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 01:19 p. m.",
+          "fechaVisible": "16/05/2025 01:19 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe reviso con David Lima la necesidad presentada a lo cual me informa que sería necesario realizar la cotización de dicho requerimiento, por lo cual es consultar con ustedes si autorizan realizar dicha cotización",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 08:12 p. m.",
+          "fechaVisible": "13/05/2025 08:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes.\nLes pedimos el apoyo para que de favor, a los clasificadores programáticos:\n\n18807 y 18808\n\n le actualicen el auxiliar 2, con el dato \"256\",\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "30/04/2025 04:40 p. m.",
+      "fechaRegistroVisible": "30/04/2025 04:40 p. m.",
+      "id": 4211,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se ha revisado y es correcto.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "23/05/2025 09:07 a. m.",
+          "fechaVisible": "23/05/2025 09:07 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:38 p. m.",
+          "fechaVisible": "30/04/2025 07:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nLes informo que ya se encuentra atendido el ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:33 p. m.",
+          "fechaVisible": "30/04/2025 07:33 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenos días.\nLes pedimos el apoyo para que de favor, a los clasificadores programáticos 18806 le actualicen el auxiliar 2, con el dato \"256\",\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/04/2025 08:57 a. m.",
+      "fechaRegistroVisible": "23/04/2025 08:57 a. m.",
+      "id": 4149,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se ah revisado y es correcto",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "23/05/2025 10:50 a. m.",
+          "fechaVisible": "23/05/2025 10:50 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "23/04/2025 12:59 p. m.",
+          "fechaVisible": "23/04/2025 12:59 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nTe informo que ya se encuentra atendido lo indicado dentro del ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/04/2025 12:57 p. m.",
+          "fechaVisible": "23/04/2025 12:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ-Apoyo para complementar el auxiliar1 y auxiliar 2 de la clave programática en Productivo",
+      "descripcionDetallada": "Buenas tardes Les pedimos el apoyo para que de favor, a los clasificadores programáticos 18607 y 33314, le puedan actualizar el auxiliar 2, con el dato \"256\",\n\nEsto porque recordarán que no se puede hacer directo en el sistema y tampoco se puede por plantilla. quedamos pendientes y gracias.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/04/2025 01:17 p. m.",
+      "fechaRegistroVisible": "03/04/2025 01:17 p. m.",
+      "id": 4032,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se finaliza",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 02:00 p. m.",
+          "fechaVisible": "10/04/2025 02:00 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/04/2025 01:00 a. m.",
+          "fechaVisible": "04/04/2025 01:00 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nTe informo que ya se encuentra atendido en ambiente de producción lo solicitado dentro de este ticket",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/04/2025 12:58 a. m.",
+          "fechaVisible": "04/04/2025 12:58 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

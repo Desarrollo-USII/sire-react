@@ -1,0 +1,50 @@
+- generic: SIRE WBS
+- heading [level=1]
+- generic "Menú": menu
+- generic "INCUV_DCBMI":
+  - generic: I
+- generic "Más": more_horiz
+- list:
+  - generic "Aplicación página de inicio": Inicio
+  - generic: Atención a Clientes
+  - generic: Perfíl del Usuario
+  - text: arrow_drop_down
+- list
+- generic "aplicaciones":
+  - generic: apps
+- generic "Configuración":
+  - generic: settings
+  - text: Configuración
+- text: 
+- main:
+  - heading "Usuarios (1) arrow_drop_down" [level=3]
+  - generic "Acciones": Acciones arrow_drop_down
+  - generic "Reporte": Reporte arrow_drop_down
+  - list:
+    - heading "Esta es la lista de usuarios.":
+      - generic: Esta es la lista de usuarios.
+    - generic "USUARIO DE INCIDENTES DE LA DIRECCIÓN DE CONTROL BIENES MUEBLES E INMUEBLES":
+      - heading "USUARIO DE INCIDENTES DE LA DIRECCIÓN DE CONTROL BIENES MUEBLES E INMUEBLES" [level=3]:
+        - generic: USUARIO DE INCIDENTES DE LA DIRECCIÓN DE CONTROL BIENES MUEBLES E INMUEBLES
+      - img "Fotografía"
+      - paragraph
+      - 'generic "Usuario: INCUV_DCBMI"':
+        - generic: INCUV_DCBMI
+        - generic: Usuario
+      - 'generic "Correo Electrónico: _incidentes_dcbmei@uv.mx"':
+        - generic: _incidentes_dcbmei@uv.mx
+        - generic: Correo Electrónico
+      - 'generic "Nombre del Personal: Clientes"':
+        - generic: Clientes
+        - generic: Nombre del Personal
+      - paragraph
+      - 'generic "Nombre del Proyecto: Póliza de servicio UV 2025"':
+        - generic: Póliza de servicio UV 2025
+        - generic: Nombre del Proyecto
+      - 'generic "Personal del Cliente: Xóchitl Sangabriel Alonso"':
+        - generic: Xóchitl Sangabriel Alonso
+        - generic: Personal del Cliente
+      - 'generic "Distribuidor: N/A"':
+        - generic: N/A
+        - generic: Distribuidor
+      - 'generic "Admon Proyectos Tickets: N/A"': N/A

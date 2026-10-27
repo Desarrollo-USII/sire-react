@@ -1,0 +1,765 @@
+{
+  "metadata": {
+    "sistema": "DRM",
+    "cuenta": "INCUV_DRM",
+    "fechaExtraccion": "2026-10-27",
+    "fechaExtraccionSeguimiento": "2026-10-27",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 15,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 15,
+    "totalSeguimientos": 58,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "ALAGONZALEZ_Detalle al seleccionar un artículo interno en trámites de requisiciones",
+      "descripcionDetallada": "Cuando se está elaborando un trámite de requisición, al momento de capturar el articulo interno en el detalle, cuando se consultan los artículos está mostrando incluso aquellos que se encuentran deshabilitados, esto no es correcto, solo debe mostrar los que se encuentren activos, ya que provoca que los usuarios elijan el articulo incorrecto y por lo tanto el trámite se debe regresar.\nEjemplo en el ambiente de Calidad:\nSe tiene la requisición 42697, y se seleccionará el articulo interno:\nAntes de seleccionar:\n   \nAl desplegar la ayuda, entre las opciones, muestra el artículo: 21520410008, sin embargo, éste se encuentra deshabilitado, por lo tanto, no se debe mostrar como opción para ser escogido en los trámites.\n \nSi consultamos ese artículo en el catálogo:\n \nComo se observa, el articulo está inhabilitado.\nPor lo anterior, pedimos el apoyo para corregir esta situación, debe funcionar similar al módulo de ingresos en el cual, cuando el concepto no está habilitado no permite ser seleccionado y tampoco se muestra en la ventana de ayuda.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "01/10/2026 04:52 p. m.",
+      "fechaRegistroVisible": "1 de Oct, 04:52:43 PM",
+      "id": 7262,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-10-05T17:15:33.910Z",
+          "fechaTexto": "05/10/2026 11:15 a. m.",
+          "fechaVisible": "5 de Oct, 11:15:33 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe adjunta documento de Word con el análisis de lo reportado",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-10-01T23:33:08.220Z",
+          "fechaTexto": "01/10/2026 05:33 p. m.",
+          "fechaVisible": "1 de Oct, 05:33:08 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "ALAGONZALEZ_Duda respecto a realizar comprometido al momento de enviar en algunos trámites",
+      "descripcionDetallada": "Buenas tardes.\n\nActualmente se tienen configurados flujos para darle atención a unos trámites de requisiciones.\nPara ejemplificar la duda usaremos el trámite:\n\n 16001001 - Materiales y útiles de impresión y reproducción.\n\nActualmente, se tiene configurado para que al momento de que se envié el trámite se realice el momento “pre-comprometido”, por ello se tiene la siguiente configuración para que al envío se haga la autorización (que es cuando se detonaría el “pre-comprometido”):\n \nLa duda es, ¿se puede y cuál sería la configuración, para que, al enviar el trámite, en lugar de que se realice el pre-comprometido se haga directamente el Comprometido?\n\nGracias de antemano, quedo atento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "30/09/2026 02:39 p. m.",
+      "fechaRegistroVisible": "30 de Sep, 02:39:02 PM",
+      "id": 7245,
+      "posesion": "Cliente",
+      "prioridad": "Media",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-10-05T17:03:31.727Z",
+          "fechaTexto": "05/10/2026 11:03 a. m.",
+          "fechaVisible": "5 de Oct, 11:03:31 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nLos flujos de operación (tareas y estados) no participan en el tipo de afectación presupuestal y contable que realiza cada módulo, en este caso la requisición de egreso detona el momento pre-comprometido, la solicitud de egreso detona el comprometido. de tal manera que dentro de los flujos de revisión no hay forma de que en una requisición de egreso detone el comprometido.\n\nSI quisieran un comprometido directo sería desde otro módulo, sin embargo, aquí juega el trámite correspondiente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-01T15:44:07.290Z",
+          "fechaTexto": "01/10/2026 09:44 a. m.",
+          "fechaVisible": "1 de Oct, 09:44:07 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nReviso la duda presentada, si tengo alguna pregunta durante la revisión de lo que nos comparten, te consulto.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-09-30T20:41:19.643Z",
+          "fechaTexto": "30/09/2026 02:41 p. m.",
+          "fechaVisible": "30 de Sep, 02:41:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Error al cancelar una solicitud de egreso",
+      "descripcionDetallada": "Buenas tardes.\nSe tiene la necesidad de cambiar un artículo de una requisición debido a que se hizo mal, para ello, el trámite ya estaba hasta el egreso, el cual, sin problema se canceló.\n\nEl folio de requisición es el 44252.\n Se canceló el egreso que estaba relacionado, sin problema.\n   \nSin embargo, al intentar cancelar la solicitud de egreso relacionada (clave 273184) el sistema manda el siguiente mensaje:\n   \nNos llama la atención que parece que está validando disponibilidad financiera, sin embargo, no debería puesto que lo que se quiere hacer es liberar el recurso (cancelar la solicitud de egreso), para con ello poder corregir la requisición y entonces si, volver a generar la solicitud de egreso, etc. pero manda ese mensaje de error.\nPor lo anterior, pedimos el apoyo para que nos indiquen el motivo por el cual no permite cancelar la solicitud de egreso, o en su defecto, si es que está faltando alguna configuración adicional o si está justificado el mensaje de error, es decir, si es que es correcto.\nEsto en productivo\nGracias de antemano,\nQuedo al pendiente",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "10/09/2026 06:31 p. m.",
+      "fechaRegistroVisible": "10 de Sep, 06:31:25 PM",
+      "id": 7134,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-23T17:23:32.183Z",
+          "fechaTexto": "23/09/2026 11:23 a. m.",
+          "fechaVisible": "23 de Sep, 11:23:32 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe adjunta documento con el analisis correspondiente",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-09-11T18:52:52.740Z",
+          "fechaTexto": "11/09/2026 12:52 p. m.",
+          "fechaVisible": "11 de Sep, 12:52:52 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEn un momento adjunto archivo sustento donde explico el motivo del mensaje y el porque no es un problema, me encuentro generando el documento correspondiente",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-09-11T18:37:31.607Z",
+          "fechaTexto": "11/09/2026 12:37 p. m.",
+          "fechaVisible": "11 de Sep, 12:37:31 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "BUeno",
+      "descripcionBreve": "ALAGONZALEZ_Observación con requisición al liberar recursos tras cancelación",
+      "descripcionDetallada": "Buenas tardes.\nSe nos presenta la siguiente situación en dónde al cancelar una requisición, y realizar una nueva, parece ser que no liberó el presupuesto ya que envía mensaje de error por falta de presupuestos, a continuación, detalle:\nPrimero se realizó la requisición 45400, si permitió enviarla y todo correctamente,\n \nSin embargo, se canceló, (estando ya en revisión) debido a que estaba mal un dato:\n \nSe supone que al cancelarse se libera el recurso, se procedió a crear una nueva requisición: con la información correcta, la requisición 46238, sin embargo, arroja mensaje de falta de disponibilidad presupuestal\n \n \nPor lo anterior, quedamos al pendiente de la atención de esta observación para que la requisición cancelada libere el recurso y se pueda enviar el tramite correcto.\nlo anterior se presenta en productivo\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "29/04/2026 04:24 p. m.",
+      "fechaRegistroVisible": "29 de Apr, 04:24:52 PM",
+      "id": 6464,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "BUeno",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-11T19:59:55.577Z",
+          "fechaTexto": "11/09/2026 01:59 p. m.",
+          "fechaVisible": "11 de Sep, 01:59:55 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-04-29T23:14:06.543Z",
+          "fechaTexto": "29/04/2026 05:14 p. m.",
+          "fechaVisible": "29 de Apr, 05:14:06 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa apreciación de la operación es incorrecta, dado que la afectación contable, presupuestal de una requisición de egreso se realiza hasta que se encuentra autorizada la operación, como se observa en la imagen de historial de la operación, la requisición nunca fue autorizada, simplemente, paso de ingresando operación a en espera de autorización, posteriormente dos veces impreso y cancelado, al no estar autorizada la afectación contable-presupuestal no se realiza, por lo cual pueden corroborar la operación que si se da clic en ir a póliza o afectación presupuestal mostrará el mensaje sobre que no se puede ir a la operación porque no esta autorizada por lo que ya no tenga recurso es algo normal, ya que nunca aparto recurso, simplemente otra operación le quito el recurso y cuando la vuelven a capturar se ven banderas rojas.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-29T23:09:46.500Z",
+          "fechaTexto": "29/04/2026 05:09 p. m.",
+          "fechaVisible": "29 de Apr, 05:09:46 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Error al crear solicitud egreso",
+      "descripcionDetallada": "Error al crear solicitud de egreso\nBuenas tardes.\nSe tiene la siguiente situación al querer guardar y enviar una solicitud de egreso,\nEl detalle se tiene con la solicitud de egreso: 271013, ya que al intentar guardarla y enviarla, manda el siguiente mensaje:\n \nSe le da aceptar y manda la siguiente Tabla:\n \nEn la imagen se observa que solo faltarían 1,438.68, sin embargo, tenemos duda, porque en el trámite únicamente está mostrando la bandera roja en un registro, pero considerando el importe disponible que según es de $2,518.3, en realidad la bandera debería mostrarse en más registros, ¿no?\n \nPareciera como si solo estuviera validando el último registro.\nOtra más, el mensaje hace alusión a la disponibilidad financiera, pero en el detalle del trámite, no se muestra nada en la pestaña “Disp. Financiera”, sino que solo se muestra la bandera roja en la Disp. Presupuestal.\n\nPor lo anterior, quedo al pendiente.\nLo anterior en productivo.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "17/04/2026 02:57 p. m.",
+      "fechaRegistroVisible": "17 de Apr, 02:57:56 PM",
+      "id": 6404,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-04-29T16:43:39.907Z",
+          "fechaTexto": "29/04/2026 10:43 a. m.",
+          "fechaVisible": "29 de Apr, 10:43:39 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nSe reviso con el personal de ingeniería lo reportado, donde observamos que hay una diferencia de $3,957.00 entre la requisición vs la solicitud de egreso, en la solicitud aumento el monto, por lo que se necesita un ajuste de pre-comprometido, sin embargo, solo pone el ultimo renglón dado que es la misma clave para todos los renglones, por lo cual hay que ajustar el pre-comprometido, pero como la requisición ocupa disponibilidad financiera, es necesario primero incrementar la disponibilidad financiera y posteriormente el presupuesto pre-comprometido, por lo que primero aumenten la disponibilidad para que sean 3,957 pesos en abril y posterior a ello el pre-comprometido. con ello saltarán el mensaje.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-18T19:24:05.930Z",
+          "fechaTexto": "18/04/2026 01:24 p. m.",
+          "fechaVisible": "18 de Apr, 01:24:05 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al realizar órdenes de pago",
+      "descripcionDetallada": "Buena tarde,\nAl tratar de realizar las órdenes de pago 403141 y 403142 sale el siguiente mensaje:\n\nOrden de pago 403141\n \n\n\n\n\n\nOrden de pago 403142\n \n\n\nCabe hacer la aclaración que, si corresponde a un pedido del año anterior 2025, sin embargo, ya estaba devengado en ese año por lo que solo hacía falta la orden de pago y pago.\n\nAquí la trazabilidad de las operaciones:\n \n\n \n\nQuedo al pendiente de cualquier comentario.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "05/03/2026 05:22 p. m.",
+      "fechaRegistroVisible": "5 de Mar, 05:22:31 PM",
+      "id": 6155,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:52:04.130Z",
+          "fechaTexto": "25/05/2026 09:52 a. m.",
+          "fechaVisible": "25 de May, 09:52:04 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche Alan.\n\nPara realizar el cambio de fecha de programación de una orden de pago, se debe de ocupar la opción \"Modificar fecha de pago orden de pago\" el cual se encuentra desde el listado de ordenes de pago, donde se debe de seleccionar la orden de pago y dar clic en dicha opción y poner la fecha correspondiente de programación de pago. con ello no se modifica el detalle de la orden de pago y realiza validaciones de ejercicio.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-07T02:03:52.337Z",
+          "fechaTexto": "06/03/2026 08:03 p. m.",
+          "fechaVisible": "6 de Mar, 08:03:52 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ - inconsistencia en el detalle de OP_ no se ve el fondo",
+      "descripcionDetallada": "La DRM reporta que detectan que en algunas OP no se muestra el fondo en el detalle, cabe mencionar que las operaciones relacionadas a la OP si traen el fondo.\nSe adjunta documento con el detalle.\nSaludos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "04/03/2026 05:22 p. m.",
+      "fechaRegistroVisible": "4 de Mar, 05:22:29 PM",
+      "id": 6149,
+      "posesion": "Cliente",
+      "prioridad": "Media",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:52:06.947Z",
+          "fechaTexto": "25/05/2026 09:52 a. m.",
+          "fechaVisible": "25 de May, 09:52:06 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Emi.\n\nNo te preocupes, solo dejo claro que actualmente no hay ningún problema dentro del sistema respecto a esto que nos reportaron, por lo que no hay de que preocuparse, se revisaron los datos y todo se encuentra bien, lo otro es que si la cabecera tiene el fondo por ende lo va a tener el detalle, sin embargo, hay operaciones que lo llevan a nivel de desglose presupuestal y es aquí donde cabecera y detalle se quedan vacíos, en este caso las operaciones si cuentan con el valor a detalle.\n\nSi se tiene alguna duda, con gusto me contactas a mi personal para apoyarte",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-04-18T17:56:37.143Z",
+          "fechaTexto": "18/04/2026 11:56 a. m.",
+          "fechaVisible": "18 de Apr, 11:56:37 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue, perdón pero sigue sin quedarme claro, la operación que reportamos no tiene l fondo, en sus operaciones previas si tiene el fondo en el encabezado, tal y como nos dices que debe ser para que se muestre el fondo, sin embargo, no se está mostrando, esa es la observación que reportamos, que a pesar de que tiene el fondo en el encabezado, no se despliega en la operación de orden de pago... ya no pongo las imágenes porque son las mismas que he subido en los archivos word previos.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-03-12T23:52:03.663Z",
+          "fechaTexto": "12/03/2026 05:52 p. m.",
+          "fechaVisible": "12 de Mar, 05:52:03 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEs correcto lo que mencionan, sin embargo, si entran al detalle la operación tiene fondo en el detalle, la tiene en ambos lados, lo cual es correcto y no es algo incorrecto, sin embargo, cuando no lo tienen en el detalle es cuando por ejemplo tiene desglose presupuestal, es un egreso de nómina, entre otras operaciones, actualmente no representa ningún problema dentro de la plataforma",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-03-12T18:51:54.173Z",
+          "fechaTexto": "12/03/2026 12:51 p. m.",
+          "fechaVisible": "12 de Mar, 12:51:54 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, se retroalimenta respecto a la respuesta que nos dieron.\n\nSe adjunta documento.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-03-09T14:56:50.270Z",
+          "fechaTexto": "09/03/2026 08:56 a. m.",
+          "fechaVisible": "9 de Mar, 08:56:50 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe reviso con el personal de ingeniería esta inconsistencia reportada, sin embargo, me dicen que el fondo se visualiza cuando la operación tiene el fondo en cabecera de la operación, mientras que si la tiene en el detalle este no se observa, por lo cual no representa ningún problema operativo, ni que afecte saldos contables o presupuestales más adelante.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-07T01:43:38.180Z",
+          "fechaTexto": "06/03/2026 07:43 p. m.",
+          "fechaVisible": "6 de Mar, 07:43:38 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ - cambio de fecha de vigencia de proveedores tipo adquisiciones a 31/12/2026",
+      "descripcionDetallada": "Buenas tardes.\n\nPor indicaciones de la DRM, se solicita de su apoyo con la finalidad de realizar el cambio de fecha de vigencia de aquellos proveedores que están marcados como \"adquisiciones\" (indistintamente si tienen o no algún otro tipo de proveedor habilitado como: \"otros\", \"contratista\") al día 31 de diciembre de 2026.\n\nAnteriormente ya nos han apoyado con este apoyo, se había solicitado mediante el incidente: 41429.\n\nQuedo al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "20/01/2026 04:19 p. m.",
+      "fechaRegistroVisible": "20 de Jan, 04:19:47 PM",
+      "id": 5865,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-24T16:55:32.837Z",
+          "fechaTexto": "24/01/2026 10:55 a. m.",
+          "fechaVisible": "24 de Jan, 10:55:32 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe informa que ya se encuentra atendida la solicitud de apoyo correspondiente en ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-24T16:54:41.023Z",
+          "fechaTexto": "24/01/2026 10:54 a. m.",
+          "fechaVisible": "24 de Jan, 10:54:41 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_ Error al relacionar egreso",
+      "descripcionDetallada": "Buena tarde, quisiera reportar la orden de pago número 378965, ya que en el detalle al relacionar el número de egreso este muestra en la columna de “resta” la cantidad de 20390.72 pesos:\n \nsin embargo realmente por pagar resta 10,195.36 como lo muestra la siguiente imagen en su egreso:\n \n\nRevise la operación pero no encuentro alguna razón para que muestre un importe diferente.\nQuedo al pendiente de cualquier comentario.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/11/2025 05:40 p. m.",
+      "fechaRegistroVisible": "27/11/2025 05:40 p. m.",
+      "id": 5538,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "02/12/2025 10:50 a. m.",
+          "fechaVisible": "02/12/2025 10:50 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "01/12/2025 06:57 p. m.",
+          "fechaVisible": "01/12/2025 06:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema se derivo a que la operación se realizó antes de una corrección que se libero en producción, el personal de ingeniería reviso si había más operaciones con este problema, a lo cual solo identifico la reportada realizando la atención correspondiente.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "01/12/2025 06:54 p. m.",
+          "fechaVisible": "01/12/2025 06:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, nos informa el área que ya salió correcto el monto, sin embargo, nos queda duda a qué se debió el error, nos pudieran retroalimentar, por favor",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "01/12/2025 08:35 a. m.",
+          "fechaVisible": "01/12/2025 08:35 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 11:10 a. m.",
+          "fechaVisible": "28/11/2025 11:10 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En atención al presente, le informo que su solicitud fue revisada y atendida por el área de Ingeniería. Le solicitamos realizar nuevamente su operación para validar que el proceso se ejecute correctamente.\n\nQuedamos atentos a cualquier comentario adicional.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 10:10 a. m.",
+          "fechaVisible": "28/11/2025 10:10 a. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 06:42 p. m.",
+          "fechaVisible": "27/11/2025 06:42 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - asesoría para realizar transferencia parcial de la solicitud al egreso para devengar solo el monto a cargar",
+      "descripcionDetallada": "La DRM nos comparte la necesidad de realizar pagos por parcialidades, para esto identifica la necesidad de transferir parcialmente la solicitud al egreso y devengar solo esa parte transferida y posteriormente, realizar por parcialidades el resto de importe pendiente por transferir de la solicitud de egreso al egreso.\nSe detecta que actualmente el sistema permite crear egresos por tantos detalles tenga la solicitud, por lo tanto, se pide nos indiquen si el sistema está preparado para realizar la transferencia parcial de la solicitud al egreso (configuración en parámetros iniciales) o nos puedan asesorar en la forma de poder realizar estas parcialidades.\n\nAdicional, también se requiere saber de qué manera liberar los importes del remanente del recurso de las solicitudes de egresos antes de que se cierre el ejercicio, para que los usuarios puedan utilizar el recurso.\n\nSe adjunta correo de la DRM con el detalle de lo comentado.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/10/2025 08:05 p. m.",
+      "fechaRegistroVisible": "27/10/2025 08:05 p. m.",
+      "id": 5340,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:16 p. m.",
+          "fechaVisible": "19/11/2025 08:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En atención a su solicitud, le informo que la única opción disponible actualmente para realizar el proceso consultado se encuentra desde la requisición de egreso.\n\n\nSin embargo, la funcionalidad para ejecutarlo desde la solicitud de egreso hacia el egreso no existe actualmente dentro de la plataforma. Por lo tanto, para implementar dicha opción sería necesario desarrollar un nuevo ajuste, motivo por el cual solicitamos que nos proporcionen una solicitud de cambio a fin de evaluar la viabilidad y alcance del desarrollo correspondiente.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/11/2025 08:37 p. m.",
+          "fechaVisible": "06/11/2025 08:37 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Buen día\n\nSe agradece la retroalimentación compartida, sin embargo, lo que nos indican realiza una transferencia parcial de la requisición a la solicitud de egreso y la DRM lo que requiere pasar importe de manera parcial, es de la solicitud al egreso.\n\nPersonal de UV estuvo explorando el sistema y encontró una opción que se tiene al transferir la solicitud, donde se captura en el campo “Selección” un porcentaje a pasar al egreso, pero, lo que se requiere es pasar en una cantidad específica, por lo que se puntualiza lo siguiente:\n\n1. Se requiere que en el campo “Selección” al transferir la solicitud al egreso, se pueda capturar una cantidad específica a transferir de la solicitud al egreso al egreso.\n\n2. Pudieran indicarnos si el campo “selección” es configurable en los parámetros iniciales, de manera que en lugar de pedir porcentaje se configure a que sea ingresado un importe.\n\n\n3. En caso de que no aplique el punto 1 y 2, indicarnos alguna otra alternativa con la que se pueda atender la necesidad de la DRM para transferir parcialmente el importe de una solicitud al egreso, capturando importes específicos.\n\nSe adjunta documento con el detalle del procedimiento realizado, donde se captura un porcentaje a transferir y se requiere se pueda capturar un importe específico.\n\nNos mantenemos al pendiente.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/11/2025 12:05 p. m.",
+          "fechaVisible": "05/11/2025 12:05 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "En anteción al presente se anexa respuesta. \n\nQuedamos atentos a su comentarios.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "31/10/2025 07:57 p. m.",
+          "fechaVisible": "31/10/2025 07:57 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa DRM comenta lo siguiente:\n\nRespecto al incidente 5340, le comento que respecto al punto 1, donde menciona que hay que pasar la solicitud al módulo de egreso así se ejecuta, la solicitud de atención por parte del proveedor va en función de que necesitamos pasar un monto parcial hacia el egreso debido a que la solicitud de egreso cuenta con un solo renglón de un solo servicio como lo son las solicitudes de parcialidades y esto deberá ser mes con mes.\n\nAhora bien, respecto al punto 2, al no devengarse la totalidad del egreso, la solicitud al proveedor es que podamos liberar el saldo que no se devengó.\n\nSe adjunta correo sustento.\n\nReciban saludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/10/2025 06:08 p. m.",
+          "fechaVisible": "30/10/2025 06:08 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "En atención al presente, le informo que respecto al punto 1 de la solicitud de transferencia parcial, el proceso para realizar los pagos debe efectuarse llevando la solicitud hasta el módulo de egreso y posteriormente realizar el pago parcial mediante órdenes de pago.\nEn su caso, desde la requisición es posible efectuar las transferencias parciales hacia la solicitud de egreso, continuar con su registro en egreso, generar la orden de pago y finalmente proceder con el pago correspondiente.\n\n\nRespecto al punto 2, se confirma que el proceso de descomprometer el presupuesto mediante nota de crédito es el correcto.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/10/2025 05:53 p. m.",
+          "fechaVisible": "29/10/2025 05:53 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "29/10/2025 10:24 a. m.",
+          "fechaVisible": "29/10/2025 10:24 a. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Duda respecto al incidente 5088",
+      "descripcionDetallada": "Buenas tardes Josue, de la última respuesta que nos habían dado de la atención al incidente 5088:\n\n\"El problema se derivo a un problema en actualización de datos posterior a las primeras impresiones, por lo cual quedo atendido\npor el personal de ingeniería esta problemática para que no se vuelva a presentar en caso de que se realicen mas notas de\ncrédito a operaciones de años anteriores.\"\n\n\nDuda, ¿ese problema y corrección, fue de funcionalidad o de datos? y otra duda es, la modificación, se hizo también Calidad?\n\nUna disculpa por ponerlo en otro incidente, pero el original 5088, ya lo había finalizado, y esta duda surgió después.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "29/09/2025 05:12 p. m.",
+      "fechaRegistroVisible": "29/09/2025 05:12 p. m.",
+      "id": 5152,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 12:07 p. m.",
+          "fechaVisible": "21/11/2025 12:07 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 02:02 p. m.",
+          "fechaVisible": "28/10/2025 02:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\n\n\n\nSe derivo a un problema de Datos, en calidad se puso el release correspondiente para que no se presente nuevamente esta problemática, por lo cual en el ambiente de calidad podrían realizar las pruebas correspondientes.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/09/2025 01:57 p. m.",
+          "fechaVisible": "30/09/2025 01:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al imprimir una nota de crédito _ Productivo",
+      "descripcionDetallada": "Buenas tardes,\nSe realizaron notas de crédito, sin embargo al imprimir una, en especifico la 105087 relacionada al egreso 34855 está enviando el siguiente error:\n\n \nNos llama la atención porque es similar a las notas de crédito que se hicieron, y de las cuales no se tuvo ningún problema, cómo la nota de crédito: 105086, 105085.\nEstuvimos revisando, sin embargo, no encontramos cuál pudiera ser el motivo del error, además de que la nota de crédito si se pudo finalizar, el detalle está al querer imprimirla.\n\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/09/2025 01:46 p. m.",
+      "fechaRegistroVisible": "19/09/2025 01:46 p. m.",
+      "id": 5088,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "buena",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "24/09/2025 01:30 p. m.",
+          "fechaVisible": "24/09/2025 01:30 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema se derivo a un problema en actualización de datos posterior a las primeras impresiones, por lo cual quedo atendido por el personal de ingeniería esta problemática para que no se vuelva a presentar en caso de que se realicen más notas de crédito a operaciones de años anteriores.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/09/2025 12:34 p. m.",
+          "fechaVisible": "24/09/2025 12:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nDe este ticket se informo el día de ayer a Alan y Angi que ya se encuentra atendido en producción, en un momento más brindo retro sobre que ocasiono el problema reportado",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "23/09/2025 11:29 a. m.",
+          "fechaVisible": "23/09/2025 11:29 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nSe le informo al área normativa dicha problemática, van a revisar lo correspondiente e informo una vez que me indiquen el resultado de su análisis.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "19/09/2025 03:03 p. m.",
+          "fechaVisible": "19/09/2025 03:03 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al decepcionar una operación de egreso",
+      "descripcionDetallada": "Tenemos la situación de que al tratar de recepcionar la operación del egreso 643598 y solicitud de egreso 219675 sale el siguiente mensaje:\n \n\nCreemos que se debe porque el campo “Recepcionado” tiene 0.00, sin embargo, no sabemos dónde se puede modificar ese valor o si se puede hacer (o es algo que se genera en automático).\nRevisamos la operación en pasos anteriores, pero no encontramos algo que pudiera afectar la recepción.\nPor lo que solicitamos su apoyo para poder continuar con la operación, si es que nos está faltando realizar alguna actividad.\nQuedamos al pendiente.\nEn productivo",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "05/06/2025 09:59 a. m.",
+      "fechaRegistroVisible": "05/06/2025 09:59 a. m.",
+      "id": 4446,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 02:34 p. m.",
+          "fechaVisible": "12/06/2025 02:34 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 03:11 p. m.",
+          "fechaVisible": "10/06/2025 03:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPudieran generar nuevamente la recepción, revisamos con el personal de ingeniería y el mensaje que nos comparten se derivo a un error de dedo que cometió mi compañero cuando lo revisó la primera vez",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 03:05 p. m.",
+          "fechaVisible": "10/06/2025 03:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, Se intento continuar con la operación, sin embargo, sigue enviando error, adjunto el archivo word con las imágenes",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/06/2025 10:58 a. m.",
+          "fechaVisible": "06/06/2025 10:58 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/06/2025 07:02 p. m.",
+          "fechaVisible": "05/06/2025 07:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nCon el apoyo del personal de ingeniería se realizó la revisión del ticket, de tal forma que ya se encuentra atendido en el ambiente de producción para que el usuario pueda continuar con su operación",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/06/2025 06:58 p. m.",
+          "fechaVisible": "05/06/2025 06:58 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al imprimir una requisición",
+      "descripcionDetallada": "Al momento de imprimir una requisición está saliendo el siguiente mensaje:\n \nLa opción que se está seleccionando es:\n \nEsto está provocando que no se envíen bien las requisiciones ya que los usuarios se están saltando el paso de imprimir y provoca que tengan que cancelar.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/05/2025 11:15 a. m.",
+      "fechaRegistroVisible": "27/05/2025 11:15 a. m.",
+      "id": 4400,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "08/08/2025 01:24 p. m.",
+          "fechaVisible": "08/08/2025 01:24 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "03/06/2025 06:28 p. m.",
+          "fechaVisible": "03/06/2025 06:28 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nRevisando los mensajes que nos informan por el chat, se observa lo siguiente:\n\nEl problema se deriva a que existe un reporte que se llama Reporte Requisición DSG v1.0_UV que esta en el formato número 2068, este reporte tiene el mensaje \"Error en script de comprobación de gasto\", se deberá de corregir este reporte para que no se presente de nuevo el mensaje, el reporte fue realizado por el personal de UV, se encuentra el la carpeta de reporteador Dir de Egresos, el que se muestre y no el mensaje de DRM es derivado a que son formatos diferentes pero el otro reporte deja el mensaje pegado en la BD, este reporte se ha ejecutado desde el día de ayer y hoy, es por ello que cuando le solicite a Emi el apoyo para impresión de este formato le salio el reporte bien pero posterior DRM intento imprimir y le salio mensaje de script de comprobación de gastos.\n\nEl reporte fue realizado por el personal de UV, por lo cual sería solicitar al Mtro. Colunga o Lic. Veronica se realice la corrección, pudiendo tomar como base el reporte Requisición ASO V2.2_ALT",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/05/2025 11:54 a. m.",
+          "fechaVisible": "28/05/2025 11:54 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nPor este medio, les comparto, los errores identificados por la DRM que se reportaron en el chat técnica\n\nAdjunto documento Word con errores reportados \n\nSaludos Cordiales",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/05/2025 11:03 a. m.",
+          "fechaVisible": "28/05/2025 11:03 a. m.",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error en orden de pago",
+      "descripcionDetallada": "Reportamos a continuación mensaje de error que se muestra al tratar de autorizar la orden de pago numero 317343\n \nLas operaciones que se han realizado antes de esta orden de pago son las siguientes, en la cual se hace la aclaración que en fecha 25 de abril se canceló una orden de pago por el mismo importe:\n \nEl mensaje dice que se ejercido en Mayo 29,224.47 sin embargo consultando la clave presupuestal muestra la siguiente información en mayo:\n \ny viendo todos los momentos en los últimos meses las operaciones se muestran como se indica a continuación donde se observa que si cuenta con el monto de 616.55 en devengado sin ejercer acumulado:\n \nPor lo anterior, quedamos al pendiente de que nos puedan indicar el motivo del error, ya que como lo indicamos, si se tiene el presupuesto necesario para la operación.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/05/2025 04:21 p. m.",
+      "fechaRegistroVisible": "07/05/2025 04:21 p. m.",
+      "id": 4252,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "se finaliza tras Vo.Bo. del área",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 04:03 p. m.",
+          "fechaVisible": "08/05/2025 04:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 02:49 p. m.",
+          "fechaVisible": "08/05/2025 02:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería realizó la atención del problema reportado en producción, por lo cual podrían realizar nuevamente la autorización de la operación por favor, la cual ya no les mostrará el problema reportado.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 02:48 p. m.",
+          "fechaVisible": "08/05/2025 02:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe le transfirió la problema al personal de ingeniería para que nos apoyen en la revisión correspondiente, el día de mañana les estaré informando el avance de atención de este folio",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 09:23 p. m.",
+          "fechaVisible": "07/05/2025 09:23 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

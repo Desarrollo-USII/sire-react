@@ -1,0 +1,310 @@
+- generic "Retorno": Atencion 2 Clientes
+- heading [level=1]
+- generic "Retorno": arrow_back
+- generic: search
+- generic "INCUV_DCBMI":
+  - generic: I
+- generic "Más": more_horiz
+- list:
+  - generic "Cuadrícula": grid_on
+  - generic "Lista": view_list
+  - generic "Tarjetas": grid_view
+  - generic "Gráficas": insert_chart
+  - generic "Calendario": event
+- generic "aplicaciones":
+  - generic: apps
+- generic "Configuración":
+  - generic: settings
+  - text: Configuración
+- text: expand_less arrow_drop_down more_horiz arrow_drop_down chevron_left chevron_right 
+- main:
+  - heading "Tickets (18) arrow_drop_down" [level=3]
+  - generic "Reporte": Reporte arrow_drop_down
+  - list:
+    - 'heading "Esta es la lista de tickets. Mostrando 18 artículos. # de ticket Fecha de registro Estatus Posesión Descripción breve Descripción detallada Prioridad Evaluación del servicio de atención Comentarios Finales"':
+      - generic: Esta es la lista de tickets. Mostrando 18 artículos.
+      - generic: "# de ticket"
+      - text: arrow_downward
+      - generic: Fecha de registro
+      - generic: Estatus
+      - generic: Posesión
+      - generic: Descripción breve
+      - generic: Descripción detallada
+      - generic: Prioridad
+      - generic: Evaluación del servicio de atención
+      - generic: Comentarios Finales
+    - generic: "7318"
+    - generic "Más": more_horiz
+    - 'generic "Fecha de registro: 14/10/2026 05:48 p. m."': 14 de Oct, 05:48:48 PM
+    - 'generic "Estatus : en Espera de Respuesta"': en Espera de Respuesta
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: FESANTOS-Error al realizar Transferencia de Mercancía Interna"': FESANTOS-Error al realizar Transferencia de Mercancía Interna
+    - 'generic "Descripción detallada: Buenas tardesLa DCBMel nos reporte un error al querer realizar la transferencia de mercancía Interna del área física 5854 a la 5882 del Articulo Interno 51150010033.Por parte de esta unidad, al revisar el articulo interno, identificamos un número negativo (-14) del cual requerimos nos indiquen si es..."':
+      - text: Buenas tardes
+      - text: La DCBMel nos reporte un error al querer realizar la transferencia de mercancía Interna del área física 5854 a la 5882 del Articulo Interno 51150010033.
+      - text: Por parte de esta unidad, al revisar el articulo interno, identificamos un número negativo (-14) del cual requerimos nos indiquen si este es el que esta afectando la transferencia y a que se debe que se presentará dicho negativo.
+      - text: Adjunto documento Word con la imagen del error y con el negativo identificado por esta unidad
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 7264"': "7264"
+    - 'generic "Fecha de registro: 01/10/2026 05:44 p. m."': 1 de Oct, 05:44:24 PM
+    - 'generic "Estatus : en Espera de Respuesta"': en Espera de Respuesta
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: caquiroz - duda sobre la ejecución del Script \"Actualización de estatus físicos de activo\""': caquiroz - duda sobre la ejecución del Script "Actualización de estatus físicos de activo"
+    - 'generic "Descripción detallada: Se requiere saber si el Script \"Actualización de estatus físicos de activo\" ActualizaEstActivFijo3C_Cli, podría ser ejecutado simultáneamente, en virtud de que la ejecución simultánea del script por múltiples usuarios (en promedio 12 personas) provoca fallas en el SPRFM, impidiendo que la actualiza..."':
+      - text: Se requiere saber si el Script "Actualización de estatus físicos de activo" ActualizaEstActivFijo3C_Cli, podría ser ejecutado simultáneamente, en virtud de que la ejecución simultánea del script por múltiples usuarios (en promedio 12 personas) provoca fallas en el SPRFM, impidiendo que la actualización masiva de estados físicos se realice de manera íntegra y confiable.
+      - text: Como consecuencia, un número significativo de registros no se actualiza correctamente, lo que obliga al personal de esta Dirección a efectuar las modificaciones de manera manual.
+      - text: Quedamos al pendiente de su retroalimentación.
+      - text: Saludos.
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 6720"': "6720"
+    - 'generic "Fecha de registro: 18/06/2026 01:15 p. m."': 18 de Jun, 01:15:16 PM
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos_Error al autorizar áreas físicas en Trans mercancía Interna"': fesantos_Error al autorizar áreas físicas en Trans mercancía Interna
+    - 'generic "Descripción detallada: Buenas tardesLa DCBMel, nos reporta que a la usuario C. Marisol Moreno Acevedo (MARISMORENO), se le esta presentando un mensaje de error al intentar Autorizar cambios de áreas físicas dentro del módulo de Transferencia de mercancía Interna.Adjunto documento Word con imágenes del error y mayor detall..."':
+      - text: Buenas tardes
+      - text: La DCBMel, nos reporta que a la usuario C. Marisol Moreno Acevedo (MARISMORENO), se le esta presentando un mensaje de error al intentar Autorizar cambios de áreas físicas dentro del módulo de Transferencia de mercancía Interna.
+      - text: Adjunto documento Word con imágenes del error y mayor detalle
+      - text: Quedamos al pendiente de sus comentarios del porque se presenta dicha situación
+      - text: Gracias de antemano, saludos
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 6645"': "6645"
+    - 'generic "Fecha de registro: 03/06/2026 11:50 a. m."': 3 de Jun, 11:50:54 AM
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos-Diferencia en costo unitario en activo fijo"': fesantos-Diferencia en costo unitario en activo fijo
+    - 'generic "Descripción detallada: Buenas tardes La DCBMel, identificó una diferencia en el módulo de recepción de mercancía en el costo unitario del articulo registrado subsistema contra la CFDI, en el egreso 823264Adjunto correo sustente y correo con el detalle de las pantallas, para que nos apoyen indicándonos a que se debe la dif..."':
+      - text: Buenas tardes
+      - text: La DCBMel, identificó una diferencia en el módulo de recepción de mercancía en el costo unitario del articulo registrado subsistema contra la CFDI, en el egreso 823264
+      - text: Adjunto correo sustente y correo con el detalle de las pantallas, para que nos apoyen indicándonos a que se debe la diferencia identificada y en la atención de la misma
+      - text: Quedamos al pendiente
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "Comentarios Finales: Buenos días Les comento que ya quedo atendida y validada nuestra solicitud de la diferencia de $0.01 en la cuenta de Equipos y Aparatos Audiovisuales. Les agradecemos el apoyo brindado"': Buenos días Les comento que ya quedo atendida y validada nuestra solicitud de la diferencia de $0.01 en la cuenta de Equipos y Aparatos Audiovisuales. Les agradecemos el apoyo brindado
+    - 'generic "# de ticket: 6564"': "6564"
+    - 'generic "Fecha de registro: 19/05/2026 01:37 p. m."': 19 de May, 01:37:25 PM
+    - 'generic "Estatus : en Espera de Respuesta"': en Espera de Respuesta
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos_ Error al realizar reclasificación"': fesantos_ Error al realizar reclasificación
+    - 'generic "Descripción detallada: La Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que al intentar realizar la reclasificación de un bien activo fijo 412214 con dos fondos 410 y 749. Al realizar la reclasificación de los importes del fondo 749 al 410, marco un mensaje de error.Adjunto documento Word con el mensaj..."':
+      - text: La Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que al intentar realizar la reclasificación de un bien activo fijo 412214 con dos fondos 410 y 749.
+      - text: Al realizar la reclasificación de los importes del fondo 749 al 410, marco un mensaje de error.
+      - text: Adjunto documento Word con el mensaje y detalle de lo indicado y correo sustento.
+      - text: Quedamos al pendiente del por que se esta presentando dicha situación y en caso de ser caso nos apoyen con su atención
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 6290"': "6290"
+    - 'generic "Fecha de registro: 26/03/2026 12:29 p. m."': 26 de Mar, 12:29:24 PM
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos-Error en actualización de activos"': fesantos-Error en actualización de activos
+    - 'generic "Descripción detallada: Buenas tardes, La DCBMel, nos reporta lo siguiente:Al realizar actualizaciones en los activos (estados físicos) en algunos casos, el Subsistema envía un mensaje de error. Dicho error, se ha remediado cerrando el catálogo de activo fijo, y entrando de nuevo, posterior a realizar esa acción, el sist..."':
+      - text: Buenas tardes,
+      - text: "La DCBMel, nos reporta lo siguiente:"
+      - text: Al realizar actualizaciones en los activos (estados físicos) en algunos casos, el Subsistema envía un mensaje de error.
+      - text: Dicho error, se ha remediado cerrando el catálogo de activo fijo, y entrando de nuevo, posterior a realizar esa acción, el sistema permite realizar la actualización.
+      - text: Por lo que se requiere el apoyo del saber que ocasiona dicho error o como se puede solucionar
+      - text: Adjunto documento Word con el correo sustento de lo reportado donde se visualiza el mensaje de error
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 5972"': "5972"
+    - 'generic "Fecha de registro: 05/02/2026 09:36 a. m."': 5 de Feb, 09:36:56 AM
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: Saldo negativo en cuanta de deterioro acumulado"': Saldo negativo en cuanta de deterioro acumulado
+    - 'generic "Descripción detallada: Buenos díasLa DCBMel, nos reporta lo siguiente:Identificaron que se generaron saldos negativos en las cuentas de Deterioro acumulado de Bovinos, Ovinos y Equinos, por la duplicidad de registros al cancelar el deterioro acumulado.Se solicita el apoyo en la corrección de los registros duplicados y se..."':
+      - text: Buenos días
+      - text: "La DCBMel, nos reporta lo siguiente:"
+      - text: Identificaron que se generaron saldos negativos en las cuentas de Deterioro acumulado de Bovinos, Ovinos y Equinos, por la duplicidad de registros al cancelar el deterioro acumulado.
+      - text: Se solicita el apoyo en la corrección de los registros duplicados y se corrijan los saldos negativos. Considerando que este ajustes tiene impacto en el cierre del ejercicio 2025, por lo que, es de prioridad alta.
+      - text: Adjunto documento Word con el detalle
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "# de ticket: 5926"': "5926"
+    - 'generic "Fecha de registro: 28/01/2026 02:53 p. m."': 28 de Jan, 02:53:06 PM
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: SIRE"': SIRE
+    - 'generic "Descripción breve: Error en código contable en Activo fijo"': Error en código contable en Activo fijo
+    - 'generic "Descripción detallada: Buenas tardesLa DCBMel, nos reporta lo siguiente:Se identificó un error del bien controlable 067549 en el Código Contable ya que está como Obras en Proceso (123623020000), debiendo ser Muebles de Oficina y Estantería (124114000000).Adjunto documento Word con pantallas de lo mencionado Quedamos al pe..."':
+      - text: Buenas tardes
+      - text: "La DCBMel, nos reporta lo siguiente:"
+      - text: Se identificó un error del bien controlable 067549 en el Código Contable ya que está como Obras en Proceso (123623020000), debiendo ser Muebles de Oficina y Estantería (124114000000).
+      - text: Adjunto documento Word con pantallas de lo mencionado
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "# de ticket: 5910"': "5910"
+    - 'generic "Fecha de registro: 26/01/2026 10:37 a. m."': 26 de Jan, 10:37:06 AM
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: Depreciación de un bien inmueble"': Depreciación de un bien inmueble
+    - 'generic "Descripción detallada: Buenos díasLa DCBMel nos informa lo siguiente:Se presenta un incidente que se refiere a la aplicación de la depreciación de un bien mueble de activo fijo adquirido con dos fondos, que no está aplicando de manera correcta la depreciación ejecutada en el mes de noviembre y diciembre de 2025.Adjunto do..."':
+      - text: Buenos días
+      - text: "La DCBMel nos informa lo siguiente:"
+      - text: Se presenta un incidente que se refiere a la aplicación de la depreciación de un bien mueble de activo fijo adquirido con dos fondos, que no está aplicando de manera correcta la depreciación ejecutada en el mes de noviembre y diciembre de 2025.
+      - text: Adjunto documento, para su atención ya que se requiere su atención para el cierre del ejercicio 2025
+      - text: Quedamos al pendiente
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 5872"': "5872"
+    - 'generic "Fecha de registro: 21/01/2026 02:33 p. m."': 21 de Jan, 02:33:18 PM
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos-Incidente reclasificación de fondos"': fesantos-Incidente reclasificación de fondos
+    - 'generic "Descripción detallada: La DCBMel, nos reporta lo siguiente:De la reclasificación de un bien de activo fijo con dos fondos,; se pretendía realizar la reclasificación de importes del fondo 720 al 410, sin embargo el Subsistema no lo permitió.Se adjunta documento Word con las capturas de pantalla del caso realizado en al amb..."':
+      - text: "La DCBMel, nos reporta lo siguiente:"
+      - text: De la reclasificación de un bien de activo fijo con dos fondos,; se pretendía realizar la reclasificación de importes del fondo 720 al 410, sin embargo el Subsistema no lo permitió.
+      - text: Se adjunta documento Word con las capturas de pantalla del caso realizado en al ambiente Productivo, para que apoyen con la resolución
+      - text: Quedo al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "# de ticket: 5860"': "5860"
+    - 'generic "Fecha de registro: 20/01/2026 09:41 a. m."': 20 de Jan, 09:41:25 AM
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: caquiroz - revisión de funcionamiento del cambio de valor de la UMA"': caquiroz - revisión de funcionamiento del cambio de valor de la UMA
+    - 'generic "Descripción detallada: Buen díaEn relación al cambio anual del valor de la UMA, se requiere de su apoyo para indicarnos si el cambio ya se considerará en las operaciones que se realicen o falta algo más por hacer por parte de ustedes, en virtud de que el año pasado se realizó el cambio del valor de la UMA y al crear egres..."':
+      - text: Buen día
+      - text: En relación al cambio anual del valor de la UMA, se requiere de su apoyo para indicarnos si el cambio ya se considerará en las operaciones que se realicen o falta algo más por hacer por parte de ustedes, en virtud de que el año pasado se realizó el cambio del valor de la UMA y al crear egresos no se contemplaba el nuevo valor, esto fue reportado en el incidente 42445 (plataforma anterior) y ustedes tuvieron que realizar algo internamente a fin de que ya se considerara el valor actual.
+      - text: Nos mantenemos al pendiente, adjunto pantalla de incidente 42445 de antecedente.
+      - text: Saludos.
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 5596"': "5596"
+    - 'generic "Fecha de registro: 08/12/2025 02:06 p. m."': 08/12/2025 02:06 p. m.
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: caquiroz - seguimiento de solicitud de cancelación de depreciación"': caquiroz - seguimiento de solicitud de cancelación de depreciación
+    - 'generic "Descripción detallada: Buenas tardesEl día 4 de diciembre, el Ing. David Lima comunicó vía telefónica a la Lic. Angélica Báez que el departamento de Normatividad le informó que detectaron que en algunos casos de la depreciación del mes de noviembre del 2025 existen diferencias en decimales en los activos que llegaron al 1..."':
+      - text: Buenas tardes
+      - text: El día 4 de diciembre, el Ing. David Lima comunicó vía telefónica a la Lic. Angélica Báez que el departamento de Normatividad le informó que detectaron que en algunos casos de la depreciación del mes de noviembre del 2025 existen diferencias en decimales en los activos que llegaron al 100% de la depreciación y que con la finalidad de corregir se requería que cancelaran la depreciación para que se pueda correr un script que corrige la problemática, y que posterior se registre nuevamente la depreciación para que quede de forma correcta.
+      - text: Tras estar en comunicación para la atención de lo ya expuesto, se indicó que se requería un correo sustento para realizar la cancelación de la depreciación, para lo cual el Ing. David emitió un correo describiendo la problemática y la necesidad de correr el script para la corrección.
+      - text: Sin embargo, la DCBMEI requiere que se le indique con exactitud los “ajustes” que realizarán en el Subsistema de Planeación, Recursos Financieros y Materiales, toda vez que servirá para analizar el impacto que se tendrá en los Estados Financieros del mes en el cuál se aplique la depreciación y además el mismo será su soporte ante los Entes de Fiscalización, en caso de identificar diferencias en la depreciación.
+      - text: Cabe señalar, que por las fechas del cierre contable del mes de noviembre 2025 y los procesos que se están ejecutando para pago de nóminas, ya no es posible en este momento cancelar la depreciación y se sugiere que el script con el cuál se corrige, sea aplicado en el mes de diciembre y cuando se procese la depreciación del citado mes ya no se presente la diferencia identificada.
+      - text: Por lo anterior, nos mantenemos al pendiente de la retroalimentación que requiere la DCBMEI.
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 5375"': "5375"
+    - 'generic "Fecha de registro: 03/11/2025 12:12 p. m."': 03/11/2025 12:12 p. m.
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos-Reclasificación de Fondos"': fesantos-Reclasificación de Fondos
+    - 'generic "Descripción detallada: Buenos díasDando seguimiento a lo reportado en los folios 37151 y 41383, al realizarse la clonación de productivo a Calidad para que la DCBMel realizará las validaciones correspondientes de lo atendido en productivo, estos identifican lo siguiente: Derivado de la clonación de productivo a Calidad re..."':
+      - text: Buenos días
+      - text: "Dando seguimiento a lo reportado en los folios 37151 y 41383, al realizarse la clonación de productivo a Calidad para que la DCBMel realizará las validaciones correspondientes de lo atendido en productivo, estos identifican lo siguiente:"
+      - text: Derivado de la clonación de productivo a Calidad realizadas por el proveedor, se realizaron diversas pruebas en el SPRFM CALIDAD, mismas que resultaron negativas.
+      - text: Por lo anterior, es conveniente que el proveedor nos explique cómo realizar la configuración correcta del Concepto de reclasificación de fondos y los pasos a seguir para llegar al resultado correcto.
+      - text: Se comparten dos casos requeridos para la reclasificación de fondos, en donde se documentan los pasos realzados, la forma en que se configuró el Concepto de reclasificación de fondos, los resultados incorrectos obtenidos, así como los resultados contables esperados para cada caso.
+      - text: "Caso1: Reclasificación de fondos de bienes con saldo pendiente de depreciar."
+      - text: "Caso 2: Reclasificación de fondos, de bienes completamente depreciados con una última depreciación en el ejercicio actual."
+      - text: Adjunto documentos Word con el detalle de los casos 1 y 2 identificados
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 5328"': "5328"
+    - 'generic "Fecha de registro: 24/10/2025 01:53 p. m."': 24/10/2025 01:53 p. m.
+    - 'generic "Estatus : Solicitud de Finalización"': Solicitud de Finalización
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: caquiroz - Actualización de avalúo"': caquiroz - Actualización de avalúo
+    - 'generic "Descripción detallada: Buenas tardesLa DCBMeI requiere se agregue la opción de tipo \"Vehículos\" en el módulo de actualización de avalúo, puesto que indican que cuando se liberó el sistema la configuración que les fue entregada no cuenta con dicha opción, sin embargo, requieren realizar valuación de bienes vehículos.Asimis..."':
+      - text: Buenas tardes
+      - text: La DCBMeI requiere se agregue la opción de tipo "Vehículos" en el módulo de actualización de avalúo, puesto que indican que cuando se liberó el sistema la configuración que les fue entregada no cuenta con dicha opción, sin embargo, requieren realizar valuación de bienes vehículos.
+      - text: Asimismo, indican que el apartado "Modificación de vida útil" debe mostrarse para el tipo Muebles y el tipo Vehículos.
+      - text: Se adjunta documento con el correo sustento.
+      - text: Quedamos al pendiente.
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "# de ticket: 4916"': "4916"
+    - 'generic "Fecha de registro: 21/08/2025 12:38 p. m."': 21/08/2025 12:38 p. m.
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: Duda usuario edición activo fijo"': Duda usuario edición activo fijo
+    - 'generic "Descripción detallada: Buenos días A solicitud de la Dirección de Bienes, Muebles e Inmuebles, se solicita que nos indiquen que usuario modifico el campo \"SERIE\" del activo 427289Adjunto pantalla de lo solicitado Quedamos al pendiente de sus comentarios Saludos Cordiales"':
+      - text: Buenos días
+      - text: A solicitud de la Dirección de Bienes, Muebles e Inmuebles, se solicita que nos indiquen que usuario modifico el campo "SERIE" del activo 427289
+      - text: Adjunto pantalla de lo solicitado
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "# de ticket: 4473"': "4473"
+    - 'generic "Fecha de registro: 11/06/2025 11:07 a. m."': 11/06/2025 11:07 a. m.
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: fesantos-Error al generar copia de resguardo"': fesantos-Error al generar copia de resguardo
+    - 'generic "Descripción detallada: Buenos días, la Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que no le está permitiendo copiar el resguardo 70656, Favor de revisar, ya que, en otras ocasiones si les ha permitido generar la copia de un resguardo con las mismas condicionesAdjunto imagen del error y quedamos al pe..."':
+      - text: Buenos días, la Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que no le está permitiendo copiar el resguardo 70656, Favor de revisar, ya que, en otras ocasiones si les ha permitido generar la copia de un resguardo con las mismas condiciones
+      - text: Adjunto imagen del error y quedamos al pendiente de su respuesta, comentándoles que es urgente de atención
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "# de ticket: 4454"': "4454"
+    - 'generic "Fecha de registro: 06/06/2025 12:47 p. m."': 06/06/2025 12:47 p. m.
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: caquiroz - error en script actualización de estatus de activo fijo - productivo"': caquiroz - error en script actualización de estatus de activo fijo - productivo
+    - 'generic "Descripción detallada: La DCBMeI nos comparte observaciones relacionadas con el script actualización de estatus de activo fijo en la Utilería de 3 capas en productivo, el cual venía funcionando correctamente, sin embargo, en este periodo está presentando inconsistencias, pues no está actualizando los estatus de no localiz..."':
+      - text: La DCBMeI nos comparte observaciones relacionadas con el script actualización de estatus de activo fijo en la Utilería de 3 capas en productivo, el cual venía funcionando correctamente, sin embargo, en este periodo está presentando inconsistencias, pues no está actualizando los estatus de no localizados.
+      - text: Es importante mencionar que también se verificó en calidad y presenta la misma situación.
+      - text: Se adjunta documento con el detalle, asimismo, se solicita el apoyo para que revisen el script a fin de que se identifique cual puede ser la causa de la inconsistencia presentada.
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+    - 'generic "# de ticket: 4077"': "4077"
+    - 'generic "Fecha de registro: 08/04/2025 11:13 a. m."': 08/04/2025 11:13 a. m.
+    - 'generic "Estatus : Finalizado"': Finalizado
+    - 'generic "Posesión: Cliente"': Cliente
+    - 'generic "Descripción breve: Error en transferencia de mercancía"': Error en transferencia de mercancía
+    - 'generic "Descripción detallada: La Dirección de Bines, Muebles e Inmuebles, nos reporta que al realizar una trasferencia de mercancía interna en la misma unidad responsable, al darle autorizar envía mensaje de error.Adjunto pantalla con el mensaje de errorEl área solicita el apoyo para indicar porque se esta presentando y la corre..."':
+      - text: La Dirección de Bines, Muebles e Inmuebles, nos reporta que al realizar una trasferencia de mercancía interna en la misma unidad responsable, al darle autorizar envía mensaje de error.
+      - text: Adjunto pantalla con el mensaje de error
+      - text: El área solicita el apoyo para indicar porque se esta presentando y la corrección del mismo
+      - text: Quedamos al pendiente de sus comentarios
+      - text: Saludos Cordiales
+    - 'generic "Prioridad : Alta"': Alta
+    - 'generic "Evaluación del servicio de atención: Bueno"': Bueno
+- main:
+  - text: "- search"
+  - generic "Cerrar": close
+  - generic "Pantalla completa": fullscreen
+  - generic "Más": more_horiz
+  - heading "Selección de Ticket de Atención" [level=2]
+  - heading "7318" [level=1]
+  - generic: Por favor revise la información de tickets a continuación. Haga clic en Editar para cambiar este registro, haga clic en Borrar para eliminar el registro, o haga clic en Cancelar/Cerrar para volver a la página anterior.
+  - list:
+    - generic: Nuevo
+    - generic: en Valoración
+    - generic: en Atención
+    - generic: en Espera de Respuesta
+    - generic: Solicitud de Finalización
+    - generic: Finalizado
+  - generic: Tickets
+  - generic: expand_less
+  - generic: Estos son los campos del registro de tickets que se pueden editar.
+  - generic: "# de ticket"
+  - generic: "7318"
+  - generic: Fecha de registro
+  - generic "14/10/2026 05:48 p. m.": 14 de Oct, 05:48:48 PM
+  - generic: Posesión
+  - generic: Cliente
+  - generic: Descripción breve
+  - generic: FESANTOS-Error al realizar Transferencia de Mercancía Interna
+  - generic: Descripción detallada
+  - generic: Buenas tardes La DCBMel nos reporte un error al querer realizar la transferencia de mercancía Interna del área física 5854 a la 5882 del Articulo Interno 51150010033. Por parte de esta unidad, al revisar el articulo interno, identificamos un número negativo (-14) del cual requerimos nos indiquen si este es el que esta afectando la transferencia y a que se debe que se presentará dicho negativo. Adjunto documento Word con la imagen del error y con el negativo identificado por esta unidad Quedamos al pendiente de sus comentarios Saludos Cordiales
+  - generic: Prioridad
+  - text: Alta
+  - generic "Ver": chevron_right
+  - generic: Release
+  - generic: Comentarios Finales
+  - list:
+    - generic: Archivos Adjuntos
+    - generic: Auditoría
+  - generic: Archivos Adjuntos
+  - generic: expand_less
+  - heading "Archivos Adjuntos del Ticket arrow_drop_down" [level=3]
+  - generic: Cargando ...
+  - generic: Cancelar

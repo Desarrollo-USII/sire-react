@@ -1,0 +1,1754 @@
+{
+  "metadata": {
+    "sistema": "CONTABILIDAD",
+    "cuenta": "INCUV_DCONTABILIDAD",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 36,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 36,
+    "totalSeguimientos": 133,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": "Buenas tardes Tras el cambio de servidores, se realizó el envío con éxito. Gracias por el apoyo. Saludos.",
+      "descripcionBreve": "caquiroz - error en transferencia de las plazas",
+      "descripcionDetallada": "El Departamento de Plazas nos indica \"El día de ayer se comenzó con la transferencia de plazas en el SPRFyM módulo de nómina hacia el SPRFyM módulo de finanzas, se inició con la primer transferencia de las plazas de la región Coatzacoalcos de las cuales se generaron los requerimiento correctamente, posteriormente se intentó transferir la plaza faltante 8371 y al llegar a un avance del 55% se quedó congelado el proceso. Se optó por cancelar la transferencia y ya no respondió el sistema durante toda la noche. El día de hoy el sistema seguía sin responder y se reinició el equipo y se intentó por segunda vez la transferencia de dicha plaza que corresponde a la región Coatzacoalcos mostrando el siguiente mensaje \"Registro de proyección utilizado por otro usuario (NomProyC).\nEn paralelo en otra sesión con el usuario ladmorales se ejecutó el proceso de transferencia de una plaza faltante de la región Poza Rica iniciando alrededor de las 17:10 y en este momento se presentó la misma incidencia que con la región Coatzacoalcos, por lo que se pide revisar si el proceso sigue ejecutandose.\nSe adjunta sustento.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/09/2026 06:28 p. m.",
+      "fechaRegistroVisible": "4 de Sep, 06:28:34 PM",
+      "id": 7090,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nInformo que este ticket quedo atendido el día sábado por la tarde, informando a la Lic. Angelica Báez el cambio de servidores correspondientes para que pudieran realizar nuevamente el envió",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-07T18:18:09.437Z",
+          "fechaTexto": "07/09/2026 12:18 p. m.",
+          "fechaVisible": "7 de Sep, 12:18:09 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\nTras el cambio de servidores, se realizó el envío con éxito.\nGracias por el apoyo.\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-07T19:42:48.580Z",
+          "fechaTexto": "07/09/2026 01:42 p. m.",
+          "fechaVisible": "7 de Sep, 01:42:48 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Buenas tardes Confirmo que ya se encuentran correctos los importes en balanza. Saludos.",
+      "descripcionBreve": "caquiroz - Diferencia en los saldos contables de la cuenta 797117000000",
+      "descripcionDetallada": "La Dirección de Contabilidad reporta que en conjunto con la DCBMeI detectan una diferencia en los saldos contables de la cuenta 797117000000 en el fondo 0741, pareciera que la balanza está duplicando el importe de la póliza CO-000000002.\nSe adjunta correo sustento.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/09/2026 01:24 p. m.",
+      "fechaRegistroVisible": "4 de Sep, 01:24:18 PM",
+      "id": 7088,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nInformo que este ticket se encuentra atendido en ambiente de producción, para que por favor puedan corroborarlo, quedo atento a los comentarios correspondientes",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-07T18:19:19.597Z",
+          "fechaTexto": "07/09/2026 12:19 p. m.",
+          "fechaVisible": "7 de Sep, 12:19:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\nConfirmo que ya se encuentran correctos los importes en balanza.\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-07T20:01:17.933Z",
+          "fechaTexto": "07/09/2026 02:01 p. m.",
+          "fechaVisible": "7 de Sep, 02:01:17 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se revisó y ya se encuentran correctas las cifras. Saludos.",
+      "descripcionBreve": "caquiroz - Diferencias de utilerías con la Balanza",
+      "descripcionDetallada": "La Dirección de Contabilidad reporta diferencias entre la información del auxiliar mayor y la generada a través de la utilería de 3 capas.\n\nSe adjunta documento con el correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "18/08/2026 06:19 p. m.",
+      "fechaRegistroVisible": "18 de Aug, 06:19:49 PM",
+      "id": 7021,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día Emi.\n\nEl ticket fue revisado y atendido por mis compañeros de ingeniería por lo que solicito de tu apoyo por favor, para que el personal de contabilidad pueda realizar nuevamente las consultas correspondientes por favor.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-19T16:04:59.987Z",
+          "fechaTexto": "19/08/2026 10:04 a. m.",
+          "fechaVisible": "19 de Aug, 10:04:59 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se revisó y ya se encuentran correctas las cifras.\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-08-19T19:31:15.340Z",
+          "fechaTexto": "19/08/2026 01:31 p. m.",
+          "fechaVisible": "19 de Aug, 01:31:15 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Les comento que al actualizar el aplicativo de utilerías con el link compartido, y al consultar la información reportada ya no se muestra la inconsistencia identificada Les agradecemos el apoyo brindado",
+      "descripcionBreve": "fesantos- Error en la Integración de Obras en proceso",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Contabilidad, nos reporta que se les presento un mensaje de error en la utilería de 3 capas al intentar generar la integración de “Obras en proceso”\n\nEs importante mencionar que se actualizo la utilería con la versión del siguiente link:\nhttps://drive.google.com/drive/folders/1wXav3b8YJipcm74nW4rIHdK7J25Vr6oX?usp=sharing\n\nY se sigue presentando el mismo error, por lo que, solicitamos su apoyo para atender lo indicado\n\nAdjunto correo sustento de lo indicado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/08/2026 12:27 p. m.",
+      "fechaRegistroVisible": "6 de Aug, 12:27:57 PM",
+      "id": 6977,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nRevisamos lo reportado para brindar respuesta",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-06T18:37:48.280Z",
+          "fechaTexto": "06/08/2026 12:37 p. m.",
+          "fechaVisible": "6 de Aug, 12:37:48 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche Fernanda.\n\nUn favor me puedes apoyar con la imagen de la consulta de la balanza de comprobación, dado que esta no se incluye en el documento de Word proporcionado y necesito esa información para poder revisar el mensaje reportado o si me puedes indicar los criterios de búsqueda igual me servirían por favor.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-08-07T01:51:17.257Z",
+          "fechaTexto": "06/08/2026 07:51 p. m.",
+          "fechaVisible": "6 de Aug, 07:51:17 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Josue, buenas tardes\n\nAdjunto documento Word con los parámetros solicitados de la balanza de comprobación\n\nQuedo al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-08-10T18:40:46.060Z",
+          "fechaTexto": "10/08/2026 12:40 p. m.",
+          "fechaVisible": "10 de Aug, 12:40:46 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendido el problema reportado, sin embargo, buscare el tiempo para poder actualizar el servidor de utilería de 3 capas, esto para no afectar en los procesos que realizan, por lo que si no es durante el día de hoy, lo realizaré por la noche (posterior a la salida del personal) por lo que informare por aquí una vez que este actualizado el servidor de utilería de 3 capas",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-12T15:30:03.047Z",
+          "fechaTexto": "12/08/2026 09:30 a. m.",
+          "fechaVisible": "12 de Aug, 09:30:03 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPara la entrega de este ticket, será necesario actualizar el ejecutable de servidor de la utilería de 3 capas, así como el cliente, por lo que el día de hoy por la tarde noche estaré realizando el ajuste en producción, compartiré en este ticket el link de descarga para que puedan descargar el cliente correspondiente.\n\nInformare una vez se encuentre actualizado el ejecutable",
+          "consecutivo": 5,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-13T20:29:01.643Z",
+          "fechaTexto": "13/08/2026 02:29 p. m.",
+          "fechaVisible": "13 de Aug, 02:29:01 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe encuentra atendido este ticket en ambiente de producción, por lo que es necesario actualizar el ejecutable de la utilería, les comparto el link de descarga correspondiente.\n\nhttps://drive.google.com/file/d/1bAVZR5lVLQ16N8IVAytwhnRVMIqm1gg3/view?usp=sharing",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-08-14T05:29:31.450Z",
+          "fechaTexto": "13/08/2026 11:29 p. m.",
+          "fechaVisible": "13 de Aug, 11:29:31 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Les comento que al actualizar el aplicativo de utilerías con el link compartido, y al consultar la información reportada ya no se muestra la inconsistencia identificada\nLes agradecemos el apoyo brindado",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": "2026-08-14T18:21:48.560Z",
+          "fechaTexto": "14/08/2026 12:21 p. m.",
+          "fechaVisible": "14 de Aug, 12:21:48 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Estimado Josue, Le comento que posterior a que la Dirección de Contabilidad actualizará la utilería de 3 capas con la última actualización realizada e informada por Alberto mesa, nos informan que ya no se les presenta el mensaje de error y ya visualizan la información Por lo que, procedemos a finalizar el incidente y les agradecemos el apoyo que siempre nos brindan Saludos Cordiales",
+      "descripcionBreve": "fesantos- Error al generar integración contable",
+      "descripcionDetallada": "La Dirección de Contabilidad, nos reporta que desde ayer han querido generar integraciones contables y muestra un mensaje de error\n\nAdjunto documento sustento, para que nos apoyen atendiendo lo reportado y nos indiquen el por que del error\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/07/2026 04:21 p. m.",
+      "fechaRegistroVisible": "8 de Jul, 04:21:45 PM",
+      "id": 6823,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nRevisando lo reportado no puedo replicar el mensaje que se reporta, esto intentando desde la balanza de comprobación del SIRECliente con ejercicio 2026 las diferentes cuentas y de enero a julio, la integración se muestra sin problema (adjunto documento sustento) sin embargo, solicito el apoyo para saber con que información puedo replicar el mensaje para darle atención, ya que el documento adjunto no lo menciona.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-07-08T23:56:26.207Z",
+          "fechaTexto": "08/07/2026 05:56 p. m.",
+          "fechaVisible": "8 de Jul, 05:56:26 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Estimado Josue,\nLe comento que posterior a que la Dirección de Contabilidad actualizará la utilería de 3 capas con la última actualización realizada e informada por Alberto mesa, nos informan que ya no se les presenta el mensaje de error y ya visualizan la información\n\nPor lo que, procedemos a finalizar el incidente y les agradecemos el apoyo que siempre nos brindan\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-07-09T14:01:03.733Z",
+          "fechaTexto": "09/07/2026 08:01 a. m.",
+          "fechaVisible": "9 de Jul, 08:01:03 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Error imprimir nota de crédito",
+      "descripcionDetallada": "Buenos días\n\nLa Dirección de Contabilidad, nos reporta que al intentar imprimir la nota de Crédito 13069 muestra un mensaje de error.\n\nAdjunto documento Word con el detalle del error, solicitamos el apoyo para atenderlo y que nos indiquen el porque se presenta dicha situación\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "07/07/2026 07:58 a. m.",
+      "fechaRegistroVisible": "7 de Jul, 07:58:04 AM",
+      "id": 6814,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería se encuentra revisando lo reportado junto con el área de normatividad, en un rato más (tomando en cuenta el análisis de revisión y atención) les brindare estatus o respuesta de atención para que el personal de contabilidad pueda culminar el proceso",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-07-07T16:12:39.030Z",
+          "fechaTexto": "07/07/2026 10:12 a. m.",
+          "fechaVisible": "7 de Jul, 10:12:39 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería realizó la revisión de lo reportado por el personal de contabilidad y se ubico lo siguiente:\n\n1.- El egreso 848184 tiene una aplicación el día 25/06/2026 POR 215.38 y el saldo de nota de crédito 14.75, la aplicación de los 215.38 realizó el prorrateo a los 20 renglones del desglose presupuestal del egreso, afectando al renglón 17 que es el que contiene el monto de 15.47 pesos, sin embargo, por el prorrateo quedo con un saldo de 14.75 pesos.\n\n2.- Los 15.47 de la nota, si hubieran podido ser aplicados si antes no se hubiera realizado la aplicación de saldo por 215.38 pesos.\n\nPor lo que ahora existen dos maneras de poder realizar la impresión, mismas que les comparto a continuación:\n\n1.- Borrar la aplicación de nota de crédito, borrar la aplicación de 215.38, aplicar la nota de crédito por los 15.47 pesos y realizar de nuevo la aplicación de los 215.38.\n\n2.- la segunda opción consta de borrar la aplicación de la nota, y el detalle de la nota de crédito con número 139069 de ser 15.47 cambiar el monto a 14.75 para que permita aplicarla (ya que es el saldo real que le queda)",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-07-07T18:33:01.950Z",
+          "fechaTexto": "07/07/2026 12:33 p. m.",
+          "fechaVisible": "7 de Jul, 12:33:01 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Posterior a realizar las indicaciones compartidas, se atendió lo reportado Gracias de antemano",
+      "descripcionBreve": "fesantos-Situación con saldo a favor del contribuyente",
+      "descripcionDetallada": "Buenos días, la Dirección de Contabilidad nos reporta una situación de un saldo a favor del contribuyente 7848, en donde de detecta que la afectación contable del pagado esta cargando el código contable erróneo y no el concepto de Ingreso asociado al renglón\n\nAdjunto documento Word con el detalle\n\nQuedamos al pendiente de sus comentarios para la atención de lo reportado y del por que se presenta dicha situación\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "30/06/2026 09:56 a. m.",
+      "fechaRegistroVisible": "30 de Jun, 09:56:41 AM",
+      "id": 6790,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nRevisamos lo reportado de acuerdo a los documentos adjuntos para brindar la respuesta o atención necesaria.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-06-30T16:03:32.017Z",
+          "fechaTexto": "30/06/2026 10:03 a. m.",
+          "fechaVisible": "30 de Jun, 10:03:32 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe reviso lo reportado por nuestro personal de normatividad, por lo cual agrego al ticket un documento de Word con las indicaciones de nuestro personal.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-07-06T17:44:52.857Z",
+          "fechaTexto": "06/07/2026 11:44 a. m.",
+          "fechaVisible": "6 de Jul, 11:44:52 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-07-06T17:50:20.327Z",
+          "fechaTexto": "06/07/2026 11:50 a. m.",
+          "fechaVisible": "6 de Jul, 11:50:20 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Posterior a realizar las indicaciones compartidas, se atendió lo reportado\nGracias de antemano",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-07-06T19:55:46.120Z",
+          "fechaTexto": "06/07/2026 01:55 p. m.",
+          "fechaVisible": "6 de Jul, 01:55:46 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se encuentra corregida la situación. Saludos.",
+      "descripcionBreve": "caquiroz - inconsistencia en eliminación de póliza de pago",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Contabilidad reporta inconsistencia en la eliminación de póliza de pago, pues se identifican importes en negativos en la cuenta de Retenciones del Régimen Simplificado de Confianza, pues aunque fue eliminado el pago incorrecto de la orden de pago 430622 no fue eliminada la póliza de pago lo que está generando los negativos al tener duplicidad en pólizas de pagos.\nSe adjunta correo sustento con el detalle.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/06/2026 07:35 p. m.",
+      "fechaRegistroVisible": "26 de Jun, 07:35:05 PM",
+      "id": 6778,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\n\nEl inconveniente se derivó de unas configuraciones que fue necesario realizar de manera temporal el día de ayer para poder llevar a cabo el proceso de pago de la nómina. Esta situación fue informada oportunamente por David Lima a la Lic. Angélica Báez.\n\n\nDesde la noche de ayer y durante el transcurso del día de hoy se ha trabajado en revertir dichas configuraciones, por lo que algunos procesos se vieron afectados, incluyendo la información reportada. No obstante, pueden realizar una nueva validación y comprobarán que la información ya se muestra de forma correcta, ya que nuestros procesos concluyeron satisfactoriamente y sin inconvenientes.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-27T20:20:20.150Z",
+          "fechaTexto": "27/06/2026 02:20 p. m.",
+          "fechaVisible": "27 de Jun, 02:20:20 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-27T20:20:45.993Z",
+          "fechaTexto": "27/06/2026 02:20 p. m.",
+          "fechaVisible": "27 de Jun, 02:20:45 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se encuentra corregida la situación.\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-30T00:14:14.667Z",
+          "fechaTexto": "29/06/2026 06:14 p. m.",
+          "fechaVisible": "29 de Jun, 06:14:14 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se realizo la validación contable y es correcta, adicionalmente la operación ya se visualiza en el estado de cuenta del proveedor y en el modulo de retenciones. Saludos.",
+      "descripcionBreve": "caquiroz - no se visualiza la retención 0126",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Contabilidad reporta que no se visualiza en el estado de cuenta del proveedor 0054957 Tesorería de la Federación ni en el módulo de retenciones no pagadas de la clave 0126 Retención por Servicios Profesionales del Régimen Simplificado de Confianza, la retención del egreso 824241.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/05/2026 07:40 p. m.",
+      "fechaRegistroVisible": "20 de May, 07:40:28 PM",
+      "id": 6580,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Emi.\n\nEl personal de ingeniería realizó la atención de este ticket, donde el problema es visual, sin embargo, para que este se vea correcto, es necesario que el usuario por favor, desvalide el egreso y una vez que lo haga lo vuelva a validar, con ello se observará la retención en el egreso y estado de cuenta.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-22T23:40:33.520Z",
+          "fechaTexto": "22/05/2026 05:40 p. m.",
+          "fechaVisible": "22 de May, 05:40:33 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:48:52.353Z",
+          "fechaTexto": "25/05/2026 09:48 a. m.",
+          "fechaVisible": "25 de May, 09:48:52 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Estimado Josue, buenos días \n\nEn seguimiento a la validación realizada con lo indicado, la Dirección de Contabilidad reporta la visualización de un error que se les presenta posterior a realizar los pasos indicados \n\nAdjunto documento Word con los correos sustentos del procedimiento realizado para que nos apoyen con su atención \n\nSaludos Cordilaes",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-05-25T17:50:43.567Z",
+          "fechaTexto": "25/05/2026 11:50 a. m.",
+          "fechaVisible": "25 de May, 11:50:43 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Se realizo la validación contable y es correcta, adicionalmente la operación ya se visualiza en el estado de cuenta del proveedor y en el modulo de retenciones.\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-26T00:29:22.930Z",
+          "fechaTexto": "25/05/2026 06:29 p. m.",
+          "fechaVisible": "25 de May, 06:29:22 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - desempeño del sistema",
+      "descripcionDetallada": "Buen dia\n\nA petición de la Dirección de Contabilidad y derivado de las medidas implementadas: generación de reportes con filtros específicos, evitar la ejecución simultánea de procesos “pesados” y la restricción en el número de movimientos, con el objetivo de no afectar el rendimiento del SPRFM, se solicita su apoyo para que nos proporcionen retroalimentación o, en su caso, el sustento técnico que explique las causas por las cuales se ve afectado el desempeño del sistema.\nLo anterior, en virtud de que dichas medidas han sido señaladas como un factor que impacta la operación diaria, así como el desarrollo de las actividades necesarias para la elaboración de los entregables que deben cumplirse conforme a lo establecido por la Ley.\nEs importante destacar que, en este periodo, diversas áreas ejecutan de manera concurrente procesos esenciales, entre los que se encuentran: la generación de estados financieros, la elaboración de reportes para la cuenta pública, las conciliaciones bancarias, la interconexión con sistemas externos como SAISUV para la gestión de servicios médicos, así como otras actividades operativas de las entidades, por lo que se requiere que el sistema soporte cargas de trabajo simultáneas sin comprometer su desempeño.\nNo obstante, aun cuando se han aplicado las medidas indicadas para mitigar la saturación de los servicios, persisten problemas de lentitud que afectan la continuidad operativa.\nEn este sentido, se considera necesario contar con su retroalimentación detallada que permita identificar las causas y, en su caso, proponer soluciones que aseguren la estabilidad y el rendimiento adecuado del sistema.\n\nSin otro particular, agradezco la atención y quedo al pendiente.\nSaludos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "23/04/2026 09:51 a. m.",
+      "fechaRegistroVisible": "23 de Apr, 09:51:22 AM",
+      "id": 6428,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nRespecto a lo que consulta el área de contabilidad, el problema se deriva a la ejecución de reportes de manera incorrecta, se ha observado que en algunas ocasiones algunos usuarios ejecutan reportes por un rango bastante amplio de información y son reportes pesados a nivel informativo, por ejemplo, que consultan pólizas, presupuesto, y lo hacen por más de una vez, se ha informado que algunas ocasiones los usuarios lo ejecutan 3 o 4 veces con diferencias de minutos, algunas veces otros usuarios ejecutan el mismo reporte, o lo ejecutan con errores en las fechas asignando de ejercicios anteriores o años que no son correctos, lo que ocasiona que los servidores se queden atendiendo esta petición hasta que se informa a la Lic. Angelica Báez y nos autoriza tronar estos procesos, también hace un tiempo David Lima informo los procesos pesados (evitar que se ejecuten durante el día) entre ellos se encuentra la nómina, interconexión del SAISUV y conciliaciones bancarias ya que son operaciones que duran más de 2 horas normalmente, por lo que se recomienda tener cuidado con las ejecuciones de reportes, cuidando que no se ejecuten más de una vez ya sea por el mismo usuario o por diferente usuario, que las fechas sean correctas ya que esto es lo que consume mayor recurso.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-07T18:54:19.190Z",
+          "fechaTexto": "07/05/2026 12:54 p. m.",
+          "fechaVisible": "7 de May, 12:54:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:51:15.553Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:15 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se comprobó que la información de la utilería ya coincide con la balanza de comprobación Les agradecemos el apoyo brindado Saludos Cordiales",
+      "descripcionBreve": "fesantos-Diferencia Balanza de comprobación",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Contabilidad nos reporta lo siguiente:\n\nSe reportan las diferencias entre la información contable y la plasmada en utilerías, solicitando el apoyo a corrección\n\nAdjunto documento Word, con mayor detalle y sustento de lo solicitado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/04/2026 01:08 p. m.",
+      "fechaRegistroVisible": "20 de Apr, 01:08:46 PM",
+      "id": 6414,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería reviso lo correspondiente, por lo que solicito de su apoyo para poder validar de nuevo por favor.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-23T16:19:17.887Z",
+          "fechaTexto": "23/04/2026 10:19 a. m.",
+          "fechaVisible": "23 de Apr, 10:19:17 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se comprobó que la información de la utilería ya coincide con la balanza de comprobación\nLes agradecemos el apoyo brindado\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-04-23T22:08:28.923Z",
+          "fechaTexto": "23/04/2026 04:08 p. m.",
+          "fechaVisible": "23 de Apr, 04:08:28 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se confirma que el área pudo visualizar los importes actualizados. En caso de que se presente nuevamente, se estará mencionando este incidente como antecedente. Saludos.",
+      "descripcionBreve": "caquiroz - balanza de comprobación no se ha actualizado",
+      "descripcionDetallada": "La Dirección de Contabilidad reporta, ayer por la noche, que la balanza de comprobación no está actualizada, estuvieron monitoreando por dos horas y sigue igual.\nAdjunto correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/03/2026 09:16 a. m.",
+      "fechaRegistroVisible": "24 de Mar, 09:16:34 AM",
+      "id": 6271,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Emi.\n\nSe revisó el problema reportado, donde localizamos que se derivo a un cambio de servidor (salto de servidor) dejando unas operaciones pendientes, el servidor tomo de nuevo esas operaciones para liberarlas y contabilizar de acuerdo a lo que se realizó posterior a dicho cambio sin problema alguno.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-25T18:50:27.450Z",
+          "fechaTexto": "25/03/2026 12:50 p. m.",
+          "fechaVisible": "25 de Mar, 12:50:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se confirma que el área pudo visualizar los importes actualizados.\n\nEn caso de que se presente nuevamente, se estará mencionando este incidente como antecedente.\n\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-25T20:45:12.713Z",
+          "fechaTexto": "25/03/2026 02:45 p. m.",
+          "fechaVisible": "25 de Mar, 02:45:12 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Solicitud de apoyo para actividades de cierre del ejercicio 2025",
+      "descripcionDetallada": "Buen día\nA petición de la Dirección de Contabilidad, se informa que el próximo viernes 27 de febrero a partir de las 20:00 horas, las Direcciones de Presupuestos y Contabilidad llevarán a cabo, el traspaso de saldos del ejercicio 2025 al 2026 así como el proceso de cierre de las cuentas contables y presupuestales, como parte de las actividades correspondientes al cierre del ejercicio 2025 en el ambiente productivo de SPRFM.\nPor lo anterior, se solicita de su apoyo para que en caso de presentarse alguna situación que requiera revisión por parte de su equipo, pueda ser atendida de manera oportuna.\nEste requerimiento también ha sido solicitado por la Lic. Angélica Báez, a través de correo electrónico el día de ayer 25 de febrero (se adjunta documento sustento.\nSe agradece de antemano el apoyo que nos puedan brindar.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/02/2026 11:16 a. m.",
+      "fechaRegistroVisible": "26 de Feb, 11:16:14 AM",
+      "id": 6101,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nSe manda a finalización el ticket derivado a que la actividad que se realizó resulto sin ningún contratiempo.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-02T15:13:56.123Z",
+          "fechaTexto": "02/03/2026 09:13 a. m.",
+          "fechaVisible": "2 de Mar, 09:13:56 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\nSe agradece la atención brindada.\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-03T18:01:10.290Z",
+          "fechaTexto": "03/03/2026 12:01 p. m.",
+          "fechaVisible": "3 de Mar, 12:01:10 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Reporte Libro Mayor-Inconsistencias",
+      "descripcionDetallada": "Buenos días\n\nLes reportamos que al intentar generar el reporte de Libro Mayor, este se queda cargando pero nunca genera el reporte.\n\nSe realizaron dos pruebas del periodo Enero Ejercicio 2024 y Diciembre ejercicio 2025 y ninguno se generó\n\nPor lo cual, les solicitamos revisar el porque no se generaron y por favor truncar ambos procesos\n\nAdjunto documento Word con parámetros\n\nSaludos Cordiales",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "20/02/2026 09:38 a. m.",
+      "fechaRegistroVisible": "20 de Feb, 09:38:09 AM",
+      "id": 6068,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe revisó la ejecución del reporte con los criterios que nos indicaron, se observa que en calidad que fue donde se encontraron los procesos ejecutándose mismos que se truncaron, el resultado del reporte son 1,202,958 de registros por lo cual es una cantidad muy grande de información para que sea mostrada en el reporte, es por ello que no culmino la ejecución correspondiente de las 3 veces que fue solicitado el reporte.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-20T17:52:02.287Z",
+          "fechaTexto": "20/02/2026 11:52 a. m.",
+          "fechaVisible": "20 de Feb, 11:52:02 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-04T16:15:49.853Z",
+          "fechaTexto": "04/03/2026 10:15 a. m.",
+          "fechaVisible": "4 de Mar, 10:15:49 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Reporte Libro Diario-Inconsistencia al generarlo",
+      "descripcionDetallada": "Buenas tardes\n\nSe reporta que al intentar generar el reporte Libro Diario en ambiente calidad como en producto, el reporte no se genera, a continuación el detalle:\n\nAmbiente Productivo- Se intento generar con un parámetro de 7 días y en formato Excel y lleva 1 hora cargando y no se genera\n\nAmbiente Calidad- Se intentó generar el reporte por 2 días y llevaba 40 minutos generándose y nunca se genero\n\nDe ambos ambientes se solicito que se truncará el proceso\n\nSolicitamos nos apoyen indicándonos el motivo del por que no se genera el reporte\n\nAdjunto formato Word con los parámetros utilizados para generar el reporte\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "18/02/2026 01:17 p. m.",
+      "fechaRegistroVisible": "18 de Feb, 01:17:57 PM",
+      "id": 6058,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe reviso la información de acuerdo al criterio de fecha 01/12/2025 al 07/12/2025 de todos los tipos de pólizas y de todos los departamentos, siendo un total de 351,708 registros, lo cual serían más de 4000 hojas lo cual, así mismo con estos mismos criterios se reviso del 01/12/2025 al 02/12/2025 y son 93,979 registros, de igual forma solo del 01/12/2025 al 01/12/2025 son un total de 29,965 registros, este es el motivo por el que el reporte no se muestra, dado que los filtros de todos los tipos de pólizas y todos los departamentos afectan en la cantidad de información, recomiendo que se ejecute con filtros de información pequeños o puntuales para que no sea tanta información la que se obtenga.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-18T20:02:33.913Z",
+          "fechaTexto": "18/02/2026 02:02 p. m.",
+          "fechaVisible": "18 de Feb, 02:02:33 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-04T16:15:53.650Z",
+          "fechaTexto": "04/03/2026 10:15 a. m.",
+          "fechaVisible": "4 de Mar, 10:15:53 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Desactualización de la balanza de comprobación - ambiente alterno (pruebas)",
+      "descripcionDetallada": "Buenas tardes.\nLa Dirección de Contabilidad reporta que en el ambiente alterno para el informe del 4to trimestre 2025 (ambiente de pruebas) la balanza de comprobación está desactualizada, ya que no es es consistente con la balanza por fondos ni con el saldo de sus auxiliares.\nAdjunto documento con el correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/01/2026 01:23 p. m.",
+      "fechaRegistroVisible": "27 de Jan, 01:23:13 PM",
+      "id": 5922,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe encuentra atendido lo reportado en el ambiente alterno, el respaldo se genero cuando el agente tenia cosas pendientes por contabilizar, por lo cual se recalculo la información para quitar dicha problemática de la BD.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-28T18:15:28.570Z",
+          "fechaTexto": "28/01/2026 12:15 p. m.",
+          "fechaVisible": "28 de Jan, 12:15:28 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas noches\n\nLa Dirección de Contabilidad, indican que siguen encontrando inconsistencias, indican lo siguiente:\n\n- Con el registro de la póliza PA 00000027, nuevamente se presenta una diferencia entre las dos balanzas por una diferencia de $800.00.\n\n- Los Estados Financieros están considerando la información de la balanza consolidada (al parecer está duplicando el registro).\n\nAdjunto documento correo sustento.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T03:34:31.690Z",
+          "fechaTexto": "28/01/2026 09:34 p. m.",
+          "fechaVisible": "28 de Jan, 09:34:31 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informó el día de hoy a las 10:30 a Angelica sobre la atención de lo reportado el día de ayer por la noche para que pueda ser validado por favor.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T23:14:27.343Z",
+          "fechaTexto": "29/01/2026 05:14 p. m.",
+          "fechaVisible": "29 de Jan, 05:14:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-30T17:53:22.610Z",
+          "fechaTexto": "30/01/2026 11:53 a. m.",
+          "fechaVisible": "30 de Jan, 11:53:22 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "La Dirección de contabilidad indica que ya se visualizan correctos los importes.\nGracias por la atención,",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-30T21:04:34.353Z",
+          "fechaTexto": "30/01/2026 03:04 p. m.",
+          "fechaVisible": "30 de Jan, 03:04:34 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - diferencias entre información contable y la plasmada en utilerías",
+      "descripcionDetallada": "La Dirección de Contabilidad reporta que existen diferencias de utilerías con la Balanza de Comprobación de la cuenta Pagos en Exceso, en los meses octubre, noviembre y diciembre del 2025, por lo que piden la revisión y corrección.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/01/2026 12:43 p. m.",
+      "fechaRegistroVisible": "19 de Jan, 12:43:07 PM",
+      "id": 5850,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 10,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería se encuentra revisando lo reportado, en cuanto tengamos información se las comparto",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-01-20T01:05:38.530Z",
+          "fechaTexto": "19/01/2026 07:05 p. m.",
+          "fechaVisible": "19 de Jan, 07:05:38 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl personal de ingeniería realizó la atención de lo reportado, pido el apoyo para que por favor, puedan validar la información nuevamente, para ello cierren y abran de nuevo los aplicativos para que se actualicen los datos con base en lo atendido",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-20T03:01:48.213Z",
+          "fechaTexto": "19/01/2026 09:01 p. m.",
+          "fechaVisible": "19 de Jan, 09:01:48 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:13:28.697Z",
+          "fechaTexto": "20/01/2026 10:13 a. m.",
+          "fechaVisible": "20 de Jan, 10:13:28 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa Dirección de Contabilidad nos indica que ya ha sido atendida la situación reportada, sin embargo, requieren saber el por qué se detonó lo reportado.\n\nNos mantenemos al pendiente de la retroalimentación, saludos.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-01-20T20:10:10.737Z",
+          "fechaTexto": "20/01/2026 02:10 p. m.",
+          "fechaVisible": "20 de Jan, 02:10:10 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nSe derivo a un retraso en el agente de contabilidad al momento de actualizar por lo que se genero un recalculo de datos por cuenta para asegurar que la información se actualizará de manera correcta.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-01-20T20:38:09.027Z",
+          "fechaTexto": "20/01/2026 02:38 p. m.",
+          "fechaVisible": "20 de Jan, 02:38:09 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe agradece la retroalimentación del por qué se generó, asimismo, pudieran conformarnos si fue atendido de raíz, es decir, se garantiza que ya no se presentará nuevamente o ¿esto no depende de hacer un ajuste en el agente?\n\nQuedo al pendiente.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-01-21T00:10:34.340Z",
+          "fechaTexto": "20/01/2026 06:10 p. m.",
+          "fechaVisible": "20 de Jan, 06:10:34 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido el ticket, se adjunta documento de Word correspondiente",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": "2026-01-21T01:13:14.943Z",
+          "fechaTexto": "20/01/2026 07:13 p. m.",
+          "fechaVisible": "20 de Jan, 07:13:14 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, por error di el seguimiento del folio 5849 en este, una disculpa, contestando puntualmente lo que nos comentan, les informo que la parte del agente ya se encuentra atendido no fue necesario un cambio de servidor",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": "2026-01-21T02:23:58.763Z",
+          "fechaTexto": "20/01/2026 08:23 p. m.",
+          "fechaVisible": "20 de Jan, 08:23:58 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-21T18:12:12.580Z",
+          "fechaTexto": "21/01/2026 12:12 p. m.",
+          "fechaVisible": "21 de Jan, 12:12:12 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\nSe da por atendido, asimismo, en caso de que la situación se presente más adelante, se mencionará este incidente como antecedente.\nSaludos.",
+          "consecutivo": 10,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-26T18:25:03.717Z",
+          "fechaTexto": "26/01/2026 12:25 p. m.",
+          "fechaVisible": "26 de Jan, 12:25:03 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - eliminar negativos de la consulta de disponibilidad financiera",
+      "descripcionDetallada": "Buenas noches\n\nLa Dirección de Contabilidad presenta una situación de saldos negativos en la disponibilidad financiera, en virtud, de que en la apertura del fondo 782 se omitió la marca de \"Afecta disponibilidad financiera\".\nNo obstante, se habían realizado afectaciones antes del marcaje de dicho checkbox las cuales no habían afectado la disponibilidad financiera, por lo que al intentar eliminar y/o cancelar las operaciones para replicarlas nuevamente ya con el marcaje del checkbox en dicho fondo, dichas cancelaciones afectaron la disponibilidad financiera de manera incorrecta generando importes negativos en las columnas \"aumento\" y \"disminución\" y al querer corregir la situación asignando disponibilidad financiera a un CRI en cuanto se elimina esa operación nuevamente la disponibilidad financiera queda en ceros.\nPor lo anterior, solicitamos atentamente el apoyo del proveedor nos asesore en como poder eliminar o en su caso elimine dichos negativos de la consulta de disponibilidad financiera y de esa manera se pueda proceder a replicar las operaciones y que la disponibilidad financiera se mueva correctamente.\nNos mantenemos al pendiente.\nGracias de antemano.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "12/12/2025 07:56 p. m.",
+      "fechaRegistroVisible": "12/12/2025 07:56 p. m.",
+      "id": 5628,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:14:52.947Z",
+          "fechaTexto": "20/01/2026 10:14 a. m.",
+          "fechaVisible": "20 de Jan, 10:14:52 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe brindo la atención de apoyo solicitada en el ticket para que puedan realizar sus operaciones nuevamente, se quitaron los saldos negativos correspondientes posterior a la realización de operaciones sin la marca de disponibilidad financiera en el fondo y la posterior activación de dicha marca, por lo cual se recomienda tener cuidado al hacer sus operaciones nuevamente, realizando la validación de las marcas correspondientes y realizar los movimientos sustento de las operaciones",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/12/2025 03:11 p. m.",
+          "fechaVisible": "13/12/2025 03:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - retraso en la balanza de cifras de comrpobación",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Contabilidad reporta que se ha presentado un retraso en la actualización de la balanza, que si se pudiera deber a algún proceso que se esté corriendo.\nSe adjunta docto con el sustento",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/11/2025 01:19 p. m.",
+      "fechaRegistroVisible": "26/11/2025 01:19 p. m.",
+      "id": 5528,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nSe realizó la configuración y se consultó nuevamente la balanza, obteniendo resultados favorables.\nSe finaliza el seguimiento y en caso de que se presente nuevamente algún detalle relacionado con el tema reportado, se estará considerando este incidente como antecedente.\nGracias.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 12:23 p. m.",
+          "fechaVisible": "28/11/2025 12:23 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 11:08 a. m.",
+          "fechaVisible": "28/11/2025 11:08 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Hola Emi buen tarde.\n\nTe informo que el problema se debe a que no es encuentra completamente configurada la versión presupuestal 2026, hace falta la información del apartado Configuración para afectar contablemente por afectación al presupuesto, donde se indican los códigos contables a afectar por momento presupuestal, cabe señalar que estas afectaciones contables empiezan a hacer validas a partir del presupuesto aprobado, por lo cual es necesario agreguen la información de dicho catálogo y posterior a ello el agente de contabilidad comenzará a recorrer de nuevo las operaciones para contabilidad.\n\nCabe señalar que el retraso que observan es porque hay 2000 operaciones que el agente esta intentando contabilidad, pero al no tener el catálogo configurado, las omite lo que provoca que el recorrido de las operaciones sea lento, una vez que se configure el catálogo no hay que realizar nada más, el agente comenzará poco a poco a contablidar.\n\nLa opción que les falta configurar se encuentra ubicada en la pestaña Contabilidad->Catálogos-> Configuración para afectar contablemente por afectación al presupuesto",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "26/11/2025 05:32 p. m.",
+          "fechaVisible": "26/11/2025 05:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencia entre saldos operativos y contables",
+      "descripcionDetallada": "Buenos días, la Dirección de Contabilidad, nos reporta lo siguiente:\nRequerimos reportar sobre la diferencia entre saldos operativos y contables.\nSe anexan capturas de pantalla (archivo Word)de dos chequeras en las que se observa que el cálculo de saldo presenta una diferencia.\n\nSe solicita el apoyo para la validación de las configuraciones de cálculos de los saldos de la totalidad de las chequeras y su respectiva corrección.\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/10/2025 08:14 a. m.",
+      "fechaRegistroVisible": "09/10/2025 08:14 a. m.",
+      "id": 5211,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Fueron validados los saldos de la chequera contra los Saldos en balanza y no se encontraron diferencias, por lo cual, es correcto lo atendido\nGracias por el apoyo brindado",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 10:07 a. m.",
+          "fechaVisible": "28/10/2025 10:07 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/10/2025 08:27 p. m.",
+          "fechaVisible": "27/10/2025 08:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas noches.\n\nSe informa que ya se encuentra atendido el ticket en ambiente de producción, el problema fue derivado a un calculo incorrecto, sin embargo, se solvento y se recalculo el saldo de la chequera lo que permitió que el saldo se observe correctamente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/10/2025 08:24 p. m.",
+          "fechaVisible": "27/10/2025 08:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Consulta campos obligatorios de Póliza Manual",
+      "descripcionDetallada": "A solicitud de la Dirección de contabilidad, se realiza la siguiente consulta:\nSe requiere consultar que campos se marcan como obligatorios para la captura de una póliza manual, esto debido a que por error se dejo en blanco el campo de U. Resp. y aún así el registro pudo guardarse y generar un número de póliza (Se adjunta imagen), por lo cual nos queda la duda de si ese dato no se contempla como obligatorio o si fue un error del sistema.\n\nAdjunto imagen mencionada y quedamos al pendiente de sus comentarios\n\nSaludos Cordiales\n\nSolicitamos tu valioso apoyo para consultar con el proveedor que campos se marcan como obligatorios para la captura de una póliza manual, esto debido a que por error se dejo en blanco el campo de U. Resp. y aún así el registro pudo guardarse y generar un número de póliza (Se adjunta imagen), por lo cual nos queda la duda de si ese dato no se contempla como obligatorio o si fue un error del sistema",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/10/2025 08:27 a. m.",
+      "fechaRegistroVisible": "06/10/2025 08:27 a. m.",
+      "id": 5185,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo solicitado",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "25/11/2025 10:17 a. m.",
+          "fechaVisible": "25/11/2025 10:17 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 02:01 p. m.",
+          "fechaVisible": "28/10/2025 02:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "De nada",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/10/2025 11:19 a. m.",
+          "fechaVisible": "27/10/2025 11:19 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a la respuesta brindada, le comento que esta información fue solicitada por la Dirección de Contabilidad, \n\nLa información proporcionada se compartirá al área \n\nGracias por el apoyo brindado \n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/10/2025 05:51 p. m.",
+          "fechaVisible": "20/10/2025 05:51 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe indican los campos a contemplar de la póliza, mismo que el área de contabilidad de la UV podrá apoyar más a fondo con las dudas, ya que ellos son los encargados de realizar las pólizas manuales o auxiliar en la elaboración de estas.\n\nCampos para la captura de una póliza manual\n\nTipo de póliza\n\nU.Resp\n\nPóliza\n\nObservación (no es obligatoria, pero sirve como sustento para la revisión de la propia dirección de contabilidad ya que son los que controlas el uso de las pólizas manuales).\n\nCódigo contable de cargo y abono.\n\nClave de departamento contable.\n\nMonto de cargo y abono respectivamente.\n\nFuente de financiamiento\n\nClasificador Administrativo (Lo hereda de la U.Resp de la cabecera de la póliza)\n\nSe recomienda ampliamente consulten con el personal de contabilidad en caso de que el usuario que reporto este ticket sea externo a dicha área (Contabilidad) esto para no generar conflictos o que el área no este enterada de lo que se esta consultando y puedan causar un descuadre contable.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/10/2025 05:38 p. m.",
+          "fechaVisible": "20/10/2025 05:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - descuadre en la cuenta contable de Deudores por Notas de Crédito entre los fondos 131 y 829",
+      "descripcionDetallada": "La Dirección de Contabilidad junto con el Departamento de Prestaciones Sociales identifica un descuadre en la cuenta contable de Deudores por Notas de Crédito entre los fondos 131 y 829.\n\nLa diferencia se origina por la Nota de Crédito 105078 generada al egreso 659022, que realiza un cargo a la cuenta Deudores por Notas de Crédito en el Fondo 131 por un importe de 3,829.35 y en el Fondo 829 por un importe de 2,981.20, sin embargo, dicha Nota de Crédito es aplicada al egreso 674876 generando un abono en el fondo 131 por un importe de 3,829.07 y en el fondo 829 por un importe de $2,981.48, generando el siguiente descuadre.\nSe adjunta cadena de correos que antecede se analiza dicha situación con mayor detalle.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/09/2025 07:45 p. m.",
+      "fechaRegistroVisible": "24/09/2025 07:45 p. m.",
+      "id": 5130,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se confirma que se encuentra corregida la póliza P 000000073 por lo cual se finaliza el seguimiento del incidente.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "30/09/2025 09:09 a. m.",
+          "fechaVisible": "30/09/2025 09:09 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nDe este incidente, se encuentra atendido en el ambiente de producción, fue solventado por el personal de ingeniería, el problema fue al momento de prorratear los centavos, se realizó de manera incorrecta y por ello arrojo esa diferencia,",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:15 p. m.",
+          "fechaVisible": "29/09/2025 12:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de normatividad esta revisando el folio de hallazgo a detalle, esto para ubicar exactamente donde se encuentra el problema y poder atenderlo",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "25/09/2025 12:36 p. m.",
+          "fechaVisible": "25/09/2025 12:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Configuración para disminución de bloqueos en generación y validación de gastos de nómina",
+      "descripcionDetallada": "El día 13 de agosto se recibió un correo donde nos indicaban que en atención a la solicitud de apoyo relacionada con el monitoreo del sistema y la base de datos, se realizó una revisión de los tiempos de validación de nómina, los cuales se ejecutaron sin inconvenientes y dentro de los parámetros normales. Como parte de una mejora identificada en relación con los bloqueos de operaciones durante la validación de egresos de nómina proponen un tipo de póliza específica para los proveedores de la nómina, que dicha configuración contribuirá a disminuir los bloqueos que se presentan durante la generación y validación de gastos de nómina.\nPor lo anterior, la Dirección de Contabilidad comenta que que no tenemos conocimiento de quien realizó las asignaciones de pólizas a un proveedor en específico para los procesos nominales, consideramos que fueron realizados en su momento por el proveedor de subsistema; no obstante, con la finalidad de apoyar con la configuración propuesta para evitar los bloqueos que se señalan, en la que se garantiza que se seguirá generando las afectaciones contables tal como se ejecutan actualmente y sin contra tiempos, no se tendría inconveniente en realizar la asignación de tipo de póliza desde el módulo de catálogos de proveedores, sin embargo, se requiere lo siguiente:\n\n1. Se identifica que, de seguir utilizando la póliza Tipo E, se debería reutilizar los tipos de póliza E2 y E3 ya que de lo contrario la numeración no permitiría la asignación de tipo de póliza a los 8 proveedores de nómina señalados anteriormente, situación que se requiere verificar con el proveedor si existe algún detalle para dichos tipo (E2 y E3) o si de manera operativa se conoce de algún impedimento por parte de algún área, solicitamos que, una vez realizado las asignaciones de tipo de póliza, fuera revisado por el proveedor, con la finalidad de garantizar los procesos de registro y dispersión nominal, previos al procesamiento de algún pago nominal.\n2. Una vez realizado las asignaciones de tipo de póliza, fuera revisado por el proveedor, con la finalidad de garantizar los procesos de registro y dispersión nominal, previos al procesamiento de algún pago nominal.\n\nSe adjunta correo enviado por sIRE y correo respuesta del área",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/08/2025 12:49 p. m.",
+      "fechaRegistroVisible": "20/08/2025 12:49 p. m.",
+      "id": 4906,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo solicitado",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "03/12/2025 12:38 p. m.",
+          "fechaVisible": "03/12/2025 12:38 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/08/2025 11:48 p. m.",
+          "fechaVisible": "28/08/2025 11:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl ajuste sería necesario llevarlo antes de pasar la nómina al gasto como ultima instancia, sin embargo, es recomendable realizarlo antes de comenzar con el proceso nominal.\n\nPor lo cual si lo ven conveniente realizarlo antes del siguiente proceso dado que están en procesos de nómina y deben de culminar en esta semana queda a su disposición, ya que esto no afecta en nada al proceso de la nómina y sabemos que los procesos son pesados por lo que bloquean a algunas operaciones.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/08/2025 02:54 p. m.",
+          "fechaVisible": "25/08/2025 02:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa Dirección de Contabilidad cuestiona lo siguiente, respecto a la configuración de los tipos de póliza:\n\n¿cuándo se considera conveniente y en qué proceso se podrían hacer las asignaciones a cada proveedor genérico de nómina?\n\nNos mantenemos  al pendiente, pues en estos momentos ya se encuentra un proceso nominal, y sería realizarlo para la siguiente QNA.\n\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/08/2025 12:14 p. m.",
+          "fechaVisible": "25/08/2025 12:14 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 01:00 p. m.",
+          "fechaVisible": "21/08/2025 01:00 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nDando respuesta a la duda del departamento de contabilidad, no recomendamos reutilizar los tipos de póliza E2 y E3, lo que pueden realizar es dar de alta los registros del E4 al E9 y posteriormente generar otro tipo de póliza que sea de egresos y asignarle a los demás proveedores, para que de esta forma todos tengan un tipo diferente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 12:56 p. m.",
+          "fechaVisible": "21/08/2025 12:56 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencias en el estado de cuenta del Deudor",
+      "descripcionDetallada": "Buenas tardes\n\nLa Dirección de Contabilidad nos reporta lo siguiente:\nse ha presentado la siguiente situación en el estado de cuenta del deudor:\n\nSe observa que fueron aplicados 3 retenciones (173090, 173091 y 173092) de importe de $100.00 al cargo a deudor de $300.00 (98317), sin embargo, no se visualiza el C. por aplicación de retención del deudor de la retención 173092(marcada en color rosa) por lo cual ésta, muestra incorrectamente un resta -100.00\n\nAdjunto pantalla de lo mencionado (con las marcas de los colores indicados), y se requiere que nos indiquen porque se presenta esta situación y se realice su corrección\n\nQuedamos al pendiente de sus comentarios\n\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/08/2025 01:15 p. m.",
+      "fechaRegistroVisible": "19/08/2025 01:15 p. m.",
+      "id": 4897,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "La Dirección de Contabilidad, nos informa que la información ya se muestra de manera correcta en el estado de cuenta del deudor.\nGracias por el apoyo",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 07:54 a. m.",
+          "fechaVisible": "22/08/2025 07:54 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 01:00 p. m.",
+          "fechaVisible": "21/08/2025 01:00 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema se encuentra solventado en el ambiente de producción, fue atendido con el apoyo del personal de ingeniería el cual fue un problema de visualización dentro del estado de cuenta del proveedor, se revisaron más operaciones para validar que no existiera dicho problema, por lo cual pudieran corroborar que se observe de manera correcta posterior a la corrección realizada.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 12:35 p. m.",
+          "fechaVisible": "21/08/2025 12:35 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, brindando seguimiento a lo indicado, les comparto que el personal de ingeniería se encuentra atendiendo lo reportado",
+          "consecutivo": 3,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 05:46 p. m.",
+          "fechaVisible": "19/08/2025 05:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, brindando seguimiento a lo indicado, les comparto que el personal de ingeniería se encuentra atendiendo lo reportado",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 05:45 p. m.",
+          "fechaVisible": "19/08/2025 05:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl área de normatividad revisará lo reportado por parte del personal de contabilidad respecto al estado de cuenta del deudor, en un rato más les brindo retro",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 02:48 p. m.",
+          "fechaVisible": "19/08/2025 02:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Diferencia de información en Utilería",
+      "descripcionDetallada": "La Dirección de Contabilidad nos reporta lo siguiente:\nSe identifica que la utilería no está mostrando el importe real de las siguientes operaciones en la cuenta de Pagos en Exceso\nAdjunto pantallas de lo mencionado\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/08/2025 12:35 p. m.",
+      "fechaRegistroVisible": "12/08/2025 12:35 p. m.",
+      "id": 4854,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por la retroalimentación, se queda este incidente como antecedente por si se presenta nuevamente la situación reportada.",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "13/08/2025 06:44 p. m.",
+          "fechaVisible": "13/08/2025 06:44 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "13/08/2025 06:32 p. m.",
+          "fechaVisible": "13/08/2025 06:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema se derivo a una unión incorrecta de la consulta de integración, por lo cual el personal de ingeniería realizo la atención correspondiente y se tuvo que actualizar el ejecutable solo de la utilería para su corrección.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/08/2025 06:29 p. m.",
+          "fechaVisible": "13/08/2025 06:29 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nEn seguimiento, les informo que fue atendida la situación reportada, No obstante, se requiere saber por que se ha presentado esta situación, ya que, ha sido de forma recurrente.\n\nAnteriormente, se reporto lo mismo en el incidente 4522\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/08/2025 11:04 a. m.",
+          "fechaVisible": "13/08/2025 11:04 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "12/08/2025 10:23 p. m.",
+          "fechaVisible": "12/08/2025 10:23 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe encuentra atendida la problemática reportada en ambiente de producción, por favor actualizar su ejecutable de utilería, el cual se encuentra en la siguiente liga\n\n\n\n\nhttps://drive.google.com/file/d/1q0PXi8Vpr6uKpdSasFdrstQa4IVXXknC/view?usp=sharing",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/08/2025 07:55 p. m.",
+          "fechaVisible": "12/08/2025 07:55 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en saldos en la integración contable",
+      "descripcionDetallada": "La DC reporta inconsistencias en los saldos en la integración contable en la utilería, los saldos en el libro mayor y en la balanza de comprobación coinciden.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/06/2025 07:48 p. m.",
+      "fechaRegistroVisible": "20/06/2025 07:48 p. m.",
+      "id": 4522,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo solicitado y a solicitud del área se sugiere que se corrija lo reportado desde raíz para que no se vuelva a presentar",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 10:15 a. m.",
+          "fechaVisible": "25/06/2025 10:15 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenos días, \n\nEn seguimiento, la Dirección de Contabilidad me indica que es correcta la información mostrada en utilería, no obstante, el área indica o sugiere que se corrija desde raíz lo reportado para que no se vuelva a presentar esta situación.\n\nSe da por atendido lo solicitado y se finaliza el incidente \n\nSaludos Cordiales",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 10:12 a. m.",
+          "fechaVisible": "25/06/2025 10:12 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra la diferencia del centavo atendida por parte del personal de ingeniería",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 07:35 p. m.",
+          "fechaVisible": "24/06/2025 07:35 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes, \n\nLa Dirección de Contabilidad, nos comenta que validaron la información en productivo y retroalimentan lo siguientes:\n\nSe valido la información presentada en la utilería, la cual se muestra correcta con excepción del mes de enero existe diferencia .01 centavo, corresponde a Marcela Urbano Martinez\n\nAdjunto pantallas con detalle \n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 01:41 p. m.",
+          "fechaVisible": "24/06/2025 01:41 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 11:03 a. m.",
+          "fechaVisible": "24/06/2025 11:03 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\n\n\n\nEl personal de ingeniería llevo a cabo la atención de este ticket de manera directa en el ambiente de producción, por lo que quedo atendido.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 08:07 p. m.",
+          "fechaVisible": "23/06/2025 08:07 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería se encuentra realizando la revisión de lo reportado, para poder realizar la corrección a lo reportado en la integración contable",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 10:11 a. m.",
+          "fechaVisible": "23/06/2025 10:11 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Solicitud de cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Se solicita apoyo para realizar el cambio de forma de pago de transferencia a cheque de los registros que se muestran en el documento adjunto.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "17/06/2025 06:12 p. m.",
+      "fechaRegistroVisible": "17/06/2025 06:12 p. m.",
+      "id": 4501,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se validó la información y es correcta.\nGracias por el apoyo.\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "20/06/2025 11:51 a. m.",
+          "fechaVisible": "20/06/2025 11:51 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 05:27 p. m.",
+          "fechaVisible": "18/06/2025 05:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendida la solicitud de apoyo en el ambiente de producción para que por favor pueda ser validada",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 05:26 p. m.",
+          "fechaVisible": "18/06/2025 05:26 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Inconsistencias de los saldos de la balanza de comprobación",
+      "descripcionDetallada": "Buenos días, la Dirección de Contabilidad nos reporta lo siguiente:\n\nSolicito atentamente tu apoyo para reportar con el proveedor la inconsistencia de los saldos en la balanza de comprobación por Fuente de Financiamiento.\n\nAdjunto documento con mayor detalle\n\nSaludos Cordiales",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "13/06/2025 09:52 a. m.",
+      "fechaRegistroVisible": "13/06/2025 09:52 a. m.",
+      "id": 4484,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 8,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 8,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "20/06/2025 05:13 p. m.",
+          "fechaVisible": "20/06/2025 05:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería en conjunto con el personal de normatividad, revisaron a detalle lo reportado respecto al descuadre del ejercicio del 2024, identificando lo siguiente:\n\nEl descuadre que nos informo el personal de la Universidad Veracruzana se deriva a un movimiento realizado por personal de la UV, dicha modificación fue realizada el día 8 de mayo 2025, a las 9:30 pm, por el usuario José Angel García Ronzon quien cambió el clasificador de fuente de financiamiento 1412321 - otros proyectos específicos. Para que ya no fuera de detalle. La balanza de comprobación solo totaliza los de detalle para que la suma de cargos y abonos sea la real y no incluya cuentas o clasificadores acumulativos.\n\nPor lo cual para para que el descuadre reportado desaparezca, es necesario cambiar la fuente de financiamiento previamente indicada nuevamente a de detalle por favor.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/06/2025 05:05 p. m.",
+          "fechaVisible": "20/06/2025 05:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería y el personal de normatividad se encuentran revisando lo indicado dentro del ejercicio 2024, les brindare respuesta una vez me proporcionen retroalimentación mis compañeros",
+          "consecutivo": 6,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "19/06/2025 11:19 a. m.",
+          "fechaVisible": "19/06/2025 11:19 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se revisó y en efecto para para el mes de mayo ya se muestran los saldos correcto, sin embargo, para otros meses, como diciembre, aún se muestra el desfase.\n\nAdjunto correo sustento.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 05:33 p. m.",
+          "fechaVisible": "18/06/2025 05:33 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 06:00 p. m.",
+          "fechaVisible": "17/06/2025 06:00 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nCon el apoyo del personal de ingeniería se reviso a detalle la diferencia entre nuestro usuario y lo que ustedes consultar, radica en la siguiente seguridad:\n\nCatalogoClasificacionesDeIngresoYEgreso.MostrarClasificacionesNoActivas\n\nPor lo cual, pido de favor, la seguridad anterior sea asignada al grupo de contabilidad para que puedan visualizar el total de los registros",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 05:54 p. m.",
+          "fechaVisible": "17/06/2025 05:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe adjunta al presente la respuesta de la Dirección de Contabilidad, nos indica que aún muestra diferencia en la balanza, que ha confirmado con 3 equipos más y usuarios distintos.\n\nQuedamos al pendiente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/06/2025 08:06 p. m.",
+          "fechaVisible": "13/06/2025 08:06 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nRealice la revisión de lo reportado, sin embargo, observo una diferencia en la ultima imagen adjunta, la diferencia radica en la cantidad de información mostrada, adjunto documento con imagenes obtenidas el día de hoy del sistema, se puede observar la hora de obtención y una breve redacción para ser clara mi observación respecto a la diferencia presentada, para que por favor sea revisada con el área",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/06/2025 11:33 a. m.",
+          "fechaVisible": "13/06/2025 11:33 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencias en los Saldos Operativos",
+      "descripcionDetallada": "Buenas tardes,\nLa Dirección de Contabilidad nos reporta lo siguiente:\n\nSolicito tu valioso apoyo para solicitar la validación de los saldos operativos con el proveedor ya que se identifican inconsistencias entre el saldo mostrado en el listado, el mostrado en el detalle de la cuenta y en el estado de cuenta (Se anexan pantallas).\n\nSe solicita el apoyo del proveedor para la revisión de la totalidad de todas las cuentas del listado\n\nAdjunto pantallas de lo mencionado y quedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/06/2025 04:30 p. m.",
+      "fechaRegistroVisible": "09/06/2025 04:30 p. m.",
+      "id": 4463,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo solicitado y los saldos de cuentas bancarias ya coinciden con los que muestra la balanza",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "11/06/2025 11:59 a. m.",
+          "fechaVisible": "11/06/2025 11:59 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 02:30 p. m.",
+          "fechaVisible": "10/06/2025 02:30 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendido el ticket correspondiente, atendiendo también su petición de revisar todas las cuentas y no solo la reportada, se realizo la atención de esta manera por parte del personal de ingeniería, quedando atendido en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 02:26 p. m.",
+          "fechaVisible": "10/06/2025 02:26 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencia en Módulo de retenciones RESICO",
+      "descripcionDetallada": "Buenos días\n\nLa Dirección de Contabilidad nos reporta lo siguiente:\nEl egreso 610769 cuenta con dos renglones con retención RESICO, Sin embargo, pese a que la póliza se encuentra contabilizando correctamente los importes, se identifica que el sistema está generando una retención adicional de manera operativa.\n\nEl área solicita las correcciones correspondientes\n\nAdjunto documento Word con mayor detalle\n\nQuedamos al pendiente",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/06/2025 08:04 a. m.",
+      "fechaRegistroVisible": "03/06/2025 08:04 a. m.",
+      "id": 4431,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo solicitado, en tiempo y de acuerdo a lo reportado",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "16/06/2025 05:47 p. m.",
+          "fechaVisible": "16/06/2025 05:47 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 03:13 p. m.",
+          "fechaVisible": "10/06/2025 03:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPodrían por favor intentar nuevamente el pago, dado que nos brindo apoyo mis compañeros de desarrollo atendiendo el mensaje que nos compartieron en el turno correspondiente, con este apoyo, podrán ya generar el pago correspondiente",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 03:11 p. m.",
+          "fechaVisible": "10/06/2025 03:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\n\nSe adjunta documento con la respuesta de la Dir d Conabilidad, reportan error al intentar generar la orden de pago.\n\nNos indican que es de carácter prioritario, por que se requiere para cierre de mes.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 09:14 a. m.",
+          "fechaVisible": "10/06/2025 09:14 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "03/06/2025 06:27 p. m.",
+          "fechaVisible": "03/06/2025 06:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería reviso lo informado en el ticket, por lo cual realizo el ajuste correspondiente, dado el problema reportado en el egreso el cual se visualizaba dos veces la misma retención, así mismo se recomienda que tenga el usuario el ultimo ejecutable de cliente el cual fue proporcionado con anterioridad, en caso de que no lo tengan ya sea Emi, Alan, Angelica o Fernanda pueden escribirme y les comparto el archivo correspondiente en caso de que no tengan la liga o tengan duda sobre cual es este.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/06/2025 06:24 p. m.",
+          "fechaVisible": "03/06/2025 06:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Erro en el saldo de chequera de una cuenta bancaria",
+      "descripcionDetallada": "Buenos días,\nLa Dirección de Contabilidad nos reporta lo siguiente:\n\nel saldo que muestra la chequera de la cuenta 7013/7732406 es de $6,992.71, sin embargo, el saldo correcto es de $15,681.32. Si se consulta el estado de cuenta, el saldo se actualiza, pero al querer realizar operaciones por ese importe manda un error al intentar eliminar una operación por $15,681.32, este error indica que la cuenta tendría un saldo negativo, lo cual no es correcto, ya que contablemente se cuenta con el saldo suficiente.\n\nAdjunto pantallas de lo reportado y se solicita la revisión y ajuste de lo reportado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "16/05/2025 07:53 a. m.",
+      "fechaRegistroVisible": "16/05/2025 07:53 a. m.",
+      "id": 4322,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "La atención fue rápida y de acuerdo a lo reportado",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 11:11 a. m.",
+          "fechaVisible": "16/05/2025 11:11 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 09:16 a. m.",
+          "fechaVisible": "16/05/2025 09:16 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendida la problemática en ambiente de producción, el apoyo fue brindado por el personal de ingeniería.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 09:15 a. m.",
+          "fechaVisible": "16/05/2025 09:15 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Error al aplicar nota de crédito",
+      "descripcionDetallada": "Hola buenos días, la Dirección de Contabilidad nos reporta lo siguiente:\nSe identifico un error que se genera en el sistema al querer aplicar una Nota de crédito a una retención por pagar:\n1. Accedemos al proveedor 0054957 TESORERÍA DE LA FEDERACIÓN para aplicar la operación 9401 a la operación 145452\nNo obstante, el sistema genera el siguiente mensaje de error que refiere a un resta de la operación 145452 de 0.00 sin embargo, el resta que se observa es de 6.95\nAdjunto documento Word con pantallas\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/05/2025 09:51 a. m.",
+      "fechaRegistroVisible": "06/05/2025 09:51 a. m.",
+      "id": 4239,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "La atención fue rápida y atendió lo reportado",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 10:58 a. m.",
+          "fechaVisible": "07/05/2025 10:58 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPudiera realizar el área nuevamente el proceso correspondiente por favor, el personal de ingeniería realizo la atención de la problemática presentada directo en el ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/05/2025 06:34 p. m.",
+          "fechaVisible": "06/05/2025 06:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencia en la asignación de clave en una Retención de Egreso",
+      "descripcionDetallada": "Buenos días la Dirección de Egresos nos reporta lo siguiente:\n1. Cada vez que se inserta una retención en un egreso, el sistema le asigna una clave de operación, esta clave es la misma que aparece en el estado de cuenta del proveedor, en el módulo de retenciones y en los renglones del detalle de la orden de pago que integran la operación, en este caso el egreso 336631 generó la retención por servicios profesionales con la clave 72348, sin embargo, al consultar los movimientos del estado de cuenta ligados a dicha retención, se visualiza que contiene dos renglones, una de movimiento deudor con la clave 61510 lo cual es incorrecto ya que esta retención es de tipo “Proveedor” y otro renglón de tipo movimiento proveedor que si corresponde a la clave origen que asignó el sistema a la retención.\n\nLa Dirección de Contabilidad le gustaría saber el porque de esta inconsistencia\n\nAdjunto correo sustento con mayor detalle\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "29/04/2025 10:13 a. m.",
+      "fechaRegistroVisible": "29/04/2025 10:13 a. m.",
+      "id": 4196,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "La atención fue rápida y de acuerdo a lo reportado se atendió el requerimiento",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 04:05 p. m.",
+          "fechaVisible": "07/05/2025 04:05 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 09:18 p. m.",
+          "fechaVisible": "05/05/2025 09:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería reviso lo reportado, identificando que no es un problema del sistema, si no derivado a procesos operativos realizados, mismos que informo a continuación:\n\n\n\n\nEl egreso 336331 fue pagado el 05/01/2024 con el cheque con terminación '45806'. Este pago genero la retención 61510 la cual fue pagada el día 19/02/2024.\n\nPosteriormente el día 12/03/2024 el cheque con terminación '45806' fue cancelado generando un saldo a favor de proveedor de tipo 'movimiento por cancelación de pago de egreso con retenciones pagadas' con clave 31.\n\nEl mismo día 12/03/2024 se generó otro cheque con terminación '47967' generando la retención 72348.\n\nEl saldo con clave de operación 31 puede utilizarse para liquidar el saldo de la retención 72348, para que de esta forma quede solventado con los movimientos ya realizados y no se genere una orden de pago demás por así decirlo, si no se aplique el saldo existente para poder liquidar el proceso correspondiente",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/05/2025 02:32 p. m.",
+          "fechaVisible": "03/05/2025 02:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería se encuentra revisando lo reportado en su documento adjunto, para poder darle solución tanto a lo visual como a la relación de las retenciones informadas en dicho documento.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 02:43 p. m.",
+          "fechaVisible": "02/05/2025 02:43 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Desfase en la actualización de cifras de balanza",
+      "descripcionDetallada": "La Dirección de Contabilidad nos reporta lo siguiente:\n\nSe identificó el desfase en la actualización de las cifras en balanza\n\nAdjunto pantalla donde se muestra lo anterior\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "25/04/2025 12:07 p. m.",
+      "fechaRegistroVisible": "25/04/2025 12:07 p. m.",
+      "id": 4167,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "La atención fe rápida y se atendió la duda requerida",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 09:58 a. m.",
+          "fechaVisible": "30/04/2025 09:58 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe reviso con el personal de ingeniería, el retardo en la actualización de la balanza se derivo a que el agente contable encolo operaciones para su contabilización, el problema lo analizo el personal de ingeniería y observamos que el único retraso fue ese de casi una hora en lo que termino de contabilizar las operaciones, estuvimos revisando la consulta de balanza con los criterios proporcionados, no se ha presentado nuevamente ningún retraso de actualización de información.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/04/2025 07:09 p. m.",
+          "fechaVisible": "29/04/2025 07:09 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencias en saldo operativo",
+      "descripcionDetallada": "La Dirección de Contabilidad nos reporta problemas que se han derivado de realizar registros en el sistema, en el cual se refiere a un saldo operativo insuficiente. Esto se identificó con inconsistencias entre el saldo operativo mostrado en la lista de cuentas bancarias y el mostrado en el detalle de cuentas.\n\nAdjunto Pantallas respecto a lo anterior en archivo Word\n\nAdemás que el área solicita el apoyo para realizar los ajustes necesarios\n\nQuedamos al pendiente de sus comentarios, Saludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/04/2025 01:01 p. m.",
+      "fechaRegistroVisible": "21/04/2025 01:01 p. m.",
+      "id": 4141,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "La respuesta del incidente fue rápida y de acuerdo solucionando lo solicitado",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "23/04/2025 11:31 a. m.",
+          "fechaVisible": "23/04/2025 11:31 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "22/04/2025 08:04 p. m.",
+          "fechaVisible": "22/04/2025 08:04 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra atendida la problemática reportada en este ticket con el apoyo de ingeniería, se revisaron todas las cuentas para validar que no hubiera más fuera de las indicadas por el personal, de esta forma se corrigió la problemática a nivel general",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/04/2025 08:01 p. m.",
+          "fechaVisible": "22/04/2025 08:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ - Error en impresión de notas de crédito 89688 _ urgente",
+      "descripcionDetallada": "La Dirección de Nóminas reporta error al imprimir la nota de crédito 89688, menciona una diferencia con el pagado disponible de centavos, sin embargo, para este momento no hay manera de afectarlo por el sistema.\nNos mantenemos al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "04/04/2025 12:29 p. m.",
+      "fechaRegistroVisible": "04/04/2025 12:29 p. m.",
+      "id": 4048,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 09:18 p. m.",
+          "fechaVisible": "05/05/2025 09:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAdjunto documento de Word con la respuesta del contador René sobre este ticket",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/05/2025 02:38 p. m.",
+          "fechaVisible": "03/05/2025 02:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEste folio se encuentra siendo revisado por el área de ingeniería y el área normativa, el día de mañana les brindo retro de acuerdo a lo que me indiquen",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 09:32 p. m.",
+          "fechaVisible": "10/04/2025 09:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1074 @@
+{
+  "metadata": {
+    "sistema": "USII",
+    "cuenta": "INCUV_USIIU",
+    "fechaExtraccion": "2026-10-27",
+    "fechaExtraccionSeguimiento": "2026-10-27",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 20,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 20,
+    "totalSeguimientos": 84,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - duda en plantilla de solicitudes",
+      "descripcionDetallada": "Buen día\nSe intenta cargar la plantilla de solicitud de egresos, para un trámite de solicitud de viáticos, sin embargo, se requiere capturar el concepto de deudor (columnas U y V) pero se tiene duda de qué dato corresponde a este concepto.\nPor lo anterior, se pide de su apoyo para que nos orienten sobre qué información va en dicho apartado.\nSe adjunta plantilla con los registros que se intentan migrar.\nGracias de antemano.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "21/10/2026 11:13 a. m.",
+      "fechaRegistroVisible": "Último mié., 11:13 AM",
+      "id": 7346,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buen día Josue\n\nTras informar a la Dirección de Egresos sobre la necesidad de realizar la prueba en el ambiente de calidad, te comento que nos indica que procedan a revisar y si es el caso cargar la plantilla en el ambiente productivo y que dicha Dirección asume la responsabilidad que resulte.\n\nQuedo al pendiente, recibe saludos.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-10-26T17:23:25.850Z",
+          "fechaTexto": "26/10/2026 11:23 a. m.",
+          "fechaVisible": "ayer, 11:23:25 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día Emi.\n\nPara el error será necesario poder replicarlo en el ambiente de calidad, por lo que me comentaba el Mtro. Rafa, se hizo un cambio de base de datos por un respaldo de producción, por lo que es necesario que se culmine el proceso para poder realizar la prueba ahí, en producción no es correcto dado que se podría registrar la operación con mi usuario lo cual sería incorrecto, propongo que una vez que se encuentre calidad operando y me notifique el equipo del Mtro Rafa, proceda a realizar la prueba de migración para atender la solicitud de apoyo correspondiente respecto a identificar el motivo por el que no carga",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-10-26T15:52:24.250Z",
+          "fechaTexto": "26/10/2026 09:52 a. m.",
+          "fechaVisible": "ayer, 09:52:24 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\n\nSe asignó el dato y se pudo continuar con la carga, sin embargo, se han detonado errores que se han ido atendiendo. \n\nUno de los errores era en relación al COG, al parecer porque al tratarse de una solicitud de egreso se crea en automático no debe estar en la plantilla, por lo que se eliminó el clasificador y en la ultima carga detona el error \"Error al registrar viáticos en detalle con clave de viático de cabecera.\"\nPor lo anterior, adjunto plantilla \"Copia de Plantilla solicitudes_2.xls\" y pido de su apoyo de revisar qué es lo que impide la carga o qué datos debe incluir para poder realizar la carga.\n\nGracias de antemano.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-26T15:45:51.610Z",
+          "fechaTexto": "26/10/2026 09:45 a. m.",
+          "fechaVisible": "ayer, 09:45:51 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nEl dato que corresponde a esas columnas es el que se encuentra en la cabecera de la operación que se llama concepto, es donde se indica si la operación será 1.- Viáticos a Comprobar, 2.- Otros Gastos a Comprobar, etc..\n\nContemplen en el llenado de la plantilla que al cargar un viático se generan algunos renglones con conceptos en especifico según sea la configuración del viático.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-10-21T23:04:28.607Z",
+          "fechaTexto": "21/10/2026 05:04 p. m.",
+          "fechaVisible": "Último mié., 05:04:28 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - funcionalidad de acceder con todos los grupos",
+      "descripcionDetallada": "Se requiere saber si la funcionalidad que se tenía durante inicios de la implementación del SPRFM, donde al loguearse permitía seleccionar la opción de acceder con todos los grupos puede habilitarse, en virtud de que algunos usuarios tienen asignados distintos grupos por sus actividades, y deben salir de un grupo para entrar a otro, por lo que al contar con la opción de acceder con todos los grupos les permitirá visualizar todos los accesos en una misma sesión.\nAsimismo, requerimos saber el por qué no fue considerada esta opción al cambiar la pantalla de acceso.\nNos mantenemos al pendiente, saludos.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "01/10/2026 12:30 p. m.",
+      "fechaRegistroVisible": "1 de Oct, 12:30:21 PM",
+      "id": 7256,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nPara habilitar dicha funcionalidad se deberá de requerir mediante una solicitud de cambios, ya que la ventana de logueo que se tiene actualmente se encuentra operando desde el 2020, por lo que para habilitar los campos que indican, se debería de realizar modificaciones a la ventana de login, modificar los JSON de interconexión y realizar las pruebas correspondientes para visualizar que todo funcione correctamente, lo que implica un tiempo de pruebas y desarrollo, por ello es que sería mediante una solicitud de cambios.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-06T15:30:50.210Z",
+          "fechaTexto": "06/10/2026 09:30 a. m.",
+          "fechaVisible": "6 de Oct, 09:30:50 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\n\nEl día de mañana 05/10/2026 se realizará retroalimentación de este ticket una vez verificada información con el personal de ingeniería.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-05T05:00:34.017Z",
+          "fechaTexto": "04/10/2026 11:00 p. m.",
+          "fechaVisible": "4 de Oct, 11:00:34 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Usuarios Deshabilitados",
+      "descripcionDetallada": "Buenas tardes\n\nReporto nuevo caso que se esta presentando similar a los reportados en el incidente 6981 pero del usuario Usuaria – Beatriz Elena Manilla Cariño (BMANILLA)- NP-60525\n\nEn donde se deshabilito al usuario en el catálogo de personal, por lo que, solicitamos nos indiquen por que se se sigue presentando esta situación y a que de debe\n\nAdjunto pantallas de lo mencionado y les comento que ya se restablecieron los permisos de la usuaria por sus actividades laborales\n\nSaludos Cordiales",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "10/09/2026 04:07 p. m.",
+      "fechaRegistroVisible": "10 de Sep, 04:07:55 PM",
+      "id": 7133,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "También, les solicitamos nos apoyen indicándonos de los otros usuarios  reportados en el incidente 6981 excluyendo al usuario AXOLIO (del cual nos compartieron bitácora), y nos indiquen por que se les presento la situación reportada\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-09-10T23:32:03.277Z",
+          "fechaTexto": "10/09/2026 05:32 p. m.",
+          "fechaVisible": "10 de Sep, 05:32:03 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde se revisa lo reportado en el ticket con el usuario indicando contemplando lo mencionado de los permisos restablecidos",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-09-10T22:13:21.153Z",
+          "fechaTexto": "10/09/2026 04:13 p. m.",
+          "fechaVisible": "10 de Sep, 04:13:21 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Buenas tardes Personal técnico de la UV atendió y ya se pudo acceder Gracias por la atención",
+      "descripcionBreve": "caqurioz - HTTP Error 500.30 - ANCM In-Process Start Failure",
+      "descripcionDetallada": "Se adjunta imagen de error que se presenta al intentar acceder a SPRFM productivo.\n\nCabe mencionar que se presenta aisladamente, a algunos usuarios, sin embargo, ya está aumentando el número de usuarios que lo reportan.\n\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/08/2026 01:49 p. m.",
+      "fechaRegistroVisible": "19 de Aug, 01:49:14 PM",
+      "id": 7023,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nPersonal técnico de la UV atendió y ya se pudo acceder\nGracias por la atención",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-08-20T00:46:22.953Z",
+          "fechaTexto": "19/08/2026 06:46 p. m.",
+          "fechaVisible": "19 de Aug, 06:46:22 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl mensaje no corresponde a nosotros, este es un problema en la página de logue del sistema, sin embargo, el logueo (SSO) es administrado por la Universidad, por lo que sería necesario validen con el Mtro. Aroldo o Rafa para que puedan revisar y si es posible nos notifiquen el problema correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-20T00:13:41.233Z",
+          "fechaTexto": "19/08/2026 06:13 p. m.",
+          "fechaVisible": "19 de Aug, 06:13:41 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Duda sobre el manejo de seguridades en apartado menú Reportes",
+      "descripcionDetallada": "Buenos días, el motivo del incidente solo es para que nos puedan orientar sobre en qué parte se configura la seguridad del apartado “Consultas al servidor”\n\n \nSabemos en dónde configurar los “reportes” que se encuentran dentro de la carpeta, es decir:\n \n\nPero no sabemos en dónde se configura la seguridad propiamente del menú “Consultas al servidor”.\nLo anterior, ya que vemos que se visualiza en todos los grupos y queremos restringir esta situación, es por ello la consulta, ¿en qué apartado se configura esta seguridad?",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/08/2026 09:20 a. m.",
+      "fechaRegistroVisible": "19 de Aug, 09:20:53 AM",
+      "id": 7022,
+      "posesion": "Cliente",
+      "prioridad": "Media",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-21T17:01:36.580Z",
+          "fechaTexto": "21/09/2026 11:01 a. m.",
+          "fechaVisible": "21 de Sep, 11:01:36 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-09T00:20:02.160Z",
+          "fechaTexto": "08/09/2026 06:20 p. m.",
+          "fechaVisible": "8 de Sep, 06:20:02 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa información del apartado consulta al servidor, para agregarle la seguridad correspondiente, es necesario, ingresar a la utilería de 3 capas, en el apartado general-> Editor de operaciones y buscar el nombre que se muestra en el apartado de consultas a servidor, en este caso el primero que es activo fijo, otra particularidad de esta opción es que en la columna Operación localizarán la palabra CES siendo este el registro a agregarle la seguridad.\n\nPosterior a realizar dicha acción se reinicia el cliente y quien no cuente con la seguridad indicada no podrá observar la consulta al servidor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-08T23:38:30.273Z",
+          "fechaTexto": "08/09/2026 05:38 p. m.",
+          "fechaVisible": "8 de Sep, 05:38:30 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Les agradecemos el apoyo brindado y dejamos el incidente como antecedente",
+      "descripcionBreve": "fesantos-Casos des habilitación de usuarios",
+      "descripcionDetallada": "Buenas tardes\n\nPor parte de esta unidad, queremos reportar una inconsistencia identificada, la cual es sobre dos usuarios (MARRODRIGUEZ y LIDORTIZ) los cuales les fueron deshabilitados del catálogo de personal y no podían ingresar al sistema. Requerimos nos indiquen quien deshabilito a ambos usuarios, ya que, son dos casos que se presentaron en esta tarde y no fueron modificados por parte de esta unidad.\n\nAdjunto detalle de lo identificado en ambos usuarios\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/08/2026 05:53 p. m.",
+      "fechaRegistroVisible": "6 de Aug, 05:53:32 PM",
+      "id": 6981,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 13,
+      "seguimiento": [
+        {
+          "comentario": "Les agradecemos el apoyo brindado y dejamos el incidente como antecedente",
+          "consecutivo": 13,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-09T18:57:20.857Z",
+          "fechaTexto": "09/09/2026 12:57 p. m.",
+          "fechaVisible": "9 de Sep, 12:57:20 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLes agradecemos el insumo brindado y esta situación se quedará como antecedente en caso de que se presente una situación similar en un futuro\n\nGracias por el apoyo brindado",
+          "consecutivo": 12,
+          "cortesia": "No",
+          "fechaISO": "2026-09-09T18:55:35.310Z",
+          "fechaTexto": "09/09/2026 12:55 p. m.",
+          "fechaVisible": "9 de Sep, 12:55:35 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Una disculpa, se agrega la imagen indicada con anterioridad",
+          "consecutivo": 11,
+          "cortesia": "No",
+          "fechaISO": "2026-09-09T01:51:26.333Z",
+          "fechaTexto": "08/09/2026 07:51 p. m.",
+          "fechaVisible": "8 de Sep, 07:51:26 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Hola buen día, \n\nVisualizo que no se adjunto la imagen de la bitácora\n\nQuedo al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 10,
+          "cortesia": "No",
+          "fechaISO": "2026-08-20T15:08:00.653Z",
+          "fechaTexto": "20/08/2026 09:08 a. m.",
+          "fechaVisible": "20 de Aug, 09:08 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Si agrego la imagen de la bitácora al ticket",
+          "consecutivo": 9,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-19T00:24:13.477Z",
+          "fechaTexto": "18/08/2026 06:24 p. m.",
+          "fechaVisible": "18 de Aug, 06:24:13 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En seguimiento a lo que nos indican del usuario AXCOLIO, nos preguntamos si nos podrían mostrar la bitácora, donde se visualizan quien modifico el catálogo de personal de dicho usuario, \n\nDe igual forma, requerimos que nos apoyen verificando los otros casos reportados, ya que, esta situación se ha presentado con varios usuarios y no se presentaba anteriormente.\n\nQuedamos al pendiente de sus  comentarios \n\nSaludos Cordiales",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": "2026-08-18T16:50:08.917Z",
+          "fechaTexto": "18/08/2026 10:50 a. m.",
+          "fechaVisible": "18 de Aug, 10:50:08 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día. \n\nSe reviso este último usuario AXCOLIO, donde en la bitácora de modificación a los usuarios se localizó lo siguiente:\n\nel día 06/08/2026 se identifica que el usuario ALAGONZALEZ fue quien realizó la modificación del usuario y posteriormente el día 14/08/2026 el usuario FESANTOS fue quien habilito nuevamente el usuario.\n\nBuscaremos los demás usuarios para ir informando",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": "2026-08-17T15:38:08.527Z",
+          "fechaTexto": "17/08/2026 09:38 a. m.",
+          "fechaVisible": "17 de Aug, 09:38:08 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días\n\nLes compartimos el caso 7 del usuario C. Axel de Jesus Colio Lujan (AXCOLIO) NP-58162, el cual nos acaba de reportar que no puede ingresar al sistema\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-08-14T17:17:53.333Z",
+          "fechaTexto": "14/08/2026 11:17 a. m.",
+          "fechaVisible": "14 de Aug, 11:17:53 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día\n\nEstamos revisando los usuarios afectados, aun no identificamos que ocasiono este cambio, pero estamos en ello",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-08-14T15:58:50.423Z",
+          "fechaTexto": "14/08/2026 09:58 a. m.",
+          "fechaVisible": "14 de Aug, 09:58:50 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe adjunta documento con otro caso similar, para la cuanta de usuario YADPEREZ.\n\nEn total son 5 casos:\n\nCaso 1: LIDORTIZ, documento “Casos dehabilitación de usuarios_2_se complementa con un tercer usuario reportado a las 7 30 pm.docx”\n\nCaso 2: MARCASTILLO, documento “Casos dehabilitación de usuarios_2_se complementa con un tercer usuario reportado a las 7 30 pm.docx”\n\nCaso 3: ELUCIDO, documento “Casos dehabilitación de usuarios_2_se complementa con un tercer usuario reportado a las 7 30 pm.docx”\n\nCaso 4: DCASTILLEJOS, documento “Caso detectado al día de hoy.docx”\n\nCaso 5: YADPEREZ , documento “caso 5_10082026.docx”\n\nQuedamos al pendiente, saludos.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-08-11T00:50:05.433Z",
+          "fechaTexto": "10/08/2026 06:50 p. m.",
+          "fechaVisible": "10 de Aug, 06:50:05 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Gracias, estamos revisando las bitácoras de moviimentos respecto a estos 3 usuarios para identificar quien o que proceso realizo el ajuste",
+          "consecutivo": 3,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-10T18:48:28.643Z",
+          "fechaTexto": "10/08/2026 12:48 p. m.",
+          "fechaVisible": "10 de Aug, 12:48:28 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Les compartimos otro caso detectado el día de hoy\n\nUsuario: Castillejos Hernandez Dariana-DCASTILLEJOS\n\nNúmero de usuario- 61332\n\nAdjunto documento Word con las pantallas de lo indicado\n\nSaludos Coridales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-08-07T17:21:06.930Z",
+          "fechaTexto": "07/08/2026 11:21 a. m.",
+          "fechaVisible": "7 de Aug, 11:21:06 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Revisamos lo reportado para brindar respuesta",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-06T23:59:20.110Z",
+          "fechaTexto": "06/08/2026 05:59 p. m.",
+          "fechaVisible": "6 de Aug, 05:59:20 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por la atención. Es importante mencionar que hemos reforzado estas recomendaciones con las áreas involucradas, no únicamente para los procesos críticos, sino como parte de la operación en general. No obstante, consideramos importante revisar alguna alternativa que permita atender adecuadamente estas ejecuciones, tomando en cuenta que todos los procesos son importantes y que no resulta viable sacrificar la ejecución de algunos de ellos. Quedamos al pendiente",
+      "descripcionBreve": "Lentitud en el uso del SPRFM – Productivo",
+      "descripcionDetallada": "Buen día Desde el día 16 de junio, los usuarios del SPRFM reportan lentitud en el uso del sistema. Por la mañana del día de ayer, mediante chat técnico se reportó la lentitud y se nos indicó que estaban algunos reportes ejecutándose, así como el proceso de conciliación de LC.\nEsta Unidad indicó truncar la ejecución de los reportes, dejando únicamente el proceso de conciliación, y que nos apoyaran en monitorear… por la tarde, nos indicaron que se seguía ejecutando el proceso de conciliación y que seguían ejecutando reportes.\nTras llevar a cabo la restricción de ejecuciones, el proceso que quedó en ejecución fue la conciliación bancaria, el cual se ejecutó con 650 LC, sin embargo, por este volumen se tardaba menos de una hora, sin embargo, esta vez demoró más de lo esperado, pues con 80% de avance llevaba 164 minutos, y concluyó en un tiempo mayor 253 minutos.\nPor lo anterior, se requiere se revisé el por qué se presenta la lentitud, ya que por los procesos que se identificaron se observa que el volumen de información no debería presentar este la lentitud en general del sistema, pues, el día de hoy, 17 de junio, nos indican nuevamente que existe lentitud en el sistema, pero solo se estaba ejecutando el Reporte de líneas de captura DGAE v1.0_UV y existían dos procesos de operación diaria que no se consideran críticos.\nNos mantenemos al pendiente de su retroalimentación, gracias de antemano.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/06/2026 10:07 a. m.",
+      "fechaRegistroVisible": "24 de Jun, 10:07:21 AM",
+      "id": 6753,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nSe ha recomendado poder incrementar las características del servidor donde se encuentra la base de datos y el sistema, adquiriendo nuevo software, así mismo para disminuir un poco el peso de la base de datos, hace algunos meses David recomendó realizar la ejecución de limpieza de tablas al maestro Rafa (actividad que puede realizar dicho equipo) por lo que principalmente para poder tener todos estos procesos pesados, se necesita incrementar las características de los servidores correspondientes lo que involucra adquisición de hardware.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-10-01T15:49:48.710Z",
+          "fechaTexto": "01/10/2026 09:49 a. m.",
+          "fechaVisible": "1 de Oct, 09:49:48 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Finalice por error el incidente, sin embargo, sólo debía responder lo siguiente: \n\nGracias por el apoyo brindado, es importante mencionar que hemos reforzado estas recomendaciones con las áreas involucradas, no únicamente para los procesos críticos, sino como parte de la operación en general.\n\nNo obstante, consideramos importante revisar alguna alternativa que permita atender adecuadamente estas ejecuciones, tomando en cuenta que todos los procesos son importantes y que no resulta viable sacrificar la ejecución de algunos de ellos.\n\nQuedamos al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-09-30T16:39:26.890Z",
+          "fechaTexto": "30/09/2026 10:39 a. m.",
+          "fechaVisible": "30 de Sep, 10:39:26 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Gracias por la atención.\n\nEs importante mencionar que hemos reforzado estas recomendaciones con las áreas involucradas, no únicamente para los procesos críticos, sino como parte de la operación en general.\n\nNo obstante, consideramos importante revisar alguna alternativa que permita atender adecuadamente estas ejecuciones, tomando en cuenta que todos los procesos son importantes y que no resulta viable sacrificar la ejecución de algunos de ellos.\n\nQuedamos al pendiente",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-30T16:39:07.733Z",
+          "fechaTexto": "30/09/2026 10:39 a. m.",
+          "fechaVisible": "30 de Sep, 10:39:07 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Angie.\n\nEl personal de ingeniería realizó la revisión se la BD y localizo lo siguiente:\n\nLa lentitud del sistema se presento derivado a que se estuvieron realizando facturas por el área de ingresos, normalmente dejan el proceso fines de semana (cuando es muy pesado) o entre semana realizan un envió mínimo, sin embargo, localizaron que el proceso enviado de la facturación tarde 15 horas 35 minutos (lo que deja entender que no fueron pocas operaciones para realizarlo entre semana), así mismo ubicaron que se realizó la ejecución del reporte Movimientos de Ingresos por Dep v2.00_UV el cual se observa en la base de datos marco número máximo de hojas excedido, lo cual nos hace pensar que se estaba desarrollando (actualmente esta la versión 2.01) y en la ejecución les trono pero afecto a la BD, la unión de estos dos procesos afecto el rendimiento.\n\nPor lo cual recomendamos que los procesos pesados se realicen en fines de semanas, así que como reportes pesados o desarrollo de estos mismos se hagan con rangos pequeños por si presentan un problema no afecten a la BD.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-03T01:05:45.883Z",
+          "fechaTexto": "02/08/2026 07:05 p. m.",
+          "fechaVisible": "2 de Aug, 07:05:45 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "se corrige",
+      "descripcionBreve": "Lentitud en el uso del SPRFM – Productivo",
+      "descripcionDetallada": "Buen día\nDesde el día de ayer (16 de junio) los usuarios del SPRFM reportan lentitud en el uso del sistema.\nPor la mañana del día de ayer, mediante chat técnico se reportó la lentitud y se nos indicó que estaba en proceso lo siguiente:\n• Estado de Situación Financiera UV v2.1_UV, ejecutado por ELHERRERA lleva 109 minutos\n• Reporte de líneas de captura DGAE v1.0_UV ejecutado por HUGGONZALEZ lleva 234 minutos\n• Conciliación bancaria por GUCASTILLO lleva 49 minutos\n• Proceso en utilerías por GEOCRUZ lleva 220 minutos\nPosterior a lo compartido, se indicó truncar la ejecución de los reportes, dejando únicamente el proceso de conciliación.\nPor la tarde, nos indicaron que estaba en proceso:\n• Conciliación bancaria por GUCASTILLO lleva 164 minutos\n• Movimientos de Ingresos por Dep v2.00_U por ABRAVO lleva 26 minutos\nMás tarde, los siguientes procesos:\n• Otro proceso muy pesado es la conciliación bancaria lleva 253 minutos\n• Recibo diario de ingresos varios v1.9_U por ELENAHERNANDEZ04 lleva 7 minutos\nTras llevar a cabo la restricción de ejecuciones, el proceso que quedó en ejecución fue la conciliación bancaria, el cual se ejecutó con 650 LC, sin embargo, por este volumen se tardaba menos de una hora, sin embargo, esta vez demoró más de lo esperado, pues con 80% de avance llevaba 164 minutos, y concluyó en un tiempo mayor 253 minutos.\nSin embargo, se requiere se revisé el por qué se presenta la lentitud, ya que por los procesos que se identificaron se observa que el volumen de información no debería presentar este la lentitud en general del sistema, pues, el día de hoy, 17 de junio, nos indican nuevamente que existe lentitud en el sistema, sin embargo, solo se estaba ejecutando el Reporte de líneas de captura DGAE v1.0_UV y existían dos procesos de operación diaria que no se consideran críticos.\nNos mantenemos al pendiente de su retroalimentación, gracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "17/06/2026 11:35 a. m.",
+      "fechaRegistroVisible": "17 de Jun, 11:35:07 AM",
+      "id": 6713,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "se corrige",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-06-24T16:06:46.960Z",
+          "fechaTexto": "24/06/2026 10:06 a. m.",
+          "fechaVisible": "24 de Jun, 10:06:46 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Se regresa para corrección",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-19T16:46:26.473Z",
+          "fechaTexto": "19/06/2026 10:46 a. m.",
+          "fechaVisible": "19 de Jun, 10:46:26 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "En seguimiento a lo indicado, se cambiaron las seguridades repetidas y al validar nuevamente los módulos de PBR y Anteproyectos, ya no se visualiza el error reportado, tambien en Anteproyecto ya se visualizan los grupos y usuario que tiene cada seguridad Les agradecemos el apoyo brindado",
+      "descripcionBreve": "fesantos-inconsistencias en el PBR y en Anteproyecto en SPRFM",
+      "descripcionDetallada": "Buenas tardes\n\nPor parte de esta unidad, se identificaron errores al intentar visualizar las seguridades en los apartados de Anteproyecto PBR y PBR.\nY en el caso del Anteproyecto, al entrar a las seguridades no se visualizan los grupos y usuario que tienen asignados dichas seguridades.\n\nAdjunto documento Word con el detalle de cada uno\n\nQuedamos al pendiente de sus comentarios, sobre el por que se presentan los mensajes de error , la no visualización de los grupos y usuarios.\n\nGracias de antemano",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "25/05/2026 01:52 p. m.",
+      "fechaRegistroVisible": "25 de May, 01:52:16 PM",
+      "id": 6611,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "En seguimiento a lo indicado, se cambiaron las seguridades repetidas y al validar nuevamente los módulos de PBR y Anteproyectos, ya no se visualiza el error reportado, tambien en Anteproyecto ya se visualizan los grupos y usuario que tiene cada seguridad\nLes agradecemos el apoyo brindado",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": "2026-06-24T22:19:11.703Z",
+          "fechaTexto": "24/06/2026 04:19 p. m.",
+          "fechaVisible": "24 de Jun, 04:19:11 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRespeto a la retro que nos dieron y la revisión que realice con el personal de ingeniería, me comentan que hay otras dos seguridades repetidas, la diferencia es que una tiene mayúsculas y otras minúsculas, me comenta el personal de ingeniería que al validar las seguridades convierte en mayúsculas los permisos por lo cual son identificas, es decir, no es sensible a mayúsculas y minúsculas, por lo cual adjunto un Word con las dos seguridades y los grupos donde se encuentran asignadas, cabe mencionar que solo se tienen las seguridades a nivel de grupo y no de usuario.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T21:07:04.740Z",
+          "fechaTexto": "24/06/2026 03:07 p. m.",
+          "fechaVisible": "24 de Jun, 03:07:04 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\n\nLe comento que se procedió a Eliminar la seguridad que terminaba con POA, ya que no estaba asignada a ningún reporte, no obstante se sigue mostrando el mensaje de error al intentar ver las seguridades desde el archivo y en le caso del Ante proyecto, todavía no se visualiza los grupos y usuario que tienen asignadas dichas seguridades\n\nAdjunto documento Word con las pantallas de lo indicado\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T17:23:09.913Z",
+          "fechaTexto": "24/06/2026 11:23 a. m.",
+          "fechaVisible": "24 de Jun, 11:23:09 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día. \n\nEs correcto, el mensaje es derivado a que esas dos seguridades se repiten, como se ha mencionado en algunas ocasiones el sistema cambia de manera natural el POA por PBR, otro ejemplo es almacen por UR, por lo que las seguridades antes mencionadas son idénticas, por eso indica el mensaje que se tiene una duplicidad, en calidad no se replica dado que esta combinación de seguridades no se da.\n\nLas seguridades fueron dadas de alta desde la utilería, no son seguridades propias del sistema, por lo que se recomienda o dejar solo una o modificar alguna de las dos para que sean diferentes por una letra, palabra o algo que las haga diferentes.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T16:42:57.190Z",
+          "fechaTexto": "24/06/2026 10:42 a. m.",
+          "fechaVisible": "24 de Jun, 10:42:57 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nDe lo que nos indican, requerimos que nos aclaren que el error que se esta presentando:\n\nErro en la tabla: Permissions. SECUNDARY: Duplicate index value.Operationaborted.VisualizarReportes.ProyectosConstruccionesyMantenimiento.\n\nSe debe a esas dos seguridades de reportes que nos indican, ya que, esto no solo se presenta en el modulo de Anteproyectos, si no que se esta presentando en todos los módulos al querer revisar las seguridades dentro del archivo -->Ver seguridades\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T16:32:32.480Z",
+          "fechaTexto": "24/06/2026 10:32 a. m.",
+          "fechaVisible": "24 de Jun, 10:32:32 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Angie.\n\nEl personal de ingeniería que reviso lo reportado, localizando las dos seguridades que causan la problemática, mismas que te comparto a continuación:\n\nReportes.Acceso.DPI.ResporteObjyAccdeIPBR\n\nReportes.Acceso.DPI.ResporteObjyAccdeIPOA\n\nEl problema identificado es que la seguridad que termina como POA el sistema lo cambia de manera automática a PBR por lo que la segunda se pone igual a la primera siendo ambas PBR, por lo que para que el sistema no se muestre se recomienda dejar solo una seguridad ya sea terminación POA o PBR.\n\nPor lo que al realizar esta parte el mensaje ya no se mostrará ya que solo existirá una seguridad",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-23T23:52:09.460Z",
+          "fechaTexto": "23/06/2026 05:52 p. m.",
+          "fechaVisible": "23 de Jun, 05:52:09 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en cambio de fecha en SPRFM productivo",
+      "descripcionDetallada": "Como parte de los preparativos para la identificación del presupuesto estimado, se está creando la clave presupuestaria 2027, sin embargo, al cambiar la fecha en SRPFM cliente, manda un error y aunque se observa que cambia la fecha, el despliegue de los datos en el tipo de clave presupuestaria está mostrando todos los años, no considera el año.\nSe adjuntan imágenes con el detalle.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "14/04/2026 01:03 p. m.",
+      "fechaRegistroVisible": "14 de Apr, 01:03:17 PM",
+      "id": 6388,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:51:19.137Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:19 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Angie.\n\nLa atención del ticket se encuentra lista, sin embargo, necesitamos realizar el cambio de servidor, por lo que necesito de tu apoyo para indicarme cuando pudiera llevar a cabo esta actividad, contemplando que no se encuentren realizando actividades nocturnas como la nómina o el envío de información del SAIS por favor, el tiempo de actualización es de 1 hora como máximo",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-18T18:03:24.533Z",
+          "fechaTexto": "18/04/2026 12:03 p. m.",
+          "fechaVisible": "18 de Apr, 12:03:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en visualización de reportes",
+      "descripcionDetallada": "Se presenta inconsistencia en la visualización de reportes a los cuales se les asignó recientemente seguridad.\nLos reportes se encuentran en las carpetas DPCM y DEPENDENCIAS, fueron asignados a los grupos ALL y ADMINISTRADOR SPRFM",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "17/03/2026 07:46 p. m.",
+      "fechaRegistroVisible": "17 de Mar, 07:46:21 PM",
+      "id": 6240,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 11,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 11,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:51:44.880Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:44 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias, reviso y brindo retro de acuerdo a las revisión que realice\n\nEra de cortesía la respuesta anterior se adjunta nuevamente de cortesía ahora si",
+          "consecutivo": 10,
+          "cortesia": "Sí",
+          "fechaISO": "2026-05-15T03:21:46.150Z",
+          "fechaTexto": "14/05/2026 09:21 p. m.",
+          "fechaVisible": "14 de May, 09:21:46 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias, reviso y brindo retro de acuerdo a las revisión que realice",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": "2026-05-15T03:21:24.313Z",
+          "fechaTexto": "14/05/2026 09:21 p. m.",
+          "fechaVisible": "14 de May, 09:21:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLe comento que se le han asignado las seguridades para ver la carpeta y reportes de Titulo V y DCBMEI\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": "2026-05-14T18:31:52.273Z",
+          "fechaTexto": "14/05/2026 12:31 p. m.",
+          "fechaVisible": "14 de May, 12:31:52 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche Angie.\n\nRealice una revisión de acuerdo a lo que me muestran en el documento adjunto, por lo que solicito de favor me puedan agregar a mi usuario solamente de ser posible las seguridades para validar que se observen los reportes, así mismo si esto causa problema, me las pueden quitar posterior a que revise sin problema",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": "2026-05-14T01:42:24.807Z",
+          "fechaTexto": "13/05/2026 07:42 p. m.",
+          "fechaVisible": "13 de May, 07:42:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nAdjunto documento WORD, en donde seguí los pasos indicados y todavía no me muestra los reportes de la carpeta CBMEI y se presento el mismo caso para la carpeta Titulo V, de igual forma para esta carpeta se siguieron los pasos indicados pero no se visualizan los reportes.\n\nLes comento que tanto la carpeta CBMEI y Titulo V, todos los reportes ya contaban con seguridad, lo que se asignó fue la seguridad de la carpeta y posterior a ello ya no se visualizaban los reportes.\n\nQuedo al pendiente de sus comentarios\n\nSaludos Cordiales",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-05-08T23:04:41.653Z",
+          "fechaTexto": "08/05/2026 05:04 p. m.",
+          "fechaVisible": "8 de May, 05:04:41 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde. \n\nEl proceso sería.-\n\n1.- Agregar la seguridad correspondiente.\n\n2.- Eliminar el nombre de la carpeta donde se ubicará\n\n3.- dar clic en el campo y una vez que habrá el listado de carpetas seleccionar la correspondiente y guardar la información.\n\nPodrán corroborar que se siga ese proceso por favor, esto lo indico derivado a que se agregaron seguridades, pero si se esta renombrando el RTM del reporte o la carpeta o algún otro ajuste, solo cambiaria el punto 1 por la acción correspondiente, el punto 2 y 3 se debe de respetar.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-04-07T01:00:27.640Z",
+          "fechaTexto": "06/04/2026 07:00 p. m.",
+          "fechaVisible": "6 de Apr, 07:00:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a lo reportado anteriormente, se presentó la misma situación con otras dos carpetas TITULO V y CBMEL, y se realizó lo que nos indicaron para visualizar los reportes, renombrando y guardando la carpeta y todavía no se visualizan los reportes dentro de las carpetas mencionadas\n\nQuedamos al pendiente del por que se presenta esta situación y como lo podemos solucionar para futuros casos\n\nGracias de antemano, saludos cordiales",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-03-27T23:12:25.837Z",
+          "fechaTexto": "27/03/2026 05:12 p. m.",
+          "fechaVisible": "27 de Mar, 05:12:25 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Es la única ventana donde se muestra ese apartado, y ahí es justamente donde se relaciono de forma manual (por nosotros) ese menú para que pudieran visualizarlo (tomando en cuenta la explicación anterior) por lo que a manera de resumen sería hacer lo siguiente:\n\nUna vez que le relacionen una seguridad a un reporte, favor de seleccionar el apartado menú padre nuevamente, dado que no podemos saber que reportes se hizo este paso con anterioridad",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-03-19T18:25:08.933Z",
+          "fechaTexto": "19/03/2026 12:25 p. m.",
+          "fechaVisible": "19 de Mar, 12:25:08 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\n\nAgradezco la retroalimentación, solo surge la duda si hay otro apartado donde se realiza la relación del menú padre con el reporte, en virtud de que en la pantalla de la utilería de 3 capas (editor de operaciones)  que proporcioné, todos los reportes tienen el menú padre que les corresponde.\n\nSaludos",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-03-19T17:43:56.693Z",
+          "fechaTexto": "19/03/2026 11:43 a. m.",
+          "fechaVisible": "19 de Mar, 11:43:56 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nQuedo resuelto este problema en producción, el cual se derivo a la modificación que se realizó (agregar seguridad), dado que hoy en día cuando dan un reporte de alta en el campo menú padre, se habilita un listado el cual les permite indicar la carpeta en la que se encuentra el reporte y guarda esa relación, hace tiempo atrás se organizaron los reportes por medio de un script para que fuera masivo (en el periodo del Mtro. Colunga), sin embargo, el script solo indicaba donde iba a estar más no la relación (la que se hace manual al seleccionar la ruta) por lo que al realizar la modificación (agregar seguridad) esta relación faltaba, se agrego dicha relación seleccionando de manera manual el menú padre, por lo que en caso de que se encuentren otra situación así que agreguen una seguridad al reporte y no se visualice favor de seleccionar en menú padre el valor correspondiente ya que no todos los reportes fueron actualizados de esta manera (seleccionar manual su relación)",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-19T15:27:35.310Z",
+          "fechaTexto": "19/03/2026 09:27 a. m.",
+          "fechaVisible": "19 de Mar, 09:27:35 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caqurioz - inconsistencia con cuenta DDAZA",
+      "descripcionDetallada": "Se reporta la situación de la cuenta de usuario DDAZA, la usuaria nos indica que desde ayer no visualiza el grupo DIRECTOR, sin embargo, no se le ha realizado ajuste a la cuenta, y en efecto no tiene dicho grupo.\nCabe mencionar que se revisó el ambiente de calidad, el cual, tiene corte de información al 17 de enero y tampoco tiene el grupo DIRECTOR asignado.\nPor lo anterior, se pide revisar la situación y proporcionarnos la trazabilidad de ajustes a dicha cuenta.\nPor necesidad de la usuaria, el día de hoy, le fue asignado el grupo DIRECTOR el día hoy, para no atrasar sus operaciones\nSe adjunta documento con el sustento.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "12/03/2026 06:23 p. m.",
+      "fechaRegistroVisible": "12 de Mar, 06:23:23 PM",
+      "id": 6213,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:51:51.717Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:51 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe reviso lo solicitado, sin embargo, dentro del sistema, hay una opción en servicios, apartado bitácoras y dentro hay una opción que se llama bitácora de usuarios y grupos, esta bitácora nos permite saber quien realizó ajuste a seguridades o grupos, se busco en ese módulo, así como en Datos, sin embargo, en algunas ocasiones y me parece que el año anterior se realizaron en algún punto dicho proceso que elimina bitácoras para reducir el tamaño de la BD y esto afecta a poder ubicar información, por lo que según lo revisado hasta el momento y en el módulo que ustedes pueden observar no se localiza información de dicha persona, así mismo se busco en BD de calidad y la que se realizó para el cierre y no localizamos tampoco información.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-18T02:42:22.147Z",
+          "fechaTexto": "17/03/2026 08:42 p. m.",
+          "fechaVisible": "17 de Mar, 08:42:22 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Detalle al crear una seguridad para un reporte en productivo",
+      "descripcionDetallada": "Se creó la seguridad Reportes.Acceso.DI.RepOpIngVtamigradas desde la utilería de 2 capas:\n \nSe asignó al reporte correspondiente, desde la utilería de 3 capas:\n \nSin embargo, al buscar la seguridad en el SPRFM para asignarla al grupo correspondiente ésta no aparece:\n \nPero si le voy borrando algunas letras al nombre de la seguridad si se muestra una:\n \nPareciera que se guardó correctamente.\nPor lo anterior, nos pueden indicar a qué se debe esta situación, lo anterior con la finalidad de continuar con la asignación de seguridad a algunos reportes,¿.\nQuedo al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/02/2026 10:59 a. m.",
+      "fechaRegistroVisible": "26 de Feb, 10:59:06 AM",
+      "id": 6100,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-02-26T18:52:19.720Z",
+          "fechaTexto": "26/02/2026 12:52 p. m.",
+          "fechaVisible": "26 de Feb, 12:52:19 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nLa seguridad se ubica con el nombre Reportes.Acceso.DI.RepOpIngIngmigradas, dado que el sistema cambia Ventas, Venta, Vta a Ing o ingreso, ingresos, según aplique, es por ello que no localizaban la seguridad ya que Vta esta como Ing, al buscar por la seguridad que te indico la podrán visualizar sin problema.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-26T18:07:50.557Z",
+          "fechaTexto": "26/02/2026 12:07 p. m.",
+          "fechaVisible": "26 de Feb, 12:07:50 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia relación NP y proveedor (homónimo)",
+      "descripcionDetallada": "La Dirección de Nóminas requiere saber de cómo se hizo la relación en el Catalogo de Personal para el NP 60906 de la clave del Proveedor 0055671, si fue realizada por un usuario o de manera automática.\nEn caso de que sea de manera automática, nos comenten qué datos válida para relacionar el proveedor, ya que en este caso el proveedor es un homónimo del trabajador y no debe estar relacionado en el Catálogo de Personal.\nNos mantenemos al pendiente,\nSaludos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "24/02/2026 11:13 a. m.",
+      "fechaRegistroVisible": "24 de Feb, 11:13:23 AM",
+      "id": 6091,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": "2026-03-04T16:15:43.103Z",
+          "fechaTexto": "04/03/2026 10:15 a. m.",
+          "fechaVisible": "4 de Mar, 10:15:43 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde. \n\nEl personal de ingeniería reviso lo que nos indican y me informa lo siguiente:\n\nLe relacionó dicho proveedor por que el proveedor tiene el mismo RFC, El sistema valida la existencia de un proveedor por;\n\n1. Nombre, o\n\n2. RFC, o\n\n3. CURP\n\nSi lo localiza realiza la asignación correspondiente o ya no da de alta el proveedor nuevamente ya que localiza que existe un registro y para no estar dando de alta N veces a un mismo proveedor valida el RFC o CURP o nombre.\n\nEn este caso que se encuentra incorrecta la alineación, se puede eliminar y dar de alta nuevamente pero de manera correcta, y contemplar para las siguientes ocasiones lo que el personal de ingeniería indica respecto a la validación de la información.\n\nQuedo al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-03-03T02:18:01.920Z",
+          "fechaTexto": "02/03/2026 08:18 p. m.",
+          "fechaVisible": "2 de Mar, 08:18:01 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nGracias por la retroalimentación respecto a quién realizó la relación del número de personal con el proveedor, sin embargo, se detecta que la interconexión que existe entre SPARH a SPRFM cuando se crea un número de personal, no generó la clave de proveedor, por lo tanto, el usuario relaciono una clave de las ya existentes.\n\nRevisando, en el catálogo de proveedor, se encuentran los siguientes registros:\n\n1. Proveedor 0055671. Corresponde a un homologo, pues este proveedor se migró desde el 2021 y su RFC no es coincidente con el del empleado 60906.\n\n2. Proveedor 0165172. Se observa que este proveedor es de la clave de proveedor cuando fue alumno, pues coincide en el RFC sin homoclave, pues el empleado 60906 so contiene homoclave en su RFC. Además, esta clave de proveedor se migró desde el 2022, por lo tanto, no coincide con el registro que debió crearse al crear el número de personal.\n\nPor lo anterior, se pide revisar el por qué no se generó la clave de proveedor al generar el número de personal 60906.\n\nSe adjunta documento con la respuesta.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-02-25T18:54:31.890Z",
+          "fechaTexto": "25/02/2026 12:54 p. m.",
+          "fechaVisible": "25 de Feb, 12:54:31 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nSe revisó lo reportado en el ticket, por lo que te comento que la asignación de la información se realizó a través el Catálogo de equivalencias del personal, donde el usuario MARTINHERNANDEZ04 MARTIN OCTAVIO HERNANDEZ CORDOVA el día 11-04-2025 realizó dicha asignación, de igual forma ese mismo día genero la relación beneficiario - personal (0000130348 - 60906)",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-25T00:19:23.047Z",
+          "fechaTexto": "24/02/2026 06:19 p. m.",
+          "fechaVisible": "24 de Feb, 06:19:23 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - usuario ve información de otra UR y no la tiene asignada",
+      "descripcionDetallada": "La Dirección de Egresos reporta que en las solicitudes de devolución de deudor la usuaria RUMARTINEZ está visualizando información de la Vice Rectoría Orizaba 0238, sin embargo, la usuaria solo tiene asignada la UR 0238 Facultad de Enfermería Orizaba.\nSe adjunta sustento del correo e imagen de la configuración en el catálogo de personal.\nSaludos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/01/2026 06:18 p. m.",
+      "fechaRegistroVisible": "27 de Jan, 06:18:21 PM",
+      "id": 5924,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-30T17:53:27.550Z",
+          "fechaTexto": "30/01/2026 11:53 a. m.",
+          "fechaVisible": "30 de Jan, 11:53:27 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche Emi.\n\nRevise lo reportado por el usuario en una BD copia de producción con release de cliente con fecha del 12/11/2025, me podrías apoyar verificando que el usuario tenga ese por favor, sería este SIRE 15 Cliente 15.1.444.0_GOB_E43, en caso de que no lo tenga pudieras cambiárselo y que intente de nuevo por favor.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T02:59:58.423Z",
+          "fechaTexto": "28/01/2026 08:59 p. m.",
+          "fechaVisible": "28 de Jan, 08:59:58 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Seguridad de Modulos",
+      "descripcionDetallada": "Buenas tardes\nSe requiere de su apoyo para por favor indicarnos la seguridad que le corresponden a los módulos de Operaciones de Nómina y Generar órdenes de Pago de nómina.\nAdjunto imagen con los módulos que se comentan\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/01/2026 12:36 p. m.",
+      "fechaRegistroVisible": "12 de Jan, 12:36:48 PM",
+      "id": 5789,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Ya se pudo asignar el permiso al grupo requerido y ya se visualizan los módulos con las seguridades proporcionadas\nGracias por el apoyo",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-13T13:57:59.410Z",
+          "fechaTexto": "13/01/2026 07:57 a. m.",
+          "fechaVisible": "13 de Jan, 07:57:59 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-13T13:09:27.437Z",
+          "fechaTexto": "13/01/2026 07:09 a. m.",
+          "fechaVisible": "13 de Jan, 07:09:27 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde. \n\nLas seguridades son las siguientes:\n\nNomina.AutorizarCancelarOperaciones -> operaciones de nómina\n\nNomina.GenerarOrdenesDePago -> Generar órdenes de pago de nómina",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-13T00:28:42.530Z",
+          "fechaTexto": "12/01/2026 06:28 p. m.",
+          "fechaVisible": "12 de Jan, 06:28:42 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - historial/bitácora de la cuenta ANGELIPEREZ",
+      "descripcionDetallada": "Buenas tardes\nSe pide de su apoyo con la finalidad de proporcionarnos el historial/bitácora de la cuenta ANGELIPEREZ del ambiente productivo, desde que se creó, actualizó (permisos, grupos) y se dio de baja (deshabilitó), asimismo, de cuando fue asignada al número de personal 32861.\nSe requieren saber las fechas y los usuarios que realizaron dicha acción.\nGracias de antemano, reciban saludos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "15/12/2025 06:43 p. m.",
+      "fechaRegistroVisible": "15/12/2025 06:43 p. m.",
+      "id": 5638,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-20T16:14:34.870Z",
+          "fechaTexto": "20/01/2026 10:14 a. m.",
+          "fechaVisible": "20 de Jan, 10:14:34 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe adjuntan bitácoras de seguridades y modificaciones del personal, así mismo se busco en la BD tomando como fecha de inicio el 01-01-2020 al 31-12-2025 para identificar operaciones realizadas por el usuario y no se identifica en el registro ninguna operación por parte del usuario ANGELIPEREZ",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-19T19:44:06.813Z",
+          "fechaTexto": "19/01/2026 01:44 p. m.",
+          "fechaVisible": "19 de Jan, 01:44:06 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl día de mañana estaremos dando retroalimentación a esta información",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": "2026-01-07T01:35:06.067Z",
+          "fechaTexto": "06/01/2026 07:35 p. m.",
+          "fechaVisible": "6 de Jan, 07:35:06 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe está revisando lo pedido en la solicitud de apoyo, dado que es un rango amplio de información y hay que tener cuidado con el nivel de consulta a realizar para no afectar el tamaño de la base de datos, por lo que informaremos una vez tengamos los datos correspondientes",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "22/12/2025 02:06 p. m.",
+          "fechaVisible": "22/12/2025 02:06 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Consulta edición apartado Observación activo fijo",
+      "descripcionDetallada": "A solicitud de la Dirección de Control de Bienes, Muebles e Inmuebles, solicitan que les indiquen que usuario actualizó el apartado Observaciones de los activos fijos 404763 y 404767\n\nAdjunto imágenes de los activos y es importante mencionar que requieren esta información en calidad de urgente y de ser posible para el día de hoy\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "14/10/2025 01:38 p. m.",
+      "fechaRegistroVisible": "14/10/2025 01:38 p. m.",
+      "id": 5249,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo solicitado",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 11:09 a. m.",
+          "fechaVisible": "21/11/2025 11:09 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "20/10/2025 01:38 p. m.",
+          "fechaVisible": "20/10/2025 01:38 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "En atención a la solicitud, mediante la cual se requiere identificar qué usuario realizó la actualización en el apartado “Observaciones” de los activos fijos 404763 y 404767, me permito informar lo siguiente:\n\n\nDespués de realizar la consulta correspondiente en el sistema, no fue posible identificar de manera específica al usuario que modificó directamente dicho campo.\n\n\nNo obstante, a través de una revisión general del historial de movimientos de los activos mencionados, se observó que las últimas modificaciones registradas corresponden a los siguientes usuarios:\n\n\nActivo       Usuario         Fecha de última modificación\n404763    OVELASCO            01/10/2025\n404767    AINGRAM             04/06/2025\n\n\nSin más por el momento, quedo atenta a cualquier aclaración o información adicional que se requiera.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/10/2025 08:30 p. m.",
+          "fechaVisible": "14/10/2025 08:30 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "14/10/2025 05:13 p. m.",
+          "fechaVisible": "14/10/2025 05:13 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ- inconsistencia para flujo de revisión del trámite 18004003",
+      "descripcionDetallada": "El Departamento de Servicios Generales reporta que el sistema está asignado doble estado al momento de detonar el Enviado a Servicios Generales en operaciones del trámite 18004003.\nSe adjunta documento con el detalle.\nQuedamos al pendiente.,",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/08/2025 12:21 p. m.",
+      "fechaRegistroVisible": "21/08/2025 12:21 p. m.",
+      "id": 4915,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido lo reportado en este incidente.\nGracias por la atención.",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "26/11/2025 06:37 p. m.",
+          "fechaVisible": "26/11/2025 06:37 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/08/2025 11:48 p. m.",
+          "fechaVisible": "28/08/2025 11:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nComparto el análisis realizado por mis compañeros de ingeniería:\n\n\n\n\nDe la revisión realizada se identifica que la tarea 375 estado 1 \"Enviado a Servicios Generales\", se marcó cómo \"Estado de finalización\", por lo que, el sistema al identificar esta configuración de manera automática valida si tiene una secuencia y automática para terminar el proceso se pasa a la tarea y estado de la que tiene secuencia, y como para el flujo se encuentra que tiene una secuencia a la tarea 375 estado 2 \"Procede\", es por ello que la operación queda en este ultimo estado.\n\nSe revisó en un respaldo que anteriormente tarea 375 estado 1 no se tiene marca \"Estado de finalización\", se realizó el cambio de configuración el 09-04-2025 por el usuario \"MARRODRIGUEZ\"\n\nMARTHA GRACIELA RODRIGUEZ AGUILAR.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/08/2025 05:11 p. m.",
+          "fechaVisible": "25/08/2025 05:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería se encuentra revisando lo reportado dentro del ticket, estaré dando retro una vez que me proporcionen el análisis de lo que revisaron",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 11:00 a. m.",
+          "fechaVisible": "22/08/2025 11:00 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos",
+      "descripcionDetallada": "Buenas tardes, algunas áreas nos reportan que visualizan el siguiente error:\n\n---------------------------\nError: Generar factura\n---------------------------\n(AVA)\n\nEste error no afecta los datos. La aplicación puede continuar correctamente. [ 00000000 ---> 000000000000004] 'SireServer15b_TERCERO UV\n---------------------------\nOK\n---------------------------\n\nSe les presento en la requisición, luego en la solicitud y ahorita en la factura\n\nAdjunto documento Word con pantallas\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "28/05/2025 12:07 p. m.",
+      "fechaRegistroVisible": "28/05/2025 12:07 p. m.",
+      "id": 4403,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 8,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo solicitado",
+          "consecutivo": 8,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 09:17 a. m.",
+          "fechaVisible": "24/06/2025 09:17 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Gracias.\n\nSe manda a finalizar el ticket",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 08:05 p. m.",
+          "fechaVisible": "23/06/2025 08:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes \n\nSe reviso y esta correcto lo atendido\n\nSaludos Cordiales",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 01:53 p. m.",
+          "fechaVisible": "23/06/2025 01:53 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 08:14 p. m.",
+          "fechaVisible": "18/06/2025 08:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se derivo a un problema en los servidores de una validación que corrigió el personal de ingeniería, por eso fue necesario cambiar servidores",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 08:13 p. m.",
+          "fechaVisible": "18/06/2025 08:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "buenas tardes\n\nSe confirma de enterados, asimismo, se solicita retroalimentación respecto a qué fue lo que detonó el error reportado.\n\nGracias de antemano, permanecemos al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 07:36 p. m.",
+          "fechaVisible": "18/06/2025 07:36 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:25 p. m.",
+          "fechaVisible": "17/06/2025 02:25 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "El día de hoy se entrega en la actualización que se está realizando al ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:23 p. m.",
+          "fechaVisible": "17/06/2025 02:23 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

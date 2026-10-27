@@ -1,0 +1,605 @@
+[
+  {
+    "IDTicket": {
+      "text": "7318",
+      "label": "# de ticket:\n7318"
+    },
+    "FechaRegistro": {
+      "text": "14 de Oct, 05:48:48 PM",
+      "label": "Fecha de registro:\n14/10/2026 05:48 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "en Espera de Respuesta",
+      "label": "Estatus :\nen Espera de Respuesta"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "FESANTOS-Error al realizar Transferencia de Mercancía Interna",
+      "label": "Descripción breve:\nFESANTOS-Error  al realizar Transferencia de Mercancía Interna"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes\n\nLa DCBMel nos reporte un error al querer realizar la transferencia de mercancía Interna del área física 5854 a la 5882 del Articulo Interno 51150010033.\n\nPor parte de esta unidad, al revisar el articulo interno, identificamos un número negativo (-14) del cual requerimos nos indiquen si este es el que esta afectando la transferencia y a que se debe que se presentará dicho negativo.\n\nAdjunto documento Word con la imagen del error y con el negativo identificado por esta unidad\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenas tardesLa DCBMel nos reporte un error al querer realizar la transferencia de mercancía Interna del área física 5854 a la 5882 del Articulo Interno 51150010033.Por parte de esta unidad, al revisar el articulo interno, identificamos un número negativo (-14) del cual requerimos nos indiquen si es..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "7264",
+      "label": "# de ticket:\n7264"
+    },
+    "FechaRegistro": {
+      "text": "1 de Oct, 05:44:24 PM",
+      "label": "Fecha de registro:\n01/10/2026 05:44 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "en Espera de Respuesta",
+      "label": "Estatus :\nen Espera de Respuesta"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "caquiroz - duda sobre la ejecución del Script \"Actualización de estatus físicos de activo\"",
+      "label": "Descripción breve:\ncaquiroz - duda sobre la ejecución del Script  \"Actualización de estatus físicos de activo\""
+    },
+    "DescripcionTicket": {
+      "text": "Se requiere saber si el Script \"Actualización de estatus físicos de activo\" ActualizaEstActivFijo3C_Cli, podría ser ejecutado simultáneamente, en virtud de que la ejecución simultánea del script por múltiples usuarios (en promedio 12 personas) provoca fallas en el SPRFM, impidiendo que la actualización masiva de estados físicos se realice de manera íntegra y confiable.\n\nComo consecuencia, un número significativo de registros no se actualiza correctamente, lo que obliga al personal de esta Dirección a efectuar las modificaciones de manera manual.\n\nQuedamos al pendiente de su retroalimentación.\n\nSaludos.",
+      "label": "Descripción detallada:\nSe requiere saber si el Script  \"Actualización de estatus físicos de activo\" ActualizaEstActivFijo3C_Cli, podría ser ejecutado simultáneamente, en virtud de que la ejecución simultánea del script por múltiples usuarios (en promedio 12 personas) provoca fallas en el SPRFM, impidiendo que la actualiza..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "6720",
+      "label": "# de ticket:\n6720"
+    },
+    "FechaRegistro": {
+      "text": "18 de Jun, 01:15:16 PM",
+      "label": "Fecha de registro:\n18/06/2026 01:15 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos_Error al autorizar áreas físicas en Trans mercancía Interna",
+      "label": "Descripción breve:\nfesantos_Error al autorizar áreas físicas en Trans mercancía Interna"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes\nLa DCBMel, nos reporta que a la usuario C. Marisol Moreno Acevedo (MARISMORENO), se le esta presentando un mensaje de error al intentar Autorizar cambios de áreas físicas dentro del módulo de Transferencia de mercancía Interna.\n\nAdjunto documento Word con imágenes del error y mayor detalle\n\nQuedamos al pendiente de sus comentarios del porque se presenta dicha situación\n\nGracias de antemano, saludos",
+      "label": "Descripción detallada:\nBuenas tardesLa DCBMel, nos reporta que a la usuario C. Marisol Moreno Acevedo (MARISMORENO), se le esta presentando un mensaje de error al intentar Autorizar cambios de áreas físicas dentro del módulo de Transferencia de mercancía Interna.Adjunto documento Word con imágenes del error y mayor detall..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "6645",
+      "label": "# de ticket:\n6645"
+    },
+    "FechaRegistro": {
+      "text": "3 de Jun, 11:50:54 AM",
+      "label": "Fecha de registro:\n03/06/2026 11:50 a. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos-Diferencia en costo unitario en activo fijo",
+      "label": "Descripción breve:\nfesantos-Diferencia en costo unitario en activo fijo"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes\n\nLa DCBMel, identificó una diferencia en el módulo de recepción de mercancía en el costo unitario del articulo registrado subsistema contra la CFDI, en el egreso 823264\n\nAdjunto correo sustente y correo con el detalle de las pantallas, para que nos apoyen indicándonos a que se debe la diferencia identificada y en la atención de la misma\n\nQuedamos al pendiente\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenas tardes La DCBMel, identificó una diferencia en el módulo de recepción de mercancía en el costo unitario del articulo registrado subsistema contra la CFDI, en el egreso 823264Adjunto correo sustente y correo con el detalle de las pantallas, para que nos apoyen indicándonos a que se debe la dif..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": {
+      "text": "Buenos días Les comento que ya quedo atendida y validada nuestra solicitud de la diferencia de $0.01 en la cuenta de Equipos y Aparatos Audiovisuales. Les agradecemos el apoyo brindado",
+      "label": "Comentarios Finales:\nBuenos días\n\nLes comento que ya quedo atendida y validada nuestra solicitud de la diferencia de $0.01 en la cuenta de Equipos y Aparatos Audiovisuales.\nLes agradecemos el apoyo brindado"
+    }
+  },
+  {
+    "IDTicket": {
+      "text": "6564",
+      "label": "# de ticket:\n6564"
+    },
+    "FechaRegistro": {
+      "text": "19 de May, 01:37:25 PM",
+      "label": "Fecha de registro:\n19/05/2026 01:37 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "en Espera de Respuesta",
+      "label": "Estatus :\nen Espera de Respuesta"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos_ Error al realizar reclasificación",
+      "label": "Descripción breve:\nfesantos_ Error al realizar reclasificación"
+    },
+    "DescripcionTicket": {
+      "text": "La Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que al intentar realizar la reclasificación de un bien activo fijo 412214 con dos fondos 410 y 749.\nAl realizar la reclasificación de los importes del fondo 749 al 410, marco un mensaje de error.\n\nAdjunto documento Word con el mensaje y detalle de lo indicado y correo sustento.\n\nQuedamos al pendiente del por que se esta presentando dicha situación y en caso de ser caso nos apoyen con su atención\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nLa Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que al intentar realizar la reclasificación de un bien activo fijo 412214 con dos fondos 410 y 749. Al realizar la reclasificación de los importes del fondo 749 al 410,  marco un mensaje de error.Adjunto documento Word con el mensaj..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "6290",
+      "label": "# de ticket:\n6290"
+    },
+    "FechaRegistro": {
+      "text": "26 de Mar, 12:29:24 PM",
+      "label": "Fecha de registro:\n26/03/2026 12:29 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos-Error en actualización de activos",
+      "label": "Descripción breve:\nfesantos-Error en actualización de activos"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes,\nLa DCBMel, nos reporta lo siguiente:\nAl realizar actualizaciones en los activos (estados físicos) en algunos casos, el Subsistema envía un mensaje de error.\nDicho error, se ha remediado cerrando el catálogo de activo fijo, y entrando de nuevo, posterior a realizar esa acción, el sistema permite realizar la actualización.\n\nPor lo que se requiere el apoyo del saber que ocasiona dicho error o como se puede solucionar\n\nAdjunto documento Word con el correo sustento de lo reportado donde se visualiza el mensaje de error\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenas tardes, La DCBMel, nos reporta lo siguiente:Al realizar actualizaciones en los activos  (estados físicos) en algunos casos, el Subsistema envía un mensaje de error. Dicho error, se ha remediado cerrando el  catálogo de activo fijo, y entrando de nuevo, posterior a realizar esa acción, el sist..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5972",
+      "label": "# de ticket:\n5972"
+    },
+    "FechaRegistro": {
+      "text": "5 de Feb, 09:36:56 AM",
+      "label": "Fecha de registro:\n05/02/2026 09:36 a. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "Saldo negativo en cuanta de deterioro acumulado",
+      "label": "Descripción breve:\nSaldo negativo en cuanta de deterioro acumulado"
+    },
+    "DescripcionTicket": {
+      "text": "Buenos días\nLa DCBMel, nos reporta lo siguiente:\nIdentificaron que se generaron saldos negativos en las cuentas de Deterioro acumulado de Bovinos, Ovinos y Equinos, por la duplicidad de registros al cancelar el deterioro acumulado.\n\nSe solicita el apoyo en la corrección de los registros duplicados y se corrijan los saldos negativos. Considerando que este ajustes tiene impacto en el cierre del ejercicio 2025, por lo que, es de prioridad alta.\n\nAdjunto documento Word con el detalle\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenos díasLa DCBMel, nos reporta lo siguiente:Identificaron que se generaron saldos negativos en las cuentas de Deterioro acumulado de Bovinos, Ovinos y Equinos, por la duplicidad de registros al cancelar el deterioro acumulado.Se solicita el apoyo  en la corrección de los registros duplicados y se..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5926",
+      "label": "# de ticket:\n5926"
+    },
+    "FechaRegistro": {
+      "text": "28 de Jan, 02:53:06 PM",
+      "label": "Fecha de registro:\n28/01/2026 02:53 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "SIRE",
+      "label": "Posesión:\nSIRE"
+    },
+    "NombreTicket": {
+      "text": "Error en código contable en Activo fijo",
+      "label": "Descripción breve:\nError en código contable en Activo fijo"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes\n\nLa DCBMel, nos reporta lo siguiente:\nSe identificó un error del bien controlable 067549 en el Código Contable ya que está como Obras en Proceso (123623020000), debiendo ser Muebles de Oficina y Estantería (124114000000).\n\nAdjunto documento Word con pantallas de lo mencionado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenas tardesLa DCBMel, nos reporta lo siguiente:Se identificó un error del bien controlable 067549 en el Código Contable ya que está como Obras en Proceso (123623020000), debiendo ser Muebles de Oficina y Estantería (124114000000).Adjunto documento Word con pantallas de lo mencionado Quedamos al pe..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5910",
+      "label": "# de ticket:\n5910"
+    },
+    "FechaRegistro": {
+      "text": "26 de Jan, 10:37:06 AM",
+      "label": "Fecha de registro:\n26/01/2026 10:37 a. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "Depreciación de un bien inmueble",
+      "label": "Descripción breve:\nDepreciación de un bien inmueble"
+    },
+    "DescripcionTicket": {
+      "text": "Buenos días\nLa DCBMel nos informa lo siguiente:\n\nSe presenta un incidente que se refiere a la aplicación de la depreciación de un bien mueble de activo fijo adquirido con dos fondos, que no está aplicando de manera correcta la depreciación ejecutada en el mes de noviembre y diciembre de 2025.\n\nAdjunto documento, para su atención ya que se requiere su atención para el cierre del ejercicio 2025\n\nQuedamos al pendiente\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenos díasLa DCBMel nos informa lo siguiente:Se presenta un incidente que se refiere a la aplicación de la depreciación de un bien mueble de activo fijo adquirido con dos fondos, que no está aplicando de manera correcta la depreciación ejecutada en el mes de noviembre y diciembre de 2025.Adjunto do..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5872",
+      "label": "# de ticket:\n5872"
+    },
+    "FechaRegistro": {
+      "text": "21 de Jan, 02:33:18 PM",
+      "label": "Fecha de registro:\n21/01/2026 02:33 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos-Incidente reclasificación de fondos",
+      "label": "Descripción breve:\nfesantos-Incidente reclasificación de fondos"
+    },
+    "DescripcionTicket": {
+      "text": "La DCBMel, nos reporta lo siguiente:\n\nDe la reclasificación de un bien de activo fijo con dos fondos,; se pretendía realizar la reclasificación de importes del fondo 720 al 410, sin embargo el Subsistema no lo permitió.\n\nSe adjunta documento Word con las capturas de pantalla del caso realizado en al ambiente Productivo, para que apoyen con la resolución\n\nQuedo al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nLa DCBMel, nos reporta lo siguiente:De la reclasificación de un bien de activo fijo con dos fondos,; se pretendía realizar la reclasificación de importes del fondo 720 al 410, sin embargo el Subsistema no lo permitió.Se adjunta documento Word con las capturas de pantalla del caso realizado en al amb..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5860",
+      "label": "# de ticket:\n5860"
+    },
+    "FechaRegistro": {
+      "text": "20 de Jan, 09:41:25 AM",
+      "label": "Fecha de registro:\n20/01/2026 09:41 a. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "caquiroz - revisión de funcionamiento del cambio de valor de la UMA",
+      "label": "Descripción breve:\ncaquiroz - revisión de funcionamiento del cambio de valor de la UMA"
+    },
+    "DescripcionTicket": {
+      "text": "Buen día\nEn relación al cambio anual del valor de la UMA, se requiere de su apoyo para indicarnos si el cambio ya se considerará en las operaciones que se realicen o falta algo más por hacer por parte de ustedes, en virtud de que el año pasado se realizó el cambio del valor de la UMA y al crear egresos no se contemplaba el nuevo valor, esto fue reportado en el incidente 42445 (plataforma anterior) y ustedes tuvieron que realizar algo internamente a fin de que ya se considerara el valor actual.\nNos mantenemos al pendiente, adjunto pantalla de incidente 42445 de antecedente.\nSaludos.",
+      "label": "Descripción detallada:\nBuen díaEn relación al cambio anual del valor de la UMA, se requiere de su apoyo para indicarnos si el cambio ya se considerará en las operaciones que se realicen o falta algo más por hacer por parte de ustedes, en virtud de que el año pasado se realizó el cambio del valor de la UMA y al crear egres..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5596",
+      "label": "# de ticket:\n5596"
+    },
+    "FechaRegistro": {
+      "text": "08/12/2025 02:06 p. m.",
+      "label": "Fecha de registro:\n08/12/2025 02:06 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "caquiroz - seguimiento de solicitud de cancelación de depreciación",
+      "label": "Descripción breve:\ncaquiroz - seguimiento de solicitud de cancelación de depreciación"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes\nEl día 4 de diciembre, el Ing. David Lima comunicó vía telefónica a la Lic. Angélica Báez que el departamento de Normatividad le informó que detectaron que en algunos casos de la depreciación del mes de noviembre del 2025 existen diferencias en decimales en los activos que llegaron al 100% de la depreciación y que con la finalidad de corregir se requería que cancelaran la depreciación para que se pueda correr un script que corrige la problemática, y que posterior se registre nuevamente la depreciación para que quede de forma correcta.\nTras estar en comunicación para la atención de lo ya expuesto, se indicó que se requería un correo sustento para realizar la cancelación de la depreciación, para lo cual el Ing. David emitió un correo describiendo la problemática y la necesidad de correr el script para la corrección.\nSin embargo, la DCBMEI requiere que se le indique con exactitud los “ajustes” que realizarán en el Subsistema de Planeación, Recursos Financieros y Materiales, toda vez que servirá para analizar el impacto que se tendrá en los Estados Financieros del mes en el cuál se aplique la depreciación y además el mismo será su soporte ante los Entes de Fiscalización, en caso de identificar diferencias en la depreciación.\nCabe señalar, que por las fechas del cierre contable del mes de noviembre 2025 y los procesos que se están ejecutando para pago de nóminas, ya no es posible en este momento cancelar la depreciación y se sugiere que el script con el cuál se corrige, sea aplicado en el mes de diciembre y cuando se procese la depreciación del citado mes ya no se presente la diferencia identificada.\nPor lo anterior, nos mantenemos al pendiente de la retroalimentación que requiere la DCBMEI.",
+      "label": "Descripción detallada:\nBuenas tardesEl día 4 de diciembre, el Ing. David Lima comunicó vía telefónica a la Lic. Angélica Báez que el departamento de Normatividad le informó que detectaron que en algunos casos de la depreciación del mes de noviembre del 2025 existen diferencias en decimales en los activos que llegaron al 1..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5375",
+      "label": "# de ticket:\n5375"
+    },
+    "FechaRegistro": {
+      "text": "03/11/2025 12:12 p. m.",
+      "label": "Fecha de registro:\n03/11/2025 12:12 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos-Reclasificación de Fondos",
+      "label": "Descripción breve:\nfesantos-Reclasificación de Fondos"
+    },
+    "DescripcionTicket": {
+      "text": "Buenos días\nDando seguimiento a lo reportado en los folios 37151 y 41383, al realizarse la clonación de productivo a Calidad para que la DCBMel realizará las validaciones correspondientes de lo atendido en productivo, estos identifican lo siguiente:\n\nDerivado de la clonación de productivo a Calidad realizadas por el proveedor, se realizaron diversas pruebas en el SPRFM CALIDAD, mismas que resultaron negativas.\n\nPor lo anterior, es conveniente que el proveedor nos explique cómo realizar la configuración correcta del Concepto de reclasificación de fondos y los pasos a seguir para llegar al resultado correcto.\n\nSe comparten dos casos requeridos para la reclasificación de fondos, en donde se documentan los pasos realzados, la forma en que se configuró el Concepto de reclasificación de fondos, los resultados incorrectos obtenidos, así como los resultados contables esperados para cada caso.\n\nCaso1: Reclasificación de fondos de bienes con saldo pendiente de depreciar.\nCaso 2: Reclasificación de fondos, de bienes completamente depreciados con una última depreciación en el ejercicio actual.\n\nAdjunto documentos Word con el detalle de los casos 1 y 2 identificados\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenos díasDando seguimiento a lo reportado en los folios 37151 y 41383, al realizarse la clonación de productivo a Calidad para que la DCBMel realizará las validaciones correspondientes de lo atendido en productivo, estos identifican lo siguiente: Derivado de la clonación de productivo a Calidad re..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "5328",
+      "label": "# de ticket:\n5328"
+    },
+    "FechaRegistro": {
+      "text": "24/10/2025 01:53 p. m.",
+      "label": "Fecha de registro:\n24/10/2025 01:53 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Solicitud de Finalización",
+      "label": "Estatus :\nSolicitud de Finalización"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "caquiroz - Actualización de avalúo",
+      "label": "Descripción breve:\ncaquiroz - Actualización de avalúo"
+    },
+    "DescripcionTicket": {
+      "text": "Buenas tardes\nLa DCBMeI requiere se agregue la opción de tipo \"Vehículos\" en el módulo de actualización de avalúo, puesto que indican que cuando se liberó el sistema la configuración que les fue entregada no cuenta con dicha opción, sin embargo, requieren realizar valuación de bienes vehículos.\nAsimismo, indican que el apartado \"Modificación de vida útil\" debe mostrarse para el tipo Muebles y el tipo Vehículos.\nSe adjunta documento con el correo sustento.\nQuedamos al pendiente.",
+      "label": "Descripción detallada:\nBuenas tardesLa DCBMeI requiere se agregue la opción de tipo \"Vehículos\" en el módulo de actualización de avalúo, puesto que indican que cuando se liberó el sistema la configuración que les fue entregada no cuenta con dicha opción, sin embargo, requieren realizar valuación de bienes vehículos.Asimis..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": null,
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "4916",
+      "label": "# de ticket:\n4916"
+    },
+    "FechaRegistro": {
+      "text": "21/08/2025 12:38 p. m.",
+      "label": "Fecha de registro:\n21/08/2025 12:38 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "Duda usuario edición activo fijo",
+      "label": "Descripción breve:\nDuda usuario edición activo fijo"
+    },
+    "DescripcionTicket": {
+      "text": "Buenos días\n\nA solicitud de la Dirección de Bienes, Muebles e Inmuebles, se solicita que nos indiquen que usuario modifico el campo \"SERIE\" del activo 427289\nAdjunto pantalla de lo solicitado\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenos días A solicitud de la Dirección de Bienes, Muebles e Inmuebles, se solicita  que nos indiquen que usuario modifico el campo \"SERIE\" del activo 427289Adjunto pantalla de lo solicitado Quedamos al pendiente de sus comentarios Saludos Cordiales"
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "4473",
+      "label": "# de ticket:\n4473"
+    },
+    "FechaRegistro": {
+      "text": "11/06/2025 11:07 a. m.",
+      "label": "Fecha de registro:\n11/06/2025 11:07 a. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "fesantos-Error al generar copia de resguardo",
+      "label": "Descripción breve:\nfesantos-Error al generar copia de resguardo"
+    },
+    "DescripcionTicket": {
+      "text": "Buenos días, la Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que no le está permitiendo copiar el resguardo 70656, Favor de revisar, ya que, en otras ocasiones si les ha permitido generar la copia de un resguardo con las mismas condiciones\n\nAdjunto imagen del error y quedamos al pendiente de su respuesta, comentándoles que es urgente de atención\n\nSaludos Cordiales",
+      "label": "Descripción detallada:\nBuenos días, la Dirección de Control de Bienes, Muebles e Inmuebles, nos reporta que no le está permitiendo copiar el resguardo 70656, Favor de revisar, ya que, en otras ocasiones si les ha permitido generar la copia de un resguardo con las mismas condicionesAdjunto imagen del error y quedamos al pe..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "4454",
+      "label": "# de ticket:\n4454"
+    },
+    "FechaRegistro": {
+      "text": "06/06/2025 12:47 p. m.",
+      "label": "Fecha de registro:\n06/06/2025 12:47 p. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "caquiroz - error en script actualización de estatus de activo fijo - productivo",
+      "label": "Descripción breve:\ncaquiroz - error en script actualización de estatus de activo fijo - productivo"
+    },
+    "DescripcionTicket": {
+      "text": "La DCBMeI nos comparte observaciones relacionadas con el script actualización de estatus de activo fijo en la Utilería de 3 capas en productivo, el cual venía funcionando correctamente, sin embargo, en este periodo está presentando inconsistencias, pues no está actualizando los estatus de no localizados.\nEs importante mencionar que también se verificó en calidad y presenta la misma situación.\nSe adjunta documento con el detalle, asimismo, se solicita el apoyo para que revisen el script a fin de que se identifique cual puede ser la causa de la inconsistencia presentada.",
+      "label": "Descripción detallada:\nLa DCBMeI nos comparte observaciones relacionadas con el script actualización de estatus de activo fijo en la Utilería de 3 capas en productivo, el cual venía funcionando correctamente, sin embargo, en este periodo está presentando inconsistencias, pues no está actualizando los estatus de no localiz..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  },
+  {
+    "IDTicket": {
+      "text": "4077",
+      "label": "# de ticket:\n4077"
+    },
+    "FechaRegistro": {
+      "text": "08/04/2025 11:13 a. m.",
+      "label": "Fecha de registro:\n08/04/2025 11:13 a. m."
+    },
+    "TheidEstatusTicketnombreEstatus": {
+      "text": "Finalizado",
+      "label": "Estatus :\nFinalizado"
+    },
+    "Pertenencia": {
+      "text": "Cliente",
+      "label": "Posesión:\nCliente"
+    },
+    "NombreTicket": {
+      "text": "Error en transferencia de mercancía",
+      "label": "Descripción breve:\nError en transferencia de mercancía"
+    },
+    "DescripcionTicket": {
+      "text": "La Dirección de Bines, Muebles e Inmuebles, nos reporta que al realizar una trasferencia de mercancía interna en la misma unidad responsable, al darle autorizar envía mensaje de error.\nAdjunto pantalla con el mensaje de error\nEl área solicita el apoyo para indicar porque se esta presentando y la corrección del mismo\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "label": "Descripción detallada:\nLa Dirección de Bines, Muebles e Inmuebles, nos reporta que al realizar una trasferencia de mercancía interna en la misma unidad responsable, al darle autorizar envía mensaje de error.Adjunto pantalla con el mensaje de errorEl área solicita el apoyo para indicar porque se esta presentando y la corre..."
+    },
+    "IDPrioridadClienteprioridad": {
+      "text": "Alta",
+      "label": "Prioridad :\nAlta"
+    },
+    "TheidEvaluacionticketnombreevaluacionticket": {
+      "text": "Bueno",
+      "label": "Evaluación del servicio de atención:\nBueno"
+    },
+    "ComentariosF": null
+  }
+]

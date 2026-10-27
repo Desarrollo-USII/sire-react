@@ -1,0 +1,1 @@
+{"name":"sire-tickets-local","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build"},"dependencies":{"@fortawesome/fontawesome-free":"^7.3.1","@fortawesome/fontawesome-svg-core":"^7.3.1","@fortawesome/free-solid-svg-icons":"^7.3.1","bootstrap":"^5.3.8","react":"19.2.0","react-dom":"19.2.0","vite":"7.1.12"}}

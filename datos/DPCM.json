@@ -1,0 +1,918 @@
+{
+  "metadata": {
+    "sistema": "DPCM",
+    "cuenta": "INCUV_DPCM",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 15,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 15,
+    "totalSeguimientos": 75,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "[ABAEZ] -Solicitud de apoyo para habilitar el indicador de inversión publica en los proyectos 0032463 y 0032464 en el ambiente productivo de SPRFM",
+      "descripcionDetallada": "A petición de la Dirección de Proyectos, Construcciones y Mantenimiento, solicito su valioso apoyo con prioridad alta, a efecto de habilitar, en el módulo de proyectos de PbR del ambiente productivo de SPRFM, el indicador Es Inv. Publica por mantenimiento en las claves 0032463 y 0032464. Se anexan pantallas.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "06/03/2026 10:08 a. m.",
+      "fechaRegistroVisible": "6 de Mar, 10:08:18 AM",
+      "id": 6157,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Angie de acuerdo a lo que comentamos\n\nSe ejecuto la misma acción de producción en calidad para cambio del proyecto para que validen en calidad y ambos ambientes estén a la par",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-12T18:27:36.743Z",
+          "fechaTexto": "12/03/2026 12:27 p. m.",
+          "fechaVisible": "12 de Mar, 12:27:36 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:52:01.117Z",
+          "fechaTexto": "25/05/2026 09:52 a. m.",
+          "fechaVisible": "25 de May, 09:52:01 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - ajuste en los PbR 0032463 y 0032464",
+      "descripcionDetallada": "A petición de la Dirección de Proyectos, se pide de su apoyo para modificar el campo TIpo para los PbR 0032463 y 0032464;:\nDice: Inversión pública\nDebe decir: operación\nLo anterior, en virtud de que al tratarse de obras de rolado, el sistema hace la validación con el ejercicio anterior y deben tener la misma información en el campo tipo y actualmente no permite continuar nuestros trámites para el pago al contratista.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/02/2026 02:16 p. m.",
+      "fechaRegistroVisible": "27 de Feb, 02:16:19 PM",
+      "id": 6115,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nEl personal de Ingeniería se encuentra analizando la solicitud de apoyo para poder realizar la actividad correspondiente, el día de hoy les estaré informando sobre dicha atención",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-03-02T15:10:43.143Z",
+          "fechaTexto": "02/03/2026 09:10 a. m.",
+          "fechaVisible": "2 de Mar, 09:10:43 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\n\n\nInformo que ya se encuentra atendida la solicitud de apoyo correspondiente en el ambiente de producción",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-03-03T03:48:51.127Z",
+          "fechaTexto": "02/03/2026 09:48 p. m.",
+          "fechaVisible": "2 de Mar, 09:48:51 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-03T03:49:04.750Z",
+          "fechaTexto": "02/03/2026 09:49 p. m.",
+          "fechaVisible": "2 de Mar, 09:49:04 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al eliminar el PbR 0033144",
+      "descripcionDetallada": "La DPCM está intentando eliminar el PbR 0033144, sin embargo, se emite un error.\nSe adjunta documento con la imagen que muestra el error.\nQuedamos al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/02/2026 12:30 p. m.",
+      "fechaRegistroVisible": "27 de Feb, 12:30:27 PM",
+      "id": 6113,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nEl día de hoy se dará retroalimentación sobre lo reportado",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-03-02T15:12:40.887Z",
+          "fechaTexto": "02/03/2026 09:12 a. m.",
+          "fechaVisible": "2 de Mar, 09:12:40 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\n\n\nLa atención al ticket ya se tiene, sin embargo, es necesario realizar una actualización de servidor, se revisará con el Mtro. Rafa y la Lic. Angelica Báez si es posible realizar la actualización en esta semana ya sea el día de hoy por la noche o cuando me indiquen",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": "2026-03-03T18:31:31.723Z",
+          "fechaTexto": "03/03/2026 12:31 p. m.",
+          "fechaVisible": "3 de Mar, 12:31:31 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl día de ayer por la noche se llevo a cabo la actualización del ambiente de producción como parte de la atención a dicho ticket, con la finalidad de que el usuario pueda llevar a cabo el borrado del proyecto correspondiente",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-03-04T16:13:17.647Z",
+          "fechaTexto": "04/03/2026 10:13 a. m.",
+          "fechaVisible": "4 de Mar, 10:13:17 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-04T16:15:36.873Z",
+          "fechaTexto": "04/03/2026 10:15 a. m.",
+          "fechaVisible": "4 de Mar, 10:15:36 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - solicitud de apoyo en desmarcar casilla en PbR",
+      "descripcionDetallada": "Buen día\nSe solicita ajuste en el PbR 0032444, se requiere desmarcar la casilla “No utiliza nota de trámite de obra ni costo estimado en proyecto” ya que por error se marcó esta casilla en el módulo de PbR, lo cual repercute en que no es posible cargar la nota de bitácora, indispensable para el trámite de estimaciones para el pago al contratista.\nGracias de antemano, quedamos al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/02/2026 11:54 a. m.",
+      "fechaRegistroVisible": "27 de Feb, 11:54:15 AM",
+      "id": 6112,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\n\n\nEl personal de Ingeniería se encuentra analizando la solicitud de apoyo para poder realizar la actividad correspondiente, el día de hoy les estaré informando sobre dicha atención",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-03-02T15:13:23.777Z",
+          "fechaTexto": "02/03/2026 09:13 a. m.",
+          "fechaVisible": "2 de Mar, 09:13:23 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nInformo que ya se encuentra atendida la solicitud de apoyo correspondiente en el ambiente de producción",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-03-03T03:48:23.880Z",
+          "fechaTexto": "02/03/2026 09:48 p. m.",
+          "fechaVisible": "2 de Mar, 09:48:23 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-03T03:49:19.533Z",
+          "fechaTexto": "02/03/2026 09:49 p. m.",
+          "fechaVisible": "2 de Mar, 09:49:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en pagos a contratista solo para registro",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Proyectos reporta una situación que presenta el Departamento de Caja al intentar efectuar el pago de las estimaciones que se realizaron para la corrección del contrato 600.\nSe adjunta detalle de los mensajes de error que se detonan al marcarlos de pagado solo para registro.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "30/09/2025 12:21 p. m.",
+      "fechaRegistroVisible": "30/09/2025 12:21 p. m.",
+      "id": 5156,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "La Dirección de Proyectos comenta: Por parte de la DPCM agradecemos mucho el apoyo de todos ustedes para dar seguimiento con el proveedor, para efectuar las operaciones necesarias así como la validación de las mismas para verificar que no existan inconsistencias en los registros, por lo que se puede dar por finalizado el incidente.\nSaludos.",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/10/2025 02:45 p. m.",
+          "fechaVisible": "09/10/2025 02:45 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema se encuentra solventado en producción, indistintamente de que si existía un problema y se atendió, me comenta el personal de ingeniería que para estas operaciones que llevan desglose presupuestal, es necesario que para marcar como pagado se realice el pago (sin dispersión bancaria por H2H) desde la opción de pago por lotes, para que se agrupe por cuenta, ya que desde la muñeca (opción utilizada durante el reporte del ticket) aplica cuando las operaciones solo llevan una cuenta de pago (es decir, no involucra desglose presupuestal).\n\nCon la atención de lo reportado pueden realizar el pago de ambas ordenes de pago pendientes.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/10/2025 09:56 a. m.",
+          "fechaVisible": "08/10/2025 09:56 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería se encuentra atendiendo la problemática para que puedan realizar el pago de las órdenes de pago, les informo en un rato el avance de la atención de lo reportado de acuerdo a la información proporcionada por el personal, se está atendiendo con la urgencia que conlleva las operaciones de cierre trimestral",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "07/10/2025 03:10 p. m.",
+          "fechaVisible": "07/10/2025 03:10 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\npermanecemos al pendiente de la atención del incidente 5156, ya que ya que esta situación ha generado un desfase en el cierre contable del mes de septiembre (trimestre) del año en curso.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/10/2025 02:23 p. m.",
+          "fechaVisible": "07/10/2025 02:23 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nDe acuerdo, nos mantenemos al pendiente de la retroalimentación que nos puedan brindar.\n\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/10/2025 10:08 a. m.",
+          "fechaVisible": "06/10/2025 10:08 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de normatividad se encuentra apoyándome revisando el ticket, en cuanto me brinden la retroalimentación del análisis realizado se los comparto",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "03/10/2025 12:01 p. m.",
+          "fechaVisible": "03/10/2025 12:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al registrar los depósitos de anticipos a contratistas",
+      "descripcionDetallada": "La Dirección de Proyectos reporta error que se genera al registrar los depósitos de anticipos a contratistas para los contratos 381 y 298, hace referencia al anticipo de la CLC.\nSe pide de su apoyo para revisar, ya que es necesario concluir el registro y saldar el adeudo de ambas empresas contratistas.\nSe adjunta documento con los correos sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/09/2025 01:12 p. m.",
+      "fechaRegistroVisible": "24/09/2025 01:12 p. m.",
+      "id": 5126,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido.\nEn caso de que más adelante se requiera de la atención de otra situación relacionada con el reintegro del anticipo de los contratistas se estará generando otro incidente y mencionando al 5126 como antecedente.",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 12:16 p. m.",
+          "fechaVisible": "27/11/2025 12:16 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 02:02 p. m.",
+          "fechaVisible": "28/10/2025 02:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Emi.\n\nSi hay forma de revertir la operación, pudiendo ser cancelado el depósito que se genera y el reintegro desde el contrato, esto pueden realizarlo previamente en el ambiente de calidad con el contrato 381, ahí podrán observar que existe una cancelación de una operación y pudieran generar otro reintegro. o el contrato 298 pudieran utilizarlo",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/09/2025 10:16 a. m.",
+          "fechaVisible": "30/09/2025 10:16 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa Dirección de Egresos indica que de acuerdo al análisis del nuevo procedimiento para realizar éste reintegro, pregunto…¿este proceso tiene manera de revertirse? Dado que como será la primera vez que se ejecute, esperamos que si el registro no es el adecuado, tendríamos que revertirlo.\n\nGracias de antemano, quedamos al pendiente.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 05:02 p. m.",
+          "fechaVisible": "29/09/2025 05:02 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe comparte documento indicando el proceso para realizar el reintegro del anticipo de los contratistas.\n\nEn caso de que presenten alguna duda quedo pendiente para brindarles el apoyo correspondiente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/09/2025 09:56 a. m.",
+          "fechaVisible": "25/09/2025 09:56 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRevisaremos el proceso que se encuentran realizando para generar el depósito y les brindare retroalimentación de acuerdo a lo revisado",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "24/09/2025 05:38 p. m.",
+          "fechaVisible": "24/09/2025 05:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error al realizar la nota de cierre de finiquito",
+      "descripcionDetallada": "La Dirección de Proyectos nos reporta que al intentar realizar la nota de cierre/finiquito el sistema les muestra un mensaje de error indicando que no existe nota de estimación al 100%.\nSe revisó el contrato 318 y está transferido parcialmente, por lo que se pidió que nos indicara si había ya anteriormente realizado una nota de finiquito/cierre para contratos con el mismo procedimiento y nos respondió lo siguiente:\nEn relación a su pregunta, si, pero en el mismo PbR, al ser un nuevo PbR por refrendo se crea una nueva Bitácora, y ya no hay una nota de estimación, que anteceda a la de cierre en este, yo considere ya no realizar la nota y solo dar por concluido el contrato en sistema, ya que lo importante es la liberación del recurso, ya que no se realizaran pagos este año, sin embargo nos preocupa sea estrictamente necesaria la creación de la nota para en proceso en sistema.\nPor lo anterior, pido de su apoyo para asesorarnos si va a ser necesaria la nota de cierre/finiquito o qué proceso se debe seguir para este tipo de casos.. contratos con nuevo PbR y nueva bitácora y que no tiene estimación.\nSe adjunta sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/09/2025 06:51 p. m.",
+      "fechaRegistroVisible": "08/09/2025 06:51 p. m.",
+      "id": 5014,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "buen día\nSe agradece la atención brindada, asimismo se da por atendido.\nSaludos.",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 10:58 a. m.",
+          "fechaVisible": "27/11/2025 10:58 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEs correcto ambos puntos que nos retroalimentan, la nota de cierre finiquito, no realiza ninguna transferencia a CLC, solo queda como un registro el cual no afecta en nada al proceso, sin embargo, la finalización de un contrato lo que realizará es la liberación del recurso restante que es el caso que tienen con el contrato informado, siendo necesaria la liberación del resta del contrato.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/09/2025 10:12 a. m.",
+          "fechaVisible": "17/09/2025 10:12 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nPor lo que entiendo, son dos cosas:\n\n1. Si la usuaria quería hacer un cierre/finiquito, primero debió hacer una nota al 100%.\n\n2. Como la usuaria realizó el cierre del contrato, ya no es necesario hacer la nota al 100% y la nota de cierre/finiquito, porque ya liberó el recurso.\n\nQuedo al pendiente, gracias de antemano.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 05:08 p. m.",
+          "fechaVisible": "11/09/2025 05:08 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "La finalización del contrato ya no permitirá realizar la nota de cierre finiquito, la nota de cierre es posterior a una nota del 100% (genera un egreso por el pago correspondiente a esa ultima CLC) en este caso como no la realizaron no podrán realizar una nota de cierre/finiquito hasta que se genere una de cierre al 100%, por ello es que se recomienda realizar la finalización del contrato y con ello libere el recurso sobrante tal cual lo necesitan, de lo contrario es obligatorio la nota al 100% y posterior el cierre/finiquito",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 12:30 p. m.",
+          "fechaVisible": "11/09/2025 12:30 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nGracias por la retroalimentación, solo surge una duda si posterior a la finalización del contrato se debe hacer la nota de cierre/finiquito y si el sistema lo permitirá.\n\nQuedamos al pendiente, saludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/09/2025 12:59 p. m.",
+          "fechaVisible": "10/09/2025 12:59 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nSe reviso este folio con Abdiel y me comenta lo siguiente:\n\nEl contrato para liberar el recurso ya que no se realizará ningún pago al proveedor dentro de este ejercicio, pudieran finalizarlo, con la acción de finalizar el contrato el presupuesto restante será liberado, ya que de lo contrario al no realizar la nota de estimación al 100% la que da paso para generar la de cierre/finiquito, sería necesario realizarla la cual generaría un gasto por el monto correspondiente.\n\nCon finalizar contrato, esto liberara el recurso restante, para realizar esta acción que así lo entendemos ya no debería de haber amortización pendiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 11:12 a. m.",
+          "fechaVisible": "09/09/2025 11:12 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - CLC reflejan saldo pendiente - ya están pagadas",
+      "descripcionDetallada": "La Dirección de Proyectos, reporta que está presentando inconsistencias con la CLC 3082 y 3083, pues indican que muestra saldo en el resta a pesar de que ya están pagadas las estimaciones y excedentes.\n\nSe adjunta documento sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "11/07/2025 10:20 a. m.",
+      "fechaRegistroVisible": "11/07/2025 10:20 a. m.",
+      "id": 4655,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "La DPCM nos indica que es correcto..\nGracias por la atención.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 05:37 p. m.",
+          "fechaVisible": "04/08/2025 05:37 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "15/07/2025 09:21 a. m.",
+          "fechaVisible": "15/07/2025 09:21 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido el ticket en el ambiente de producción, la diferencia reportada se derivo a que se una operación anterior a una corrección que ya se había realizado con anterioridad, la atención de este problema se solvento el 05/05/2025, sin embargo, la operación es del 28/04/2025, es por ello que se veía con un resta, por lo cual se solventaron para que no presente este problema, se reviso toda la información y solo estaban con esta diferencia visual las dos CLC reportadas.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/07/2025 09:17 a. m.",
+          "fechaVisible": "15/07/2025 09:17 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Seguimiento del incidente 42456",
+      "descripcionDetallada": "En el incidente 42456, se reportó un caso de anticipo a constructores que desglosó IVA en 2024. La DPCM consulta lo siguiente:\n) En el primer caso, en el cual las operaciones desglosan contablemente el IVA Acreditable, ¿Cómo se podría amortizar la parte correspondiente al banco y la correspondiente al IVA Acreditable?\n2) En el segundo caso, en el cual las operaciones no desglosan contablemente el IVA Acreditable, ¿Se podría asignar una seguridad en la operación para que el anticipo no desglose el IVA Acreditable?\n\nEn dicho incidente nos pidieron proporcionar nuevamente los ejemplos para poder realizar la revisión.\n\nAl presente incidente se adjunta el antecedente (incidente 42456 y los nuevos ejemplos realizados, asimismo, se tienen las siguientes preguntas, ya que se observa que en ambos casos, desmarcando o marcando la casilla del \"NO DEDUCIBLE\" en el egreso las afectaciones terminan siendo incorrectas, por lo cual se consulta:\n\n1. Si el tratamiento sería que el fondo desglose el IVA; ¿Cómo se podría amortizar la parte correspondiente al IVA Acreditable?\n\n2. Si el tratamiento sería que el fondo no desglose el IVA, ¿Se podría asignar una seguridad en el módulo del anticipo para que este no desglose el IVA Acreditable?\n\n3. O en su caso, que el proveedor pudiera indicar la manera de solventar la situación sin dejar un descuadre en la cuentas contables o un acreditamiento indebido del IVA\n\nQuedamos al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "23/05/2025 05:57 p. m.",
+      "fechaRegistroVisible": "23/05/2025 05:57 p. m.",
+      "id": 4387,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 18,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 18,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 02:02 p. m.",
+          "fechaVisible": "28/10/2025 02:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\n\n\nAl parecer existe una confusión respecto a este ticket, voy a comentarles el motivo y donde se origina esta confusión.\n\n\nLo comentado en el turno al que dimos respuesta respecto a que no se ha llevado a cabo la actualización es correcta, dado que en un incidente mencionaba que se pretendía actualizar producción en julio, específicamente el día 04/07/2025, sin embargo, por el tema del periodo vacacional esto no pudo llevarse a cabo, posteriormente se intento actualizar nuevamente, sin embargo, por un problema que nos reporto Emi en la autorización de nómina, tampoco fue posible realizar el cambio, por lo que no se ha actualizado producción a la versión de calidad que es donde esta la corrección del IVA a nivel general, por lo que en producción es normal que siga el problema dado que la mejora esta solo en calidad por el momento.\n\nPor lo que les pido el apoyo (esto lo informare por correo al Mtro. Rafa, Emi y la Mtra. Dacia) para que el área revise este punto y sus procesos de manera económica en ambiente de calidad para que se pueda realizar la actualización de producción a la versión de calidad 15.1.451.0, esto con el fin de que no pase lo mismo (Problema que reporto oportunamente Emi) y de esta forma en producción no se presente el problema actual, que como lo comentaba es derivado a que aun no se ha actualizado dicho ambiente, por lo cual sería necesario el cambio de release, y la autorización de las áreas correspondientes.",
+          "consecutivo": 17,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 04:57 p. m.",
+          "fechaVisible": "29/09/2025 04:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nAl parecer hay confusión en la respuesta, la DC requiere saber si la corrección que se realizó sólo contemplo el fondo 0924, ya que de acuerdo a la última retroalimentación que se dio al incidente 4387, se nos comentó que marcando o desmarcando la casilla no deducible el sistema contabilizaría correctamente, sin embargo, en las operaciones del anticipo no se desgloso el IVA lo cual implicaría un registro incorrecto del IVA (Se adjuntó documento con la captura de pantalla con las pólizas de anticipo generadas)",
+          "consecutivo": 16,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/09/2025 01:17 p. m.",
+          "fechaVisible": "25/09/2025 01:17 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Es correcto, dado que la actualización de producción no se ha realizado, esto fue informado por correo electrónico al Mtro. Rafa, Angelica Báez, Mtra. Dacia, derivado a un problema que nos reportaron en la nómina al momento de autorizarla en el ambiente de calidad, derivado a dicha problemática la actualización se suspendió, por lo cual esta pendiente volver a agendar, es por ello que no se notifico por parte de nosotros ni de la UV la actualización de producción, es por ello que aun presentan la observación realizada.",
+          "consecutivo": 15,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/09/2025 12:22 p. m.",
+          "fechaVisible": "23/09/2025 12:22 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nLa DC consulta si la corrección que se realizó sólo contemplo el fondo 0924, ya que de acuerdo a la última retroalimentación que se dio al incidente 4387, se nos comentó que marcando o desmarcando la casilla no deducible el sistema contabilizaría correctamente, sin embargo, en las operaciones del anticipo no se desgloso el IVA lo cual implicaría un registro incorrecto del IVA (Se adjunta captura de pantalla con las pólizas de anticipo generadas)",
+          "consecutivo": 14,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/09/2025 11:23 a. m.",
+          "fechaVisible": "23/09/2025 11:23 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Gracias por la aclaración, con lo que nos comparten la respuesta es que con la actualización que se va a realizar quedaría solventado, no sería necesario realizar corrección de datos, con el hecho de cambiar el release sería más que suficiente",
+          "consecutivo": 13,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 07:18 p. m.",
+          "fechaVisible": "11/09/2025 07:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Josue, buenas tardes\n\n\n\nTe comento que en este incidente se trató el tema de unas correcciones necesarias para que dos casos en relación a la casilla de no deducible, ya sea marcando la casilla \"no deducible\" o desmarcándola, para verificar que se contabilicen correctamente, ya sea que no desagregue el IVA (en el primer caso), o que si lo desagregue (en el segundo) y pidieron revisar las pólizas del anticipo y del pago de las estimaciones de ambos casos, con las correcciones realizadas,\n\n\nDe esto nos indicaron que en caso del visto bueno se requería pasar este release a producción, el cual fue dado el día 23 de junio y ese ustedes nos indicaron que aún no se tenía fecha para realizar esto porque se cruza el periodo vacacional.\n\nEntendemos que este incidente es uno de los contemplados para la actualización, es por lo que  se plantea la duda de si solo bastará con la actualización en productivo para la atención de lo reportado en este incidente o adicional ustedes van a modificar datos.\n\nQuedo al pendiente.",
+          "consecutivo": 12,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 01:46 p. m.",
+          "fechaVisible": "11/09/2025 01:46 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nNo entiendo a que se refieren si es de funcionalidad o de datos o de ambos, favor de ser más precisos a que se refieren con cada punto.\n\nDe lo contrario pueden revisarlo con Angelica Báez, ella cuenta con la información sobre que se realizará durante la actualización correspondiente.",
+          "consecutivo": 11,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 12:33 p. m.",
+          "fechaVisible": "11/09/2025 12:33 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\n\nSe requiere saber si la actualización en productivo es de funcionalidad o de datos o de ambos. \n\nEn virtud de que si también incluye actualización de datos, requerimos saber si se ajustará posterior a la actualización de la aplicación, esto para saber en qué momento hará la verificación el área.\n\nGracias de antemano, quedo al pendiente.",
+          "consecutivo": 10,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/09/2025 12:53 p. m.",
+          "fechaVisible": "10/09/2025 12:53 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 11:03 a. m.",
+          "fechaVisible": "24/06/2025 11:03 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nGracias por su visto bueno, así mismo informo que se vera con el Mtro. Rafa, para realizar la actualización del ambiente de producción máximo el día 04/07/2025, esto contemplando las fechas de vacaciones que tendrá el personal de la Universidad, en esta actualización se pondrá la versión de calidad donde revisaron este folio, por lo cual consulto con ustedes si están de acuerdo con la fecha correspondiente",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 01:08 p. m.",
+          "fechaVisible": "23/06/2025 01:08 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días\n\nEn seguimiento a las correcciones en el ambiente calidad, la Dirección de Contabilidad nos comenta lo siguiente:\n\nSe han revisado nuevamente las pólizas del caso uno, en el cual las operaciones desglosan IVA (Desmarcando el checkbox \"no deducible\" del contrato y de los egresos por estimaciones) y este mismo es amortizado contablemente en el pago de la estimación y, del caso dos, en el cual las operaciones no desglosen IVA (Marcando el checkbox \"no deducible\" del contrato y de los egresos por estimaciones), concluyendo que las afectaciones contables son correctas, por lo cual, se solicita al proveedor su valioso apoyo para realizar los mismos ajustes en el ambiente de producción. \n\nSe adjunta archivo Excel con las validaciones realizadas, para consulta\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 11:47 a. m.",
+          "fechaVisible": "23/06/2025 11:47 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 01:08 p. m.",
+          "fechaVisible": "18/06/2025 01:08 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe revisaron las preguntas con nuestra área normativa y nos comenta lo siguiente:\n\nSe realizaron la correcciones necesarias para que ambos casos, ya sea marcando la casilla \"no deducible\" o desmarcándola, contabilicen correctamente, ya sea que no desagregue el IVA (en el primer caso), o que si lo desagregue (en el segundo). Pueden revisar las pólizas del anticipo y del pago de las estimaciones de ambos casos, con las correcciones realizadas, para verificar que cualquiera de los dos casos ya operará correctamente el tema del IVA, por lo que el usuario podrá decidir si acreditará o no el IVA y a partir de ahí desmarcar o no la casilla de \"no deducible\" con la confianza de que el tratamiento se realizará correctamente, para ello necesitaríamos su visto bueno para pasar este release a producción.\n\nAhora bien, si de forma adicional requieren una seguridad, ya sería a través de la alta dirección. Que yo creo que ya no aplica porque se ve que mencionó lo de la seguridad porque veía que no contabilizaba bien, no porque lo necesitara, además de que el anticipo hereda la marca del contrato de obra y ya tienen una seguridad para editarla desde ahí entonces no tendría sentido añadir otra.\n\nDe tal forma que las 3 preguntas que nos realizan quedan atendidas con la respuesta brindada por nuestra área normativa, dando como resultado que no es necesaria una seguridad y la primera y tercera preguntan se responden con la actualización de calidad dado que si existía un problema el cual ya quedo solventado.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 01:04 p. m.",
+          "fechaVisible": "18/06/2025 01:04 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "La Dirección de Contabilidad apoyo en la revisión correspondiente, nos indican que ya no se desglosa de manera negativa, sin embargo, dan la siguiente respuesta:\n\nSiguen sin contestar las dudas acerca del tratamiento que se debe realizar ya sea desmarcando o marcando la casilla del \"NO DEDUCIBLE\" ya     que en el egreso las afectaciones terminan siendo incorrectas, por lo cual vuelve a solicitar la orientación de los siguientes supuestos:\n\n1. Si el tratamiento sería que el fondo desglose el IVA; ¿Cómo se podría amortizar la parte correspondiente al IVA Acreditable?\n\n2. Si el tratamiento sería que el fondo no desglose el IVA, ¿Se podría asignar una seguridad en el módulo del anticipo para que este no desglose el IVA Acreditable?\n\n3. O en su caso, que el proveedor pudiera indicar la manera de solventar la situación sin dejar un descuadre en las cuentas contables o un acreditamiento indebido del IVA\n\nSe adjunta correo sustento.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 10:22 a. m.",
+          "fechaVisible": "18/06/2025 10:22 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:14 p. m.",
+          "fechaVisible": "17/06/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, se realizó la actualización de calidad para la atención de lo indicado, dado que se realizo un recalculo de saldos del proveedor, ya que había quedado incorrecto, y se genero nuevamente la póliza correspondiente para su visto bueno y realizar este mismo ajuste en producción",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:10 p. m.",
+          "fechaVisible": "17/06/2025 12:10 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa duda presentada fue proporcionada al departamento de contabilidad para su análisis y atención correspondiente, una vez me proporcionen su respuesta se las brindare",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "28/05/2025 01:09 p. m.",
+          "fechaVisible": "28/05/2025 01:09 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "(ABAEZ) - Cancelación de CLC URGENTE",
+      "descripcionDetallada": "Solicitamos el apoyo para cancelar la CLC 2801 que corresponde a la estimación 2 Normal, del contrato número 441, en virtud a que no se no se pudo ni cancelar ni transferir, y al estar en el estatus \"Autorizada\" compromete el recurso. Es importante mencionar que el ejercicio del mes de marzo se encuentra cerrado y se ha estado trabajando de manera coordinada con el área de contabilidad quien apoya para que se realice la apertura del ejercicio tratando de resolver esta situación, la cual no ha sido posible (mes de marzo).",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "14/04/2025 03:52 p. m.",
+      "fechaRegistroVisible": "14/04/2025 03:52 p. m.",
+      "id": 4120,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Atendido.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 02:15 p. m.",
+          "fechaVisible": "05/08/2025 02:15 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "14/04/2025 10:13 p. m.",
+          "fechaVisible": "14/04/2025 10:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas noches Angie.\n\nPudieran por favor intentar nuevamente la cancelación de la operación por favor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/04/2025 10:12 p. m.",
+          "fechaVisible": "14/04/2025 10:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error de saldos en el desglose presupuestal",
+      "descripcionDetallada": "LA DPCM reporta una situación que se presenta en el desglose de saldos, se está mostrando un importe que ya fue liquidado desde la estimación.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/04/2025 05:15 p. m.",
+      "fechaRegistroVisible": "08/04/2025 05:15 p. m.",
+      "id": 4082,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Nos indica la DPCM que ya pudo continuar con su operación.\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "11/04/2025 05:49 p. m.",
+          "fechaVisible": "11/04/2025 05:49 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "11/04/2025 02:09 p. m.",
+          "fechaVisible": "11/04/2025 02:09 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra la atención de esta problemática reportada en el ambiente de producción, para que el área pueda continuar con su operación",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/04/2025 02:07 p. m.",
+          "fechaVisible": "11/04/2025 02:07 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl ticket fue proporcionado al personal de ingeniería para su revisión, informare por este medio la respuesta que ellos me brinden",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 09:50 p. m.",
+          "fechaVisible": "10/04/2025 09:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Solicitud de apoyo en cambio de tipo de de PbR",
+      "descripcionDetallada": "A petición de la DPCM se solicita el apoyo para realizar el cambio de tipo de PbR de Inversión a Operación y marcar el indicador Es Inv. Pública por mantenimiento a los PbR 0020425 y 0020426, en virtud que por error se crearon con otro tipo de proyectos y es necesario para realizar modificatorios en los contratos.\nSe adjunta correo sustento del área.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/04/2025 04:36 p. m.",
+      "fechaRegistroVisible": "08/04/2025 04:36 p. m.",
+      "id": 4081,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "atendido",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 02:30 p. m.",
+          "fechaVisible": "05/08/2025 02:30 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 01:17 p. m.",
+          "fechaVisible": "02/05/2025 01:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días\n\nSe realizó configuración. Favor de revisar.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/04/2025 08:28 a. m.",
+          "fechaVisible": "12/04/2025 08:28 a. m.",
+          "personalEnAtencion": "Abdiel Pérez Martínez"
+        },
+        {
+          "comentario": "Buenas tardes. Se está analizando. En cuanto se tenga una respuesta se retroalimentará",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "11/04/2025 07:37 p. m.",
+          "fechaVisible": "11/04/2025 07:37 p. m.",
+          "personalEnAtencion": "Abdiel Pérez Martínez"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Comprometido sin devengar en contrato finalizado - urgente",
+      "descripcionDetallada": "La Dirección de Proyectos reporta que existe un saldo en comprometido sin devengar en un contrato ya finalizado, por lo que se pide de su apoyo con la finalidad de identificar a qué operación se refiere el saldo.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/04/2025 08:10 p. m.",
+      "fechaRegistroVisible": "04/04/2025 08:10 p. m.",
+      "id": 4054,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se da por finalizado el incidente\nEn caso de presentarse nuevamente la situación, se estará haciendo referencia a este incidente como antecedente.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 06:40 p. m.",
+          "fechaVisible": "21/11/2025 06:40 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "08/04/2025 05:41 p. m.",
+          "fechaVisible": "08/04/2025 05:41 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe adjunta documento con el análisis de lo adjunto al incidente, donde se muestra la operación que muestra el presupuesto comprometido sin devengar de la clave presupuestal correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/04/2025 05:40 p. m.",
+          "fechaVisible": "08/04/2025 05:40 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en CLC 2885 - contrato 556",
+      "descripcionDetallada": "La Dirección de Proyectos nos reporta que existe un importe resta en la CLC 2885, sin embargo, dicho importe si fue pagado, por lo que se requiere la atención y corrección ya que es necesario terminar el contrato para el cierre del mes.\nSe adjunta documento sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/04/2025 07:26 p. m.",
+      "fechaRegistroVisible": "03/04/2025 07:26 p. m.",
+      "id": 4039,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "atendido",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 04:34 p. m.",
+          "fechaVisible": "05/08/2025 04:34 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "08/04/2025 03:56 p. m.",
+          "fechaVisible": "08/04/2025 03:56 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa problemática presentada respecto al resta de la CLC indicada se encuentra atendida en el ambiente de producción, dicha atención fue realizada con el apoyo de nuestro personal de ingeniería.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/04/2025 03:45 p. m.",
+          "fechaVisible": "08/04/2025 03:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema fue informado al personal de ingeniería, mismo que analizará el problema para darle solución de acuerdo a la prioridad reportada para el cierre del mes de marzo",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "04/04/2025 01:02 a. m.",
+          "fechaVisible": "04/04/2025 01:02 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencia en notas de crédito para cierre de marzo",
+      "descripcionDetallada": "La Dirección de Contabilidad nos reportan que al imprimir una nota de crédito, se generó un registro duplicado, por lo anterior, solicitamos el apoyo para revisar el caso y dar solución.\nSe adjunta documento sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "01/04/2025 12:20 p. m.",
+      "fechaRegistroVisible": "01/04/2025 12:20 p. m.",
+      "id": 4007,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "La situación está solventada, en caso de presentarse nuevamente estaremos levantando un nuevo incidente.\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 08:03 p. m.",
+          "fechaVisible": "05/08/2025 08:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "07/04/2025 07:37 p. m.",
+          "fechaVisible": "07/04/2025 07:37 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día, con el apoyo del personal de ingeniería se realizo la atención de este ticket en el ambiente de producción para que por favor puedan revisarlo",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/04/2025 09:04 a. m.",
+          "fechaVisible": "07/04/2025 09:04 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl área normativa se encuentra realizando la revisión del ticket para determinar el problema y ser atendido con la urgencia que presenta para el cierre de marzo",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "03/04/2025 01:41 p. m.",
+          "fechaVisible": "03/04/2025 01:41 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

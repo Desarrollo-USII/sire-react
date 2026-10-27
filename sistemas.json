@@ -1,0 +1,16 @@
+{
+  "CONTABILIDAD": "datos/CONTABILIDAD.json",
+  "DCBMI": "datos/DCBMI.json",
+  "DPCM": "datos/DPCM.json",
+  "DPI": "datos/DPI.json",
+  "DRM": "datos/DRM.json",
+  "EDITORIAL": "datos/EDITORIAL.json",
+  "EGRESOS": "datos/EGRESOS.json",
+  "INGRESOS": "datos/INGRESOS.json",
+  "NOMINAS": "datos/NOMINAS.json",
+  "PERSONAL": "datos/PERSONAL.json",
+  "PRESUPUESTO": "datos/PRESUPUESTO.json",
+  "SAISUV": "datos/SAISUV.json",
+  "SERVGEN": "datos/SERVGEN.json",
+  "USII": "datos/USII.json"
+}

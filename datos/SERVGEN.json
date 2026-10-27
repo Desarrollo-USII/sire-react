@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "sistema": "SERVGEN",
+    "cuenta": "INCUV_DEPTOSERVGEN",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 1,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 1,
+    "totalSeguimientos": 4,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Inconsistencia en importe de COG 2212082",
+      "descripcionDetallada": "La Dirección General de Desarrollo Académica e Innovación Académica detecta inconsistencia en el importe del COG 2212082 de su proceso proyecto 5110311928U00651, está mostrando el importe de 744 en pre comprometido, sin embargo, al consultar la solicitud de egreso 238276 se identificó un pago directo tramitado por el DSG con claves de egreso 709421, factura 524675 y orden 361710, pagado el 15 de octubre de 2025 a Bernardo Martínez Ríos.\nPor lo anterior, se pide revisar y atender la situación que se presenta.\nSe adjunta documento con el correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "28/10/2025 06:04 p. m.",
+      "fechaRegistroVisible": "28/10/2025 06:04 p. m.",
+      "id": 5351,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido\nGracias por la atención",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 02:08 p. m.",
+          "fechaVisible": "27/11/2025 02:08 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:15 p. m.",
+          "fechaVisible": "19/11/2025 08:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En atención al presente, le informo que su ticket fue revisado y atendido por el personal de Ingeniería en el ambiente productivo. Le solicito amablemente su apoyo para realizar la validación correspondiente.\n\nQUedamos atentos a sus comentarios.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/10/2025 05:32 p. m.",
+          "fechaVisible": "30/10/2025 05:32 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "29/10/2025 10:16 a. m.",
+          "fechaVisible": "29/10/2025 10:16 a. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    }
+  ]
+}

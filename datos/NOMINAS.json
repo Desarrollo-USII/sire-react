@@ -1,0 +1,1998 @@
+{
+  "metadata": {
+    "sistema": "NOMINAS",
+    "cuenta": "INCUV_NOMINAS",
+    "fechaExtraccion": "2026-10-27",
+    "fechaExtraccionSeguimiento": "2026-10-27",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 42,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 42,
+    "totalSeguimientos": 150,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI. Se adjunta archivo con los registros. Gracias de antemano",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "20/10/2026 04:53 p. m.",
+      "fechaRegistroVisible": "Último mar., 04:53:24 PM",
+      "id": 7345,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 1,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra atendido el ticket en ambiente de producción para su validación correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-10-21T02:15:38.783Z",
+          "fechaTexto": "20/10/2026 08:15 p. m.",
+          "fechaVisible": "Último mar., 08:15:38 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ -Error al imprimir NC Nota 144376 de Aportaciones",
+      "descripcionDetallada": "La Dirección de Nóminas nos reporta mensaje de error relacionado con los abonos y cargos para una NCE.\nSe solicita la atención, asimismo se requiere saber el por qué se presenta. Se deduce que puede ser por el prorrateo al aplicar la NC, sin embargo, se requiere de su retroalimentación.\nSe adjunta correo sustento.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "06/10/2026 02:36 p. m.",
+      "fechaRegistroVisible": "6 de Oct, 02:36:23 PM",
+      "id": 7286,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Buen día Emi.\n\nEl ticket quedo atendido el día de ayer por la noche, el problema se derivo a que no se realizó la actualización de los saldos posterior a la cancelación de la aplicación manual, para ello fue necesario volver a generar la nota de crédito e imprimirla, por lo que cada vez que se tenga una aplicación manual, se cancele, es necesario volver a generar la nota para que el saldo lo tome por el 100%",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-10-14T16:43:49.917Z",
+          "fechaTexto": "14/10/2026 10:43 a. m.",
+          "fechaVisible": "14 de Oct, 10:43:49 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a la situación reportada, la Dirección de Nóminas y el Departamento de Prestaciones realizaron la opción 1, cancelaron la aplicación que se tiene relacionada al egreso por un monto de 24.3 y posterior intentaron aplicar la NC 144376, sin embargo, se detona un error relacionado con el cargo y abono.\n\nRevisando, la diferencia son los .51 centavos que ya están aplicados.\n\nSe adjunta imagen sustento y se pide de su apoyo para revisar, ya que se debe realizar el pago del IMSS",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-10-14T00:35:44.233Z",
+          "fechaTexto": "13/10/2026 06:35 p. m.",
+          "fechaVisible": "13 de Oct, 06:35:44 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Emi\n\n\nEl personal de ingeniería realizó la revisión de lo reportado por el personal de contabilidad y se ubico lo siguiente:\n\n\n1.- El egreso 883128 cuenta con una aplicación realizada el día 22-09-2026 por 24.36 pesos, y el saldo de la nota de crédito por 23.42 pesos, lo que disminuye el monto total que se tiene actualmente.\n\n\nPara solventar este problema se tiene 2 posibles soluciones, mismas que se las informo por este medio y ustedes podrán tomar la mejor decisión:\n\n\n1.- Para poder realizar la impresión de la nota de crédito, es necesario que se cancele la aplicación que se tiene relacionada al egreso por un monto de 24.36 y que fue realizada el día 22/09/2026.\n\n\n2.- Si no es posible realizar la cancelación de la aplicación, deberán de ajustar el importe del renglón 1 de la nota de crédito siendo el importe por 23.42 pesos en vez de los 23.93 que tienen actualmente.\n\n\nLa aplicación realizada el día 22-09-2026 fue la que afecto el saldo restante por los 0.51 centavos que muestra el mensaje al momento de imprimir la nota.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-10-07T18:39:54.957Z",
+          "fechaTexto": "07/10/2026 12:39 p. m.",
+          "fechaVisible": "7 de Oct, 12:39:54 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Emi.\n\nEl día de hoy estaré brindando respuesta de atención de este ticket.",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-07T16:17:53.030Z",
+          "fechaTexto": "07/10/2026 10:17 a. m.",
+          "fechaVisible": "7 de Oct, 10:17:53 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde EMi.\n\nRevisamos lo reportado respecto a la impresión de la nota de crédito para brindar respuesta de atención y puedan continuar con su operación",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-06T20:41:51.467Z",
+          "fechaTexto": "06/10/2026 02:41 p. m.",
+          "fechaVisible": "6 de Oct, 02:41:51 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.\nSe adjunta archivo con los registros.\nGracias de antemano",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "02/10/2026 01:05 p. m.",
+      "fechaRegistroVisible": "2 de Oct, 01:05:24 PM",
+      "id": 7268,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendido este ticket en producción, para su validación correspondiente.\n\nQuedo atento a su retroalimentación",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-10-05T16:06:11.770Z",
+          "fechaTexto": "05/10/2026 10:06 a. m.",
+          "fechaVisible": "5 de Oct, 10:06:11 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe informa que el día de mañana 05/10/2026 se realizará la entrega de este ticket en ambiente de producción, por lo que informare por este medio cuando se encuentre atendido.",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-05T04:58:24.473Z",
+          "fechaTexto": "04/10/2026 10:58 p. m.",
+          "fechaVisible": "4 de Oct, 10:58:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRevisamos el documento para realizar la atención de esta solicitud de apoyo",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-02T19:08:34.760Z",
+          "fechaTexto": "02/10/2026 01:08 p. m.",
+          "fechaVisible": "2 de Oct, 01:08:34 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error al generar OP de retenciones",
+      "descripcionDetallada": "la Dirección de Nóminas reporta mensajes de error relacionados con el disponible de la operación, al intentar generar ordenes de pago de retenciones del proveedor Proveedor 0177602.\nSe adjunta documento con el correo detalle.\nQuedamos al pendiente.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "18/09/2026 06:57 p. m.",
+      "fechaRegistroVisible": "18 de Sep, 06:57:44 PM",
+      "id": 7167,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Emi.\n\nAdjunto documento con la revisión realizada y donde agregue algunas imágenes sustento de lo revisado y como poder filtrar un poco más la información derivado a lo que localizamos.\n\nPor lo que si tienes alguna duda, me puedes contactar directamente para solventarla.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-09-21T19:59:43.543Z",
+          "fechaTexto": "21/09/2026 01:59 p. m.",
+          "fechaVisible": "21 de Sep, 01:59:43 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Hola Emi buen día, en un momento más te brindo respuesta del tickets espero una información de mis compañeros de ingeniería para indicarte concretamente qué pasó dentro del filtrado, te adelanto que no es un problema de la plataforma, sin embargo, agregaré documento de Word sustento de esto, sólo espero un dato para poder adjuntar el documento",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-09-21T14:21:13.240Z",
+          "fechaTexto": "21/09/2026 08:21 a. m.",
+          "fechaVisible": "21 de Sep, 08:21:13 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por la atención",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.\nSe adjunta archivo con los registros.\nGracias de antemano",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/09/2026 09:33 a. m.",
+      "fechaRegistroVisible": "2 de Sep, 09:33:27 AM",
+      "id": 7076,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por la atención",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-10-02T17:40:16.650Z",
+          "fechaTexto": "02/10/2026 11:40 a. m.",
+          "fechaVisible": "2 de Oct, 11:40:16 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-09T00:20:21.403Z",
+          "fechaTexto": "08/09/2026 06:20 p. m.",
+          "fechaVisible": "8 de Sep, 06:20:21 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nInformo que la atención del ticket se encuentra en ambiente de producción, para que por favor puedan realizar la revisión correspondiente y continuar con su proceso.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-03T04:29:50.490Z",
+          "fechaTexto": "02/09/2026 10:29 p. m.",
+          "fechaVisible": "2 de Sep, 10:29:50 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por la atención",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.\nSe adjunta archivo con los registros.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/08/2026 07:19 p. m.",
+      "fechaRegistroVisible": "3 de Aug, 07:19:52 PM",
+      "id": 6964,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por la atención",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-10-02T17:39:52.960Z",
+          "fechaTexto": "02/10/2026 11:39 a. m.",
+          "fechaVisible": "2 de Oct, 11:39:52 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-09T00:20:49.650Z",
+          "fechaTexto": "08/09/2026 06:20 p. m.",
+          "fechaVisible": "8 de Sep, 06:20:49 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendido el ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-04T18:08:27.073Z",
+          "fechaTexto": "04/08/2026 12:08 p. m.",
+          "fechaVisible": "4 de Aug, 12:08:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al registrar un reiintegro",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Nóminas reporta error que presenta el Departamento de Caja al registrar un reintegro, el cual hace referencia a un error al generar una póliza.\nEs importante mencionar que situación similar se reportó en el incidente 6433, a través del cual nos indicaron que ya estaba atendido.\nSe adjunta correo sustento del área, quedamos al pendiente.\nSaludos.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "03/07/2026 06:42 p. m.",
+      "fechaRegistroVisible": "3 de Jul, 06:42:46 PM",
+      "id": 6804,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 1,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nEl ticket ya se encuentra atendido, el problema se derivo a que la operación fue realizada cuando el cambio de servidor aun no se había realizado, es decir, la operación fue realizada antes de poner la corrección concreta a la primera vez reportada.\n\nPor lo que pueden continuar con su proceso correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-07-06T17:50:27.800Z",
+          "fechaTexto": "06/07/2026 11:50 a. m.",
+          "fechaVisible": "6 de Jul, 11:50:27 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se agradece el apoyo brindado y se deja este incidente como como antecedente de la situación.",
+      "descripcionBreve": "caquiroz - lentitud y error en el proceso de pagado de la nómina",
+      "descripcionDetallada": "El día de hoy 26/06/2026 se reporta lentitud en el proceso de pagado de la nómina de la región Xalapa, específicamente de la fuente de financiamiento del subsidio estatal ordinario.\nLa Dirección de Egresos reporto a las 12:46 se llevaban 5 horas desde que se lanzó el proceso de la región Xalapa, cuando normalmente ese proceso dura 4 horas... cuando concluyó se detonó error en la ejecución.\nA las 7:55 am se volvió a lanzar el proceso y a las 8:26 se les solicitó el apoyo para saber si se seguía corriendo.\nNos respondieron: “Proceso de pagar nómina ejecutado por JDAZA, si se está ejecutando en la BD lleva 72 minutos”.\nA las 9:33 se les informó que el proceso detonó el error .\nEn llamada sostenida entre el Ingeniero David y Angélica Báez, comentaron que por parte del proveedor se iba a implementar un “palitivo” para poder agilizar el proceso, por parte de USII solo se observó la eliminación de la seguridad NotasCreditoEgreso.Imprimir, enfatizándonos la importancia de que, al concluir el proceso, inmediatamente se les avisara para que pidieran terminar de aplicar dicho paliativo (no se tiene más detalle).\nLa ejecución nuevamente del proceso inicio a las 10:34 y a las 12:24 notificaron que concluyó.\nEs importante mencionar que para el resto de las regiones y fuentes de financiamiento, no se tuvo mayor detalle en el proceso de pago.\nComo dato adicional se comparte que:\n1. Derivado de la nivelación de los tabuladores de sueldo, en la quincena 12 del 2026, se aplicó el pago retroactivo para todo el personal con Modelo 2 Personal Administrativo Técnico y Manual y para personal con Modelo 3 Confianza con las categorías: 3304 Secretaria ejecutiva A, 3303 Secretaria Ejecutiva B, 3204 Oficial A y 3203 Oficial B, lo que derivo que para estos casos se incrementara el número de conceptos a pagar.\n2. En el primer lanzamiento del proceso de pago de la nómina coincidió que la Dirección de Nóminas estaba imprimiendo notas de crédito de ausentismos.\nPor lo anterior, se solicita su apoyo para revisar el proceso e identificar la causa que originó la incidencia, con la finalidad de implementar las acciones correctivas necesarias que permitan atenderla de manera definitiva y prevenir su recurrencia.\nSe adjunta documento con la narrativa, detalle, imagen de la situación presentada el día de hoy.\nQuedamos al pendiente de la retroalimentación.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/06/2026 01:36 p. m.",
+      "fechaRegistroVisible": "26 de Jun, 01:36:26 PM",
+      "id": 6774,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece el apoyo brindado y se deja este incidente como como antecedente de la situación.",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-30T16:34:23.520Z",
+          "fechaTexto": "30/09/2026 10:34 a. m.",
+          "fechaVisible": "30 de Sep, 10:34:23 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe realizó la actualización de producción como parte de la mejora reportada dentro del problema localizado de off memory presentado durante el proceso nóminal, esto en atención para los días siguientes en los cuales el proceso será adelantado por temas de inscripciones",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-08-03T00:56:57.240Z",
+          "fechaTexto": "02/08/2026 06:56 p. m.",
+          "fechaVisible": "2 de Aug, 06:56:57 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Continuamos al pendiente de su retroalimentación. Cabe mencionar que es importante nos compartan el motivo que derivó esta situación junto con el detalle de cómo se resolvió en virtud a que, en el mes de agosto, se identifica la ejecución de procesos críticos (proceso nominal, proceso de inscripción (reinscripción y nuevo ingreso), conciliaciones, entre otros y es imperante realizar las acciones que correspondan a fin de evitar o mitigar futuros impactos. Si bien es cierto que la situación quedó atendida con apoyo de ustedes, desconocemos qué ajustes o situaciones técnicas llevaron a cabo, incluso eliminación de permisos, (ya que se identificó que se eliminó una seguridad).\n\nAsimismo, a pesar de que en el pago de la quincena 11 se consideraron (para algunas categorías), algunos otros conceptos, se nos hace raro que esta situación haya originado la lentitud en virtud a que en la quincena 5 se realizó también pagos de retroactivos y diferencias de sueldos a todos los empleados con modelo administrativo, técnico y manual y confianza.\n\nQuedamos al pendiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-07-08T18:43:04.240Z",
+          "fechaTexto": "08/07/2026 12:43 p. m.",
+          "fechaVisible": "8 de Jul, 12:43:04 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "[ABAEZ] - Solicitud de apoyo en jornada extraordinaria",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas y con base en el proceso nominal que comprende la generación de reintegros, así como el envío, finalización, validación y autorización de operaciones correspondientes al pago de la primera y segunda quincena del mes de julio, se solicita de su valioso apoyo en jornada extraordinaria los siguientes días:\n\n• 25, 26, 29 y 30 de junio.\n• 2, 3, 6 y 7 de julio.\n\nDerivado de las actividades internas de validación, se estima que la jornada laboral se extienda hasta las 11:00 p.m.; sin embargo, en caso de presentarse alguna eventualidad, podría ser necesario prolongarla hasta la madrugada para garantizar la correcta conclusión de las actividades programadas.\n\nAgradecemos de antemano su disposición y colaboración que siempre nos brindan.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "25/06/2026 11:56 a. m.",
+      "fechaRegistroVisible": "25 de Jun, 11:56:04 AM",
+      "id": 6767,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-09T00:22:52.533Z",
+          "fechaTexto": "08/09/2026 06:22 p. m.",
+          "fechaVisible": "8 de Sep, 06:22:52 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se manda a finalizar el ticket una vez culminado el periodo indicado de apoyo extraordinario",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-09-09T00:22:28.120Z",
+          "fechaTexto": "08/09/2026 06:22 p. m.",
+          "fechaVisible": "8 de Sep, 06:22:28 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Angie.\n\nDe acuerdo, estaremos atentos a lo que nos reporten en los días indicados tomando en cuenta las 11 pm como finalización de actividades a menos que ocurra algo extraordinario",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-29T21:17:24.667Z",
+          "fechaTexto": "29/06/2026 03:17 p. m.",
+          "fechaVisible": "29 de Jun, 03:17:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio Fecha de aplicación en historial de pago SIRE Nominas",
+      "descripcionDetallada": "La Dirección de Nóminas solicita ajustar la fecha de aplicación del historial de datos de pago de algunos números de personal, en virtud de que en las configuraciones de cuentas bancarias que se hicieron en la segunda quincena de junio en SPARH y que viajaron por interconexión a SIRE Nóminas se asignó la fecha de aplicación 29/06/2026, sin embargo, la Fecha de pago de la quincena 12 es el 26/06/2026.\nPor lo anterior, se requiere ajustar la fecha de aplicación al personal listado en el documento adjunto, de 29/06/2026 a 26/06/2026.\nCabe mencionar que de este requerimiento la Lic. Angélica Báez enviará el correo formal de petición de apoyo.\nGracias de antemano, quedamos al pendiente.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "23/06/2026 07:11 p. m.",
+      "fechaRegistroVisible": "23 de Jun, 07:11:04 PM",
+      "id": 6752,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\n\nLe informo que esta atención fue realizada por el personal de ingeniería en ambiente de producción, informando por el grupo de WhatsApp una vez se realizó el cambio, así mismo se informó que para los empleados 43702, 46865 y 62474 no existe registro de datos de pago con fecha 29/06/2026,sus datos están en fecha 17/06/2026, 28/05/2026, 12/05/2026 respectivamente, por lo que esos no sufrían ningún cambio.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T21:00:04.273Z",
+          "fechaTexto": "24/06/2026 03:00 p. m.",
+          "fechaVisible": "24 de Jun, 03:00:04 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería se encuentra revisando la solicitud de apoyo presentada en este ticket así como por el correo de la Lic. Angelica para brindar la atención de manera urgente como fue presentada la petición. estaré dando retroalimentación una vez se encuentre atendido",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-06-24T16:45:54.827Z",
+          "fechaTexto": "24/06/2026 10:45 a. m.",
+          "fechaVisible": "24 de Jun, 10:45:54 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por la atención",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI. Se adjunta archivo con los registros. Gracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "17/06/2026 12:26 p. m.",
+      "fechaRegistroVisible": "17 de Jun, 12:26:19 PM",
+      "id": 6716,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por la atención",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-10-02T17:38:18.913Z",
+          "fechaTexto": "02/10/2026 11:38 a. m.",
+          "fechaVisible": "2 de Oct, 11:38:18 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-06-18T00:03:05.337Z",
+          "fechaTexto": "17/06/2026 06:03 p. m.",
+          "fechaVisible": "17 de Jun, 06:03:05 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Angie.\n\nYa se encuentra atendido este ticket en ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-18T00:02:36.963Z",
+          "fechaTexto": "17/06/2026 06:02 p. m.",
+          "fechaVisible": "17 de Jun, 06:02:36 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por la atención",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI. Se adjunta archivo con las registros. Gracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/06/2026 10:05 a. m.",
+      "fechaRegistroVisible": "4 de Jun, 10:05:11 AM",
+      "id": 6652,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por la atención",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": "2026-10-02T17:38:13.640Z",
+          "fechaTexto": "02/10/2026 11:38 a. m.",
+          "fechaVisible": "2 de Oct, 11:38:13 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-09-09T00:23:04.020Z",
+          "fechaTexto": "08/09/2026 06:23 p. m.",
+          "fechaVisible": "8 de Sep, 06:23:04 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido este ticket en ambiente de producción",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-08T19:26:41.357Z",
+          "fechaTexto": "08/06/2026 01:26 p. m.",
+          "fechaVisible": "8 de Jun, 01:26:41 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl día de hoy 08/06/2026 quedará atendido el ticket, informo por este mismo medio una vez realizado el ajuste",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-06-08T15:35:05.830Z",
+          "fechaTexto": "08/06/2026 09:35 a. m.",
+          "fechaVisible": "8 de Jun, 09:35:05 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - no se visualiza en el pago el registro de un pago reactivado",
+      "descripcionDetallada": "La Dirección de Nóminas reporta que realizaron la reactivación de un pago suspendido realizado el día de ayer de la Qna. 10/2026, sin embargo, en el , en el módulo de Procedimientos / Operaciones Generales / Pagar Nómina por concentrado/fondo 837/ tipo de cheque -Transferencia/ No aparece en los registros para pago.\n\nSe adjunta documento con el detalle.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/05/2026 12:59 p. m.",
+      "fechaRegistroVisible": "27 de May, 12:59:52 PM",
+      "id": 6620,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-28T01:35:46.343Z",
+          "fechaTexto": "27/05/2026 07:35 p. m.",
+          "fechaVisible": "27 de May, 07:35:46 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe revisó el tema reportado y no se considera una inconsistencia. El detalle corresponde a la forma de realizar la consulta en la ventana Pago de nómina, ya que la concentradora a la que pertenece el empleado es la 0158 y no la 0225.\n\nSaludos.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-27T20:08:44.833Z",
+          "fechaTexto": "27/05/2026 02:08 p. m.",
+          "fechaVisible": "27 de May, 02:08:44 PM",
+          "personalEnAtencion": "Abdiel Pérez Martínez"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "gracias por el apoyo",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI. Se adjunta archivo con las registros. Gracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/05/2026 05:47 p. m.",
+      "fechaRegistroVisible": "19 de May, 05:47:54 PM",
+      "id": 6565,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "gracias por el apoyo",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-06-04T16:10:29.840Z",
+          "fechaTexto": "04/06/2026 10:10 a. m.",
+          "fechaVisible": "4 de Jun, 10:10:29 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-21T03:55:02.003Z",
+          "fechaTexto": "20/05/2026 09:55 p. m.",
+          "fechaVisible": "20 de May, 09:55:02 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe informa que ya se encuentra atendido el ticket en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-21T03:54:05.173Z",
+          "fechaTexto": "20/05/2026 09:54 p. m.",
+          "fechaVisible": "20 de May, 09:54:05 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error en reporte estado de deudas",
+      "descripcionDetallada": "La Dirección de Nóminas reporta error en la Consulta estado de deudas de SIRE Nómina.\nSe adjunta correo con el sustento y se pide pronta atención para saber que ocasiono el error y sobre todo si pudo haber alguna afectación en el proceso de la nómina.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "27/04/2026 01:54 p. m.",
+      "fechaRegistroVisible": "27 de Apr, 01:54:57 PM",
+      "id": 6448,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:49:32.143Z",
+          "fechaTexto": "25/05/2026 09:49 a. m.",
+          "fechaVisible": "25 de May, 09:49:32 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRevisando el mensaje con el personal de ingeniería, me informan que es derivado a que el servicio de SPARH no se encuentra o encontraba activo, por lo que es necesario que se valide si esta habilitado y corroborar que halla llegado la información ya sea cuando se reactivo el servicio o si aun sigue abajo sería activarlo y enviar la deuda a SPARH para que culmine el proceso",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-28T00:51:47.013Z",
+          "fechaTexto": "27/04/2026 06:51 p. m.",
+          "fechaVisible": "27 de Apr, 06:51:47 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error al registrar Reintegro",
+      "descripcionDetallada": "Buenas tardes\nSe reporta error al registrar un reintegro, menciona una diferencia ente el cargo y al abono.\nSe adjunta correo sustento.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "23/04/2026 07:49 p. m.",
+      "fechaRegistroVisible": "23 de Apr, 07:49:04 PM",
+      "id": 6433,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-25T15:49:59.387Z",
+          "fechaTexto": "25/05/2026 09:49 a. m.",
+          "fechaVisible": "25 de May, 09:49:59 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche. \n\nEl personal de ingeniería me indica que ya se encuentra atendido el ticket en producción, para que por favor realicen nuevamente el deposito, quedo atento al resultado",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-05-22T03:20:49.190Z",
+          "fechaTexto": "21/05/2026 09:20 p. m.",
+          "fechaVisible": "21 de May, 09:20:49 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nAdjunto documento con el detalle de la respuesta, nos indican que realizan el depósito directamente desde la chequera. \n\nQuedamos al pendiente, saludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-05-12T01:40:59.750Z",
+          "fechaTexto": "11/05/2026 07:40 p. m.",
+          "fechaVisible": "11 de May, 07:40:59 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPara este ticket me puedes regalar más información por favor, por ejemplo, que operación relacionan al momento de hacer el depósito en la ventana edición de depósito, la operación 107370 que se menciona que es de 1000, es un reintegro de nómina? o que operación es la que se maneja, entendemos que el depósito lo están realizando directo desde la chequera en la opción de depósitos o desde algún otro lado?, agradeceré la retroalimentación para poder brindar el apoyo correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-07T20:08:22.667Z",
+          "fechaTexto": "07/05/2026 02:08 p. m.",
+          "fechaVisible": "7 de May, 02:08:22 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI - Urgente por cierre",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.\nEn esta ocasión a petición de la Dirección de Contabilidad se requiere la atención de manera urgente ya que va un pago que afecta un fondo del ejercicio 2025, el cual está en proceso de cierre.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/03/2026 02:58 p. m.",
+      "fechaRegistroVisible": "27 de Mar, 02:58:07 PM",
+      "id": 6302,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-19T23:47:43.500Z",
+          "fechaTexto": "19/05/2026 05:47 p. m.",
+          "fechaVisible": "19 de May, 05:47:43 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendido este ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-30T17:53:13.610Z",
+          "fechaTexto": "30/03/2026 11:53 a. m.",
+          "fechaVisible": "30 de Mar, 11:53:13 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se da por atendido. Gracias",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.\nSe adjunta archivo con las registros.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "17/03/2026 05:29 p. m.",
+      "fechaRegistroVisible": "17 de Mar, 05:29:40 PM",
+      "id": 6237,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido.\nGracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-05-19T23:47:31.560Z",
+          "fechaTexto": "19/05/2026 05:47 p. m.",
+          "fechaVisible": "19 de May, 05:47:31 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nYa se encuentra atendido este ticket en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-24T17:37:47.347Z",
+          "fechaTexto": "24/03/2026 11:37 a. m.",
+          "fechaVisible": "24 de Mar, 11:37:47 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia al generar OP 2da qna enero 2026 _FAR,IPE,IMMS",
+      "descripcionDetallada": "La Dirección de Nóminas indica que al generar las órdenes de pago de aportaciones de IPE y FAR de la 2ª qna de enero 2026 de la UR 0158 Xalapa, también realizó las de IMSS, siendo que en los parámetros solo se seleccionaron las dos en mención.\nSe pide revisar el por qué\nSe adjunta correo sustento,",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/02/2026 10:09 a. m.",
+      "fechaRegistroVisible": "9 de Feb, 10:09:47 AM",
+      "id": 6002,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día\nSe agradece la retroalimentación, sin embargo, nos indican que realizan el mismo procedimiento quincena con quincena y UR por UR, seleccionando siempre Banco Santander e IPE primero y después seleccionar los registros, para evitar este tipo de situaciones.",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-02-12T17:18:42.840Z",
+          "fechaTexto": "12/02/2026 11:18 a. m.",
+          "fechaVisible": "12 de Feb, 11:18:42 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe adjunta documento de Word con la respuesta correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-12T02:57:18.847Z",
+          "fechaTexto": "11/02/2026 08:57 p. m.",
+          "fechaVisible": "11 de Feb, 08:57:18 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Buenas tardes Se agradece el apoyo. Saludos.",
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas, se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.\nSe adjunta archivo con las registros, gracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "05/02/2026 10:14 a. m.",
+      "fechaRegistroVisible": "5 de Feb, 10:14:49 AM",
+      "id": 5976,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nSe agradece el apoyo.\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-03-17T23:29:36.867Z",
+          "fechaTexto": "17/03/2026 05:29 p. m.",
+          "fechaVisible": "17 de Mar, 05:29:36 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-02-12T18:05:30.477Z",
+          "fechaTexto": "12/02/2026 12:05 p. m.",
+          "fechaVisible": "12 de Feb, 12:05:30 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendida la petición en el ambiente de producción, para que por favor validen lo correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-10T00:24:49.040Z",
+          "fechaTexto": "09/02/2026 06:24 p. m.",
+          "fechaVisible": "9 de Feb, 06:24:49 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/01/2026 10:48 a. m.",
+      "fechaRegistroVisible": "21 de Jan, 10:48:11 AM",
+      "id": 5869,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "se agradece la atención brindada",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-02-05T16:14:17.947Z",
+          "fechaTexto": "05/02/2026 10:14 a. m.",
+          "fechaVisible": "5 de Feb, 10:14:17 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-24T03:29:30.340Z",
+          "fechaTexto": "23/01/2026 09:29 p. m.",
+          "fechaVisible": "23 de Jan, 09:29:30 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nInformo que ya se encuentra atendida la solicitud de cambio respecto al cambio de tipo de pago.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-24T03:28:22.870Z",
+          "fechaTexto": "23/01/2026 09:28 p. m.",
+          "fechaVisible": "23 de Jan, 09:28:22 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/01/2026 09:24 a. m.",
+      "fechaRegistroVisible": "7 de Jan, 09:24:59 AM",
+      "id": 5748,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "se agradece la atención",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": "2026-02-05T16:13:51.037Z",
+          "fechaTexto": "05/02/2026 10:13 a. m.",
+          "fechaVisible": "5 de Feb, 10:13:51 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-20T16:14:15.557Z",
+          "fechaTexto": "20/01/2026 10:14 a. m.",
+          "fechaVisible": "20 de Jan, 10:14:15 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día, ya se encuentra atendido este incidente en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-13T13:08:11.370Z",
+          "fechaTexto": "13/01/2026 07:08 a. m.",
+          "fechaVisible": "13 de Jan, 07:08:11 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error en el proceso de envío de aguinaldo de SPARH a SIRE",
+      "descripcionDetallada": "La Dirección de Nóminas esta ejecutando el proceso de envío de aguinaldo de SPARH a SIRE, sin embargo, en varias dependencias, les muestra el siguiente mensaje: \"Mensaje\": \"Parámetros inválidos.: \\r\\n\\r\\nERROR NUM. 1: SQL state: 07002. Native error: 0. Error message: \\r\\n[Microsoft][SQL Server Native Client 11.0]COUNT field incorrect or syntax error\",\nEste mensaje en quincenas pasadas ya se había presentado y ustedes nos apoyaron.\nSe adjunta el JSON de una de las dependencias que esta presentando este detalle.\nCabe mencionar que esta situación fue reportada por la Lic. Angélica Báez por el chat técnico.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "05/12/2025 10:54 a. m.",
+      "fechaRegistroVisible": "05/12/2025 10:54 a. m.",
+      "id": 5583,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Agradezco la atención brindada, se procede a finalizar el incidente, en el entendido de que la solución fue de raíz, no obstante, en caso de volverse a presentar, se tomará este incidente de antecedente.",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "12/12/2025 09:32 a. m.",
+          "fechaVisible": "12/12/2025 09:32 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "La corrección fue de raíz a eso se derivo el cambio de servidor, el problema que derivo este mensaje fue un caso nuevo que no se había presentado en todo este tiempo, el cual estaba cayendo incorrectamente en el envió y se solvento, este caso no se había presentado anteriormente hasta este envió de aguinaldo, sin embargo, se atendió de raíz y se realizó el cambio de servidor correspondiente, mismo que se notifico a Angelica Báez y el Mtro. Rafa",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/12/2025 09:52 a. m.",
+          "fechaVisible": "06/12/2025 09:52 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe agradece el apoyo brindado, quedamos al pendiente de la retroalimentación que nos brinden respecto a al motivo que originó el error, así como de indicarnos si la corrección fue de raíz.\n\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/12/2025 06:40 p. m.",
+          "fechaVisible": "05/12/2025 06:40 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe realizó la actualización de la consola servidor del ambiente productivo para la atención de este ticket, se notificó a la Lic. Angelica y Mtro. Rafa sobre dicha actividad y también cuando se culminó, por lo cual pudieran realizar de nuevo el proceso por favor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/12/2025 06:04 p. m.",
+          "fechaVisible": "05/12/2025 06:04 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia de importe en el reintegro de nómina 107962",
+      "descripcionDetallada": "La Dirección de Nóminas reporta que en reintegro de nómina 107962 se está mostrando un importe doble que el original, en RH si muestra el importe que corresponde.\nSe adjunta documento con el detalle, asimismo, se adjunta el JSON.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "28/11/2025 07:26 p. m.",
+      "fechaRegistroVisible": "28/11/2025 07:26 p. m.",
+      "id": 5546,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "01/12/2025 06:57 p. m.",
+          "fechaVisible": "01/12/2025 06:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Emi.\n\nIngeniería reviso los JSON que nos compartieron e identificaron que el problema no es derivado a la interconexión o plataforma, lo que pasa es que mandaron dos veces la información en el mismo JSON lo cual hace que se cargue el monto que nos están reportando, adjunto la imagen que me compartió ingeniería donde se señala que se mando doble la información, es por ello que se ve de dicha manera en el sistema",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "01/12/2025 09:19 a. m.",
+          "fechaVisible": "01/12/2025 09:19 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Se solicita apoyo para cambiar la forma de pago de transferencia a cheque en las operaciones listadas en el documento que se adjunta al presente, en virtud de que fueron rechazos SPEI.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "28/11/2025 01:17 p. m.",
+      "fechaRegistroVisible": "28/11/2025 01:17 p. m.",
+      "id": 5544,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por el apoyo brindado",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "12/12/2025 09:32 a. m.",
+          "fechaVisible": "12/12/2025 09:32 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 06:43 p. m.",
+          "fechaVisible": "28/11/2025 06:43 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\n\n\nla solicitud de apoyo ya se encuentra atendido en el ambiente de producción",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 06:12 p. m.",
+          "fechaVisible": "28/11/2025 06:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nla solicitud de apoyo ya se encuentra atendido en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 06:11 p. m.",
+          "fechaVisible": "28/11/2025 06:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Buen día\nSe solicita el apoyo para realizar cambio en la forma de pago de los rechazos SPEI, de transferencia a cheque.\nSe adjunta archivo con la relación de rechazos de transferencia bancarias de la quincenas 17, 19 y 20 de 2025.\nGracias de antemano, quedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/11/2025 09:05 a. m.",
+      "fechaRegistroVisible": "07/11/2025 09:05 a. m.",
+      "id": 5409,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece la atención brindada.\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 02:15 p. m.",
+          "fechaVisible": "27/11/2025 02:15 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "08/11/2025 01:49 p. m.",
+          "fechaVisible": "08/11/2025 01:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendido el ticket en el ambiente de producción, solicito su validación por favor",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/11/2025 02:55 p. m.",
+          "fechaVisible": "07/11/2025 02:55 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nReviso el documento para llevar a cabo los ajustes solicitados en el ambiente de producción",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "07/11/2025 09:37 a. m.",
+          "fechaVisible": "07/11/2025 09:37 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Buenas tardes.\nSe solicita el apoyo para realizar cambio en la forma de pago de los rechazos SPEI, de transferencia a cheque.\nSe adjunta la relación de rechazos de transferencia bancarias de la quincenas 17 y 18 de 2025.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "01/10/2025 07:46 p. m.",
+      "fechaRegistroVisible": "01/10/2025 07:46 p. m.",
+      "id": 5168,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece la atención brindada",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/11/2025 09:08 a. m.",
+          "fechaVisible": "07/11/2025 09:08 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 02:02 p. m.",
+          "fechaVisible": "28/10/2025 02:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe encuentra atendida la solicitud de cambio de tipo de pago de las quincenas 17 y 18 de acuerdo a lo informado en el documento adjunto al ticket.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/10/2025 11:26 a. m.",
+          "fechaVisible": "02/10/2025 11:26 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en calidad - SIRE Nóminas",
+      "descripcionDetallada": "Al intentar continuar una nómina con estatus CALCULADA desde SIRE Nóminas el sistema detona un mensaje de error, se da ok y se ve que está procesando pero vuelve a emitir un error.\nSe adjunta imagen sustento, misma que fue proporcionada vía chat.\nSe realizó con la cuenta YRIZO, grupo NOMINAS y con fecha 09 de julio de 2025.\nQuedamos al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/09/2025 06:59 p. m.",
+      "fechaRegistroVisible": "12/09/2025 06:59 p. m.",
+      "id": 5045,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 11:11 a. m.",
+          "fechaVisible": "28/11/2025 11:11 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl ajuste se encuentra solo en la versión de calidad, hace unos días envié un correo con copia a la Lic. Angelica Báez indicando que es necesaria la liberación de calidad para actualizar producción, sin embargo, por las fechas y actividades críticas no es factible realizarlo en lo que queda del año por lo que propuso Angie y Rafa que se haga el próximo año una vez que las áreas liberen la versión de calidad y se tenga el visto bueno para realizar dicha actualización",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 05:36 p. m.",
+          "fechaVisible": "27/11/2025 05:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se finalizó el seguimiento, solo queda pendiente nos indiquen si el ajuste realizado está contemplado en productivo.\n\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 10:46 a. m.",
+          "fechaVisible": "27/11/2025 10:46 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Se finaliza el seguimiento",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 10:45 a. m.",
+          "fechaVisible": "27/11/2025 10:45 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe llevo a cabo la actualización del ambiente de calidad para la atención de este problema reportado en dicho ambiente, el problema se derivo a un argumento llamado de forma incorrecta desde la nómina, se atiendo por el personal de ingeniería dicho mensaje, mismo que se encuentra en esta nueva versión que es la 15.1.450.0",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/09/2025 02:02 p. m.",
+          "fechaVisible": "17/09/2025 02:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en la impresión de la nota de crédito de aportaciones",
+      "descripcionDetallada": "La DN reporta que se generó error en la impresión de la nota de crédito de aportaciones,\nEl error hace alusión a una diferencia de importe del presupuesto pagado y el presupuesto pagado disponible.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "08/09/2025 09:54 a. m.",
+      "fechaRegistroVisible": "08/09/2025 09:54 a. m.",
+      "id": 5007,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema se derivo a una combinación que no se tenia contemplada, fue una combinación nueva por lo cual se ajusto lo correspondiente por el personal de ingeniería para corregir esta problemática, posterior a esta modificación por el personal de ingeniería fue posible realizar la impresión correspondiente y se corrigió dicha problemática",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/09/2025 09:51 a. m.",
+          "fechaVisible": "23/09/2025 09:51 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nNos mantenemos al pendiente de la retroalimentación que nos brinden del por qué se generó la situación reportada.\n\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/09/2025 12:19 p. m.",
+          "fechaVisible": "15/09/2025 12:19 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema fue atendido por el personal de ingeniería, se le informo a Angelica Báez por la noche el día martes 09/09/2025, en un momento más comparto que fue lo que ocasiono el problema",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 12:35 p. m.",
+          "fechaVisible": "11/09/2025 12:35 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Inconsistencia presentada en los importes de la pantalla pagos de Nómina",
+      "descripcionDetallada": "Buenas tardes,\n\nNos reportan lo siguiente:\nEn la primera y segunda quincena de agosto se identificaron diferencias en los importes, dentro de la pantalla de Pago de Nómina.\n\nAdjunto Documento Word con el detalle",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "05/09/2025 04:53 p. m.",
+      "fechaRegistroVisible": "05/09/2025 04:53 p. m.",
+      "id": 5001,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se finaliza el seguimiento, en virtud de que ya no se ha presentado el error detonado.\nEn caso de que se vuelva a presentar, se mencionará este incidente como antecedente.",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 10:36 a. m.",
+          "fechaVisible": "27/11/2025 10:36 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 06:16 p. m.",
+          "fechaVisible": "05/09/2025 06:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe reviso con Josué Andrade lo indicado y ya se encuentra atendido en ambiente de producción, el problema se derivo a que se había presentado una variación interna en la referencia a la orden de pago que se genera, por lo cual había la diferencia de importes, esta atención se encuentra en el ambiente de producción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 05:54 p. m.",
+          "fechaVisible": "05/09/2025 05:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Se solicita el apoyo para realizar cambio en la forma de pago de los rechazos SPEI, de transferencia a cheque.\nSe adjunta la relación de rechazos de transferencia bancarias de la quincenas 15 y 16 de 2025.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/09/2025 07:14 p. m.",
+      "fechaRegistroVisible": "02/09/2025 07:14 p. m.",
+      "id": 4976,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece la atención bridnada.",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "01/10/2025 07:46 p. m.",
+          "fechaVisible": "01/10/2025 07:46 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 06:16 p. m.",
+          "fechaVisible": "05/09/2025 06:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido el ticket en ambiente de producción de acuerdo al documento adjunto",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:44 p. m.",
+          "fechaVisible": "04/09/2025 12:44 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cancelación del registro de deuda no se refleja en SPARH",
+      "descripcionDetallada": "La Dirección de Nóminas nos indica que tienen un caso en donde se registró un adeudo con la operación 23507 el 11/04/2025 por 435.46, el 25/04/2025 se le aplicó una retención por el mismo importe saldando el adeudo, sin embargo, el 06/05/2025 se canceló dicho pago (con el que ya se había saldado el adeudo -retención aplicada el 25/04/2025), ocasionando que el importe del adeudo se refleje nuevamente en la operación 23507.\nSe solicita el apoyo para conocer el motivo por el cual este registro, que sí cancela el abono previamente registrado a la deuda, no se está informando a SPARH a través de las interconexiones.\nSe adjunta documento con el correo sustento.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "26/08/2025 09:49 a. m.",
+      "fechaRegistroVisible": "26/08/2025 09:49 a. m.",
+      "id": 4930,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:57 a. m.",
+          "fechaVisible": "04/09/2025 12:57 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe consulto con mis compañeros de desarrollo sobre lo que nos informan, me indican que la cancelación o aplicación de las retenciones no se informan por interconexión, así como tampoco la cancelación de operaciones manuales realizadas dentro de la plataforma, así fue como quedo operando desde la liberación de la nómina, anteriormente en la herramienta viejita de tickets se había presentado una duda similar sobre porque no se informan la cancelación de operaciones no recuerdo si era de este mismo tema o diferente pero la respuesta fue la misma que no existe actualmente un web service para informar esa parte a SPARH.\n\nPara este tema las retenciones ya vienen indicadas desde el envió de la nómina, es decir, SPARH es el dueño de esa información, pero no se informa si se realiza una cancelación por lo cual debería de ser un requerimiento nuevo y conllevaría el análisis correspondiente para ver la comunicación con SPARH y SIRE para hacer este informe por un web service especifico",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/09/2025 05:47 p. m.",
+          "fechaVisible": "03/09/2025 05:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error al al generar notas de crédito de cancelaciones, reintegro 97894",
+      "descripcionDetallada": "Se adjunta imagenes de error al generar notas de crédito de una cancelación, reintegro 97894.\nSe adjunta imagen donde se muestra que son iguales los importes en ambos sistemas.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "22/08/2025 12:04 p. m.",
+      "fechaRegistroVisible": "22/08/2025 12:04 p. m.",
+      "id": 4920,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 8,
+      "seguimiento": [
+        {
+          "comentario": "A petición de la DN se finaliza el incidente, agradeciendo la atención.",
+          "consecutivo": 8,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 04:49 p. m.",
+          "fechaVisible": "04/09/2025 04:49 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:58 a. m.",
+          "fechaVisible": "04/09/2025 12:58 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche/día\n\nSI quedo atendido, de hecho se acaba de realizar el cambio de servidor que contiene dicha atención.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:55 a. m.",
+          "fechaVisible": "04/09/2025 12:55 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nRespecto a la corrección realizada, se requiere saber si esto quedó atendido en productivo, esto con la finalidad de indicar al área que en la próxima QNA verifique si existen casos similares para corroborar el funcionamiento.\n\nGracias de antemano, quedo al pendiente.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/09/2025 02:10 p. m.",
+          "fechaVisible": "03/09/2025 02:10 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe revisó con el apoyo del JSON las operaciones correspondientes y el envió de la información, donde se localizó que había dos retenciones con el mismo fondo pero diferente cuenta bancaria relacionada, por lo cual se corrigió el problema por el personal de ingeniería respecto a la validación correspondiente, con el JSON fue más sencillo ubicar el problema y poderlo corregir",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/09/2025 12:52 p. m.",
+          "fechaVisible": "03/09/2025 12:52 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nQuedamos al pendiente del análisis que se tenga de los JSON.\n\nSaludos",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "01/09/2025 06:18 p. m.",
+          "fechaVisible": "01/09/2025 06:18 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/08/2025 11:48 p. m.",
+          "fechaVisible": "28/08/2025 11:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEste incidente fue atendido por parte de ingeniería, específicamente por parte de Josué Andrade para que se pudiera avanzar en producción, por lo cual, estoy a la espera de su análisis con los JSON proporcionados para que me pueda indicar a que se derivo el problema y se los comparta",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/08/2025 02:57 p. m.",
+          "fechaVisible": "25/08/2025 02:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en carga de plantilla de solicitud de egreso",
+      "descripcionDetallada": "Se reporta un mensaje de error detonado al cargar la plantilla de solicitud de egreso, es en relación a la cuenta bancaria y los clasificadores, indica \"La cuenta bancaria que se desea relacionar no está dentro de las que más coinciden con las clasificaciones de la operación. Verifique la cuenta bancaria seleccionada. \", sin embargo, la cuenta bancaria está relacionada al fondo y fuente de financiamiento dados en la plantilla.\nSe adjunta documento Word con el detalle, asi como las plantillas y los mensajes de error.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/08/2025 02:12 p. m.",
+      "fechaRegistroVisible": "12/08/2025 02:12 p. m.",
+      "id": 4861,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por el apoyo brindado",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/11/2025 09:10 a. m.",
+          "fechaVisible": "07/11/2025 09:10 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "12/08/2025 10:23 p. m.",
+          "fechaVisible": "12/08/2025 10:23 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas noches.\n\nSe reviso lo reportado por el área correspondiente y generando una captura manual de esa operación en una BD de pruebas, se observa que la cuenta bancaria que quieren utilizar 00000000070088465170 solo tiene asignada la U.Resp 0147 la cual es diferente a la que ocupara la operación que van a migrar la cual es la 0123, es por ello que arroja el mensaje de que no coincide la cuenta bancaria.\n\nLo que se deberá de realizar es a la cuenta bancaria relacionarle el clasificador administrativo de la U.Resp 0123 para que entonces si, dentro de la plataforma pueda visualizar dicha cuenta bancaria, esto lo podrán corroborar si emulan la captura de la cabecera y verán que si no hacen lo indicado no observarán la cuenta, una vez que realicen ese ajuste visualizarán la cuenta y es ahí donde su plantilla pasará sin problema.\n\nAsí mismo adjunto la plantilla un poco depurada, ya que observaba que le asignan desglose presupuestal cuando es la misma clave y son operaciones diferentes con un solo renglón, tal vez sería necesario que el equipo del USIIU les recuerde a los usuarios como es el uso de desglose presupuestal para que no trabajen de más la plantilla, la depuración la realice por comodidad de acuerdo a lo que observe con sus registros, sin embargo, la pueden tomar como base.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/08/2025 09:44 p. m.",
+          "fechaVisible": "12/08/2025 09:44 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "Buenas tardes\nSe solicita el apoyo para realizar el cambio de forma de pago a los registros de rechazo SPEI, de transferencia a cheque.\nSe adjunta documento con la relación.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/08/2025 12:42 p. m.",
+      "fechaRegistroVisible": "07/08/2025 12:42 p. m.",
+      "id": 4829,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece la atención brindada.\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "11/08/2025 07:31 p. m.",
+          "fechaVisible": "11/08/2025 07:31 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/08/2025 07:37 p. m.",
+          "fechaVisible": "07/08/2025 07:37 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl ticket se encuentra atendido en el ambiente de producción de acuerdo a la información brindada dentro del archivo de Excel para las nóminas 12, 13 y 14",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/08/2025 07:36 p. m.",
+          "fechaVisible": "07/08/2025 07:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "[ABAEZ] Solicitud de apoyo para corregir talones rechazados en SIRE Nómina",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas y en complemento a la petición realizada vía correo electrónico el día de ayer 9 de julio de 2025 alrededor de las 11:07, se complementa la solicitud con lo expuesto en archivo adjunto.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "10/07/2025 01:35 p. m.",
+      "fechaRegistroVisible": "10/07/2025 01:35 p. m.",
+      "id": 4649,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece la atención brindada,, a la fecha esta situación quedó solventada, en caso de presentarse nuevamente, se registrará un nuevo incidente",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 05:57 p. m.",
+          "fechaVisible": "05/08/2025 05:57 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "12/07/2025 01:24 p. m.",
+          "fechaVisible": "12/07/2025 01:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe brindo el apoyo solicitado respecto a la actualización de los talones correspondientes, realizando el cambio de estatus a 2 talones que detenían el envió, posterior se presento otro detalle, el cual se derivo a que estos talones fueron enviados como efectuados a SPARH asumiendo de manera equivocada por nuestro personal que cuando nos indicaron en el correo que SPARH lo tenia correcto asumimos que ya estaban en efectuados y fue por ello que se presento la otra problemática, sin embargo, fue derivada de una confusión interna",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/07/2025 01:19 p. m.",
+          "fechaVisible": "12/07/2025 01:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - no se visualiza el estado cancelado en el historial de estadosdel cheque",
+      "descripcionDetallada": "La DN requiere saber el motivo de cancelación de los cheques listados en el documento excel que se adjunta., sin embargo, en el historial de estados no se muestra el registro del estado cancelado y en los movimientos de cancelación no está mostrando información.\nSe adjunta archivo excel con el listado de folios cancelados, asi como imagen ejemplo de la no visualización.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/07/2025 10:01 a. m.",
+      "fechaRegistroVisible": "03/07/2025 10:01 a. m.",
+      "id": 4588,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "se da por atendido",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 07:03 p. m.",
+          "fechaVisible": "24/11/2025 07:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 02:26 p. m.",
+          "fechaVisible": "03/07/2025 02:26 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "No se observan los motivos dado que los motivos de cancelación fuera de los estados y tareas no se observan dentro del sistema, esto ya lo habían consultado hace un tiempo atrás en otro módulo, la manera de observar esa información es solo por datos, esto lo podría ver el área de DGTI o quien realice consultas en la BD, en la tabla cheque el campo razón es quien contiene ese valor.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 02:24 p. m.",
+          "fechaVisible": "03/07/2025 02:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "buenas tardes Josue\n\nGracias por la información, asimismo, quedamos al pendiente de la retroalimentación respecto al por qué no se ven los motivos o en su caso en dónde podemos observarlos.\n\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 01:46 p. m.",
+          "fechaVisible": "03/07/2025 01:46 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 01:39 p. m.",
+          "fechaVisible": "03/07/2025 01:39 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tarde Emi. \n\nRevisando la información que nos proporcionaron, observo que los registros fueron cancelados por el Lic. Jonathan, adjunto el documento sustento de Excel, en la columna O puse la descripción de cancelación correspondiente a cada cheque.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/07/2025 01:32 p. m.",
+          "fechaVisible": "03/07/2025 01:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "[ABAEZ] - Despliegue de información en la consulta de deudas",
+      "descripcionDetallada": "Ante las situaciones presentadas ayer 19 de junio por la noche, posterior a la impresión de notas de crédito y hoy al mediodía posterior al envío de reintegros automáticos, ambas relacionadas con el despliegue y reflejo de información en la consulta de deudas en SIRE Nóminas, solicito su valioso apoyo a fin de que me comente el motivo que derivó esta situación , se corrija el detalle de raíz y se asegure que no se presentará en futuros procesos, sobre todo en los próximos venideros (quincena 13 y 14), ya que los tiempos son muy cortos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/06/2025 06:46 p. m.",
+      "fechaRegistroVisible": "20/06/2025 06:46 p. m.",
+      "id": 4521,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "La situación reportada no se presentó durante la ejecución de los procesos nominales de las quincenas 13 y 14, sin embargo, en caso de que se identifique nuevamente en quincenas futuras, se estará registrando un nuevo incidente",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 06:00 p. m.",
+          "fechaVisible": "05/08/2025 06:00 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 11:03 a. m.",
+          "fechaVisible": "24/06/2025 11:03 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día. \n\nSe informa que el fin de semana, se realizó la actualización del ambiente de producción, donde se puso la atención a esta problemática reportada, con ello ya no se presentaría el problema reportado",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 10:05 a. m.",
+          "fechaVisible": "23/06/2025 10:05 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día. \n\nSe informa que ya se cuenta con la corrección correspondiente, el problema fue derivado a una optimización donde falto contemplar un script y este es el que afecta al reflejo de la información, por lo cual se deberá de realizar el cambio correspondiente, mismo que será este fin de semana, se consulto con Angelica Báez y el Mtro. Rafa, informando que no hay problema, se enviará correo una vez se realice la actualización correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "21/06/2025 11:57 a. m.",
+          "fechaVisible": "21/06/2025 11:57 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en cancelación de Nota de Crédito",
+      "descripcionDetallada": "La Dirección de Nóminas requiere cancelar las Notas de Crédito relacionadas a los reintegros 81326 (enero) y 81633 (marzo), sin embargo, el sistema les muestra mensaje con el mes cerrado.\nEsto se reporta en virtud de que la cancelación la están realizando con fecha actual, aunque las reintegros son de meses cerrados, por lo que se pide revisar la situación ya que indican que en otras operaciones si se permite afectar en mes distinto al de la operación, aunque esté cerrado el mes, pues se entiende que el importe liberado se libera en el mes que se está realizando la cancelación.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "09/06/2025 02:14 p. m.",
+      "fechaRegistroVisible": "09/06/2025 02:14 p. m.",
+      "id": 4462,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 11,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 11,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 01:00 a. m.",
+          "fechaVisible": "04/09/2025 01:00 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Es necesario actualicen el cliente las personas que vallan a realizar la cancelación correspondiente",
+          "consecutivo": 10,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:59 a. m.",
+          "fechaVisible": "04/09/2025 12:59 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche/día\n\nSe informa que se actualizo el ambiente de producción para que puedan realizar la cancelación correspondiente de la nota de crédito",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:58 a. m.",
+          "fechaVisible": "04/09/2025 12:58 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, dando seguimiento a lo revisado por el personal de ingeniería comento lo siguiente:\n\n\n\nNo podrían cancelar la nota relacionada al reintegro de marzo, dado que fue saldado en su totalidad por los pagos de los egresos relacionados, que en este caso la cancelación no sería posible ya que todo el proceso de nómina (Gastos, orden de pago y pago) se culmino completamente, por lo cual para la de marzo no sería posible su cancelación, solo podría ser cancelable la de febrero.\n\nEsto de acuerdo a lo que nos indicaron, ya que la nota de febrero no esta concluido el proceso en su totalidad si es posible poder realizar un proceso de cancelación, sin embargo, para la de marzo no sería posible por lo informado anteriormente.\n\nBrindo este comentario de acuerdo a lo que esta realizando ingeniería respecto a su cancelación correspondiente de las operaciones.",
+          "consecutivo": 8,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "01/09/2025 12:44 p. m.",
+          "fechaVisible": "01/09/2025 12:44 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, dando seguimiento a lo revisado por el personal de ingeniería comento lo siguiente:\n\nNo podrían cancelar la nota relacionada al reintegro de marzo, dado que fue saldado en su totalidad por los pagos de los egresos relacionados, que en este caso la cancelación no sería posible ya que todo el proceso de nómina (Gastos, orden de pago y pago) se culmino completamente, por lo cual para la de marzo no sería posible su cancelación, solo podría ser cancelable la de febrero.\n\nEsto de acuerdo a lo que nos indicaron, ya que la nota de febrero no esta concluido el proceso en su totalidad si es posible poder realizar un proceso de cancelación, sin embargo, para la de marzo no sería posible por lo informado anteriormente.\n\nBrindo este comentario de acuerdo a lo que esta realizando ingeniería respecto a su cancelación correspondiente de las operaciones.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "01/09/2025 12:42 p. m.",
+          "fechaVisible": "01/09/2025 12:42 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nDando retroalimentación a este folio, les informo que el personal de ingeniería se encuentra trabajando en el proceso de cancelación de nota de crédito con afectación a estado de cuenta de deudor, estaré indicando el proceso a realizar más adelante contemplando los dos reintegros de nómina que nos mencionaron",
+          "consecutivo": 6,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "29/08/2025 01:34 p. m.",
+          "fechaVisible": "29/08/2025 01:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería y normatividad se encuentran revisando la problemática, estaré brindando retroalimentación más adelante",
+          "consecutivo": 5,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 12:34 p. m.",
+          "fechaVisible": "21/08/2025 12:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "La Dirección de Nóminas nos indica que no es posible cancelar la Nota de crédito.\n\nPor lo anterior, se solicita el apoyo para que el proveedor nos indique con qué operaciones se pueden realizar la cancelación del pago en exceso y si una vez cancelado, el Departamento de Caja podrá operar la cancelación de los cheques sin que se genere algún error.\n\nIndican que la Contraloría General nos concedido 10 días hábiles para informarle de que el saldo del pago en exceso y los cheques han sido cancelado., por lo que es urgente la atención.\n\nSe adjunta correo sustento.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/08/2025 08:54 a. m.",
+          "fechaVisible": "20/08/2025 08:54 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 11:05 a. m.",
+          "fechaVisible": "12/06/2025 11:05 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\n\n\nLa nota de crédito que nos indican no puede ser cancelada, dado que es un traspaso de saldo a deudor, esto lo podemos ver en la parte inferior de la nota de crédito, donde tiene el check \"Tranferencia de saldo a deudor\", generando la liquidación del saldo de la nota y generando un cargo a deudor en su lugar, de tal forma que al cancelar la operación intenta eliminar la liquidación del saldo lo cual es eliminar la póliza que genero cuando se aplico la operación y como este movimiento esta realizado en el mes de febrero por eso indica que no se puede realizar la acción, ya que el mes 2 del 2025 se encuentra cerrado en contabilidad.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 11:04 a. m.",
+          "fechaVisible": "12/06/2025 11:04 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl día de mañana le estaremos brindando retro sobre lo expuesto en el mensaje, una vez que sea validada la respuesta con el área normativa",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 10:06 p. m.",
+          "fechaVisible": "10/06/2025 10:06 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - cambio de forma de pago en rechazos SPEI",
+      "descripcionDetallada": "A petición de la Dirección de Nóminas se solicita apoyo para r el cambio de forma de pago de transferencia a cheque de las operaciones contenidas en el archivo Excel que se adjunta al presente.\nAgradecemos la atención brindada.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/05/2025 12:42 p. m.",
+      "fechaRegistroVisible": "21/05/2025 12:42 p. m.",
+      "id": 4365,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Atendido, gracias por el apoyo.",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 01:45 p. m.",
+          "fechaVisible": "05/08/2025 01:45 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "23/05/2025 10:06 a. m.",
+          "fechaVisible": "23/05/2025 10:06 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nLa solicitud de cambio de tipo de pago se encuentra atendida en el ambiente de producción.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/05/2025 10:03 a. m.",
+          "fechaVisible": "23/05/2025 10:03 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, reviso la documentación adjunta para realizar el apoyo solicitado",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "22/05/2025 06:03 p. m.",
+          "fechaVisible": "22/05/2025 06:03 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Cambio de tipo de pago",
+      "descripcionDetallada": "Buenos días\nLa Dirección de Nóminas solicita lo siguiente:\nEn archivo adjunto envío la relación de rechazos de transferencia bancarias de la quincenas 7 y 8 de 2025, solicitando tu valioso apoyo para requerirle a SIRE el cambio de forma de pago de transferencia a cheque.\nAdjunto documento adjunto mencionado (Excel)\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "14/05/2025 07:54 a. m.",
+      "fechaRegistroVisible": "14/05/2025 07:54 a. m.",
+      "id": 4308,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nSe finaliza el seguimiento del incidente, agradecemos la atención y el apoyo brindado.\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 12:48 p. m.",
+          "fechaVisible": "19/05/2025 12:48 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 12:13 p. m.",
+          "fechaVisible": "16/05/2025 12:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLes informo que se realizo la atención de esta solicitud de apoyo en el ambiente de producción, para que pueda revisarlo el área y continuar con el procesos correspondiente",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 12:12 p. m.",
+          "fechaVisible": "16/05/2025 12:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe intento realizar la conexión mediante la VPN hacia los servidores de la Universidad, sin embargo, no se tuvo éxito, se le informo a las 12:06 am al Mtro. Rafa para que me pueda apoyar y durante el transcurso de la mañana atender esta solicitud de apoyo",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 12:08 a. m.",
+          "fechaVisible": "16/05/2025 12:08 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ - Lentitud al autorizar notas de crédito - urgente",
+      "descripcionDetallada": "La Dirección de Nóminas reporta lentitud, presentada el día de ayer 7 de mayo, al autorizar las notas de crédito de egresos de los reintegros de la nómina.\nSe inició el día 7 de mayo a las 4:10 p.m. y se concluyó hasta el día 8 de mayo a las 4:10 a.m. Tardando un total de 12 hrs cuando antes se tardaba entre 4 - 5 hrs, dependiendo los registros.\nEl área técnica revisó y nos indica que a nivel infraestructura en SPARH y SIRE no notan saturación que pudiera haber causado la lentitud\nEs importante mencionar que no se había presentado inconvenientes en el proceso desde el año pasado (2024), con el envío de reintegros - incidentes 340345.\nLos últimos incidentes reportado en este ejercicio 2025 fueron: 41433, 41397 y 43469, nos pueden indicar si se ajustó algo internamente que esté generando la lentitud, por favor.\nSe adjunta documento con relatoría de lo sucedido.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "08/05/2025 01:05 p. m.",
+      "fechaRegistroVisible": "08/05/2025 01:05 p. m.",
+      "id": 4257,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 10,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 10,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 05:49 p. m.",
+          "fechaVisible": "19/08/2025 05:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde. \n\nRespecto a la bitácora, se informa que se genero a nivel de BD, por lo que pudieran obtener la información de la siguiente manera:\n\nSelect * from BITFUNEJ\n\nLEFT OUTER JOIN PERSONAL ON PERSONAL.CVE_PERS = BITFUNEJ.CVE_PERSA\n\nWHERE FECHA_REQ >= '2025-08-11 00:00:00.000' AND FECHA_REQ <= '2025-08-11 23:59:00.000'\n\nAND PERSONAL.USERNAME='YRIZO'\n\nAND NOMBFUNC='SRV1 - RImprimeNCExLotes'\n\nAND TIPO='F' --SE PUEDE PONER UNA I EN CASO DE QUE EL PROCESO SE ESTE EJECUTANDO EN ESE MOMENTO.\n\nAsí mismo si el usuario quiere ver cuanto tiempo tardo la impresión de las notas de crédito, lo puede hacer directo en el módulo Visor de operaciones de SIREGOB, adjunto al ticket una imagen con los datos a ingresar para visualizar la información",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/08/2025 02:41 p. m.",
+          "fechaVisible": "15/08/2025 02:41 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nPedimos por favor el apoyo para que nos puedan comentar, el avance de atención a la mejora mencionada en su retroalimentación, referente a implementación de una bitácora donde el usuario pueda corroborar el avance en la impresión de notas de crédito. De antemano agradecemos el apoyo y quedamos al pendiente.\n\nSaludos",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/08/2025 10:35 a. m.",
+          "fechaVisible": "14/08/2025 10:35 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:36 p. m.",
+          "fechaVisible": "17/06/2025 01:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nLa mejora que indican fue respecto al uso de retenciones como bien lo mencionan, lo cual es diferente a lo presentado en días anteriores, no es alcance ni tampoco lo entregado en la mejora que se menciona, son temas completamente diferentes, dado que hubo una saturación respecto a las operaciones que ocupan al deudor y afecta el estado de cuenta, es decir, el mismo deudor ocupado al mismo tiempo por dos o más operaciones provoca que se enfilen las operaciones y se atiendan conforme se van liberando.\n\nrespecto a la bitácora mencionada, se esta analizando por el personal de ingeniería que sea de acceso para el usuario, como la que se entrego para la nómina y para a conciliación bancaria, es decir, que el usuario pueda corroborar el avance correspondiente, o si es en BD, esto se esta definiendo por lo cual una vez que se libere esta bitácora se les informará, cual sea el caso, para que tengan conocimiento de esta misma, se le informará al personal de la USIIU para que les haga llegar a ustedes la información correspondiente.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/05/2025 08:38 p. m.",
+          "fechaVisible": "15/05/2025 08:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nEn seguimiento a la respuesta proporcionada, se retroalimenta lo siguiente:\n\nAgradecemos el apoyo que nos brindan, respecto al tema de concurrencia que fue el motivo que provocó la lentitud, el pasado 25 de enero realizaron una mejora para atender este tema, en específico a la concurrencia presentada en todos los módulos relacionados con retenciones, tal es el caso de: reintegros de nómina, notas de crédito, solicitudes de egreso, comprobaciones entre otros, por lo cual surge la duda si el alcance de esta mejora, está relacionado con el motivo que nos comparten en la respuesta y de ser así, pese a la mejora realizada ¿por qué se presentó la concurrencia?\n\n\n\n\nAsimismo en cuanto a la bitácora en el servidor, entiendo que será para uso y monitoreo de ustedes ¿verdad? a efectos de atender de manera expedita la situación que les reportemos. Al respecto les consulto ¿es posible que esta bitácora esté al alcance del personal de soporte técnico de UV?\n\nAtenta quedo a sus comentarios.\n\nSaludos Cordiales",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/05/2025 11:25 a. m.",
+          "fechaVisible": "14/05/2025 11:25 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 09:04 p. m.",
+          "fechaVisible": "13/05/2025 09:04 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 09:03 p. m.",
+          "fechaVisible": "13/05/2025 09:03 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl personal de ingeniería observo que el problema de la lentitud presentada en el proceso de nómina se derivo a un tema de concurrencia en la afectación del estado de cuenta de deudores, lo que ocasiono que unos registros al afectar el estado de cuenta tuvieran que esperar en lo que terminará la operación, se realizó la atención de esta problemática en el ambiente de producción, así mismo como parte de poder tener una visión más clara cuando un proceso tarde más de lo normal, se pondrá una bitácora en el servidor el cual no tiene nada que ver con la atención de este ticket, si no como un método de identificación rápida de problemáticas en los deudores y se pueda brindar respuesta del porque una lentitud de manera más rápida, esto será en pro de poder dar respuesta más rápida.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 08:58 p. m.",
+          "fechaVisible": "13/05/2025 08:58 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl área de ingeniería continua con la revisión para saber a que se pudo derivar el incremento en tiempo del proceso, el día de mañana les estaré brindando retro, lo que comenta el equipo es que no observa que el día de hoy se presente con el proceso de envió de la nómina un aumento en tiempo.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:26 p. m.",
+          "fechaVisible": "08/05/2025 10:26 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

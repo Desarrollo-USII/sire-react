@@ -1,0 +1,2283 @@
+{
+  "metadata": {
+    "sistema": "INGRESOS",
+    "cuenta": "INCUV_DINGRESOS",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 40,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 40,
+    "totalSeguimientos": 185,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Consulta sobre catálogo de Contribuyentes",
+      "descripcionDetallada": "Buenas tardes\n¿Nos pueden apoyar de favor, en compartirnos el último usuario que haya modificado el campo “Nombre empresa” del Catálogo de Contribuyente y la fecha en que realizó la modificación, para el contribuyente 394378?\n\n \n\nToda vez que modificaron la descripción de ese campo (la cual no debió hacerse) y necesitamos saber ¿quién realizó dicha acción? Y en el sistema no se visualiza esta información.\nDe antemano, gracias.\nQuedo al pendiente.\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/10/2026 04:06 p. m.",
+      "fechaRegistroVisible": "7 de Oct, 04:06:11 PM",
+      "id": 7296,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nRevisamos la información que nos indican para brindar el dato correspondiente",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-07T22:08:36.573Z",
+          "fechaTexto": "07/10/2026 04:08 p. m.",
+          "fechaVisible": "7 de Oct, 04:08:36 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nRevisando la información de base de datos y corroborando con el personal de ingeniería, te informo que no hay manera de poder saber quien movió la información del nombre del contribuyente, solo podemos observar la ultima fecha de modificación más no obtener que se movió y por quien.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-09T16:48:08.520Z",
+          "fechaTexto": "09/10/2026 10:48 a. m.",
+          "fechaVisible": "9 de Oct, 10:48:08 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-10-09T20:04:43.403Z",
+          "fechaTexto": "09/10/2026 02:04 p. m.",
+          "fechaVisible": "9 de Oct, 02:04:43 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "ALAGONZALEZ_Duda ejecuciones del proceso de conciliación y generación de depósitos",
+      "descripcionDetallada": "Buenas tardes.\nSolo queremos confirmar/consultar lo siguiente.\nLa ejecución de los procesos de generación de depósitos y el de la conciliación ¿se pueden ejecutar de manera simultanea por dos o más equipos?\nSolo queremos confirmar esto y en su caso saber bajo qué criterios si se puede o no se puede.\nRecuerdo que anteriormente nos indicaron que si se podía pero no era recomendable porque si en el extracto bancaria que procesará el equipo 2 se encontraba algún contribuyente que también estuviera en el extracto procesado por el equipo 1, y además coincidían en que ambos se ejecutaban al mismo tiempo, es ahí donde el sistema mandaba el mensaje de error que \"Uno o varios registros están siendo utilizados, inténtelo más tarde\" (o algo parecido es el mensaje que arroja), la duda en sí es:\n¿Estos procesos solo se pueden ejecutar con un mismo usuario en una misma sesión o puede ejecutarse de manera simultanea por varios equipos y diferentes usuarios? evitando que se muestre el error de recurrencia, y en dado caso, nos pudieran explicar el motivo por el que se detona el mensaje de error cuando el proceso es ejecutado por más de un usuarios.\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "30/09/2026 01:24 p. m.",
+      "fechaRegistroVisible": "30 de Sep, 01:24:50 PM",
+      "id": 7244,
+      "posesion": "Cliente",
+      "prioridad": "Media",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nReviso lo compartido en el ticket, ante cualquier duda te contacto de manera directa para poder solventarla y brindar respuesta",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-09-30T19:41:16.003Z",
+          "fechaTexto": "30/09/2026 01:41 p. m.",
+          "fechaVisible": "30 de Sep, 01:41:16 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nSe puede llevar a cabo la carga de extractos bancarios por diferentes usuarios o por el mismo en diferentes máquinas y de diferentes chequeras, sin embargo, como bien lo mencionan, el problema se genera si un extracto bancario o generación de depósito afecta al mismo contribuyente casi al mismo tiempo o durante el proceso de otra afectación pudiera mostrar el mensaje de que el registro esta siendo utilizado por otro usuario, esto se deriva al momento de generar la afectación (cálculos) en el estado de cuenta del contribuyente, todas las operaciones afectan su estado de cuenta de manera automática y al momento, por lo que si un proceso esta afectando (obligando a que se calcule si estado de cuenta) y entra otro a afectarlo, dependiendo de la cantidad de información puede entrar en cola de atención o bloquearse, por lo que para no tener estos problemas como bien lo dices se recomendó no hacerlo en paralelo, sin embargo, no limita que pueda estar la misma sesión abierta en 5 máquinas afectando a 5 chequeras diferentes, solo teniendo en cuenta lo mencionado de la afectación del estado de cuenta del contribuyente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-01T18:52:46.963Z",
+          "fechaTexto": "01/10/2026 12:52 p. m.",
+          "fechaVisible": "1 de Oct, 12:52:46 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-10-05T16:53:49.350Z",
+          "fechaTexto": "05/10/2026 10:53 a. m.",
+          "fechaVisible": "5 de Oct, 10:53:49 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "ALAGONZALEZ_Duda sobre cantidad de caracteres soportada en un campo",
+      "descripcionDetallada": "Buenas tardes, Tenemos la siguiente duda:\nEn la ventana de Formulario (que es donde verifican los motivos revisión de algún trámite), el campo observaciones generales ¿cuántos caracteres acepta?¿hay posibilidad de configurarle o permitir que se capturen más caracteres? La duda es porque en algunos casos, sobre en los requerimientos presupuestales, es necesario capturar una descripción grande, sin embargo, el sistema corta lo capturado.\nLa clave de este requerimiento presupuestal es: 004110\n \nDe antemano, gracias.\nQuedo al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "11/09/2026 01:07 p. m.",
+      "fechaRegistroVisible": "11 de Sep, 01:07:52 PM",
+      "id": 7136,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nRevisamos el ticket para brindarle respuesta puntual de acuerdo a la cantidad de caracteres correspondientes",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-09-11T19:09:41.053Z",
+          "fechaTexto": "11/09/2026 01:09 p. m.",
+          "fechaVisible": "11 de Sep, 01:09:41 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nLa longitud del campo es de 120 caracteres, respecto a la segunda pregunta de si es posible agrandarlo, se deberá de generar la solicitud de cambio correspondiente para poder afectar dicho campo y la relación con otras tablas para que tengan todas la misma longitud.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-09-14T16:36:49.573Z",
+          "fechaTexto": "14/09/2026 10:36 a. m.",
+          "fechaVisible": "14 de Sep, 10:36:49 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-14T17:10:00.320Z",
+          "fechaTexto": "14/09/2026 11:10 a. m.",
+          "fechaVisible": "14 de Sep, 11:10 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se finaliza, de UV se sigue revisando qué causó el problema.",
+      "descripcionBreve": "ALAGONZALEZ_Urgente error al tratar de generar una línea de captura desde modulo ingresos",
+      "descripcionDetallada": "En productivo\nSe requiere generar una línea de captura desde el módulo de ingresos, en la opción “Inscripción a ventanilla” del menú “Operaciones”\n \nSe capturan los siguientes parámetros:\n \nSin embargo, al detonar la ejecución de este proceso (botón Consultar; que es cuando se detona la interconexión) manda el siguiente mensaje:\n \n\nQuedamos al pendiente, ya que se requiere generar la línea de captura.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/09/2026 11:48 a. m.",
+      "fechaRegistroVisible": "4 de Sep, 11:48:29 AM",
+      "id": 7086,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche Alan.\n\nEste ticket fue atendido por el personal de la UV ya que ahí fue donde se genero el problema, por lo que de ser posible quedamos a la espera de que causo el problema",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-05T02:52:59.100Z",
+          "fechaTexto": "04/09/2026 08:52 p. m.",
+          "fechaVisible": "4 de Sep, 08:52:59 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-05T02:53:56.920Z",
+          "fechaTexto": "04/09/2026 08:53 p. m.",
+          "fechaVisible": "4 de Sep, 08:53:56 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se finaliza, de UV se sigue revisando qué causó el problema.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-07T18:54:06.443Z",
+          "fechaTexto": "07/09/2026 12:54 p. m.",
+          "fechaVisible": "7 de Sep, 12:54:06 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "ALAGONZALEZ_Complementar algunas LC con información en el campo Trámite",
+      "descripcionDetallada": "Se detectaron algunas líneas de captura en las cuales, no tienen información en el campo “Trámite” de la pestaña “Datos Adicionales 3” del módulo de Ingresos:\n \nNormalmente, cuando MiPago envía la petición al SPRFM para crear una línea de captura, dentro de la información que se envía, va la información del porcentaje de descuento que se debe aplicar, sin embargo, hubo unos casos (los que se adjuntan en un archivo Excel) en donde no se envió esta información, de parte del equipo técnico de UV continúan revisando el motivo por el que no se envió esta información.\nPor lo anterior, pedimos el apoyo para complementar de manera directa en la tabla, que a las líneas de captura del archivo Excel, se les pueda complementar la información del porcentaje de descuento (columna DESCUENTO del archivo Excel) en el campo Trámite del módulo de ingresos.\n\nAlgunas de las líneas de captura son las siguientes, sin embargo, el apoyo se requiere para todas las líneas que se encuentran en el archivo Excel.\nLC MONTO PERIODO NO. OPERACIÓN FECHA MATRÍCULA NOMBRE IND. CONCILIACIÓN DESCUENTO\n00126057560148729223 $151.00 202651 1987366 03/02/2026 11:15 S21008447 Xochiquiquixtle Monjaraz Xochitl Valeria Y PGV75\n00126058010348721237 $250.00 202651 1992426 03/02/2026 15:13 S22003920 Altamira Lopez Jazmin Y PGV75\n00126059126848757295 $298.00 202651 2004203 04/02/2026 12:07 S23008773 Rodriguez Ricarte Lourdes Abril Y PGV50\n00126059756648754231 $444.00 202651 2010798 04/02/2026 15:30 S24002984 Martinez Gonzalez Magali Y PGV25\n00126060090548759204 $151.00 202651 2014203 04/02/2026 16:53 S22008646 Valerio Marquez Itzel Amisaday Y PGV75\n00126060820648764220 $444.00 202651 2022091 05/02/2026 11:10 S24020871 Acatl Castro Rodrigo Y PGV25\n00126062620348779239 $151.00 202651 2042300 06/02/2026 13:10 S21006912 Del Angel Mariano Naret Merari Y PGV75\n00126066855750659297 $151.00 202701 2291860 10/08/2026 17:53 S23005567 Soto Martinez Yusvi Nayade Y PGV75\n00126067839250669290 $151.00 202701 2303469 11/08/2026 15:11 S23021109 Ortiz Carmona Luis Eduardo Y PGV75\n00126068228250667295 $573.00 202701 2307563 11/08/2026 17:06 S24024277 Acho Pogan Diego Y PGV50\n00126070958550719243 $151.00 202701 2339082 14/08/2026 13:30 S22022141 Lara Martinez Luis Angel Y PGV75\n00126071008250714236 $444.00 202701 2339768 14/08/2026 16:59 S25012037 Castillo Hernandez Alexis Agustin Y PGV25\n00126071696650834228 $444.00 202701 2344604 27/08/2026 00:18 S25006190 Baron Patiño Arely Sarai PGV25\n\nDe antemano, gracias por el apoyo.\nesta situación se dio en productivo, y el valor es necesario para el área, ya que les sirve por la información que entregan a Contabilidad,",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "01/09/2026 05:12 p. m.",
+      "fechaRegistroVisible": "1 de Sep, 05:12:52 PM",
+      "id": 7075,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche Alan.\n\nTe informo que se realizó en ambiente de calidad la modificación de los registros del 2023 al 2025, para que por favor validen la información y tener su visto bueno para pasarlo a producción, así mismo el 2026 quedo pendiente en dicho ambiente dado que no están esas operaciones, por lo que el ajuste si tenemos su visto bueno se realizará para este ejercicio directo en producción, quedo atento a tu retroalimentación",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-25T04:24:33.200Z",
+          "fechaTexto": "24/09/2026 10:24 p. m.",
+          "fechaVisible": "24 de Sep, 10:24:33 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días Josue.\n\nDe antemano, una enorme disculpa, no nos están llegando las notificaciones y no había revisado si ya habían respondido.\n\nLa información en Calidad es correcta, te pido pasarlo a productivo, solo pediría el apoyo para que la información que se va a poner (que es el dato de la columna \"Descuento\"), se le antepongan las letras \"PGV\", de manera que quede, por ejemplo si en el Excel el registro tiene 50, en el sistema debe ser \"PGV50\", si el dato de la columna es 25, en el sistema debe quedar \"PGV25\", etc. en Calidad no hay problema que se quede como está.\n\nGracias de antemano.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-07T16:13:43.190Z",
+          "fechaTexto": "07/10/2026 10:13 a. m.",
+          "fechaVisible": "7 de Oct, 10:13:43 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nTe informo que ya se realizó el ajuste en el ambiente de producción para los registros indicados.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-10-07T17:35:34.690Z",
+          "fechaTexto": "07/10/2026 11:35 a. m.",
+          "fechaVisible": "7 de Oct, 11:35:34 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-10-09T18:31:26.690Z",
+          "fechaTexto": "09/10/2026 12:31 p. m.",
+          "fechaVisible": "9 de Oct, 12:31:26 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias",
+      "descripcionBreve": "ALAGONZALEZ_Error con el proceso de clonación de líneas de captura",
+      "descripcionDetallada": "Buenas tardes.\nRequerimos el apoyo para verificar el motivo por el cual una línea de captura no se clonó de manera completa.\nEl detalle se tiene con la línea de captura: 06026000760650838206, la cual se clona mediante un script que nos habían liberado (y que actualmente lo ejecuta el equipo técnico de UV).\nLas líneas que se ejecutan con este scritp es cuando un alumno paga una línea de captura y después, por algún motivo la cancela, lo que hace el script es tal cual “clonar/replicar” el ingreso con la misma línea de captura de manera que, al volver a ejecutar el proceso de conciliación, la línea ya sea reconocida, marcada en verde y conciliada.\nEl detalle que se tuvo con esta línea es que al concliarla, el sistema mandó el mensaje:\nID del extracto Consecutivo del extracto Fecha banco Observaciones descripción\n12752 12 26/08/2026 [Ingresos por Clasificar DI] [06026000760650838206] Módulo de contabilizar, evento [DPV]:Error al generar movimiento presupuestal : Error al registrar clave presupuestal: Clave presupuestal de I6 incompleta, no se localizó el clasificador: ID 2 - Administrativa\n\nRevisando el ingreso que se clonó, se observa que el concepto no tiene ningún clasificador:\n \nSin embargo, al revisar la operación original, ésta si cuenta con los clasificadores correspondientes:\n \nConsultamos con el equipo técnico de UV por si el proceso del script les había mandado algún mensaje de error, pero nos indican que no, que el mensaje que les generó fue el habitual, es decir: “El proceso termino de manera exitosa”.\nRevisamos otras líneas que se han clonado, y en esas si se muestran los clasificadores, por ejemplo, la siguiente línea fue clonada y como se observa si cuenta con los clasificadores:\n \nPor lo anterior, pedimos de su apoyo para poder verificar el motivo por el cual, la línea de captura en cuestión no se clonó correctamente, o al menos, por qué no se le pegaron los clasificadores, esto porque es necesario conciliarla para que el alumno pueda continuar con sus procesos.\n\nDe antemano, gracias.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "31/08/2026 04:03 p. m.",
+      "fechaRegistroVisible": "31 de Aug, 04:03:20 PM",
+      "id": 7071,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche Alan.\n\nEl personal de ingeniería realizó la revisión correspondiente del script, así como de la operación indicada en el hallazgo reportado, a lo que me informan lo siguiente:\n\nDespués de revisar el caso, identificamos que el comportamiento reportado no corresponde a un problema en el script, ya que dicho Script fue desarrollado originalmente para un caso en particular para regenerar ingresos cancelados por error por usuarios de la U.V, donde cuyos clasificadores de dichos ingresos habían sido registrados automáticamente mediante las reglas configuradas.\n\nEn el caso reportado, los clasificadores del ingreso origen fueron registrados manualmente por el usuario, por lo que no se encuentran asociados bajo la misma lógica que contempla actualmente el script para su clonación, por ello no se heredaron al nuevo ingreso.\n\nEn caso de que se necesite realizar el ajuste correspondiente, deberá de generarse una solicitud de cambio para contemplar este tipo de caso.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-03T04:33:25.123Z",
+          "fechaTexto": "02/09/2026 10:33 p. m.",
+          "fechaVisible": "2 de Sep, 10:33:25 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-03T17:51:49.387Z",
+          "fechaTexto": "03/09/2026 11:51 a. m.",
+          "fechaVisible": "3 de Sep, 11:51:49 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se finaliza el incidente, sin embargo, en caso de que se vuelva a presentar esta situación, se reportará en un nuevo incidente haciendo alusión a éste que se finaliza.",
+      "descripcionBreve": "ALAGONZALEZ_Situación con el proceso de generación de depósito y el de conciliación",
+      "descripcionDetallada": "Se nos está presentando (ya van varios casos) en donde el alumno paga un monto mayor al que se requiere, como en este caso que reportamos en donde el ingreso se generó por 2,991.00 y el alumno pagó 3,000.00, sin embargo, tanto al ejecutar el proceso de generación de depósito, y el de conciliación, el sistema nunca mandó el mensaje de error indicando que el pago no corresponde con el monto del ingreso, incluso nos reporta el área que el proceso de conciliación, pinta el registro en verde (como si coincidiera en importe, en fecha, línea de captura, etc.), de hecho, al terminar el proceso de conciliación, el registro si aparece como conciliado.\nPor lo anterior, el área ejecuta los procesos y el sistema en ningún momento mandó mensaje de error, de hecho, la manera en cómo se dan cuenta es porque un alumno reclama que no aparece inscrito, entonces al revisar su línea de captura, ahí es cuando se detecta que en el ingreso si sigue con importe resta pendiente.\nLa línea de captura que presentó esta situación es la siguiente: 00126068385350663245, aunque actualmente el área ya la atendió (aplicando la conciliación de manera manual, y generando el salvo a favor correspondiente).\n\n \nEn la ventana de conciliación, la LC aparece CONCILIADA\n \nIngreso 2309184, en resta sigue en estado NO PAGADA\n \nPor lo anterior, pedimos el apoyo para verificar los procesos: generación de depósitos y conciliación, para identificar el motivo por el cual, ambos procesos, no están enviando los mensajes correspondientes a que la línea tiene un importe diferente del ingreso, y el ¿por qué el proceso de conciliación si marcó en verde este registro.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "28/08/2026 01:33 p. m.",
+      "fechaRegistroVisible": "28 de Aug, 01:33:58 PM",
+      "id": 7068,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nEl personal de ingeniería llevo a cabo la revisión del ticket correspondiente, así como el sustento de Word, e informa lo siguiente:\n\nEl proceso opera correctamente. Al momento de generar el depósito desde el extracto bancario, se valida y, si el monto del extracto es diferente al de la línea de captura, el depósito se genera como un anticipo del cliente (esto se muestra en los mensajes al finalizar la generación de los depósitos). Al conciliar, los movimientos se marcan en color verde cuando el importe del depósito coincide con el importe del extracto bancario; la línea de captura no se liquida con el depósito porque este se registró como anticipo del cliente (se puede aplicar manualmente). Esto forma parte de la operación normal del sistema.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-08T23:36:51.603Z",
+          "fechaTexto": "08/09/2026 05:36 p. m.",
+          "fechaVisible": "8 de Sep, 05:36:51 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-09T00:20:26.870Z",
+          "fechaTexto": "08/09/2026 06:20 p. m.",
+          "fechaVisible": "8 de Sep, 06:20:26 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se finaliza el incidente, sin embargo, en caso de que se vuelva a presentar esta situación, se reportará en un nuevo incidente haciendo alusión a éste que se finaliza.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-23T17:30:09.340Z",
+          "fechaTexto": "23/09/2026 11:30 a. m.",
+          "fechaVisible": "23 de Sep, 11:30:09 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se finaliza pero queda como antecedente,",
+      "descripcionBreve": "ALAGONZALEZ_Error con el proceso de envío del indicador de pagado",
+      "descripcionDetallada": "Buenas tardes, solo para dejar evidencia y consultar ¿qué fue lo que sucedió? Con el proceso de envío del indicador.\n\nEn la mañana del día de hoy al ejecutar el proceso de envío del indicador de pagado, no enviaba las líneas de captura, de hecho, en una primera ejecución, el proceso no mando ni siquiera un mensaje de error ni de confirmación, sino que cuando termina el proceso (porque ya no se mostraba el cursor “cargado”), se cerró la ventana y se volvió a acceder y fue entonces que se identificaron las mismas líneas de captura como pendientes.\n\nEl área realizó el primer envió aproximadamente a las 7:32am (con 4000 líneas), sin embargo, noto que, aunque al inicio el sistema parecía que estaba ejecutándose el proceso, al llegar a la oficina y verificar el proceso (que en teoría ya tendría que haber terminado), vieron que el sistema no había enviado ninguna notificación que confirmará que el proceso habría concluido y al volver a consultar las líneas (cerrando la ventana desde donde se ejecuta el proceso y abriéndola nuevamente) noto que seguían con el estatus de pendientes.\n\nPosterior, aproximadamente a las 9:26am, volvieron a ejecutar el proceso de envío, ahora con 5,739 líneas, y el sistema les arrojó el siguiente mensaje:\n\n \nY siguen estando las líneas pendientes de enviar.\n\nSe reportó al equipo técnico de UV, sin embargo, indicaron que el error no se estaba presentando en las interconexiones de UV sino que sería con el proveedor.\nPosterior Josue se comunicó conmigo, indicándome que se volviera a ejecutar el proceso, y en esta ocasión ya funcionó correctamente.\n\nPor lo anterior, y además de dejar el antecedente del problema, solicito nos indiquen ¿qué fue lo que detonó que el proceso no estuviera funcionando correctamente?\nQuedamos al pendiente, hasta este momento ya no nos han reportado algún problema.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "14/08/2026 05:47 p. m.",
+      "fechaRegistroVisible": "14 de Aug, 05:47:57 PM",
+      "id": 7013,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día Alan.\n\nTe comento respecto a lo reportado, Aroldo me llamo para indicarme respecto a los problemas del envió de líneas de captura, así mismo, se reviso con el personal de ingeniería los mensajes reportados, a lo cual realizamos validación de conexión(SIRECliente) no presento problema de comunicación y validamos las conexiones y procesos anteriores, por lo que se le informo a Aroldo que el problema no era operativo ni de la interconexión, si no de comunicación, el problema fue derivado a la conexión de internet, es por ello que en ocasiones mandaba líneas parciales o no podían enviarlas, por lo que al final estuvimos monitoreando un proceso del usuario GUCASTILLO, este culmino de manera exitosa, sin embargo, nosotros no realizamos ningún ajuste ni modificación, dado que el problema se derivo a una latencia de conexión más no del sistema.\n\nPor lo que en resumen Alan, te puedo comentar que lo presentado fue derivado a un problema de comunicación (Internet) más no del sistema (SIRE o Estudiantes).",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-17T15:30:28.443Z",
+          "fechaTexto": "17/08/2026 09:30 a. m.",
+          "fechaVisible": "17 de Aug, 09:30:28 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se finaliza pero queda como antecedente,",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-08T19:26:13.780Z",
+          "fechaTexto": "08/09/2026 01:26 p. m.",
+          "fechaVisible": "8 de Sep, 01:26:13 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Solicitud de monitoreo del sistema por concurrencia de procesos",
+      "descripcionDetallada": "El pasado 14 de julio, la Doctora Dacia González, emitió un correo de solicitud de apoyo para el monitoreo del desempeño del sistema SPRFM productivo, especialmente durante las 3 primeras semanas del mes de agosto, lo anterior, como ya es habitual porque se identifican fechas críticas en las que convergen numerosos procesos, se genera alta transacción y volumen de información.\nAsimismo, se compartió el cronograma de los días con mayor criticidad en el uso de los sistemas involucrados.\nAdemás, al identificar coincidencia de procesos de nómina de alto consumo de recursos, se solicitó apoyo de las áreas responsables para que “adelantaran” los procesos que coincidirían con los días de mayor afluencia de pagos. Derivado de lo anterior el personal estará laborando los días sábado 8 y domingo 9 de agosto por lo que se solicita que personal de SireGob se mantenga disponible durante los dos días en horario de 06:00 a 23:00Hrs,\nDe antemano, se agradece el apoyo y se adjunta correo sustento. Saludos.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "03/08/2026 12:06 p. m.",
+      "fechaRegistroVisible": "3 de Aug, 12:06:41 PM",
+      "id": 6961,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nEstaremos monitoreando el ambiente de producción, durante el proceso de inscripciones, así mismo, si se presenta un proceso muy pesado o que tenga un impacto en el sistema se les estará informando para proceder con lo correspondiente, en este caso se le informará a Angelica Báez los temas que tengan que ver con procesos o reportes pesados como se ha realizado en ocasiones anteriores.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-08-11T00:53:19.370Z",
+          "fechaTexto": "10/08/2026 06:53 p. m.",
+          "fechaVisible": "10 de Aug, 06:53:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe manda a finalización el ticket, una vez culminado el proceso de inscripción donde no se presento ninguna problemática que pudiera afectar el proceso operativo durante este periodo, teniendo un proceso correcto tal como lo observamos en las pruebas antes realizadas",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-09-09T00:21:04.470Z",
+          "fechaTexto": "08/09/2026 06:21 p. m.",
+          "fechaVisible": "8 de Sep, 06:21:04 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-09T00:22:10.097Z",
+          "fechaTexto": "08/09/2026 06:22 p. m.",
+          "fechaVisible": "8 de Sep, 06:22:10 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Gracias por el apoyo.",
+      "descripcionBreve": "ALAGONZALEZ_Error con la facturación al desplegar la información en el campo descripción del CFDI",
+      "descripcionDetallada": "Al momento de la facturación (timbrado) de un ingreso que tiene información en los campos memos “017 – CFDI” y “038 – Tipo de Salida (editorial)”, en lugar de que el proceso de facturación tomé la información del memo 017, está tomando lo configurado en el 038, lo cual no es correcto.\n\nCuando se inició con el sistema (SPRFM), comentándolo con ustedes, había información que era necesario saliera en las facturas, por lo que nos indicaron que dicha información que se requiere, se podría capturar en un campo memo, este campo memo fue el 017.\n \nLa Dirección de Editorial, por sus procesos, también requirió de campos memos, algunos fueron capturados en el catálogo de conceptos (artículos) y otro en el módulo de ingresos, quedando en el módulo de ingresos con la clave 038.\n \nPor lo cual, hay ingresos que pueden tener información capturada en ambos campos memos, sin embargo, cada uno afectará el reporte que le corresponde, por ejemplo, la Dirección de Editorial, tiene unos reportes que van a leer específicamente al campo memo 038, lo cual es correcto.\n\nLa observación que se tiene, es que cuando se factura un ingreso que tiene información en ambos campos memos (017 y 038), el proceso de facturación no va a leer el memo 017, sino que lee el memo 038, por lo cual provoca que la información que se despliega en el campo “Observaciones” (del CFDI), sea errónea.\nEjemplo:\n\n El ingreso 2204456 tiene información en ambos campos memos:\nEn el 017\n \nEn el 038\n \nAl realizar el timbrado del ingreso (el cual no tiene error), se observa que en el campo “Observaciones”, del CFDI, consideró la información del memo 038, en lugar de considerar únicamente la información del memo 017:\n \nPor lo anterior, pedimos el apoyo para revisar y corregir el proceso de facturación, con el fin de que tomé exclusivamente lo configurado en el campo memo 017 – CFDI, de manera que la factura se realice correctamente.\n\nAdjunto archivo word con el detalle.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/06/2026 04:23 p. m.",
+      "fechaRegistroVisible": "23 de Jun, 04:23:07 PM",
+      "id": 6746,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nTe informo que este reporte no fue realizado por nosotros, es un desarrollo propio de la Universidad Veracruzana, según el DOCUMREP la persona que lo realizó es José Miguel Aburto Hernández, siendo la ultima modificación según la información de este apartado el día 28/05/2026, por lo que las observaciones deberán de ser realizadas al área correspondiente para su atención.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T03:39:58.673Z",
+          "fechaTexto": "23/06/2026 09:39 p. m.",
+          "fechaVisible": "23 de Jun, 09:39:58 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días Josue. \n\nSe revisó con el equipo técnico de UV, sin embargo, nos indican que los documentos utilizados en la facturación y que generan el pdf, no fueron creados por ellos, sino que los crearon ustedes, a continuación comparto la retroalimentación::\n\n\n\"Respecto a tu solicitud de verificar el error, te comento que se revisó el listado de documentos que generan el CFDI,  imagen que compartes y te comento lo siguiente:\n\nLas claves de documento 5, 6, 9,11,13,15,17,19, 21,24, 26, 28, 31, 33,35, 38 y 40, utilizan el reporte “Factura_CFDI V2.9”,  desarrollado por proveedor.\n\nLas claves de documento 147 y 192,  utilizan el reporte “FACDIA_GEN”,  desarrollado por proveedor.\n\nLa clave de documento 2086 utiliza el reporte “FacDiaCFDI_4”, desarrollado por el proveedor\"\n\nLas claves de documento 150 y 194 no observo el nombre del reporte. \n\nTambién te comento que en ningún momento hemos recibió alguna solicitud de modificación de estos reportes, adjunto el archivo en Excel con la información de estas opciones.\n\nRespecto a lo que contesta el proveedor,  entiendo que se refiere al  “Reporte visualizador de facturas v1.0_UV.rtm”   que efectivamente se desarrolló pero este reporte fue creado para el área de Egresos  y genera información de las facturas de gastos (XML) que se suben al sistema.\"\n\n\n\nLas claves de documentos que utiliza el área para la facturación son:\n\n5, 6, 9, 11, 13, 15, 17, 19, 21, 24, 26, 28, 31, 33, 35, 38, 40, 147, 150, 192, 194, 2086.\n\nEsto es, estando en el ingreso, dan clic al icono de impresora, y dependiendo el ingreso y la serie que le corresponda, seleccionaran una de las claves de documento mencionadas, por ejemplo la \"5 -con nombre de documento A20\" o la \"21 que tiene de nombre O20\".\n\nPor lo anterior, quedamos al pendiente ya que urge su atención para que las facturas salgan correctas.\n\nQuedamos al pendiente y adjunto el archivo excel que menciona el equipo técnico UV en su respuesta.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T17:28:10.640Z",
+          "fechaTexto": "24/06/2026 11:28 a. m.",
+          "fechaVisible": "24 de Jun, 11:28:10 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes Josue, una disculpa, volví a adjuntar el archivo word de la observación, había adjuntado uno que no era.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T18:08:37.390Z",
+          "fechaTexto": "24/06/2026 12:08 p. m.",
+          "fechaVisible": "24 de Jun, 12:08:37 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nRespecto a lo reportado, observo que no hacia match con el Word adjunto, es por ello que se contesto que el reporte no era de nosotros.\n\nPosterior a la respuesta que brindaron y la información de formatos que nos compartieron, se realizó la modificación para que muestre la información solo del memo 017 de acuerdo a lo consultado e indicado por ti.\n\nAsí mismo te comento que el cambio se realizó para los formatos de impresión:\n\n5 A20\n\n6 X20\n\n9 XD20\n\n11 XG20\n\n13 S20\n\n15 V20\n\n17 VD20\n\n19 VG20\n\n21 O20\n\n24 OD20\n\n26 OG20\n\n28 P20\n\n31 PD20\n\n33 PG20\n\n35 C20\n\n38 CD20\n\n40 CG20\n\nQue son los que cuentan con la relación al reporte Factura_CFDI V3.0 anteriormente Factura_CFDI V2.9.\n\nLos otros formatos que son FACDIA_GEN y FacDiaCFDI_4 no ocupan campos memos ni llamado a estos mismos por lo cual no se modificaron ya que no es requerido y tampoco muestran la información que los 17 previamente indicados, para que por favor realicen la validación correspondiente",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-06-24T19:19:27.010Z",
+          "fechaTexto": "24/06/2026 01:19 p. m.",
+          "fechaVisible": "24 de Jun, 01:19:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias por el apoyo.",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-25T17:17:42.877Z",
+          "fechaTexto": "25/06/2026 11:17 a. m.",
+          "fechaVisible": "25 de Jun, 11:17:42 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Se agradece el apoyo brindado.",
+      "descripcionBreve": "fesantos-situación líneas de captura",
+      "descripcionDetallada": "Buenas tardes\n\nSe solicita su apoyo para indicarnos, de las siguientes líneas de captura cuando se crearon en el sistema y si fueron eliminadas:\n\n00126006993648663286\n00126012023448660238\n\nLo anterior, ya se consulto en Ingresos y en Mi pago, y no se visualizan\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/03/2026 12:25 p. m.",
+      "fechaRegistroVisible": "4 de Mar, 12:25:05 PM",
+      "id": 6144,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nComo es de su conocimiento, al ser una solicitud de apoyo se necesita el sustento de un correo electrónico enviado por la Lic. Angelica Báez, podrán adjuntar el correo correspondiente por favor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-11T23:42:23.510Z",
+          "fechaTexto": "11/03/2026 05:42 p. m.",
+          "fechaVisible": "11 de Mar, 05:42:23 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se agradece el apoyo brindado.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-24T19:13:13.980Z",
+          "fechaTexto": "24/03/2026 01:13 p. m.",
+          "fechaVisible": "24 de Mar, 01:13:13 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error en reclasificación (saldo a favor)",
+      "descripcionDetallada": "Buenos días.\nSe está intentando hacer una reclasificación para el cierre anual 2025, por el registro de un ingreso de Editorial.\nAl momento de hacer el cobro al saldo a favor, manda el siguiente error.\n\nEl concepto utilizado para el saldo a favor es REC1, y si cuenta con los clasificadores correspondientes y en el ingreso (a donde se envía) es al concepto APO912, ya predeterminado.\n\n Como es del 2025, al hacer la reclasificación nos cambiamos de fecha al 31/12/2025, de manera que tome las claves correspondientes al ejercicio del 2025\n\nComo se observa en la imagen anterior el concepto si cuenta con el clasificador proceso-proyecto con el ID 20 (que es al que hace alusión el mensaje de error)\n \n\n \n\nPor lo anterior, requerimos el apoyo urgente (debido a que hoy se hará el cierre de diciembre), para identificar el motivo por el que no deja concluir la reclasificación.\n\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "05/02/2026 09:21 a. m.",
+      "fechaRegistroVisible": "5 de Feb, 09:21:51 AM",
+      "id": 5971,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día Alan. \n\nRevisamos y lo reportado que posterior les permitió avanzar se derivo a una pequeña lentitud al momento de actualizar la información (visualización) derivado a la carga de los servidores que se ha presentado, por lo cual posteriormente permitió visualizar la información correctamente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-06T02:31:27.823Z",
+          "fechaTexto": "05/02/2026 08:31 p. m.",
+          "fechaVisible": "5 de Feb, 08:31:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-02-11T14:40:34.857Z",
+          "fechaTexto": "11/02/2026 08:40 a. m.",
+          "fechaVisible": "11 de Feb, 08:40:34 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Registro demás, al realizar una reclasificación",
+      "descripcionDetallada": "Se realizó una reclasificación del Ingreso 1976690 27-ene-25 por el importe de $155,340.00, ya que hubo una inconsistencia en el concepto del Ingreso, ya que estaba como servicio debiendo ser Producto, se procedió a crear otro concepto y elaborar el nuevo Ingreso No. 1983436 27-ene-25, así como crear su saldo a favor con el No. 7632\n   \nSin embargo, al revisar el Reporte de Movimientos por UR observamos un registro en el Saldo a Favor 7632 con un importe de $3.00 pesos, pero no sabemos a qué se debe este monto, en el saldo a favor no aparece, incluso en el Auxiliar Mayor presupuestal no se ve el importe de $3.00, nos pueden apoyar indicándonos a qué se debe, se revisó la póliza y tampoco viene, el concepto no lleva IVA, por lo que no sabemos a qué se debe.\n\nIngreso 1983436\n \nPóliza\n \nPantalla de Auxiliar mayor presupuestal\n \nAnexo pantalla del Saldo a favor\nComo se observa, en ningún momento se ven los $3.00, no entendemos de dónde salen y por qué.\n\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/02/2026 10:53 a. m.",
+      "fechaRegistroVisible": "4 de Feb, 10:53:31 AM",
+      "id": 5965,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche Alan.\n\nEjecute el reporte dentro del reportador y no observo el problema que nos reportaron, sin embargo, el reporte observo que lo realizó el personal de la Universidad Veracruzana, por lo que sería necesario que dicho personal pueda revisar el reporte, ya que la operación no tiene nada incorrecto.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-05T01:28:59.127Z",
+          "fechaTexto": "04/02/2026 07:28 p. m.",
+          "fechaVisible": "4 de Feb, 07:28:59 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-04T16:16:11.607Z",
+          "fechaTexto": "04/03/2026 10:16 a. m.",
+          "fechaVisible": "4 de Mar, 10:16:11 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-23T17:41:49.597Z",
+          "fechaTexto": "23/09/2026 11:41 a. m.",
+          "fechaVisible": "23 de Sep, 11:41:49 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Error en el proyecto al generar línea de captura",
+      "descripcionDetallada": "Se generó una línea de captura desde el SPRFM mediante la opción “inscripción en ventanilla”:\n \nSe pusieron los siguientes parámetros:\n \nSin embargo, a pesar de que si se generó la línea de captura: 002260040640748641272, el proyecto (PbR) está siendo tomado de la parte del Egreso en lugar que sea del ingreso:\n\n El PbR que debió tomar es el 0031355:\n \nEstán en la misma situación las siguientes matricula:\n \n• S25021448\n• S25021450\n• S25021451\n• S25021443\n• S25021445\n• S25021446\n\nSe adjunta archivo word.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "26/01/2026 04:49 p. m.",
+      "fechaRegistroVisible": "26 de Jan, 04:49:40 PM",
+      "id": 5916,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche. Posterior al análisis realizado, se observa lo siguiente:\nLo reportado no corresponde a un error de la plataforma, sino a una situación derivada de la captura incorrecta de los proyectos por parte del personal de la Universidad, ya que se registraron dos con la misma clasificación de proceso/proyecto. Este tipo de alta se utiliza únicamente cuando los proyectos tienen fines distintos y no comparten la misma clasificación. En este caso, debió haberse seleccionado la opción “ambos”, que permite administrar de manera conjunta el presupuesto de ingresos y egresos dentro de un mismo proyecto.\nActualmente, el proceso de separación de proyectos (uno de ingresos y otro de egresos) que se aplicó ocasiona que, en la interconexión, al momento de registrarse se tome la clasificación del proceso/proyecto y se cargue el número correspondiente al proyecto de egresos. Esto ocurre porque, en la numeración de proyectos, el de egresos aparece antes que el de ingresos (proyecto de egresos número 0028146; proyecto de ingresos número 0031355). Por lo tanto, como se menciona, no se trata de un error atribuible al sistema.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-27T03:07:20.200Z",
+          "fechaTexto": "26/01/2026 09:07 p. m.",
+          "fechaVisible": "26 de Jan, 09:07:20 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días.\n\nEntendemos la respuesta, sin embargo, no estamos de acuerdo en ese funcionamiento que hace el sistema y el cual nos parece incorrecto, es decir, el ingreso se crea en automático, los clasificadores los va tomando del propio concepto y del tabulador, lo único que se configura es el clasificador proceso-proyecto, si bien se hicieron dos PBR (uno por el ingreso y otro por el egreso), cuando se está realizando el ingreso (que repito es en automático), el proyecto que se debe considerar, considerando los clasificadores del concepto y el módulo en el que se está, el proyecto que se debe considerar debe ser, los tipos ingresos y los tipos ambos, es un error que considere un tipo egreso, cuando no se está en ese módulo, y además, cuando en los clasificadores de la operación y del concepto, son clasificadores del ingreso, incluso se tiene el clasificador 13 que hace alusión al clasificador UV de ingresos, no debería tomar los de tipo egreso.\n\nPor otro lado, dado que son varias líneas las que ya se han generado y que se deben generar porque estamos en periodo de inscripción y se avecina otro la sig semana, ¿'qué alternativa nos pueden dar para solucionar esto? ¿hay alguna seguridad que permita modificar el proyecto relacionado de manera masiva, para que se seleccione el proyecto de ingresos?\n\nEsto porque de otra manera, por cada operación, se tendría que borrar la línea, editar el ingreso editar el concepto cambiar el proyecto, guardar, finalizar el ingreso, generar una nueva línea para este ingreso, generar el documento (formato de pago) y posterior enviarlo al alumno, y esto insisto, por cada línea de captura.\n\nQuedamos al pendiente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-27T16:20:27.150Z",
+          "fechaTexto": "27/01/2026 10:20 a. m.",
+          "fechaVisible": "27 de Jan, 10:20:27 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe realizó el cambio de servidor para que la visualización del proyecto de ingresos se observe de manera correcta respecto a los proyectos informados y algunos otros movimientos que se generaron durante este periodo de inscripciones, por lo cual se solicita se pueda validar la corrección por favor, así mismo los nuevos ingresos por línea de captura que se realicen no presentarán este detalle.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T23:11:59.370Z",
+          "fechaTexto": "29/01/2026 05:11 p. m.",
+          "fechaVisible": "29 de Jan, 05:11:59 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-30T17:53:34.800Z",
+          "fechaTexto": "30/01/2026 11:53 a. m.",
+          "fechaVisible": "30 de Jan, 11:53:34 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-23T17:38:36.260Z",
+          "fechaTexto": "23/09/2026 11:38 a. m.",
+          "fechaVisible": "23 de Sep, 11:38:36 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Duda respecto a origen de información de pestaña presup en mod ingresos",
+      "descripcionDetallada": "Esto no es una observación es más una duda.\n\nRevisando el ingreso 1610529, el cual tiene dos registros de conceptos (ambos registros tienen el mismo concepto, solo que uno es por 100 y el otro por 400)\n \nComo dato, el concepto 500D es un ingreso coordinado:\n   \nY su distribución es 90 -10\n   \nAl revisar la pestaña de “2.Presup”, que tenemos entendido muestra la clave presupuestal, observamos que, para el primero registro de concepto su muestra correctamente los 90 – 10 que suman los 100 del primer registro de concepto:\n   \n Sin embargo, para el segundo registro (que reitero, es exactamente el mismo concepto) está mostrando cantidades “raras”, es decir, no logramos identificar por qué muestra negativos y/o de dónde está tomando estos importes:\n\n \nPareciera que no está tomando la distribución indicada para el concepto:\n   \nRevisando la póliza del ingreso, ahí no hay importes en negativo:\n \nEntonces, la duda es esa, la información de la pestaña “2.Presup” ¿de dónde se está tomando? O bien, ¿por qué están esos importes en negativo, si el primer registro de concepto si está correcto?",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/01/2026 01:08 p. m.",
+      "fechaRegistroVisible": "23 de Jan, 01:08:28 PM",
+      "id": 5901,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nRevisamos la duda expuesta con el personal de ingeniería, los negativos que se observan es lo correspondiente al 16% de IVA del segundo concepto (400), sin embargo, la afectación presupuestal y contable si es correcta, entendemos que de ahí se derivo su duda correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-23T23:23:43.677Z",
+          "fechaTexto": "23/01/2026 05:23 p. m.",
+          "fechaVisible": "23 de Jan, 05:23:43 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-24T03:38:43.607Z",
+          "fechaTexto": "23/01/2026 09:38 p. m.",
+          "fechaVisible": "23 de Jan, 09:38:43 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días. \n\nSi, de ahí derivo la duda; sin embargo, sigue la duda, si los negativos solo son por los $400 del segundo registro de concepto, ¿en dónde están los registros del primer concepto, que eran por $100, considerando que ambos registros son el mismo concepto y por lo tanto, les aplicarían las mismas reglas?",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-26T15:14:11.890Z",
+          "fechaTexto": "26/01/2026 09:14 a. m.",
+          "fechaVisible": "26 de Jan, 09:14:11 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Si los negativos son de los 400, en este caso como es el mismo concepto que se esta ocupando en dos renglones diferentes, solo desgloso el de mayor monto, ya que afectan a las mismas claves presupuestales para el 90 - 10 que tienen configurados",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-01-26T15:52:45.397Z",
+          "fechaTexto": "26/01/2026 09:52 a. m.",
+          "fechaVisible": "26 de Jan, 09:52:45 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-27T03:16:12.737Z",
+          "fechaTexto": "26/01/2026 09:16 p. m.",
+          "fechaVisible": "26 de Jan, 09:16:12 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-23T17:35:31.940Z",
+          "fechaTexto": "23/09/2026 11:35 a. m.",
+          "fechaVisible": "23 de Sep, 11:35:31 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Ingreso no despliega todos los clasificadores del concepto",
+      "descripcionDetallada": "Como parte de los registros de cierre del ejercicio fiscal 2025, el día de hoy se ha intentado registrar los rendimientos financieros de la fuente 2531214 con fecha 31 de diciembre de 2025.\nAl agregar el concepto de ingreso “RNDMT 762 19100” a la operación de ingreso 1971082, se observa que el sistema no añade los clasificadores correspondientes al proceso de proyecto y al programa de trabajo.\nClasificadores del Concepto de Ingreso RNDMT 762 19100:\n \n\nIngreso 1971082\n \nPor esta razón, al intentar cobrar la transacción, el sistema genera un error.\nError:\n \n\nRevisamos, pero detectamos cuál es el motivo por el que no despliegue todos los clasificadores.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/01/2026 05:07 p. m.",
+      "fechaRegistroVisible": "20 de Jan, 05:07:26 PM",
+      "id": 5866,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Alan.\n\nSolicito de tu apoyo para que se genere de nuevo el renglón, es decir, que se borre el actual y se vuelva a capturar, ante de borrarlo por favor, cambien la fecha a 31/12/25 y posteriormente lo borran y dan de alta de nuevo, dado que realice la prueba y observo que en el renglón que yo agregue en una copia de la BD que tenemos si cargan los clasificadores, adjunto imagen, la única manera en la que no me cargo es cuando lo hago con 26 ahí si no lo pobla, pero pediría tu apoyo para que se realice de nuevo la captura por favor.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-21T02:12:14.377Z",
+          "fechaTexto": "20/01/2026 08:12 p. m.",
+          "fechaVisible": "20 de Jan, 08:12:14 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-21T18:12:21.360Z",
+          "fechaTexto": "21/01/2026 12:12 p. m.",
+          "fechaVisible": "21 de Jan, 12:12:21 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno, se deja constancia en las imágenes que en la primera ocasión si se había cambiado fecha del sistema y fue cuando mandó el error, sin embargo, en esta ocasión ya se pudo por eso se finaliza.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-22T17:12:16.793Z",
+          "fechaTexto": "22/01/2026 11:12 a. m.",
+          "fechaVisible": "22 de Jan, 11:12:16 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en Configuración de Tabulador Cuotas UV",
+      "descripcionDetallada": "Se adjunta documento con el correo de la Dirección de Egresos, donde nos reportan inconsistencia en la visualización y configuración en el Tabulador Cuotas UV.\nSe intentó varias veces continuar en el sistema y seguía mostrándose el error.\nSe requiere el apoyo para revisar qué es lo que generaba dicho error.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "15/12/2025 07:26 p. m.",
+      "fechaRegistroVisible": "15/12/2025 07:26 p. m.",
+      "id": 5639,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:14:27.557Z",
+          "fechaTexto": "20/01/2026 10:14 a. m.",
+          "fechaVisible": "20 de Jan, 10:14:27 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe solicita el apoyo para que el personal que nos reporto la problemática nos apoye realizando de nuevo el ejercicio, esto posterior a la revisión que realizó el personal de ingeniería, sin embargo, no hemos podido localizar al personal correspondiente, se le solicito el apoyo a Emi, pero me comenta no ha tenido respuesta, por lo cual pedimos el apoyo para realizar posterior a un reinicio de su ejecutable de cliente (cerrarlo y volver abrirlo) de nuevo la operación",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/12/2025 06:50 p. m.",
+          "fechaVisible": "16/12/2025 06:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Bueno",
+      "descripcionBreve": "ALAGONZALEZ_Problema con el proceso de cancelación de facturas en el subsistema",
+      "descripcionDetallada": "En atención a las actividades de cierre de año, desde el pasado miércoles 10 de diciembre se ha intentado cancelar varias Facturas (CFDI de ingresos), sin embargo, al parecer el servicio de cancelación no funciona ya que el estatus de las solicitudes de cancelación no pasa de “EN SOLICITUD DE CANCELACIÓN” a pesar de que los CFDI que se intentan cancelar fueron emitidos al público en general por lo que deben poder cancelarse en el mismo momento:\nEjemplo\n• Intento de cancelación del CFDI A20 1497972 con el motivo “No se llevó a cabo la operación”:\n \n• El Subsistema manda el mensaje que el documento está en proceso de cancelación y marca el estatus como “EN SOLICITUD DE CANCELACIÓN”:\n \n• El CFDI se mandó a proceso de cancelación en varias ocasiones para que se actualice el estatus de cancelación, pero el CFDI no se muestra en el Subsistema como cancelado en ningún momento:\n \nPor lo anterior, solicitamos el apoyo con el fin de reestablecer el servicio de cancelación de facturas en el subsistema.\nEsta actividad es necesaria para poder cumplir con las actividades del cierre de año en tiempo y forma.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/12/2025 03:00 p. m.",
+      "fechaRegistroVisible": "12/12/2025 03:00 p. m.",
+      "id": 5626,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nAdjunto al ticket un documento de Word con la información correspondiente respecto a la revisión que se realizó entre nuestro PAC y el SAT, donde se explica lo que se nos compartió el SAT",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-01-06T17:36:03.610Z",
+          "fechaTexto": "06/01/2026 11:36 a. m.",
+          "fechaVisible": "6 de Jan, 11:36:03 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:15:00.017Z",
+          "fechaTexto": "20/01/2026 10:15 a. m.",
+          "fechaVisible": "20 de Jan, 10:15 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Bueno",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-23T17:44:06.850Z",
+          "fechaTexto": "23/09/2026 11:44 a. m.",
+          "fechaVisible": "23 de Sep, 11:44:06 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenos días ¿algún avance?",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/12/2025 08:51 a. m.",
+          "fechaVisible": "16/12/2025 08:51 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenos días Josue.\n\nDe acuerdo, quedamos al pendiente de lo que pueda revisar el PAC con el SAT, para poder continuar con las actividades del cierre de año.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/12/2025 08:44 a. m.",
+          "fechaVisible": "15/12/2025 08:44 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería revisó lo mencionado en el ticket, identificando una discrepancia en la información con el SAT, dado que la consulta de la factura en la página del SAT indica que el estatus de cancelación de la factura es no cancelable, sin embargo, por el web service nos indica que esta en espera de cancelación, nos comunicamos con el PAC y nos indico lo mismo que ya habíamos observado previamente (la diferencia en información entre la página y la interconexión) el PAC buscará comunicación con el SAT para aclarar la situación, ya que no depende de nosotros ni del PAC, si no de una discrepancia en la información que arroja el SAT, adjunto el documento de consulta que obtuvo ingeniería",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/12/2025 03:19 p. m.",
+          "fechaVisible": "13/12/2025 03:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al cobrar el saldo a favor",
+      "descripcionDetallada": "La Dirección de ingresos está intentando cobrar el saldo a favor con el número de ingreso 1912295 creado para los 5 S.A pero manda este error mostrado en la imagen que se adjunta.\nQuedamos al pendiente.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "08/12/2025 02:27 p. m.",
+      "fechaRegistroVisible": "08/12/2025 02:27 p. m.",
+      "id": 5597,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:15:03.450Z",
+          "fechaTexto": "20/01/2026 10:15 a. m.",
+          "fechaVisible": "20 de Jan, 10:15:03 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nRevisamos la información que nos brindaron en el ticket, sin embargo, localizamos que hace falta una configuración en el concepto de ingreso coordinado, adjunto un documento de Word con lo correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/12/2025 06:18 p. m.",
+          "fechaVisible": "08/12/2025 06:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error en la lectura de extractos bancarios de formato Swift",
+      "descripcionDetallada": "Tenemos la siguiente situación lo cual nos preocupa y nos urge su atención, ya que, al cargar los extractos, en algunas ocasiones no se están leyendo todos los registros:\nEl día 4 de noviembre se trabajaron los extractos del 3 de noviembre y se dio la situación siguiente:\n En ambiente Productivo:\n• BNMX en la carga solo reflejo 2 movimientos, teniendo 13\n• HSBC en la carga solo reflejo 1 movimiento, teniendo 6\n\nEstos archivos se cargan en Múltiples cuentas ya que son de tipo swift\n \n\n \n\n \nPantalla de HSBC Productivo\n \n\n \nSe hizo la prueba en ambiente CALIDAD y ahí si lee todos los movimientos.\n \n \n \n\nPor lo anterior solicitamos el apoyo para su revisión, ya que preocupa que el sistema no esté leyendo todos los movimientos.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/11/2025 11:04 a. m.",
+      "fechaRegistroVisible": "13/11/2025 11:04 a. m.",
+      "id": 5468,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se finaliza, aunque se estará al pendiente por si se vuelve a presentar.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 12:16 p. m.",
+          "fechaVisible": "21/11/2025 12:16 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:27 p. m.",
+          "fechaVisible": "19/11/2025 08:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe informa que el problema reportado en la primera carga se encuentra atendido, sin embargo, al momento proactivo de borrar la carga y volver a cargar los extractos, esta segunda se hizo de manera correcta, pero a nivel de BD se perdió el registro de que pudo causar el problema en la primera carga, por lo que el personal de ingeniería atendió el problema que localizaron en las bitácoras y en caso de que se presente nuevamente solicito nos avisen de inmediato y revisamos",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:22 p. m.",
+          "fechaVisible": "19/11/2025 08:22 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 01:09 p. m.",
+          "fechaVisible": "13/11/2025 01:09 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Detalle al cargar la plantilla de artículos en Calidad",
+      "descripcionDetallada": "Se quiere cargar la planilla de artículos en calidad, sin embargo, manda error indicando que el clasificador 99 no existe en la posición 8, pero el clasificador si existe; la plantilla se está cargando para el 01/01/2026\n \nPlantilla\n \nSe carga en la siguiente opción:\n \nPero manda el siguiente mensaje de error:",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/11/2025 10:30 a. m.",
+      "fechaRegistroVisible": "13/11/2025 10:30 a. m.",
+      "id": 5467,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 11:19 a. m.",
+          "fechaVisible": "14/11/2025 11:19 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenos días josue, ya vi, me estaba basando en los clasificadores de egreso, en lugar de ver los de ingreso... tienes razón, ahí tiene la posición 5...\n\ngracias.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 11:18 a. m.",
+          "fechaVisible": "14/11/2025 11:18 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenos días Josue.\n\nNo me queda claro, revisando el catálogo de clasificadores ingreso y egreso, y el catalogo de tipos de claves presupuestales, se observa que el id 22 tiene la posición 8, entonces ya no me queda claro si es en otro lugar donde se visualiza lo que comentas.. aclaro, no he intentado cargar la plantilla porque quiero tener claro esta parte.\n\nla imagen en el sistema la había adjuntado en el primer word que había subido, sin embargo, vuelvo a subir imágenes donde se aprecia esto que comento.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 10:58 a. m.",
+          "fechaVisible": "14/11/2025 10:58 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas noches Alan.\n\nRevise la plantilla y observo que el problema es por un error en el llenado de los datos, te adjunto la plantilla corregida, el problema se derivo en el acomodo del clasificador 99, ya que este debe de ir en el 5 no en el 8, el problema se deriva a que en el catálogo de tipos de claves presupuestales se observa que el ID 22 que es el plan general de desarrollo 2030 esta en la posición 5 de la clave presupuestal y la posición en el catálogo de clasificadores de ingreso y egreso es la posición 8 (esta no es la que se debe de agregar) se debe de tomar la posición en la clave presupuestal, se realizó el cambio y con ello se realiza la migración, solo como observación la clasificación 5800511725E00101 no existe en el proceso/proyecto 2026 va arrojar que esa clasificación no existe lo cual es correcto (validar la clasificación en el clasificador proceso-proyecto 2026)",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 09:27 p. m.",
+          "fechaVisible": "13/11/2025 09:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 12:56 p. m.",
+          "fechaVisible": "13/11/2025 12:56 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Urgente diferencia en importe entre auxiliar mayor y los mov de una chequera",
+      "descripcionDetallada": "En productivo\nPor este medio reportamos la siguiente situación con el sistema.\nRevisando los movimientos para el cierre mensual de octubre de la cuenta bancaria 198730601 MI PAGO BBVA, observamos que los movimientos coinciden con el Estado de Cuenta que nos reporta el banco, lo cual es correcto, sin embargo, al momento de revisar los saldos en el auxiliar mayor, notamos que existe una diferencia entre los saldos. Adjunto pantallas:\n   Estado de cuenta bancario\n \n \nAuxiliar Mayor al 06 de noviembre\n \n\n     Vemos que entre el auxiliar mayor y los movimientos de la chequera tenemos una diferencia por $75.00. Considerando este importe, buscamos las operaciones por dicho saldo, encontrando que, entre las operaciones por dicho monto, hay una con tipo de póliza 33. Revisando esta operación vemos que no hay trazabilidad ni otro indicio que pudiera indicarnos el origen de la póliza.\n \n\n \n     Por lo anterior solicito el apoyo para verificar esta situación y que ajustes se pueden realizar, ya que se están afectando saldos contables y es prioritario para el cierre del mes de octubre de 2025.\nDe antemano gracias, y quedamos al pendiente.\n\nAdjunto archivo con evidencia",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/11/2025 11:43 a. m.",
+      "fechaRegistroVisible": "06/11/2025 11:43 a. m.",
+      "id": 5401,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 10,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 10,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "20/11/2025 08:48 a. m.",
+          "fechaVisible": "20/11/2025 08:48 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:15 p. m.",
+          "fechaVisible": "19/11/2025 08:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "De acuerdo, sin problema Alan, muchas gracias",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/11/2025 05:24 p. m.",
+          "fechaVisible": "18/11/2025 05:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "De acuerdo, Josue, finalizaré el incidente, sin embargo, queda como antecedente, de que faltaría actualizar esto en Calidad.\n\nsaludos.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/11/2025 11:44 a. m.",
+          "fechaVisible": "18/11/2025 11:44 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "De acuerdo, muchas gracias Alan, en calidad se pondrá para que revisen ya que es una nueva versión para ponerla en producción, les estaré avisando en estos días para realizar dicha actualización",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 12:14 p. m.",
+          "fechaVisible": "14/11/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "De acuerdo Josue, estaríamos al pendiente de tu indicación cuando se encuentre la actualización en Calidad, se finalizará el incidente, con el antecedente de que falta actualizar esta corrección en Calidad.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 10:37 a. m.",
+          "fechaVisible": "14/11/2025 10:37 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nNo, el proceso se encuentra actualmente solo en el ambiente de producción, para calidad que es un release diferente, lo solicitare y me organizare con el Mtro. Rafa para realizar el cambio correspondiente en calidad y lo puedan verificar, por el momento y urgencia solo se atendió en producción.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 02:33 p. m.",
+          "fechaVisible": "13/11/2025 02:33 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, procederemos con la validación en el ambiente productivo.\n\nDuda, ¿ese problema que resultó que entiendo fue por una validación no implementada, esa validación también se implementó en Calidad?",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/11/2025 08:44 a. m.",
+          "fechaVisible": "11/11/2025 08:44 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendido el problema en ambiente de producción, el problema fue atendido por el personal de ingeniería ya que se derivo a un tema de una validación del sistema",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/11/2025 02:17 p. m.",
+          "fechaVisible": "08/11/2025 02:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería se encuentra realizando la atención de este ticket, estaré informando una vez culminen",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "06/11/2025 06:01 p. m.",
+          "fechaVisible": "06/11/2025 06:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al generar el recibo de ingresos",
+      "descripcionDetallada": "La Dirección de Ingresos reporta que los usuarios están reportando un mensaje de error al generar el recibo de ingresos.\nEl procedimiento que realizan es: cobran, una vez que cobran generan el recibo de ingresos y es ahí donde se detona el mensaje.\nSe adjunta imagen con el mensaje de error.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "10/10/2025 06:33 p. m.",
+      "fechaRegistroVisible": "10/10/2025 06:33 p. m.",
+      "id": 5227,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido.\nGracias.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 02:06 p. m.",
+          "fechaVisible": "27/11/2025 02:06 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:19 p. m.",
+          "fechaVisible": "19/11/2025 08:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En intención al presente le informo que el mensaje mostrado no corresponde a un error de la plataforma como tal, sino a una situación de configuración relacionada con la funcionalidad de aprobación de folios para la comprobación masiva de folios de impresión.\n\nEsto ocurre porque el documento utilizado para la impresión no cuenta con folios electrónicos autorizados, lo cual aplica únicamente para documentos de tipo ticket o remisión.\n\nDicha validación se implementó como parte del control y distribución de talonarios de boletos, con el fin de garantizar que solo se utilicen folios previamente aprobados y autorizados.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/10/2025 09:34 a. m.",
+          "fechaVisible": "29/10/2025 09:34 a. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        },
+        {
+          "comentario": "Su solicitud ha sido recibida y actualmente se encuentra en proceso de valoración por parte de nuestro equipo de soporte. en cuanto tengamos información, se lo haremos saber a la brevedad por este medio formal de comunicación.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "13/10/2025 05:57 p. m.",
+          "fechaVisible": "13/10/2025 05:57 p. m.",
+          "personalEnAtencion": "Dulce Yanet Renteria Paulino"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Duración de tiempo con el timbrado por lotes",
+      "descripcionDetallada": "El día de ayer se mandó a proceso de timbrado 20,370 operaciones, sin embargo, en el corte realizado a las 10:00 am del día de hoy. se llevaba apenas un avance de 5,905 cuando debería de llevar 17,100.\n\nEl promedio de timbrado que debería de ser 15 timbres por minuto\npasó a 5 timbres por minuto.\n\nPor lo que pedimos su apoyo para identificar las causas de dicha situación, así como su solución, ya que se alentó demasiado el proceso.\n\nDe antemano gracias.\nQuedamos al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/10/2025 12:25 p. m.",
+      "fechaRegistroVisible": "07/10/2025 12:25 p. m.",
+      "id": 5199,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "23/10/2025 08:45 a. m.",
+          "fechaVisible": "23/10/2025 08:45 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "El origen de la lentitud fue un llenado de espacio en el disco duro, lo que provoco que el sistema se mostrará lento, se realizó la liberación de espacio el miércoles  8 a partir de las 11 pm, mismo que fue notificado por el Mtro. Rafa, de ahí en fuera se realizó una detención del proceso de timbrado de facturas a petición de Angelica Báez donde se detuvieron dos procesos de timbrado derivado por el personal de ingresos Oscar.\n\nPor lo cual se pediría se envíen las facturas para visualizar el proceso de timbrado nuevamente, de manera coordinada con el personal de otras áreas para que no les impacten en sus procesos, como fue el caso de la semana pasada donde chocaba con la nómina y se nos indico detener el proceso de timbrado.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/10/2025 05:46 p. m.",
+          "fechaVisible": "13/10/2025 05:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes.\n\nEl día de hoy el área nos retroalimenta con lo siguiente:\n\n\"Hoy se enviaron 16,879 registros al proceso de facturación, iniciando a las 11:42 am. A la 1:13 pm se habían timbrado 759 registros, promediando 8.34 timbres por minuto. Aunque este promedio mejora respecto a días anteriores (5 timbres/min), aún es la mitad de la rapidez previa, que era de 16 timbres por minuto.\"\n\nPor lo cual, pedimos el apoyo para que nos puedan indicar el motivo por el que no se ha regresado a timbrar 16 facturas por minuto, sino que estamos a la mitad de eso.\n\nCabe mencionar que también el día de hoy nos han reportado algunas áreas (contabilidad, los cajeros) lentitud en el sistema, esto ya fue reportado en el grupo de whatsapp, hasta este momento, no sabemos el motivo de la lentitud.\n\nPor todo lo anterior, quedamos al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/10/2025 01:50 p. m.",
+          "fechaVisible": "09/10/2025 01:50 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "08/10/2025 09:52 a. m.",
+          "fechaVisible": "08/10/2025 09:52 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema fue derivado al proxi de comunicación con el proveedor del PAC, el cual fue atendido por este mismo el día de ayer por la tarde, se reviso en la bitácora de facturación y se observa que se volvieron a timbrar 15 facturas por minuto, este punto fue ajeno al sistema.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/10/2025 09:50 a. m.",
+          "fechaVisible": "08/10/2025 09:50 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al desplegar ventana de ayuda del cat de eventos para generar línea de captura",
+      "descripcionDetallada": "En el ambiente Calidad, se intenta generar una línea de captura de eventos de dependencia, pero al querer desplegar la ventana de ayuda para seleccionar el evento, se despliega el siguiente mensaje:\n\n Esta opción se despliega en el módulo de cotizaciones, en el menú “Operaciones”:\n \nAhí seleccionamos la opción “Generar líneas de captura Eventos de Dependencia”\n   \nY en la ventana que se despliega, al querer desplegar la ayuda del campo “Evento”, es donde se despliega el error mostrado en la primer imagen.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/09/2025 09:40 a. m.",
+      "fechaRegistroVisible": "19/09/2025 09:40 a. m.",
+      "id": 5085,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "15/10/2025 01:27 p. m.",
+          "fechaVisible": "15/10/2025 01:27 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Si, se tendría que llevar a cabo junto con lo que tenemos pendiente, estaré pidiendo el apoyo de las áreas de UV para que estemos en conjunto de acuerdo en actualizar producción, me comento el Mtro. Rafa que a fin de mes es imposible por la nómina y cierre de trimestre, pero les informare las pruebas a realizar para que me puedan apoyar y estemos de acuerdo en actualizar",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/09/2025 05:28 p. m.",
+          "fechaVisible": "24/09/2025 05:28 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue.\n\nEsa actualización, ¿igual nos avisas cuando se lleve a cabo?",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/09/2025 02:03 p. m.",
+          "fechaVisible": "24/09/2025 02:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nAsí es, esta actualización que realizamos en calidad se deberá de llevar en producción, ya que en productivo no les pasara a menos que dos procesos ocupen la tabla momentaneamente lo cual se solventa reiniciando el cliente, sin embargo, para que opere sin estas molestias sería necesario actualizar producción",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/09/2025 12:24 p. m.",
+          "fechaVisible": "24/09/2025 12:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias Josue. una consulta, esta actualización ¿se debe hacer en Productivo?",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/09/2025 12:54 p. m.",
+          "fechaVisible": "23/09/2025 12:54 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe realizó la actualización del ambiente de calidad para la atención de este ticket, el problema se derivo a un problema con la tabla de memoria a su momento de liberación, el personal de ingeniería realizó la atención pertinente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/09/2025 12:17 p. m.",
+          "fechaVisible": "23/09/2025 12:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Apoyo en conciliación de línea de captura",
+      "descripcionDetallada": "Se tiene la línea de captura: 06025000645247204286 que es por $350.00\n \nSi se consulta el extracto, la línea se pagó por los $350, y el depósito se hizo por esa misma cantidad:\n \nIncluso, al seleccionar los ingresos pendientes, este registro lo muestra en verde, aparentemente no hay ningún inconveniente para llevar a cabo la conciliación:\n \nPero al momento de ejecutar el proceso, el sistema está arrojando el siguiente mensaje:\n \nRevisando no encontramos el motivo por el cual no se concilia, según el mensaje hay diferencia en los cargos y abono, pero como se ve en las imágenes el ingreso es por la cantidad correcta y el depósito fue por la misma cantidad,\n\nPor lo anterior, nos pudieran apoyar indicándonos el motivo por el que la línea no se está conciliando, el proceso se ejecutó dos veces y en ambas el mensaje fue el mismo.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/09/2025 08:44 a. m.",
+      "fechaRegistroVisible": "08/09/2025 08:44 a. m.",
+      "id": 5004,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Buena",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/09/2025 08:19 a. m.",
+          "fechaVisible": "09/09/2025 08:19 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "08/09/2025 02:48 p. m.",
+          "fechaVisible": "08/09/2025 02:48 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan, de acuerdo a lo solicitado te comparto la siguiente información:\n\nLa carga de la configuración faltante fue realizada el día de hoy 08/09/2025 a las 11:41 y 11:42 am por el usuario Alejandra moreno Hernández",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/09/2025 02:43 p. m.",
+          "fechaVisible": "08/09/2025 02:43 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días Josue.\n\nRevisé el concepto y si tiene relacionado los rubros analíticos y éstos a su vez tienen el CRI correspondiente; por lo que te pido, me puede sindicar la fecha y hora en que registraron el rubro analítico en el concepto, para identificar si lo hicieron antes o después de haber generado el ingreso.\n\nEL concepto es ALQCOA\n\nquedo al pendiente.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/09/2025 11:47 a. m.",
+          "fechaVisible": "08/09/2025 11:47 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nCon el apoyo del personal de normatividad, se reviso la duda planteada respecto a la conciliación de la línea de captura que se menciona en el folio, por lo cual te comento que el problema que se muestra en la conciliación bancaria es derivado de una configuración incompleta en el concepto de ingreso, ya que indicaron que se trata de un ingreso coordinado, pero no relacionaron rubros analíticos al concepto, motivo por el cual el ingreso no registró en el detalle la composición del 100% del importe, y la guía DPV no es capaz de contabilizarlo.\n\nNota: para corregir el problema será necesario borrar los ingresos capturados hasta el momento con el concepto mal configurado, corregir la configuración del concepto de ingreso y volver a registrar los ingresos a fin de que, desde su registro se guarde en las tablas correspondientes, la proporción de cada rubro de ingresos que buscará contabilizar la guía, Ojo: si únicamente corrigen la configuración del concepto de ingreso pero no borran el detalle del ingreso y lo vuelven a capturar, el mensaje de error se replicará.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/09/2025 11:18 a. m.",
+          "fechaVisible": "08/09/2025 11:18 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Sobre el campo Tipo de admisión",
+      "descripcionDetallada": "Buenos días Josue.\n\nLo siguiente más que una observación es una duda, verán por la manera de trabajar de la Universidad Veracruzana y dado que cada año la matrícula va en aumento junto con la creación de nuevos programas, se tiene la necesidad de crear grupos y/o procesos según se requiera, para la generación de líneas de captura.\n\nRazón por la cual, se tuvo la necesidad de crear otros procesos asociados al grupo 006, sin embargo, en uno de esos procesos es fundamental que para generar la línea de captura, se capture el campo \"tipo de admisión\" (ya que uno de los procesos nuevos aplica para alumnos nuevo ingreso) de la ventana \"Inscripción en ventanilla\" dentro del SPRFM.\n\nAunque el sistema si permitió crear nuevos procesos asociados al grupo existente y además configurar el tabulador, sin embargo, para generar la línea de captura es necesario capturar el tipo de admisión del alumno, ya que es nuevo ingreso, pero el campo aparece inhabilitado.\n\nConsultamos con el equipo ténico UV, y nos dicen que la interconexión si está preparada para recibir y enviar este campo, pareciera que solo es cuestión de habilitarlo en la ventana del SPRFM.\n\nPor lo anterior, pedimos el apoyo para que nos indiquen en qué parte podemos habilitar este campo para que sea capturada y enviada la información, ya que, posiblemente para el próximo periodo escolar se necesiten crear otros procesos que utilicen este campo, o bien, la otra opción que visualizamos es habilitar este campo para todos los grupos-procesos, solo que para esto tenemos duda sobre ¿qué implicaciones tendría esto? mandaría error si no se captura la informaicón (por ejemplo, los procesos de reingreso no capturan este dato, como el proceso RIL, entonces, aquí mandaría error o se permitiría dejar en blanco el campo).\n\nEsperando contar con su apoyo ya que los alumnos requieren que se les genere su línea de captura, quedo al pendiente.\n\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/09/2025 11:23 a. m.",
+      "fechaRegistroVisible": "04/09/2025 11:23 a. m.",
+      "id": 4988,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "ninguno.",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 10:54 a. m.",
+          "fechaVisible": "27/11/2025 10:54 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/09/2025 12:14 p. m.",
+          "fechaVisible": "29/09/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nInvolucra una solicitud de cambio, dado que no solo es un ajuste en la validación, es revisar el impacto que tendrá en todas las demás validaciones del sistema, ya que todo se encuentra amarrado a que funcione a como se configuro desde hace ya un tiempo, si fue claro lo que mencionan, pero como hay relaciones internas entre las tablas se necesita revisar a detalle el impacto y relación que tendrá con otras validaciones o scripts, es por ello que sería una solicitud de cambio",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/09/2025 12:29 p. m.",
+          "fechaVisible": "11/09/2025 12:29 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue,\n\nRespecto a la respuesta que nos dan, entendemos que sería solicitud si fuera modificar algún campo o funcionamiento, pero si lo que queremos es que, por ejemplo, la validación que tienen para el grupo 001 proceso ini, relacionado con habilitar este campo \"Tipo de admisión\", en esa validación agreguen también el grupo 006 con el nuevo proceso, sin validar más, es decir, entendemos que el tipo de admisión se habilita por el grupo proceso, entonces en esa condición agregar el nuevo proceso (espero haberme explicado), ¿eso también involucra una solicitud de cambio? o se puede registrar como una solicitud de apoyo, dado que solo es agregar a la condición un proceso más (porque ya se tiene para el grupo 006 proceso NIV, lo que se agregaría a esa condición sería el nuevo proceso PVI.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/09/2025 01:45 p. m.",
+          "fechaVisible": "10/09/2025 01:45 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 06:16 p. m.",
+          "fechaVisible": "05/09/2025 06:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\n\n\n\nDe acuerdo a la duda que nos presentas y el reforzamiento de las imágenes que me compartirte para mayor claridad, se consultó con Omar Robles, a lo cual me indico lo siguiente:\n\n\nEs correcto que no se habilite el tipo de admisión ya que, de acuerdo a lo levantado en los inicios, se quedó en código que solo para los grupos que nos definieron se habilitará el campo tipo de admisión que son los grupos 001, 002 y 006 y para ciertos procesos en específico, por lo cual para este nuevo proceso que se generó que es el PVI y a pesar de que es nuevo ingreso, no se tiene contemplado.\n\n\n\n\nPor lo cual para que se observe dentro del sistema el campo, sería necesario realizar el ajuste a lo que ya se tiene desarrollado para contemplar este tipo de cambios que pueden surgir del periodo de inscripción para que sea tal vez dinámico, sin embargo, eso es algo que deberá de analizar el área de desarrollo y deberá de ser solicitado a través del comité de cambios para analizarlo de acuerdo a su petición y ver como desarrollarlo, así mismo respecto a que impacto tendrá, no es posible responderlo, ya que es algo que no se tiene construido y se deberá de analizar con base en lo que nos comenten (reglas o criterios a seguir) por lo cual tendrá que ir por el comité de cambios para poderlo realizar.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 05:38 p. m.",
+          "fechaVisible": "05/09/2025 05:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - asesoría sobre cómo desrelacionar donativo de un ingreso",
+      "descripcionDetallada": "La Dirección de ingresos requiere saber cómo desrelacionar el donativo en especie que está asociado al ingreso 1848262, en virtud de que no existe una opción para desrelacionar, solo está la opción de relacionar o mostrar donativo.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/09/2025 12:28 p. m.",
+      "fechaRegistroVisible": "02/09/2025 12:28 p. m.",
+      "id": 4971,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Gracias por el apoyo, ya se pudo eliminar el donativo en especie.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "03/09/2025 11:24 a. m.",
+          "fechaVisible": "03/09/2025 11:24 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "02/09/2025 11:52 p. m.",
+          "fechaVisible": "02/09/2025 11:52 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nPara realizar el proceso de des relacionar el donativo al ingreso, es necesario cancelar el ingreso, una vez realizada dicha acción, el donativo queda disponible para ser relacionado nuevamente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/09/2025 11:20 p. m.",
+          "fechaVisible": "02/09/2025 11:20 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencia en Listado de Ingresos",
+      "descripcionDetallada": "Buenos días\n\nSe identificó en el listado de Ingresos, que al marcar el indicador \"Obtener por últimos registros\", muestra hasta 556 registros, aun cuando existen más de ellos y muestra deshabilitados las flechas de siguiente.\nLo anterior, se verificó con el grupo ALL e INGRESOS\nAdjunto pantallas de lo mencionado\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/08/2025 09:39 a. m.",
+      "fechaRegistroVisible": "27/08/2025 09:39 a. m.",
+      "id": 4939,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "El área indica que ya funciona la búsqueda en el listado de ingresos.",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "10/09/2025 11:19 a. m.",
+          "fechaVisible": "10/09/2025 11:19 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 01:00 a. m.",
+          "fechaVisible": "04/09/2025 01:00 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche/día\n\nSe realizó la actualización del ambiente de producción para que este punto quede atendido, es necesario que por favor actualicen su cliente para que puedan observar el listado de los ingresos de manera correcta.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/09/2025 12:59 a. m.",
+          "fechaVisible": "04/09/2025 12:59 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "El origen fue ocasionado por un error humano por parte de uno de mis compañeros en el ordenamiento de la información, fue corregido y por ello debemos de cambiar el servidor y el ejecutable de cliente para que visualicen de manera correcta la información",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/09/2025 11:52 p. m.",
+          "fechaVisible": "02/09/2025 11:52 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Nos estamos coordinando con el equipo de la Dirección de Servicios Informáticos Administrativos (DSIA), para llevar a cabo la actualización, con la cual quedará atendida esta observación, no obstante, es importante y necesario saber, el motivo que originó esta situación en virtud a que la consulta venía funcionando correctamente.\nCabe mencionar que el detalle presentado en la búsqueda de folios, ocasionó constantes quejas de los administradores, por tanto, se requiere saber el origen de la situación.\nQuedamos al pendiente de sus comentarios.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/09/2025 05:01 p. m.",
+          "fechaVisible": "02/09/2025 05:01 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPara la atención de este ticket será necesario realizar una actualización en el ambiente de producción (actualizar servidor por servidor) por lo cual se le consultará al Mtro. Rafa la fecha en la que se pueda realizar dicha actividad, así mismo se les compartirá un ejecutable de SIRECLiente el cual solventa en conjunto con el servidor la atención de este folio",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "29/08/2025 01:25 p. m.",
+          "fechaVisible": "29/08/2025 01:25 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al generar línea de captura si está la configuración en el tabulador",
+      "descripcionDetallada": "Buenos días, se está tratando de generar la línea de captura de un alumno de virtuales que condonó su inscripción, por lo cual, la línea de captura solo debe generarse por los conceptos que están pendientes (resello y cuota de recuperación).\n\nEl alumno es del grupo 006 proceso PVR.\n\nLa condonación del alumno por el concepto de inscripción, se hizo sin problema.\nSe capturan los siguientes parámetros de la ventana “Inscripción en ventanilla” para generar la línea de captura por los conceptos pendientes, esto desde el SPRFM (no desde mipago),\n \naunque el subsistema de estudiantes si regresa información:\n \n \nal momento de que se confirma la generación de la operación con la línea de captura, el SPRFM muestra el mensaje de error que se muestra en la imagen siguiente:\n \n\nRevisando el tabulador si se encuentran los conceptos pendientes:\n \nPor lo anterior, quedamos al pendiente de que nos indiquen el motivo por el cual no está generándose la línea cuando si están los conceptos en el tabulador.\nSaludos.\n\nen productivo, se adjunta archivo word con imágenes.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "22/08/2025 09:55 a. m.",
+      "fechaRegistroVisible": "22/08/2025 09:55 a. m.",
+      "id": 4919,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 8,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 8,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 05:40 p. m.",
+          "fechaVisible": "24/11/2025 05:40 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl ingreso que se menciona en producción es el ingreso original, para visualizar lo del indicador se observo por medio del proceso de interconexión, en los JSON y en BD, es por ello que ingeniería pudo identificar esta marca que existe.\n\nRespecto a tu pregunta, si tienes un ingreso previo que no este cancelado pero fue elaborado con la marca de experiencias educativas (enviado así desde la interconexión) vas a caer en este caso reportado, sin embargo, si el ingreso no cuenta con esta marca (experiencias y parcialidades), entonces podrás avanzar sin problema dado que no te solicitara la parcialidad, por lo cual lo que nos indicas es correcto, si te explicaste, solo agregamos el apartado de que cuando nos indicas que no este cancelado se debe de tomar en cuenta la marca de experiencias y parcialidades.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 11:35 a. m.",
+          "fechaVisible": "24/11/2025 11:35 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue.\n\nUna disculpa por apenas retomar este incidente, en el texto que viene en el doc que adjuntaron:\n\n\". Esta diferencia se debe a que, en el caso del ambiente de producción, el contribuyente tiene generado un ingreso marcado para llevar experiencias educativas (7) y parcialidades (ingreso original y realizado por medio de la interconexión con estudiantes), lo que provoca que en el nuevo ingreso (ingreso reportado donde mostró el mensaje reportado en primera instancia) a generar busque forzosamente los elementos para registrar el importe de la segunda parcialidad contemplando la regla de las experiencias educativas. \nComo no se tiene configurado un concepto con la marca “Multiplica importe por experiencias inscritas” (la cual es el indicador para calcular el importe por experiencias educativas), el sistema no puede completar los elementos que necesita y envía el mensaje de error reportado (“No se localizó un concepto de ingreso para las experiencias educativas”).  \nEsto no ocurre en el ambiente de calidad ya que no hay ingresos anteriores (con las mismas características de grupo, proceso, periodo, etcétera) que tengan la marca de registro de parcialidades...\"\n\n\nEn dónde dicen que se debe a que en productivo ya estaba un ingreso, y que tiene marcado para llevar experiencias y parcialidades, ¿a qué ingreso se refieren? ¿el condonado o cuál? y de esto, ¿en dónde visualizan lo del indicador?\n\nMe llama a atención porque en periodo pasados no nos había sucedido esta situación, insisto, no era necesaria la marca de \"multiplica importe por experiencias inscritas\", pero entonce,s cuando se tenga un ingreso previo que no este cancelado me va a pedir que marque el indicador mencionado, y si no tengo un ingreso previo voy a poder continuar como hasta ahora, ¿ es así? (no sé si me pude explicar)",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "21/11/2025 11:54 a. m.",
+          "fechaVisible": "21/11/2025 11:54 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "01/09/2025 12:45 p. m.",
+          "fechaVisible": "01/09/2025 12:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan. \n\nRevisamos a detalle lo ocurrido en el ambiente de producción y ambiente de calidad respecto a este caso, y en la revisión detalla paso a paso el personal de ingeniería localizo lo que te comparto en el Word adjunto, de tal forma que no es un problema del sistema, si no una diferencia en la captura de la operación, en el documento se detalla la situación, sin embargo, quedo atento en caso de que exista alguna duda.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/08/2025 01:19 p. m.",
+          "fechaVisible": "29/08/2025 01:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue.\n\nDifiero un poco, lamentablemente no pude encontrar antecedente, pero, como lo comentamos, anteriormente el funcionamiento era que el importe se debía multiplicar, es por eso que se hizo alusión a ese indicar, pero también se había dicho que si el indicador no estaba marcado, entonces el importe que se iba a tomar era el que tuviera configurado el concepto en el tabulador.\n\nYa había hecho pruebas y así funcionaba, el día de hoy me di a la tarea de hacer una prueba más en el ambiente de Calidad, la cual adjunto, y ahí se puede comprobar que el tabulador (para el grupo concepto en cuestión) no tiene el indicador que indican, el alumno tiene 7 experiencias, y la línea si se pudo generar sin problema y tomó el importe del tabulador, es decir el importe fijo.\n\nEste mismo funcionamiento se debe tener en productivo.\n\nQuedamos al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 02:52 p. m.",
+          "fechaVisible": "22/08/2025 02:52 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 11:31 a. m.",
+          "fechaVisible": "22/08/2025 11:31 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Alan.\n\nRevise lo reportado con Omar Robles, me comenta que el mensaje es derivado a que en los conceptos del tabulador no se encuentra la marca de la casilla multiplica importe por exp. inscritas, es por ello que arroja el mensaje correspondiente.\n\nSin embargo, al platicar a detalle contigo, me comentabas que el monto es fijo, sin importar la cantidad de experiencias que inscriba el alumno, siendo este un proceso nuevo para UV, a lo cual con esta información revise de nuevo con Omar Robles, y me comenta que esto aplica como una regla nueva a ingresar al sistema, dado que a como se levanto hace algunos años y lo que se indico en su momento, no había montos calculados, es decir, aplicaba siempre la marca antes mencionada, por lo cual para este caso sería una solicitud de cambio para que se desarrolle la regla correspondiente, aunado a esto, se necesitaría se indiquen las validaciones que tendrá la regla para que funcione correctamente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 11:23 a. m.",
+          "fechaVisible": "22/08/2025 11:23 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Observación de un alumno al generar línea de captura con diferentes conceptos",
+      "descripcionDetallada": "Buenas tardes, se nos presentó el siguiente caso:\n\nUn alumno de licenciatura generó su línea de captura desde MIPago con los siguientes conceptos:\n \nEl alumno no pagó la línea y se le venció.\nDe acuerdo a lo que nos habían indicado, dado que el ingreso sigue activo, el alumno podría volver a generar una nueva línea siempre y cuando tuviera los mismos conceptos-importes, de lo contrario, se tendría que cancelar el ingreso.\nSucede que en “ventanila” es decir, desde la opción “Inscripción en ventanilla”\n \nSe le generó otra línea al alumno, pero en esta nueva línea que SI se pudo generar ya no se consideró el concepto de centro de idiomas:\n \nPor lo anterior, la duda/observación es:\n1. ¿por qué el sistema permitió generar una nueva línea de captura sin antes haber cancelado el ingreso anterior, cuando se trata del mismo grupo – proceso- periodo?\n2. Si se generó una nueva línea, porque no consideró el centro de idiomas, si el alumno la tiene inscrita.\nActualmente la línea activa es la segunda, la que termina en 004231; y hablando de los ingresos el alumno tiene dos ingresos activos, el relacionado a la línea de captura vencida y el nuevo ingreso con la línea de captura activa; a pesar de que son del mismo grupo-proceso-periodo.\nDe antemano gracias, quedo al pendiente.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "18/08/2025 05:38 p. m.",
+      "fechaRegistroVisible": "18/08/2025 05:38 p. m.",
+      "id": 4894,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "22/08/2025 09:55 a. m.",
+          "fechaVisible": "22/08/2025 09:55 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 05:49 p. m.",
+          "fechaVisible": "19/08/2025 05:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan. \n\nAdjunto documento de Word con la respuesta a las preguntas brindadas",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 05:44 p. m.",
+          "fechaVisible": "19/08/2025 05:44 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días Josue, gracias por la respuesta y solo para confirmar.\n\nEntonces si la línea de captura ya no está vigente se va a poder generar una nueva línea sin importar si el ingreso de la línea vencida sigue activo y /o si alguno de los conceptos o importes cambian, ¿es correcto?\n\ninsisto en esto porque en uno de los primeros incidentes (trataré de buscar el folio porque de momento no lo tengo a la mano) en donde el que me respondía había sido Abdiel, nos indicó que cuando se tratarán de líneas de captura vencidas, al alumno se le iban a poder generar nuevas líneas (obviamente del mismo grupo,proceso y periodo) siempre y cuando fueran los mismos conceptos con el mismo importe, que si se diera la ocasión en que cambiará el importe (por ejemplo que en la línea vencida en inscripción tuviera 400 y en la nueva línea ahora tuviera 401, o bien que un concepto antes estaba y ahora ya no o viceversa) o cambiara el concepto, la línea nueva ya no se iba a poder generar, lo que se tenía que hacer en esos casos era cancelar el ingreso que tenía la línea vencida y entonces ya se podría generar una nueva, pero ahora con lo que me dicen ahorita y con el caso que se dio, entiendo que si se van a poder generar nuevas líneas de captura con un nuevo ingreso, siempre y cuando la línea de captura esté vencida,\n\n ¿es correcto?",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/08/2025 08:28 a. m.",
+          "fechaVisible": "19/08/2025 08:28 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/08/2025 07:11 p. m.",
+          "fechaVisible": "18/08/2025 07:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRevisando lo reportado con Omar Robles, adjunto al ticket la respuesta a sus dos preguntas correspondientes, así como una imagen donde se observa la diferencia entre un registro y otro",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/08/2025 06:56 p. m.",
+          "fechaVisible": "18/08/2025 06:56 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Duda Sobre la edición de folios de un documento en la utilería de 3 capas",
+      "descripcionDetallada": "De acuerdo con la creación y seguimiento de documentos que se lleva a cabo desde la utilería de 3 capas, nos surgen las siguientes dudas:\nAntes, la ruta donde vemos esto es la siguiente:\n     \n1. En la pantalla de “Edición de aprobación de folios”, ¿Dónde se puede consultar quién realizó la cancelación del folio, es decir, ¿quién utilizo el icono CANCELAR?\n2. ¿si alguien le dio al icono X (cancelar) ¿hay manera de revertir esta situación? En caso de que el personal lo haya dado por error.\n\n 3. Similar a la duda del punto anterior, en la ventana “Relación Series” ¿existe la manera de revertir un folio o un rango de folios que se hayan marcado como “cancelado”?\n\nDe antemano, gracias.\nQuedo al pendient",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/06/2025 01:47 p. m.",
+      "fechaRegistroVisible": "04/06/2025 01:47 p. m.",
+      "id": 4441,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió la duda.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "06/06/2025 01:13 p. m.",
+          "fechaVisible": "06/06/2025 01:13 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/06/2025 09:21 p. m.",
+          "fechaVisible": "05/06/2025 09:21 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nTe comento que no existe la opción de descancelar en el sistema en ningún catálogo u opción, el cancelar es un proceso que no podemos revertir.\n\nAsí mismo la información para saber quien dio clic en la opción de cancelar sería identificar a nivel de base de datos esa información.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/06/2025 09:19 p. m.",
+          "fechaVisible": "05/06/2025 09:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Observación en el proceso de conciliación_productivo",
+      "descripcionDetallada": "Tenemos la siguiente situación que se está presentando en el proceso de conciliación manual de los depósitos con las realizadas en las diferentes cajas. El proceso se ha realizado siempre sin detectar situaciones como la siguiente:\n\nEn el módulo de conciliación de la cuenta Ingresos 7908517, se tiene un deposito por $914.00 del día 07/04/2025. El cual se concilio manualmente relacionando el depósito con dos movimientos registrados por Dep. Cobranza CAJAS UV, de acuerdo al registro de las cajas. Pero al finalizar el sistema registra con la clave concepto 298 Ingresos por clasificar DI, sin embargo, en el módulo de la chequera, este depósito corresponde a dos movimientos de cobranza que tienen el concepto 1 Dep. Cobranza CAJAS UV.\n             \nSe ha intentado modificar esta situación, sin embargo, al volver a hacer manualmente la asignación de la clave 1 y refrescar la pantalla, al movimiento en la conciliación de nuevo aparece asignada la clave 298\nAnexo pantallas:\n   \nPor lo anterior, pedimos el apoyo para que nos puedan indicar el motivo por el cual no se puede cambiar el concepto, repetimos, esta situación nunca se nos había presentado.\n\nGracias de antemano.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "29/05/2025 05:02 p. m.",
+      "fechaRegistroVisible": "29/05/2025 05:02 p. m.",
+      "id": 4417,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 11,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 11,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 01:20 p. m.",
+          "fechaVisible": "25/06/2025 01:20 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 10,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 11:03 a. m.",
+          "fechaVisible": "24/06/2025 11:03 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nRespecto a lo que nos retroalimentaron, lo revise con el personal de ingeniera y observamos lo siguiente:\n\nCuando un movimiento esta marcado como múltiple, como es el caso de la imagen que nos adjuntan, en la columna con nombre Operación SIREGOB, se observa la leyenda múltiple, en este caso es correcto que no muestre fecha de registro ni tampoco la referencia, ya que contiene más de un registro y si se pone por ejemplo la primera fecha que encuentre y su referencia, se podría entender por parte del personal que todos los registros son de esa misma fecha y que la referencia es la misma para todos, lo cual sería incorrecto, es por ello que cuando es múltiple el movimiento estas columnas no se observan con información",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 10:58 a. m.",
+          "fechaVisible": "24/06/2025 10:58 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes.\n\nSe realizó una prueba, pero se siguen teniendo observaciones, adjunto archivo word con las imágenes.",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/06/2025 02:03 p. m.",
+          "fechaVisible": "23/06/2025 02:03 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Si Alan, veo con el Mtro. Rafa, dado que también hay procesos de nómina y en estas situaciones no me permiten realizar los cambios, cruzo con Rafa y Angelica para ver si puede ser el día de mañana y les confirmo por este medio respecto a lo que me indiquen",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/06/2025 02:24 p. m.",
+          "fechaVisible": "20/06/2025 02:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue.\n\n\n\n\nDe acuerdo, quedamos al pendiente ya que le urge al área la atención porque necesitan realizar la conciliación y el registro correcto.\n\nsaludos.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/06/2025 02:16 p. m.",
+          "fechaVisible": "20/06/2025 02:16 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nYa se cuenta con la atención de este ticket, consultare con el Mtro. Rafa, si la actualización de producción se puede realizar en estos días por la noche o el día sábado, les informare lo que me mencione el Mtro.",
+          "consecutivo": 5,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "19/06/2025 11:18 a. m.",
+          "fechaVisible": "19/06/2025 11:18 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nLe comparto el documento a mi compañera de ingeniería quien me apoyo en la atención de este ticket para que les podamos brindar la respuesta concreta, gracias por el documento adjunto",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "05/06/2025 09:23 p. m.",
+          "fechaVisible": "05/06/2025 09:23 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes Josue.\n\nNos llama la atención la respuesta que nos dan, ya que anteriormente o mejor dicho, del diario, se hace este tipo de operaciones y no se había presentado ningún problema, por eso nos llamó la atención y lo reportamos como observación, \n\nPor ello, adjunto archivo word con un caso real en dónde no hubo problema, se hizo la conciliación manual y no cambió el concepto.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/06/2025 02:32 p. m.",
+          "fechaVisible": "04/06/2025 02:32 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "03/06/2025 06:27 p. m.",
+          "fechaVisible": "03/06/2025 06:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nReviso el personal de ingeniería lo que me reportas y me indican que el concepto sale definido respecto a que se encuentra parametrizado dentro del sistema, este se encuentra en la utilería de 3 capas en la pestaña 46.- Extractos y conciliación bancaria, el parámetro se llama Concepto para el registro de depósitos de la carga de extractos bancarios y ahí tiene asignado el 0298.\n\nEs por ello que se observa dicho número al momento de realizar dicho proceso y que no permite modificarlo regresandolo siempre a este valor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/06/2025 04:53 p. m.",
+          "fechaVisible": "02/06/2025 04:53 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al ejecutar el script clonación del Ingreso",
+      "descripcionDetallada": "Se adjunta correo sustento donde el área técnica nos reporta un error al intentar ejecutar la clonación del ingreso de una línea de captura.\nSe adjunta plantilla.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "28/05/2025 05:10 p. m.",
+      "fechaRegistroVisible": "28/05/2025 05:10 p. m.",
+      "id": 4407,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se descargó la versión y se pudo acceder.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/05/2025 04:33 p. m.",
+          "fechaVisible": "29/05/2025 04:33 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/05/2025 02:47 p. m.",
+          "fechaVisible": "29/05/2025 02:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEste ticket quedo solventado el día de ayer con el apoyo de Emi, dado que se tenia que actualizar la versión de la utilería a la ultima, dado que la versión que tenia el usuario era viejita, se proporciono el link de descarga, se probo el acceso y ya no se presento dicha problematica.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/05/2025 02:46 p. m.",
+          "fechaVisible": "29/05/2025 02:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error al realizar una condonación mediante interconexión_ en Calidad",
+      "descripcionDetallada": "Se están realizando una prueba de condonación mediante una interconexión que ya se tiene, sin embargo, la interconexión está regresando el siguiente mensaje:\n \n{\"Result\":{\"Response\":{\"Error\":\"[Omitido] Error al cobrar: Módulo de contabilizar, evento [DPV]:Error al generar movimiento presupuestal : Error al registrar cabecera de afectación: La versión presupuestal: 5 - Versión Presupuestal 2024, no comprende el periodo: 2025(Clave SIREGOB 1313808)\"}}}\nRevisamos, pero no logramos identificar ¿cuál es el problema?, nos pueden apoyar, por favor.\nLo que se está enviando en el JSON es:\n{\n   \"Request\": {\n       \"Acceso\": {\n           \"ApiPublic\": \"NTYFNZXPGA\",\n           \"Firma\": \"0n+LE4HPhBWNTikCJDPvyR2T4uI=\",\n           \"Fecha\": \"202505271109325292u\"\n       },\n       \"RRegistraOperacionIngreso\": {\n           \"Cabecera\": {\n               \"NumeroOperacion\": \"C202500965421\",\n               \"FolioOperacionExterna\": \"\",\n               \"Fecha_Op\": \"2025-05-27\",\n               \"Contribuyente\": {\n                   \"ClaveContribuyente\": \"\",\n                   \"Nombre\": \"\",\n                   \"RFC\": \"\",\n                   \"Referencia\": \"S24018750\"\n               },\n               \"UnidadResponsable\": {\n                   \"ClaveUR\": \"0157\",\n                   \"CodiClasifUR\": \"\",\n                   \"NombreUR\": \"\"\n               },\n               \"Divisa\": {\n                   \"Cve_Divisa\": \"01\",\n                   \"Desc_Divisa\": \"\",\n                   \"Valor_Di\": 0.0\n               },\n               \"Plazo\": {\n                   \"CvePlazo\": \"\",\n                   \"Desc_Plazo\": \"\"\n               },\n               \"Imp_Desc\": 0.0,\n               \"Porc_Desc\": 0,\n               \"ReferenciaEdoCta\": \"\",\n               \"InfoAdicional\": {\n                   \"CVE_GRUPOUV\": \"003\",\n                   \"CVE_PROCESO\": \"ICI\",\n                   \"CVE_PERIODO\": \"202551\",\n                   \"PERIODO_INGRESO\": \"\",\n                   \"CVE_PROGRAMA\": \"\",\n                   \"CVE_NIVEL\": \"\",\n                   \"CVE_CAMPUS\": \"\",\n                   \"CVE_ESCUELA\": \"CI\",\n                   \"CVE_TIPOG\": \"BASE\",\n                   \"NACIONALIDAD_UV\": \"\",\n                   \"IND_AECON\": \"N\",\n                   \"IND_EXP_CI\": \"\",\n                   \"CAMPUS_EXP\": \"X\",\n                   \"NUM_EXP_INSCRITAS\": 0,\n                   \"COND_INSCRIPCION\": \"\",\n                   \"PARCIALIDADES\": \"\",\n                   \"NUM_PARCIALIDADES\": 0,\n                   \"PARC_RESTANTES\": 0,\n                   \"MONTO_PARCIALIDAD\": 0.0,\n                   \"NRC_EXP\": \"29847\",\n                   \"TRAMITE\": \"\",\n                   \"DESC_EXP_EDU\": \"FRANCES I BASICO\",\n                   \"NUM_EXP_ING\": 0.0\n               }\n           },\n           \"Detalles\": {\"Concepto\":{\"Cpto_Ingreso\":\"CIIPX\",\"Descripcion\":\"Inscripción al Centro de Idiomas Base\",\"Cantidad\":1,\"ImporteConIVA\":1350.0,\"Descuento\":0.0,\"PorcDescuento\":0}},\n           \"Cobros\": {\n               \"Cobro\": {\n                   \"TipoCobro\": {\n                       \"Cve_TipoCobro\": \"22\",\n                       \"Descripcion_TipoCobro\": \"\"\n                   },\n                   \"Deposito\": {\n                       \"ConceptoDep\": {\n                           \"Cve_Conc_Dep\": 0,\n                           \"Desc_Conc_Dep\": \"\"\n                       }\n                   },\n                   \"DivisaCobro\": {\n                       \"Cve_Divisa_Cob\": \"01\",\n                       \"Desc_Divisa_Cob\": \"\",\n                       \"Valor_Di_Cob\": 1\n                   },\n                   \"Importe\": \"1350\"\n               }\n           }\n       }\n   }\n}",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "27/05/2025 11:50 a. m.",
+      "fechaRegistroVisible": "27/05/2025 11:50 a. m.",
+      "id": 4401,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Se finaliza, sin embargo, si se vuelve a presentar se registrará en un nuevo incidente y se hará alusión a éste.",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:42 p. m.",
+          "fechaVisible": "17/06/2025 02:42 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:18 p. m.",
+          "fechaVisible": "17/06/2025 02:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Confirmamos que ya no se presentará la misma situación en ambiente productivo",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:16 p. m.",
+          "fechaVisible": "17/06/2025 02:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe continuó con las operaciones, ya no se presentó el error reportado.\nSolo nos pide el área técnica confirmar si en productivo no se presentará esta situación de la variable ciclada.\n\nQuedo al pendiente, gracias de antemano.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/05/2025 06:02 p. m.",
+          "fechaVisible": "29/05/2025 06:02 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "29/05/2025 02:49 p. m.",
+          "fechaVisible": "29/05/2025 02:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema se encuentra atendido en el ambiente de calidad, el problema se derivo a la variable global del ejercicio que se quedo ciclada, por lo cual Omar Robles realizo la atención correspondiente y se reiniciaron los servidores uno por uno para actualizar el ajuste correspondiente, por lo cual podrían realizar sus pruebas correspondientes",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/05/2025 02:47 p. m.",
+          "fechaVisible": "29/05/2025 02:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día,\n\nEl personal de ingeniería revisará el mensaje compartido dentro del layout compartido para poder brindarles respuesta",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "28/05/2025 09:39 a. m.",
+          "fechaVisible": "28/05/2025 09:39 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Duda de modificación del Reporte de Transacciones de Caja por Cajero",
+      "descripcionDetallada": "Buenas tardes.\n\nRequerimos apoyo para lo siguiente, vamos a realizar una modificación al reporte “Transacciones de Caja por Cajero”, sin embargo, del área técnica nos indican que el reporte fue modificado por ustedes.\n \nPor lo anterior, les pido de favor nos comenten ¿qué modificación le hicieron al reporte? Y ¿quién les indicó que hicieran dicha modificación.\n \nQuedo al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "21/05/2025 01:36 p. m.",
+      "fechaRegistroVisible": "21/05/2025 01:36 p. m.",
+      "id": 4368,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:46 p. m.",
+          "fechaVisible": "17/06/2025 02:46 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "22/05/2025 06:02 p. m.",
+          "fechaVisible": "22/05/2025 06:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nLa modificación que se le hizo al reporte, fue la optimización de la consulta, ya que se ubico que el reporte incrementaba el uso del CPU ocasionando que el sistema cuando se ejecutaba este reporte con otros procesos pesados mostrará lentitud, fue por ello que se realizo dicha optimización (depurar la consulta para que se obtengan los valores de manera rápida y que la consulta no sea tardada)",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/05/2025 05:59 p. m.",
+          "fechaVisible": "22/05/2025 05:59 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_NO se puede facturar ingresos que no son objetos de impuesto",
+      "descripcionDetallada": "A petición del proveedor, se resube este incidente en esta plataforma, se encontraba en la plataforma anterior en el incidente 35485.\n\nEl problema:\nComo parte de las pruebas del CFDI 4.0 en el ambiente de calidad, se trató de probar la funcionalidad para indicar el objeto de impuesto en los CFDI, pero no se pudo identificar la configuración para facturar ingresos que no son objetos de impuesto.\nEn el catálogo de conceptos de ingreso no se ubica alguna opción para facturar los conceptos que no son objetos de ingreso:\nSe comparten pantallas de un CFDI con el objeto de impuesto “01 - No objeto de impuesto”:\nPor lo anterior, se solicita el apoyo para consultar con el proveedor si es posible facturar ingresos que no son objetos de impuesto en el SPRFyM.\n\nSe adjuntan los archivos que se habían adjuntado en el incidente en la plataforma anterior.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "08/05/2025 02:42 p. m.",
+      "fechaRegistroVisible": "08/05/2025 02:42 p. m.",
+      "id": 4259,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 02:08 p. m.",
+          "fechaVisible": "17/06/2025 02:08 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En este sentido no se comprometio la modificación a la plataforma para realizar este tipo de operaciones sin costo adicional, la póliza de servicio no cubre este tipo de modificaciones, en caso de querer revisar a mayor detalle el tema favor de revisarlo con el Mtro. Rafael Gómez y el Líder de Proyecto de parte de SIRE David Lima",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:56 p. m.",
+          "fechaVisible": "17/06/2025 01:56 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, se adjunta archivo zip con los correos como antecedente, estos correos se habían subido en el incidente de la plataforma anterior",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/05/2025 10:17 a. m.",
+          "fechaVisible": "12/05/2025 10:17 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes.\n\nNo estamos de acuerdo con lo indican, de realizar una \"cotización\", esto porque es una funcionalidad que el sistema debe tener, no es requerimiento de UV el querer tener esta manera de facturar, sino que esto se deriva de la ley cuando salió la factura 4.0, cuando hicieron la actualización nos indicaron que ya se consideraba todo o que se pedía con esta actualización del SAT, sin embargo, no fue así y de hecho el incidente se levantó desde el 2023, poco después que se había realizado la actualización.\n\nA continuación , parte de la Ley:\n\nEl “Objeto de Impuesto” es un nuevo atributo de carácter obligatorio que el Servicio de Administración Tributaria (SAT) incluye en la versión del CFDI 4.0 a través del “Anexo 20 de la Resolución Miscelánea Fiscal para 2022.\nDe acuerdo al “Apéndice 10 Caso de Uso Emisión del CFDI por donativos otorgados en numerario o en especie y donativos globales en numerario o en especie” de la “Guía de llenado de los comprobantes fiscales digitales por internet (documento técnico que se puede consultar en el siguiente sitio web del SAT http://omawww.sat.gob.mx/tramitesyservicios/Paginas/anexo_20.htm ”, las transacciones por donativos en efectivo o en especie deben facturarse con la clave de objeto de impuesto “01 No objeto de Impuesto”.\nCatálogo de objeto de impuesto que tiene el SAT.\n \n\n\nDerivado a que no se pueden adjuntar archivos en los incidentes, cuando se trata de \"seguimiento\", se estará enviando por correo todo el antecedente de esta observación.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/05/2025 04:18 p. m.",
+          "fechaVisible": "09/05/2025 04:18 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nLa facturación de los ingresos que no son objetos de impuestos no es posible realizarla hoy en día dentro del sistema, por lo cual si lo desean podemos realizar la cotización para llevar a cabo esta acción.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:38 p. m.",
+          "fechaVisible": "08/05/2025 10:38 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Error con el QR de las facturas_Urgente",
+      "descripcionDetallada": "Nuevamente se presentó la situación que al consultar el Código de barras bidimensional de la representación impresa del CFDI con Folio A20 1295732 (ingreso 1640004). Al escanear el QR de las facturas, los datos que se llenan en automático en el portal del SAT no corresponden a la factura consultada, por ejemplo, muestra que es de la universidad de Chapingo, a continuación, imagen:\n \nPor lo anterior, nuevamente solicitamos el apoyo para poder solucionar esta situación.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/04/2025 04:35 p. m.",
+      "fechaRegistroVisible": "23/04/2025 04:35 p. m.",
+      "id": 4154,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 11:13 a. m.",
+          "fechaVisible": "27/11/2025 11:13 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:16 p. m.",
+          "fechaVisible": "30/04/2025 07:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl problema se derivo a que la versión de reporte indicada en el formato de impresión correspondiente se encontraba incorrecta, se ajusto la versión para ese reporte y para los de más que tienen relación con este mismo para que no se muestre nuevamente el problema del código QR, por lo cual pediría que ejecuten nuevamente la factura para corroborar que el código muestra la información correcta de la factura en la página del SAT",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/04/2025 09:07 p. m.",
+          "fechaVisible": "29/04/2025 09:07 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error timbrado CFDI de Ingresos",
+      "descripcionDetallada": "Se adjunta correo sustento del error que se presenta al intentar timbrar CFDI´s.\nEs importante mencionar que se ha intentado en varios equipos de cómputo y se detona el mismo mensaje.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "07/04/2025 07:08 p. m.",
+      "fechaRegistroVisible": "07/04/2025 07:08 p. m.",
+      "id": 4074,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 16,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 16,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:35 p. m.",
+          "fechaVisible": "17/06/2025 01:35 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAdjunto respuesta brindada por el personal de ingeniería:",
+          "consecutivo": 15,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/06/2025 07:15 p. m.",
+          "fechaVisible": "03/06/2025 07:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nLa DI nos reporta que no se ve reflejado el cambio, es decir, se visualiza igual.\n\nAdjunto archivo del correo sustento y el PDF generado.",
+          "consecutivo": 14,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/05/2025 10:37 a. m.",
+          "fechaVisible": "14/05/2025 10:37 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nPudieran realizar la impresión nuevamente por favor",
+          "consecutivo": 13,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 09:46 p. m.",
+          "fechaVisible": "13/05/2025 09:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nLe comparto la retro a mi compañero que modifico el reporte para que lo atienda con las observaciones compartidas.",
+          "consecutivo": 12,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:34 p. m.",
+          "fechaVisible": "08/05/2025 10:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se retroalimenta, sin embargo, no se pueden adjuntar archivos, entonces no hay manera de mostrar las imágenes correspondientes de la observación.\n\n\n\n\nEl código QR de la factura con folio XG20 101 ya funciona correctamente:\n \nSin embargo, ahora al intentar generar las representaciones impresas de otras facturas el sistema no genera la representación que le corresponde, en vez de eso, genera la representación impresa del CFDI XG20 101.\nEjemplo la factura X20 1080:\n \nRepresentación impresa generada:\n \n \nDe igual forma al descargar los archivos del CFDI desde la consulta de timbres, descarga el XML de la factura X20 1080 junto con la representación impresa del CFDI XG20 101 (se adjuntan archivos ):\n \nRepresentación impresa descargada:\n \n \nEsta situación se puede visualizar en el siguiente video:  https://uvmx-my.sharepoint.com/:v:/g/personal/osmendoza_uv_mx/ETNzSqfVj4hAiL9G6_DM9GkB-ZsncOSf08IyATuhEA8GbQ\n\n \nDebido a lo ya descrito, actualmente es operativamente viable facturar con SIRE debido a que no puede generar correctamente las representaciones impresas de las facturas que se emiten.\n\nPor lo anterior, se solicita el apoyo para lo siguiente: que el sistema permita generar correctamente las representaciones impresas de las facturas desde que se genera desde la operación de ingreso y que el proceso funcione correctamente con todas las series (documentos a imprimir), poder generar (reimprimir) correctamente la representación impresa de cualquier factura del listado de facturas (modulo facturas), así como que poder descargar correctamente los archivos de cualquier factura que se encuentre en la consulta de timbres.",
+          "consecutivo": 11,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 04:13 p. m.",
+          "fechaVisible": "08/05/2025 04:13 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 10,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 09:18 p. m.",
+          "fechaVisible": "05/05/2025 09:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe realizó la revisión del documento de impresión por parte del personal de ingeniería, podrían realizar la impresión nuevamente por favor",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/05/2025 02:26 p. m.",
+          "fechaVisible": "03/05/2025 02:26 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En atención a la respuesta del día de hoy por parte del personal de SIRE se informa lo siguiente:\n\nNo se ha podido verificar la corrección en el QR de la representación impresa, en atención a que al mandar a proceso de facturación el ingreso 1643257, se generó la factura XG20 101:\n \nPero al momento del timbrado el sistema no generó la representación impresa, se ha intentado generar la representación impresa desde el modulo facturas pero el sistema manda los siguientes errores:\n \nTambién  al intentar recuperar el PDF en la consulta de timbres aparece el siguiente error:\nPor lo anterior, se solicita el apoyo para dar respuesta al proveedor.\nTenemos el archivo con las ímágenes donde se visualiza el error, sin embargo, no sabemos como adjuntarlo ya que no aparece la opcion en esta plataforma.",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 04:27 p. m.",
+          "fechaVisible": "02/05/2025 04:27 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nObservando con mis compañero de ingeniería observamos que se han enviado facturas a timbrar de manera correcta posterior al cambio del puerto de timbrado.\n\nDe igual forma observo que el ingreso 1621386 se encuentra timbrado en el módulo de facturas, entiendo que ya no existe el problema del mensaje que se les presento y que nos indicaron, me pudieran confirmar por favor.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 02:37 p. m.",
+          "fechaVisible": "02/05/2025 02:37 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se adjuntó documento sustento de la respuesta de la DI.\nQuedamos al pendiente.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 07:48 p. m.",
+          "fechaVisible": "10/04/2025 07:48 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes.\n\n\nLa DI reporta que pudo emitir las facturas, sin embargo, al intentar imprimir manda error:\n\n\"Se ha generado ERROR al grabar el Reporte. Cannot pen file \"E:\\SPRFM PRODUCTIVO PRONCIPAL\\SIREGOBRep_1_AdsConnection642454592.RAF\". The system cannot find the filespecified\".\nIngresos ejemplo: 1621386 \n\nAl acceder a descargar el archivo en la consulta de timbres muestra un mensaje de que no se localizó el documento.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 07:42 p. m.",
+          "fechaVisible": "10/04/2025 07:42 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 06:40 p. m.",
+          "fechaVisible": "10/04/2025 06:40 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nNos informo el personal del Mtro. Rafa, que ya se encuentra habilitada la conexión con la IP y puerto que se les indico, por tal motivo, para que los 2 ingresos que nos compartieron en el Excel puedan ser timbrados, les pedimos el apoyo para que se re imprima la factura y con ello corroborar la correcta comunicación.\n\nDe igual forma el otro mensaje que nos hicieron llegar respecto a la petición con el servidor de timbrado, ya no se debería de mostrar ya que dentro del Firewall institucional fue habilitada dicha regla",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 06:36 p. m.",
+          "fechaVisible": "10/04/2025 06:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa Dirección de Ingresos requiere el avance de atención a lo reportado.\n\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/04/2025 05:48 p. m.",
+          "fechaVisible": "09/04/2025 05:48 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa atención de este incidente se realizó durante la madrugada del día de hoy, el problema fue un cambio que se realizó respecto a la IP de servicio de timbrado con nuestro PACK, por ese motivo se ajusto en todos los servidores dicha IP para que se pueda realizar el timbrado correspondiente.\n\nAsí mismo como temas propios de la Universidad, el área de sistemas se encuentra gestionando con el área de redes lo necesario para que quede abierta dicha comunicación y se pueda generar el timbrado correspondiente, por lo que por el momento se necesitará la apertura de comunicación a la IP indicada.\n\nSe proporciona la IP correspondiente a este ticket para conocimiento del personal, misma que también ya tiene el área del Mtro. Rafa.\n\nIP: 104.192.4.92 \n\nUna vez realizado el ajuste por parte de redes, revisaremos que todo este correcto para validar que las facturas se timbren de manera correcta.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/04/2025 03:37 p. m.",
+          "fechaVisible": "08/04/2025 03:37 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error en la carga de plantilla",
+      "descripcionDetallada": "Debido a que no existe una cuenta de EDITORIAL, por este medio reporto lo siguiente: Al intentar realizar la carga de una plantilla (Utilerías-->Importar -->catálogo de artículos(Versión 3.13 en ambiente Calidad) nos marca un Error \"Clave de producto/servicio no encontrado\", estuvimos realizando pruebas e identificamos que al momento de intentar la carga no está identificando el Tipo de producto.\nAdjunto plantilla, documento de mensaje de error e imagen del intento de la carga de la plantilla\nQuedamos al pendiente de sus comentarios",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/04/2025 02:15 p. m.",
+      "fechaRegistroVisible": "02/04/2025 02:15 p. m.",
+      "id": 4018,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se cargo de manera correcta la plantilla con lo que nos indicaron\nGracias por el apoyo",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 08:20 a. m.",
+          "fechaVisible": "05/08/2025 08:20 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 08:51 p. m.",
+          "fechaVisible": "10/04/2025 08:51 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche\n\nSe realizaron pruebas de migración y se observo que el problema se encuentra en la columna Clave SAT dado que el valor que se le esta asignado no existe en el catálogo, el valor 55100500 es el que no se encuentra existente, corrijan ese valor por uno que si exista y podrán realizar la migración de manera correcta",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 08:45 p. m.",
+          "fechaVisible": "10/04/2025 08:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

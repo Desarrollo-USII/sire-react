@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "sistema": "PERSONAL",
+    "cuenta": "INCUV_DPERSONAL",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 5,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 5,
+    "totalSeguimientos": 22,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en el cliente y utilería al consultar la balanza",
+      "descripcionDetallada": "El Departamento de Prestaciones reporta error al consultar la balanza de comprobación, indica algo relacionado con la estructura de la tabla.\nEl Lic. Alberto Mesa ya realizó la actualización de la aplicación y la utilería, y aún sigue mostrándose el error.\nQuedamos al pendiente.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "12/08/2026 11:39 a. m.",
+      "fechaRegistroVisible": "12 de Aug, 11:39:58 AM",
+      "id": 7002,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nPara llevar a cabo la entrega de este ticket, es necesario realizar el cambio de servidor de utilería de 3 capas así como el cliente, este cambio se realizará durante el día de hoy (lo más confiable por la tarde-noche) para no afectar a nadie, por lo que informare por este ticket una vez se realice el ajuste, así mismo compartiré por aquí la liga para descargar el cliente actualizado.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-08-13T20:27:12.763Z",
+          "fechaTexto": "13/08/2026 02:27 p. m.",
+          "fechaVisible": "13 de Aug, 02:27:12 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra atendido el ticket en ambiente de producción, es necesario se actualice el ejecutable de la utilería de 3 capas, por lo que les comparto el link de descarga correspondiente.\n\nhttps://drive.google.com/file/d/1bAVZR5lVLQ16N8IVAytwhnRVMIqm1gg3/view?usp=sharing",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-08-14T05:27:36.240Z",
+          "fechaTexto": "13/08/2026 11:27 p. m.",
+          "fechaVisible": "13 de Aug, 11:27:36 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error al imprimir NCE del IMSS - urgente realizar pago el martes",
+      "descripcionDetallada": "El Departamento de Prestaciones y la Dirección de Nóminas, reportan que al tratar de imprimir las notas de crédito 110575 (aplicación manual) y 110573 (aplicación automática) el sistema está mostrando mensaje de que la póliza de cargos y abonos no coinciden en evento: NCE (Ab: importe <> Cg:importe) (imagenes en docto adjunto)\nPara esto detectaron que en los pagos del egreso 722596 estaba una aplicación de 5945.05, por lo que procedieron a cancelarla, pero aun así el sistema les sigue mostrando el mismo error al tratar de imprimir las NCE.\nPor lo anterior, en virtud de que se debe realizar el pago del IMSS a más tardar el martes entre 9 – 12, se pide el apoyo en carácter urgente para revisar la situación que se presenta o en su caso, asesorarnos qué procedimiento realizar para poder imprimir las NCE, cabe mencionar que la nota 110573 es de aplicación automática y se deriva de un reintegro que tiene conceptos de FAR e IMSS relacionados.\nGracias de antemano, quedo al pendiente.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "14/11/2025 07:49 p. m.",
+      "fechaRegistroVisible": "14/11/2025 07:49 p. m.",
+      "id": 5482,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "atendido",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 02:25 p. m.",
+          "fechaVisible": "24/11/2025 02:25 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Se da por atendido, gracias.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 02:24 p. m.",
+          "fechaVisible": "24/11/2025 02:24 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:12 p. m.",
+          "fechaVisible": "19/11/2025 08:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería llevo a cabo la revisión de lo reportado y me comentan lo siguiente:\n\nLas notas 110575 y 110573 fueron generadas con saldo faltante en la clave presupuestal correspondiente\n\nAl 6 de noviembre no había saldo suficiente en sus claves para poder aplicar automáticamente\n\nAl cancelar el pago el día de ayer, se libera el saldo, pero las aplicaciones de las notas ya no se mueven, es decir, se siguen quedando con el momento pagado. \n\nEn este orden de proceso, tuvieron que usar conceptos de nota de crédito de PAGADO (porque a ese momento, ya había pagos al gasto\n\nLo que deben hacer posterior a la cancelación que nos informan se cancelo y que se observa que fue el día de ayer, es cancelar la nota y volver a capturarla con el concepto de devengado, pero sin meter la primera aplicación (la de 5945).",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/11/2025 12:15 p. m.",
+          "fechaVisible": "15/11/2025 12:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - deudores con clave de UR",
+      "descripcionDetallada": "Buen día\nSe identifica que algunos deudores tienen asignada una UR, sin embargo, una vez guardada información en dicho campo ya no es posible editarlo para borrarlo o modificarlo.\nPor lo anterior, se adjunta al presente archivo con el listado de deudores que contienen la UR, para los cuales se pide eliminar la clave de UR asignada, pues esta situación está impidiendo a algunas usuarios visualizar/utilizar a deudores que tienen una UR asignada distinta a la que ellos tienen acceso.\nQuedamos al pendiente, gracias por la atención.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/11/2025 10:08 a. m.",
+      "fechaRegistroVisible": "13/11/2025 10:08 a. m.",
+      "id": 5463,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nGracias por la atención, en caso de que se requiera nuevamente el apoyo se levantará un nuevo incidente haciendo referencia como antecedente a este incidente.",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 02:27 p. m.",
+          "fechaVisible": "27/11/2025 02:27 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:14 p. m.",
+          "fechaVisible": "19/11/2025 08:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que se encuentra atendida la solicitud de apoyo en el ambiente de producción, dejando solo los deudores con clave 058379, 058380, 058381, 058382, 058383, 058384, 058823, 059662 con su relación de U.Resp.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/11/2025 04:56 p. m.",
+          "fechaVisible": "18/11/2025 04:56 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Hola\n\nSi, mandamos un listado de deudores con clave de UR asignada, la información estaba con corte al 11 de noviembre, en este documento no están contempladas las claves de deudor 058379, 058380, 058381, 058382, 058383, 058384, 058823, 059662, pues estos deben permanecer con la UR que tienen asignada, porque son deudores de sindicatos por región.\nSe mencionaron las claves, por si a ustedes les es más fácil eliminar la UR de todos los deudores que tenga UR y no buscar las claves que les listamos en el documento, así, solamente deben excluir las que les indico que deben continuar con la UR.\n\nQuedo al pendiente, saludos.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 12:21 p. m.",
+          "fechaVisible": "14/11/2025 12:21 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "buen día.\n\ndisculpen no entendí, sin embargo, a los únicos proveedores que no se les debe de quitar la U.Resp serían estos (deudores: 058379, 058380, 058381, 058382, 058383, 058384, 058823, 059662) o hay algún otro? me pueden confirmar por favor para realizar el ajuste correspondiente",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 12:17 p. m.",
+          "fechaVisible": "14/11/2025 12:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día Josue\n\nTe informo que verificó en el ambiente de calidad y ya se visualiza y permite relacionar los deudores con usuarios que no tengan multiUR, pues, si el deudor no tiene UR cualquier usuario puede visualizarlo y relacionarlo en su operación (se adjunta imagen de la prueba),\n\nPor lo anterior, se puede proceder a realizar el ajuste en productivo, sin embargo, puede ser que a la fecha existan nuevas claves de deudor, posterior al número  061204, faltarían en el listado, del 061205 al 061217. El resto de deudores son los indicados en el documento adjunto, pues, existen algunas claves a las que no se les tiene que borrar la UR (deudores: 058379, 058380, 058381, 058382, 058383, 058384, 058823, 059662).\n\n\nQuedamos al pendiente, gracias de antemano.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 11:47 a. m.",
+          "fechaVisible": "14/11/2025 11:47 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche Emi.\n\nAntes de realizar la modificación en producción, se realizó el ajuste en calidad para que por favor validen que sea correcto, la validación consistiría en realizar la búsqueda de los deudores que es el problema reportado, más la realización de una operación por favor o un proceso operativo para verificar que el ajuste no afecte, es decir, por ejemplo, un requerimiento de anticipo, comprobación de gasto ligada a ese requerimiento de anticipo, esto con el afán de que verifiquen que el ajuste sea correcto por favor.\n\nSe adjunta el documento de Excel con los deudores de calidad a los que se les realizó el ajuste correspondiente, para que ustedes nos den el visto bueno de la modificación y pueda ser realizada en producción de acuerdo a sus operaciones realizadas.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 09:56 p. m.",
+          "fechaVisible": "13/11/2025 09:56 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error al guardar detalle de la nota de crédito",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Prestaciones nos reporta lo siguiente:\nNos encontramos realizando la generación de notas de crédito para el pago de cuotas IMSS del mes de junio, sin embargo, se nos esta presentando el siguiente mensaje de error al querer guardar el detalle de la nota de crédito correspondiente al renglón 3 del egreso 626830.\nRequieren saber por que se presenta dicho error\nAdjunto pantalla del Error\nQuedamos al pendiente",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "10/07/2025 05:31 p. m.",
+      "fechaRegistroVisible": "10/07/2025 05:31 p. m.",
+      "id": 4652,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido, en caso de que se presente nuevamente el error, se estará mencionando este incidente como antecedente.\nSaludos.",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "26/11/2025 05:28 p. m.",
+          "fechaVisible": "26/11/2025 05:28 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 09:33 a. m.",
+          "fechaVisible": "04/08/2025 09:33 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día, la corrección se puso en el ambiente de producción el día de ayer 03/08/2025, dado que por el periodo vacacional no fue posible actualizar la versión de producción a la versión de calidad, se realizó el ajuste en producción para no afectarles en sus procesos posteriores",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 09:32 a. m.",
+          "fechaVisible": "04/08/2025 09:32 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa problemática fue atendida en las notas indicadas, sin embargo, la atención de raíz se encuentra en la versión reciente de calidad, estoy a la espera de confirmación para actualizar producción al ultimo release, se informará una vez se tenga fecha",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/07/2025 01:39 p. m.",
+          "fechaVisible": "17/07/2025 01:39 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz . error en el proceso de finalización de contratos",
+      "descripcionDetallada": "La Dirección de Personal, nos reporta que al generar el proceso de finalización de contratos desde la utilería manda error: Error: No se encontraron contratos a cancelar., sin embargo, existen 1180 contratos por cancelar.\nEl día de ayer intentaron generarlo, pero se mostró el mensaje que se presentaba por la desconexión de la red.\nPor lo anterior, se pide revisar la situación.\nSe adjunta detalle sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/06/2025 10:49 a. m.",
+      "fechaRegistroVisible": "12/06/2025 10:49 a. m.",
+      "id": 4481,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "A la fecha esta situación quedo solventada, en caso de presentarse nuevamente, se registrará un nuevo incidente",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 05:33 p. m.",
+          "fechaVisible": "05/08/2025 05:33 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:36 p. m.",
+          "fechaVisible": "17/06/2025 01:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe estuvo en comunicación con Emi dado que en el script se observa que solicita una fecha, Emi me hizo favor de proporcionarme el dato, sin embargo, se solicito lo siguiente lo cual no hemos tenido retro:\n\nme pueden proporcionar un caso que debiera de afectar el script con la fecha del 15/06/2025 que no este cancelado a pesar de que el script indica que no hay nada por afectar, para que con ese caso pueda revisar si por el tema de las desconexiones de ayer no quedo algo mal.\n\nEstamos a la espera de esta información para poder revisar en la BD que impacto pudo haber tenido el acontecimiento de ayer, respecto al proceso que lanzaron y se vio afectado por las diferentes desconexiones que se presentaron.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 06:12 p. m.",
+          "fechaVisible": "12/06/2025 06:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se adjunta imagen con la opción, se denomina Cancelación de Contrato Vencidos\n\nSaludos",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 12:04 p. m.",
+          "fechaVisible": "12/06/2025 12:04 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Un favor, me pueden indicar que opción en la utilería es la que utilizan para este proceso, dado que en el documento adjunto no se muestra, esto para que podamos revisar",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 11:20 a. m.",
+          "fechaVisible": "12/06/2025 11:20 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

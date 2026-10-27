@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "sistema": "EDITORIAL",
+    "cuenta": "INCUV_EDITORIAL",
+    "fechaExtraccion": "2026-10-27",
+    "fechaExtraccionSeguimiento": "2026-10-27",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 2,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 2,
+    "totalSeguimientos": 11,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Duda Modificación de costo unitario",
+      "descripcionDetallada": "Buenos días\n\nDerivado a la realización de una prueba en ambiente Calidad, en donde se intento cambiar el costo unitario de 10.0000 a 1.0000 del artículo CO105 dentro de la Entrada 3660, se muestra un mensaje de error al intentar cambiar el costo.\n\nEsto se realizó , ya que, se identifico que el costo unitario correcto es 1. 0000 pero se capturo de forma errónea a 10.0000 y se requiere que por favor nos indiquen como realizar la modificación de dicho costo y si al momento de corregirlo nos comenten si no afectaría algo más.\n\nAdjunto correo Word con las pantallas de la entrada y Cpto de Ingreso mencionado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "17/06/2026 10:15 a. m.",
+      "fechaRegistroVisible": "17 de Jun, 10:15:04 AM",
+      "id": 6710,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 1,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nEl costo unitario no puede realizarse como ustedes lo plantean, para ello se deberá de dar la baja de las existencias por el mismo costo por el que entro que fuero los 10.00 y hacer de nuevo la entrada por las mismas 300 piezas pero ahora por el costo de 1.00, en calidad se dejo el movimiento de baja y alta, la baja fueron las 300 piezas por el costo de 10 y el alta fueron 300 piezas por 1, así mismo se observo que en calidad cancelaron un vale de mercancía lo cual estuvo correcto para poder dar de baja las 300 piezas, por lo que en calidad podrían continuar con su proceso, el error puede cometerse en la entrada ya que permite indicar el costo de entrada, sin embargo, en la baja, toma el costo por el que se registro el artículo es por ello que se tuvo que dar de baja por 10 primero, por lo que se solicitaría que el área corrobore la información del movimiento terminando su prueba y si es correcta, lo pueda replicar en producción, antes de que las operaciones se muevan (tengan salidas) por montos incorrectos.\n\nLas operaciones en calidad fueron los movimientos de salida 3663 y entrada 3664, podrán corroborar en el concepto de ingreso al dar clic en la parte del menú archivo, seleccionar U.Resp y posicionarse en la 0168 que la tarjeta del almacén indicará las entradas, vales de surtido, la baja y alta nuevamente, lo cual no generaría ningún problema para continuar con sus pruebas",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-18T19:23:24.043Z",
+          "fechaTexto": "18/06/2026 01:23 p. m.",
+          "fechaVisible": "18 de Jun, 01:23:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Fue atendida la duda sindicada Lea agradecemos el apoyo brindado",
+      "descripcionBreve": "Error al Eliminar una Entrada",
+      "descripcionDetallada": "La Dirección de Editorial nos reporta que se presenta un error al querer eliminar una Entrada, a continuación el detalle:\n\nInicialmente realicé una salida por consignación de material para una librería. Posteriormente, dicho material fue reportado como vendido, por lo cual fue necesario generar el ingreso correspondiente, realizando previamente la entrada del material en el sistema.\nSin embargo, el pago no fue recibido, motivo por el cual se procedió a cancelar el ingreso (1837713). Al realizar esta cancelación, el sistema retorna los ejemplares al almacén y, de igual manera, la entrada (3280) generada para poder realizar el ingreso debía ser eliminada, proceso que llevé a cabo.\nEl inconveniente se presenta al momento de eliminar dichas entradas, ya que de 113 registros, el sistema solo permitió eliminar 103. Los 10 registros restantes no se pueden borrar y el sistema muestra un mensaje de error.\n\nAdjunto documento Word con detalle, pantalla del error que se visualiza y pantalla de la Entrada\n\nSe solicita saber el porque se presenta esta situación para poder realizar la correcta eliminación de la Entrada\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "15/01/2026 11:40 a. m.",
+      "fechaRegistroVisible": "15 de Jan, 11:40:37 AM",
+      "id": 5829,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 10,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendida la duda sindicada\nLea agradecemos el apoyo brindado",
+          "consecutivo": 10,
+          "cortesia": "n/a",
+          "fechaISO": "2026-06-17T16:13:33.010Z",
+          "fechaTexto": "17/06/2026 10:13 a. m.",
+          "fechaVisible": "17 de Jun, 10:13:33 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-30T17:53:58.740Z",
+          "fechaTexto": "30/01/2026 11:53 a. m.",
+          "fechaVisible": "30 de Jan, 11:53:58 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nCuando se requiera cancelar un ingreso, es importante validar que cuenta o no con ajuste de existencias, si no cuenta con ajuste se puede cancelar directo.\n\nSi cuenta con ajuste de existencias, es importante validar si antes al ajuste contaba con al menos una existencia en la U.Resp, si contaba con al menos una se pueden cancelar los movimientos, si no contaba con existencias y el ajuste se las dio, es importante que el ingreso regrese a ingresando operación y se borre para posteriormente se borre el ajuste correspondiente, para que no se contemplen existencias apartadas por el propio ingreso.\n\nEn caso a que el ingreso ya se encuentre avanzado se tendrían que dar las bajas correspondientes del los artículos para que la existencia sea cero.",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": "2026-01-27T02:56:45.037Z",
+          "fechaTexto": "26/01/2026 08:56 p. m.",
+          "fechaVisible": "26 de Jan, 08:56:45 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a la respuesta proporcionada, la Dirección de Editorial nos comenta lo siguiente:\n\n Realizaron la revisión de cada uno de los títulos involucrados y detectaron que si existía disponibilidad en inventario\n\nAdemás, como parte de su análisis realizaron una prueba en calidad, en la cual, en lugar de cancelar el registro, procedí a borrarlo, y el resultado fue el mismo comportamiento señalado (Adjunto documento Word con pantallas de los artículos involucrados)\n\nPor lo anterior, surge las siguientes dudas sobre cual es el proceso correcto a seguir en los siguientes casos:\n\n• Cuando se requiera cancelar un ingreso\n\n • Cuando sea necesario borrar o eliminar un registro de ingreso.\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": "2026-01-26T18:43:48.797Z",
+          "fechaTexto": "26/01/2026 12:43 p. m.",
+          "fechaVisible": "26 de Jan, 12:43:48 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": "2026-01-20T16:13:42.230Z",
+          "fechaTexto": "20/01/2026 10:13 a. m.",
+          "fechaVisible": "20 de Jan, 10:13:42 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAdjunto documento de Word con respuesta del mensaje presentado",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-01-19T19:18:56.710Z",
+          "fechaTexto": "",
+          "fechaVisible": "19 de Jan, 01:18:56 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias por la imagen del hallazgo adjunto, estamos revisando con el personal de ingeniería a que se puede derivar el mensaje correspondiente, estaré informando el análisis de dicho personal",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": "2026-01-19T17:47:19.743Z",
+          "fechaTexto": "19/01/2026 11:47 a. m.",
+          "fechaVisible": "19 de Jan, 11:47:19 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias por la imagen del hallazgo adjunto, estamos revisando con el personal de ingeniería a que se puede derivar el mensaje correspondiente, estaré informando el análisis de dicho personal",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-19T17:46:20.630Z",
+          "fechaTexto": "19/01/2026 11:46 a. m.",
+          "fechaVisible": "19 de Jan, 11:46:20 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLes adjunto imagen del Erros\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-15T19:12:18.350Z",
+          "fechaTexto": "15/01/2026 01:12 p. m.",
+          "fechaVisible": "15 de Jan, 01:12:18 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nNos encontramos revisando el ticket, sin embargo, se menciona que el sistema muestra un mensaje de error, pero no viene indicado en la documentación, favor de proporcionarnos el mensaje que manda el sistema para identificar el motivo de dicho mensaje por favor.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-15T18:37:06.053Z",
+          "fechaTexto": "15/01/2026 12:37 p. m.",
+          "fechaVisible": "15 de Jan, 12:37:06 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

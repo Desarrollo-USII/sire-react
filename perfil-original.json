@@ -1,0 +1,42 @@
+[
+  {
+    "className": "app-field app-field-Nombre",
+    "text": "USUARIO DE INCIDENTES DE LA DIRECCIÓN DE CONTROL BIENES MUEBLES E INMUEBLES",
+    "title": "Nombre:\nUSUARIO DE INCIDENTES DE LA DIRECCIÓN DE CONTROL BIENES MUEBLES E INMUEBLES                                                                                                                             "
+  },
+  {
+    "className": "app-item-desc app-field app-field-Usuario",
+    "text": "INCUV_DCBMI\nUsuario",
+    "title": "Usuario:\nINCUV_DCBMI                   "
+  },
+  {
+    "className": "app-item-desc app-field app-field-Mail",
+    "text": "_incidentes_dcbmei@uv.mx\nCorreo Electrónico",
+    "title": "Correo Electrónico:\n_incidentes_dcbmei@uv.mx"
+  },
+  {
+    "className": "app-item-desc app-field app-field-CvePersnombrePers",
+    "text": "Clientes\nNombre del Personal",
+    "title": "Nombre del Personal:\nClientes"
+  },
+  {
+    "className": "app-item-desc app-field app-field-IDProyectonomProyecto",
+    "text": "Póliza de servicio UV 2025\nNombre del Proyecto",
+    "title": "Nombre del Proyecto:\nPóliza de servicio UV 2025"
+  },
+  {
+    "className": "app-item-desc app-field app-field-IdClientePersonalnombre",
+    "text": "Xóchitl Sangabriel Alonso\nPersonal del Cliente",
+    "title": "Personal del Cliente:\nXóchitl Sangabriel Alonso"
+  },
+  {
+    "className": "app-item-desc app-field app-field-IdDistribuidornombreDistribuidor",
+    "text": "n/a\nDistribuidor",
+    "title": "Distribuidor:\nN/A"
+  },
+  {
+    "className": "ui-li-count app-field app-field-IdAdmontickets ui-body-inherit",
+    "text": "N/A",
+    "title": "Admon Proyectos Tickets:\nN/A"
+  }
+]

@@ -1,0 +1,2145 @@
+{
+  "metadata": {
+    "sistema": "PRESUPUESTO",
+    "cuenta": "INCUV_DPRESUPUESTOS",
+    "fechaExtraccion": "2026-10-26",
+    "fechaExtraccionSeguimiento": "2026-10-26",
+    "fuente": "https://siresoporte.com.mx:62341/SireWBS/Pages/Atencion2Clientes.aspx",
+    "totalReportado": 38,
+    "adjuntos": "No descargados",
+    "sincronizacion": "Copia estática",
+    "totalExtraido": 38,
+    "totalSeguimientos": 173,
+    "completa": true,
+    "seguimiento": "Completo; todas las páginas verificadas"
+  },
+  "tickets": [
+    {
+      "comentariosFinales": "Buenas tardes Gracias por el apoyo",
+      "descripcionBreve": "caquiroz - deshabilitar todas las reglas y sub-reglas del techo presupuestal 2027 con cabecera 230",
+      "descripcionDetallada": "Con la finalidad de dar cumplimiento de las actividades de Integración del Proyecto de Presupuesto 2027, se solicita de su apoyo para deshabilitar todas las reglas y sub-reglas del techo presupuestal 2027 con cabecera 230.\nSe adjunta correo sustento del área y también, se estará enviando esta petición por correo formal de solicitud de apoyo.\nGracias de antemano, quedamos al pendiente.\nSaludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/09/2026 12:17 p. m.",
+      "fechaRegistroVisible": "2 de Sep, 12:17:11 PM",
+      "id": 7078,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nGracias por el apoyo",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-07T19:59:40.887Z",
+          "fechaTexto": "07/09/2026 01:59 p. m.",
+          "fechaVisible": "7 de Sep, 01:59:40 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-09-05T02:52:25.630Z",
+          "fechaTexto": "04/09/2026 08:52 p. m.",
+          "fechaVisible": "4 de Sep, 08:52:25 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nInformo que este ticket ya se encuentra atendido en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-09-05T02:51:39.870Z",
+          "fechaTexto": "04/09/2026 08:51 p. m.",
+          "fechaVisible": "4 de Sep, 08:51:39 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia al autorizar los requerimientos",
+      "descripcionDetallada": "La Dirección de Presupuestos reporta inconsistencia al autorizar requerimientos presupuestales, menciona que la inconsistencia se deriva a importes límite configurados en reglas del techo 230.\nSe adjunta documento con el detalle.",
+      "estatus": "en Espera de Respuesta",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "30/06/2026 07:05 p. m.",
+      "fechaRegistroVisible": "30 de Jun, 07:05:30 PM",
+      "id": 6793,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 1,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Emi.\n\nAdjunto documento de Word con el análisis de un requerimiento presupuestal, donde comparto lo observado respecto a un techo presupuestal para que de la misma manera puedan analizar los siguientes, quedo pendiente en caso de cualquier duda o retro",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-07-01T02:03:41.427Z",
+          "fechaTexto": "30/06/2026 08:03 p. m.",
+          "fechaVisible": "30 de Jun, 08:03:41 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Procederemos con el cierre del incidente y en caso de que la situación se presente nuevamente, registraremos un nuevo incidente tomando como antecedente este",
+      "descripcionBreve": "fesantos-Error al transferir reuquerimiento",
+      "descripcionDetallada": "La Dirección de Presupuestos nos infirma que en SPRFM_Nomina se presenta un error al transferir el requerimiento presupuestal 286526\nAnteriormente, se notificó de una situación similar en el incidente 6701\nAdjunto detalle de lo indicado para que nos apoyen en su atención\n\nQuedamos al pendiente de sus comentarios\n\nSaludos",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "24/06/2026 01:24 p. m.",
+      "fechaRegistroVisible": "24 de Jun, 01:24:21 PM",
+      "id": 6757,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Procederemos con el cierre del incidente y en caso de que la situación se presente nuevamente, registraremos un nuevo incidente tomando como antecedente este",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-29T22:20:31.023Z",
+          "fechaTexto": "29/06/2026 04:20 p. m.",
+          "fechaVisible": "29 de Jun, 04:20:31 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra atendido este ticket en producción, así mismo para liberar por completo el ajuste, es necesario un cambio de servidor, por lo que me comento la Lic. Angelica Báez que podría ser el día jueves o viernes dependiendo de las actividades nominales que se tienen en puerta",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-25T00:59:54.037Z",
+          "fechaTexto": "24/06/2026 06:59 p. m.",
+          "fechaVisible": "24 de Jun, 06:59:54 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería me apoyara en la revisión correspondiente, por lo que hoy mismo les informo una vez se encuentra atendido el mensaje.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-06-24T21:00:48.787Z",
+          "fechaTexto": "24/06/2026 03:00 p. m.",
+          "fechaVisible": "24 de Jun, 03:00:48 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Fue atendido lo reportado Les agradecemos el apoyo brindado",
+      "descripcionBreve": "Error botón transferir requerimientos presupuestales",
+      "descripcionDetallada": "La Dirección de Presupuestos nos reporta un mensaje de error que se presenta al dar clic en el botón Transferir de los requerimientos presupuestales 284795 y 284669 en el SPRFM_Nómina\n\nAdjunto documento Word con correo sustento y pantallas del error mencionado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "15/06/2026 04:10 p. m.",
+      "fechaRegistroVisible": "15 de Jun, 04:10:39 PM",
+      "id": 6701,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo reportado\nLes agradecemos el apoyo brindado",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-18T17:14:17.490Z",
+          "fechaTexto": "18/06/2026 11:14 a. m.",
+          "fechaVisible": "18 de Jun, 11:14:17 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe reviso el problema por el personal de ingeniería, me informan que ya se encuentra atendido por lo que pediría el apoyo para que puedan darle continuidad al proceso por favor",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-18T00:05:44.517Z",
+          "fechaTexto": "17/06/2026 06:05 p. m.",
+          "fechaVisible": "17 de Jun, 06:05:44 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nNos encontramos revisando lo reportado respecto a ambos requerimientos presupuestales para poderles brindar respuesta concreta al mensaje que se presenta",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-06-16T21:07:24.690Z",
+          "fechaTexto": "16/06/2026 03:07 p. m.",
+          "fechaVisible": "16 de Jun, 03:07:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - diferencia de importes devengado y comprometido contr el modificado",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Presupuestos reporta que al cierre del mes de abril existen claves presupuestales que muestran mayor importe en el devengado y comprometido que el modificado.\nEn esta Unidad se les observó que se revisara los momentos precomprometido, comprometido no devengado y el ampliación, sin embargo, nos comentan que ya hicieron la revisión exhaustiva y no identifican el por qué se presenta la situación reportada.\nSe adjunta correo sustento.\nPor lo anterior pido de su apoyo.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "13/05/2026 02:39 p. m.",
+      "fechaRegistroVisible": "13 de May, 02:39:35 PM",
+      "id": 6522,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 8,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 8,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:49:12.213Z",
+          "fechaTexto": "25/05/2026 09:49 a. m.",
+          "fechaVisible": "25 de May, 09:49:12 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En la respuesta donde agregue las claves presupuestales puse los valores y no se observa diferencia, así mismo indique respecto a la búsqueda como realizarla, sin embargo, observo que se sigue consultando de una forma no indicada, podría el USIIU ayudarnos a revisar con el usuario por favor.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": "2026-05-19T00:22:14.960Z",
+          "fechaTexto": "18/05/2026 06:22 p. m.",
+          "fechaVisible": "18 de May, 06:22:14 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa búsqueda como ya la comente con anterioridad debe de ser por meses no por fechas, así mismo por las fechas, así mismo por lo que veo están revisando el total (suma) el comprometido y devengado es igual, sin embargo, el modificado si puede ser mayor, entendemos por modificado, las transferencias de aumento, las de disminución, las ampliaciones y reducciones, por lo cual sigo sin entender, cual es la problemática real, solicito el apoyo del USIIU para que me ayuden a tender el problema real, dado que las consultas es por meses, no por fechas, el modificado puede ser igual o mayor (dependen de los factores antes mencionados) pueden revisar el modificado por los momentos que lo conforman, por el auxiliar de mayor presupuestal, así mismo recordemos que el capitulo 1000 esa cumulativo por lo cual puede tener en un renglón modificado 100, comprometido 120 y devengado 120",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-05-19T00:15:40.977Z",
+          "fechaTexto": "18/05/2026 06:15 p. m.",
+          "fechaVisible": "18 de May, 06:15:40 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe adjunta documento con los parámetros  y detalle del filtrado.\n\nSaludos",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-05-18T19:17:40.847Z",
+          "fechaTexto": "18/05/2026 01:17 p. m.",
+          "fechaVisible": "18 de May, 01:17:40 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Agradezco el apoyo, con base en lo descrito en el incidente y en lo comentado vía telefónica con Angélica Báez, se compartió la respuesta con la Dirección de Presupuestos, no obstante, agradeceremos mucho nos puedan proporcionar la pantalla con los datos (parámetros), que se utilizaron para generar la consulta proporcionada. Muchas gracias, quedamos al pendiente.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-05-17T03:07:27.120Z",
+          "fechaTexto": "16/05/2026 09:07 p. m.",
+          "fechaVisible": "16 de May, 09:07:27 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nRealice la consulta de claves presupuestales por diferentes momentos (más de los que se adjuntan en el documento) y filtre por las claves enviadas, sin embargo, no observo las mismas cantidades que se me proporcionaron, por lo cual pediría el apoyo para que vean con el personal que se encuentra realizando, y revisen el documento que les comparto, donde los montos de abril no son iguales a los proporcionados en el archivo o me indiquen de que manera están realizando la búsqueda porque no observamos probelma alguno",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-05-15T02:44:25.460Z",
+          "fechaTexto": "14/05/2026 08:44 p. m.",
+          "fechaVisible": "14 de May, 08:44:25 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe adjunta archivo que muestra las diferencias de servicios personales.\n\nQuedo al pendiente, saludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-05-14T18:11:43.543Z",
+          "fechaTexto": "14/05/2026 12:11 p. m.",
+          "fechaVisible": "14 de May, 12:11:43 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAgrego un pequeño documento para tener un poco más de claridad respecto a lo reportado, dado que con el filtro que están realizando queda muy abierta la búsqueda, para que sea revisado por favor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-05-14T00:37:03.303Z",
+          "fechaTexto": "13/05/2026 06:37 p. m.",
+          "fechaVisible": "13 de May, 06:37:03 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Buen día Gracias por la retroalimentación. Al respecto, es necesario comentar que se canceló el requerimiento y se volvió a capturar, con ello se solventó la situación, por tanto se finaliza el incidente. Saludos",
+      "descripcionBreve": "caquiroz - Incidente requerimiento movimiento de plaza y contratos",
+      "descripcionDetallada": "La Dirección de Presupuestos reporta inconsistencia con el requerimiento presupuestal 011258, pues muestra la leyenda de “TRANSFERIDO PARCIALMENTE” y al dar clic para Transferir nuevamente el mismo requerimiento, genera 2 claves presupuestales en negativo.\nAsimismo, se informa que el requerimiento de movimiento de plazas y contratos, aun marca insuficiencia presupuestal, por lo que con el fin de no generar alguna inconsistencia en la información.\nPor lo anterior se requiere nos indiquen si es procedente generar nuevamente la asignación presupuestal y si no existe inconveniente en que el requerimiento presupuestal se quede TRANSFERIDO PARCIALMENTE”.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "25/03/2026 02:20 p. m.",
+      "fechaRegistroVisible": "25 de Mar, 02:20:52 PM",
+      "id": 6280,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día\nGracias por la retroalimentación.\nAl respecto, es necesario comentar que se canceló el requerimiento y se volvió a capturar, con ello se solventó la situación, por tanto se finaliza el incidente.\nSaludos",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-04-22T16:50:04.050Z",
+          "fechaTexto": "22/04/2026 10:50 a. m.",
+          "fechaVisible": "22 de Apr, 10:50:04 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nPara este ticket, se le informo a la Lic. Angelica Báez que se volviera a realizar el proceso, dado que los negativos que mostraba la clave presupuestal no existen, estos se pudieron dar mientras se cargaba el requerimiento presupuestal en negativo para atender otros incidentes reportados, que fueron necesarios unos ajustes de carga de plantilla con presupuesto negativo como parte de la atención, por lo que el saldo al moverse quedo de esa forma, sin embargo, se consulto nuevamente el recurso y no había presencia de negativos",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-04-18T17:59:00.443Z",
+          "fechaTexto": "18/04/2026 11:59 a. m.",
+          "fechaVisible": "18 de Apr, 11:59 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Error al aplicar claves presupuestales",
+      "descripcionDetallada": "Buenas tardes\nLa Dirección de Presupuestos nos reporta lo siguiente en calidad de urgente:\nPara el proceso de cierre del mes de febrero 2026, al ejecutar el proceso de cierre mensual del presupuesto para el momento contable “Por devengar (contratos de nómina)” nos indica que ya no existen claves presupuestales por aplicar, sin embargo al realizar la consulta en el Catálogo de claves presupuestales, se identifican 25 claves al mes de febrero con saldo comprometido no devengado por un monto total de $10,302.61 (adjunto archivo)\n\nAdjunto documento Word con los parámetros utilizados y pantalla de error. Además, el ducumento Excel con claves\n\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "19/03/2026 04:54 p. m.",
+      "fechaRegistroVisible": "19 de Mar, 04:54:53 PM",
+      "id": 6255,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:51:37.897Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:37 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe adjunta plantilla para corregir los saldos, la atención de raíz de este problema se realizó el día jueves por la noche y se adjunta plantilla para corregir la información posterior a dicha actualización, favor de cargar la plantilla en el requerimiento presupuestal y ser transferido a la afectación para realizar lo correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-21T20:55:51.140Z",
+          "fechaTexto": "21/03/2026 02:55 p. m.",
+          "fechaVisible": "21 de Mar, 02:55:51 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Error al querer cobrar el ingreso - en relación clasificador 22",
+      "descripcionDetallada": "La Dirección de Presupuestos reporta que la la Dirección de Ingresos tendrá problemas al realizar el registro del recaudado en la siguiente clave presupuestal, aparentemente según el mensaje de error, no coincide con el clasificador ID 22 Plan General de Desarrollo 2030, la clave ya existe y cuenta con el mismo monto en el modificado y los clasificadores coinciden con lo que quiere afectar la DI.\nLa clave del clasificador es la 99 y si existe el registro.\nSe adjunta documento con el sustento",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "19/03/2026 11:35 a. m.",
+      "fechaRegistroVisible": "19 de Mar, 11:35:57 AM",
+      "id": 6253,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:51:41.297Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:41 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nComparando el historial de clasificadores relacionados al concepto de ingreso, se observa que en 2025 tiene 3 clasificadores relacionados, mientras que en 2026 solo tiene 2, por lo que falta el clasificador que esta mostrando el mensaje, se revisó y una vez que agreguen ese clasificador con el valor de 99, deberán de borrar el detalle del ingreso, volver a capturar el detalle (para que se actualice el dato correctamente) y proceder a cobrar el ingreso.\n\nDe esta manera no presentarán el mensaje que se muestra al cobrar",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-19T23:09:02.607Z",
+          "fechaTexto": "19/03/2026 05:09 p. m.",
+          "fechaVisible": "19 de Mar, 05:09:02 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Nos informan que con la información proporcionada pudieron realizar el cierre presupuestal mensual sin problema Gracias por el apoyo",
+      "descripcionBreve": "Cierre mensual del presupuesto Contable",
+      "descripcionDetallada": "La Dirección de Presupuestos nos reporta lo siguiente:\n\nal ejecutar el proceso de cierre mensual del presupuesto para el momento contable “Por devengar (contratos de nómina)” nos indica que ya no existen claves presupuestales por aplicar, sin embargo al realizar la consulta en el Catálogo de claves presupuestales, se identifican 89 claves al mes de enero con saldo comprometido no devengado por un monto total de $226,034.62\n\nAdjunto documento Excel con las 89 claves, documento con el detalle de lo solicitado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "11/03/2026 12:15 p. m.",
+      "fechaRegistroVisible": "11 de Mar, 12:15:10 PM",
+      "id": 6197,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Nos informan que con la información proporcionada pudieron realizar el cierre presupuestal mensual sin problema\nGracias por el apoyo",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-13T13:57:09.237Z",
+          "fechaTexto": "13/03/2026 07:57 a. m.",
+          "fechaVisible": "13 de Mar, 07:57:09 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nLa atención del problema reportado se encuentra atendido en producción, sin embargo, es necesario se realice un movimiento de comprometido en negativo para terminar de liberar los saldos, para ello, adjunto al ticket les agrego la plantilla realizada por el personal de ingeniería con las claves y montos necesarios para poder llevar a cabo dicho requerimiento, lo que tendrían que realizar, sería un requerimiento presupuestal de tipo comprometido, cargar la plantilla que se encuentra adjunta al ticket, para posteriormente autorizar, transferir a la afectación presupuestal y dicha afectación autorizara, una vez que realicen dicho proceso, podrán volver a ejecutar el cierre mensual y sin problema verán las claves faltantes para poder mover el presupuesto",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-12T16:33:12.687Z",
+          "fechaTexto": "12/03/2026 10:33 a. m.",
+          "fechaVisible": "12 de Mar, 10:33:12 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": "Buenas tardes El usuario ya no presento lentitud, se agradece el apoyo. Saludos.",
+      "descripcionBreve": "caqurioz - Problemas con el proceso de cierre mensual",
+      "descripcionDetallada": "La Dirección de Presupuestos reporta que en el apartado \"Cierre mensual del presupuesto\", al consultar los saldos, se queda bloqueado y no muestra información.\nEsto lo vienen intentando desde la semana pasada.\nSe adjunta correo con el detalle, saludos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "09/03/2026 07:09 p. m.",
+      "fechaRegistroVisible": "9 de Mar, 07:09:07 PM",
+      "id": 6175,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\nEl usuario ya no presento lentitud, se agradece el apoyo.\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-13T00:34:59.843Z",
+          "fechaTexto": "12/03/2026 06:34 p. m.",
+          "fechaVisible": "12 de Mar, 06:34:59 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl día de ayer por la noche, se llevo a cabo la atención de este ticket reportado, para que por favor el área pueda realizar nuevamente el proceso, observando la disminución en el tiempo correspondiente, la atención se llevo a cabo en la noche para no afectar ningún proceso.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-11T19:09:26.210Z",
+          "fechaTexto": "11/03/2026 01:09 p. m.",
+          "fechaVisible": "11 de Mar, 01:09:26 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en la disponibilidad financiera",
+      "descripcionDetallada": "Buenas tardes\nSe detecta inconsistencia en el importe de la disponibilidad financiera para el proyecto 0009900, del fondo 781 y clave programática 21171.\nEn los movimientos de la disponibilidad financiera se ve reflejada una disminución por la cantidad de $706,839.29 (total pre- comprometido).\nEn el reporte de claves presupuestales el importe total (modificado y total pre- comprometido) es por la cantidad de $705,685.32 pesos, lo que genera una diferencia por $1,153.97 que afectan el remanente.\nAl realizar el análisis junto al Departamento de Control Presupuestal del Gasto de la Dirección de Presupuestos, se identificaron los 3 trámites cancelados que se están sumando y causan esta diferencia.\nSe adjunta documento con el correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "04/03/2026 04:40 p. m.",
+      "fechaRegistroVisible": "4 de Mar, 04:40:53 PM",
+      "id": 6148,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes.\nSe agradece la atención brindada.\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-09T23:19:37.427Z",
+          "fechaTexto": "09/03/2026 05:19 p. m.",
+          "fechaVisible": "9 de Mar, 05:19:37 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe informa que la problemática reportada se encuentra atendida en producción, el cual era un problema de actualización de saldo ya que internamente no había problema, este fue atendido por nuestro personal de ingeniería",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-07T01:46:14.460Z",
+          "fechaTexto": "06/03/2026 07:46 p. m.",
+          "fechaVisible": "6 de Mar, 07:46:14 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "[ABAEZ] -Detalle en el despliegue de claves pptales en el proceso de cierre mensual del presupuesto",
+      "descripcionDetallada": "Solicito su apoyo con carácter de urgente para revisar y corregir, la situación que se presenta en el proceso de cierre del 2025, ya que al ejecutarlo para el momento “Por devengar (contratos de nómina)” indica que ya no existen claves presupuestales por aplicar; sin embargo al realizar la consulta en el Catálogo de claves presupuestales y dicho catálogo arroja una clave pendiente, por lo que se requiere el apoyo para la corrección. Se adjuntan pantallas.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "05/02/2026 08:31 p. m.",
+      "fechaRegistroVisible": "5 de Feb, 08:31:38 PM",
+      "id": 5983,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-02-12T18:05:19.837Z",
+          "fechaTexto": "12/02/2026 12:05 p. m.",
+          "fechaVisible": "12 de Feb, 12:05:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "El detalle fue a una validación que se ajusto para Moni, con la intención de que no valide el mes donde esta el recurso si no donde se mandara el recurso, respecto a la actualización masiva, dependerá de que la Universidad Veracruzana libere la versión de calidad para proceder a realizar la actualización correspondiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-02-10T00:18:16.210Z",
+          "fechaTexto": "09/02/2026 06:18 p. m.",
+          "fechaVisible": "9 de Feb, 06:18:16 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tarde\n\nLa Dirección de Presupuestos, nos comenta que fue atendido lo reportado, no obstante, se requiere saber a que se derivo y cuando se realizaría la actualización masiva sobre la nueva versión compartida\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-02-09T22:07:20.470Z",
+          "fechaTexto": "09/02/2026 04:07 p. m.",
+          "fechaVisible": "9 de Feb, 04:07:20 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nComparto link de descarga de cliente para Moni Rivera, el cual le permitirá realizar el cierre de la clave presupuestal pendiente para que pueda actualizarlo por favor \n\nhttps://drive.google.com/file/d/1cm2agKijD4Goludg5uiRC7YoSXXOv7L8/view?usp=sharing",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-09T15:43:33.373Z",
+          "fechaTexto": "09/02/2026 09:43 a. m.",
+          "fechaVisible": "9 de Feb, 09:43:33 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_Proyectos que no aparecen en la disponibilidad financiera",
+      "descripcionDetallada": "Buenas tardes.\nidentificamos 5 Pbr que su creación y autorización inician desde el proceso de Anteproyectos, los cuales cuentan con sus requerimientos correspondientes y aparentemente se transfirieron de manera correcta, lo raro es que no existen en la consulta de PbR 2026, pero si salen en consulta de claves presupuestales, lo que permitió poder realizar ajustes al CRI de Remanente para reconocerles su remanente real, pero al consultar en sistema su disponibilidad financiera, no los arroja la consulta.\n\n \n\nIdentificamos una diferencia en las fechas desde el anteproyecto, por lo que les pedimos el apoyo para poder modificarla internamente.\n \n\nSin embargo, nos causa ruido porque en algunos la fecha es la misma, y al consultar el PBR (proyecto) de igual manera, en algunos la fecha es correcta.\n \n\nEjemplo de un proyecto al consultar la disponibilidad financiera.\n \n\n\n\n\nListado de los anteproyectos con su proyecto:\n     \n Anteproyecto Proyecto\n 0000360 0028695\n 0000508 0028837\n 0000373 0028708\n 0000040 0029310\n 0000209 0029311\n     \nse adjunta archivo word",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "20/01/2026 01:59 p. m.",
+      "fechaRegistroVisible": "20 de Jan, 01:59:48 PM",
+      "id": 5864,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Bueno",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-27T18:16:56.733Z",
+          "fechaTexto": "27/01/2026 12:16 p. m.",
+          "fechaVisible": "27 de Jan, 12:16:56 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-24T16:55:38.743Z",
+          "fechaTexto": "24/01/2026 10:55 a. m.",
+          "fechaVisible": "24 de Jan, 10:55:38 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día, se realizó el cambio de fecha a los proyectos \n\n0028695\n\n0028837\n\n0028708\n\nCon sus respectivos anteproyectos, así mismo informo que los otros dos proyectos restantes no hizo falta cambiarles la fecha, pero si es necesario que los autoricen por favor, ya que no cuentan con la marca de autorizado.\n\nSin más por el momento me despido.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-24T16:22:16.660Z",
+          "fechaTexto": "24/01/2026 10:22 a. m.",
+          "fechaVisible": "24 de Jan, 10:22:16 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche Alan.\n\nUn favor, dado que se solicita un cambio de fecha en los proyectos/anteproyectos, es una solicitud de cambio, por lo cual te pediría por favor, el apoyo para que Angelica Báez nos envíe el correo con la solicitud de apoyo independientemente de que el ticket lo mencione por favor.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-22T02:28:58.150Z",
+          "fechaTexto": "21/01/2026 08:28 p. m.",
+          "fechaVisible": "21 de Jan, 08:28:58 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Proyecto no se visualiza en los movimientos de disponibilidad financiera",
+      "descripcionDetallada": "La Vice Rectoría de la región Orizaba- Córdoba, reporta una situación que se presenta con el PbR 0021237, pues no se está mostrando en el apartado de movimientos de disponibilidad financiero, sin embargo, dicho proyecto está relacionado al clasificador 1410221 relacionado al fondo 131, el cual tiene habilitado el indicador de disponibilidad financiera, además, tiene requerimientos de ingreso con CRI que también dan disponibilidad financiera.\nPor lo anterior, se pide revisar la situación y en su caso corregir, a fin de que se muestre el proyecto.\nSe anexa documento con los datos.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "12/01/2026 02:49 p. m.",
+      "fechaRegistroVisible": "12 de Jan, 02:49:30 PM",
+      "id": 5791,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece el apoyo brindado.,",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-13T20:46:33.300Z",
+          "fechaTexto": "13/01/2026 02:46 p. m.",
+          "fechaVisible": "13 de Jan, 02:46:33 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-13T13:09:21.127Z",
+          "fechaTexto": "13/01/2026 07:09 a. m.",
+          "fechaVisible": "13 de Jan, 07:09:21 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nPueden revisar nuevamente la consulta de proyectos de disponibilidad financiera por favor, ya deberán de ver el proyecto correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-13T01:26:36.050Z",
+          "fechaTexto": "12/01/2026 07:26 p. m.",
+          "fechaVisible": "12 de Jan, 07:26:36 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Claves Presupuestales en negativo",
+      "descripcionDetallada": "La Dirección de Presupuestos, nos reporta que derivado a la validación del cierre mensual de las claves de servicios personales, se identifican 1273 claves que en el mes de noviembre arrojan un saldo Disponible para pre-comprometer en negativo, en consecuencia el saldo del Modificado al mes de noviembre, es menor que el saldo del Comprometido, Devengado y Ejercido es mayor,\nSe adjunta pantalla de parámetros y archivo de Excel con las claves en negativo\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "03/12/2025 12:40 p. m.",
+      "fechaRegistroVisible": "03/12/2025 12:40 p. m.",
+      "id": 5568,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "De acuerdo a la información que proporcionaron en el incidente, se procedió a corregir el requerimiento para solucionar el error del negativo en las claves. Por lo que, se atendió lo reportado.",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "09/12/2025 07:50 a. m.",
+          "fechaVisible": "09/12/2025 07:50 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "03/12/2025 07:16 p. m.",
+          "fechaVisible": "03/12/2025 07:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Angie.\n\nAdjunto documento de Word con la respuesta al incidente que nos compartió el personal de presupuestos",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/12/2025 06:54 p. m.",
+          "fechaVisible": "03/12/2025 06:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - inconsistencia en importe de disponibilidad financiera",
+      "descripcionDetallada": "Buenas tardes\nEl Área Académica de Ciencias Biológicas nos reporta que una cancelación de una afectación presupuestal no liberó el recurso en la disponibilidad financiera.\nSe identifica que para el proyecto 0021241 se tienen los siguientes movimientos de las afectaciones presupuestales 52492 y 57415, las cuales están asociadas a la requisición 36956.\nLa afectación presupuestal 52492 fue cancelada, pero no se liberó en la disponibilidad financiera.\nEn el total disponible en las claves presupuestales se tiene $ 5,025,263.01 pero en la disponibilidad financiera se tiene 5,025,324.66.\nLa diferencia corresponde a los 238.35, correspondientes al importe de la afectación 52492 cancelada.\nSe adjunta documento sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/11/2025 01:37 p. m.",
+      "fechaRegistroVisible": "19/11/2025 01:37 p. m.",
+      "id": 5501,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Se confirma que los importes ya se muestran de manera correcta.",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "24/11/2025 05:10 p. m.",
+          "fechaVisible": "24/11/2025 05:10 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que el ticket se encuentra atendido en ambiente de producción, así como su corrección correspondiente, el problema fue atendido por el personal de ingeniería de manera directa, así mismo se llevo a cabo una revisión completa si había más casos, de los cuales no se identifico algún otro.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/11/2025 06:51 p. m.",
+          "fechaVisible": "20/11/2025 06:51 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error Cambio de fecha de afectación en un requerimiento de personal",
+      "descripcionDetallada": "La Dirección de Presupuestos nos reporta lo siguiente:\n\nAl realizar el cambio de fecha de afectación en un requerimiento de movimiento de personal en el SPRFM_Nómina, no permite realizar la modificación de la fecha y envía un mensaje de error donde hace referencia al mismo número de requerimiento.\n\nRequerimos su apoyo para atender lo anterior y nos indiquen por que se presenta dicho mensaje\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/10/2025 02:25 p. m.",
+      "fechaRegistroVisible": "06/10/2025 02:25 p. m.",
+      "id": 5191,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "El insumo para verificar quedo solucionado\nPor lo que, procedemos a finalizar este incidente\nAgradecemos el apoyo brindado",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "16/10/2025 10:44 a. m.",
+          "fechaVisible": "16/10/2025 10:44 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl incidente se encuentra atendido en el ambiente de producción, se realizo cambio de servidor para atención del problema reportado",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/10/2025 09:40 a. m.",
+          "fechaVisible": "09/10/2025 09:40 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl personal de ingeniería se encuentra revisando el problema a detalle, el día de mañana les brindaré retroalimentación",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "06/10/2025 09:31 p. m.",
+          "fechaVisible": "06/10/2025 09:31 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Duplicidad en Monto Anteproyecto de Presupuesto 2026",
+      "descripcionDetallada": "La Dirección de Presupuestos detectó una inconsistencia en la pantalla de anteproyecto de PbR, pues en la cabecera número 8 de anteproyecto 2026 se está mostrando una diferencia entre el ingreso y el egreso... al ingresar a los anteproyectos detectan que el anteproyecto 000173 es el que presenta la inconsistencia, sin embargo, revisando sus requerimientos, estos están con el importe correcto, por l o tanto se pide la revisión y corrección en calidad de urgente, pues requieren información del cubo de datos y están presentando problemas.\nSe adjunta documento sustento con el detalle",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/09/2025 09:09 a. m.",
+      "fechaRegistroVisible": "19/09/2025 09:09 a. m.",
+      "id": 5084,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 12,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece la retroalimentación, asimismo, se solicita el apoyo correspondiente para el monitoreo, con el fin de identificar oportunamente cualquier posible inconsistencia que pudiera originarse por alguna operación o acción involuntaria, en caso de que ésta provenga del recurso humano.\nSe finaliza el incidente, quedando como antecedente por si se presenta más adelante la situación, asimismo, nos mantenemos al pendiente de alguna retroalimentación del monitoreo que se esté realizando.",
+          "consecutivo": 12,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "06/11/2025 09:27 a. m.",
+          "fechaVisible": "06/11/2025 09:27 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Se derivo a un caso extraordinario el cual involucra temas operativos y del sistema, sin embargo, la información que necesitamos (respaldo de logs de la BD) para identificar una anomalía externa al sistema, no los tiene el personal de la DGTI, por lo que no podemos identificar quien ejecuto un proceso que genero esta anomalía, por lo que no fue un proceso ni un problema del sistema, se derivo a un tercero, por lo que estaremos monitoreando en caso de que volvamos a localizar este tipo de intervención. \n\nSin embargo, realizamos lo correspondiente para que se corrigieran los datos operativos y el problema de los cubos de datos fue derivado a un proceso incompleto de nuestra parte en la corrección de información.",
+          "consecutivo": 11,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/11/2025 10:12 a. m.",
+          "fechaVisible": "04/11/2025 10:12 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa Dirección de Presupuestos terminó de validar los cubos e importes y te confirmo que la información se refleja de manera correcta, sin embargo, es importante saber a que se derivó la situación presentada, si fue por error de operación o alguna inconsistencia del sistema.\n\nNos mantenemos al pendiente de la retroalimentación.",
+          "consecutivo": 10,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "03/11/2025 06:13 p. m.",
+          "fechaVisible": "03/11/2025 06:13 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/10/2025 02:01 p. m.",
+          "fechaVisible": "28/10/2025 02:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe realizo el ajuste por parte del personal de ingeniería para visualizar de forma correcta el monto en el cubo de datos correspondiente.",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/10/2025 01:13 p. m.",
+          "fechaVisible": "20/10/2025 01:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nEn seguimiento a la validación de la información, la Dirección de Presupuestos identificaron que los montos en la cabecera de anteproyectos, la cantidad en el ingreso/egreso era correcta.\n\nNo obstante al generar las claves presupuestales a través del cubo de datos persiste el error \n\nAdjunto pantallas de lo comentado \n\nQuedamos al pendiente de sus comentarios y solicitamos nos apoyen con la atención urgente \n\nSaludos Cordiales",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "20/10/2025 08:57 a. m.",
+          "fechaVisible": "20/10/2025 08:57 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe informa que ya se encuentra atendida la diferencia dentro del anteproyecto",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/10/2025 06:17 p. m.",
+          "fechaVisible": "17/10/2025 06:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Agradecemos la respuesta y quedamos al pendiente de la notificación, esperando que a más tardar el día de mañana quede resuelto, ya que como se ha reiterado en este incidente así como en mensaje via whats (al grupo y al Ing. David Lima), debido al tiempo de respuesta, su atención es urgente.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/10/2025 10:45 a. m.",
+          "fechaVisible": "17/10/2025 10:45 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEntre el día de hoy 17/10/2025 y el día de mañana 18/10/2025 este ticket será entregado en producción, les estaré informando por este medio en cuanto se encuentre en producción para que puedan seguir con el proceso correspondiente.",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "17/10/2025 10:40 a. m.",
+          "fechaVisible": "17/10/2025 10:40 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Agradecemos la retroalimentación, en efecto, el Mtro. Rafael Gómez tuvo un acercamiento, aproximadamente hace 2 semanas con la Lic. Angélica Báez. para comentarle esta solicitud de información, indicándole que lo más probable es que por tema de espacio, no la tuvieran disponible, no obstante, es hasta el día de hoy donde recibimos retroalimentación del incidente, el cual se registró el pasado 19 de septiembre.\n\nCabe mencionar que la atención a esta observación se ha convertido en un urgente ya que se tiene en puerta la transferencia de anteproyectos a proyectos de PbR, por lo que debe quedar resuelta lo más pronto posible.\n\nSeguimos al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/10/2025 10:49 a. m.",
+          "fechaVisible": "09/10/2025 10:49 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nPara la atención de este folio se necesita un respaldo de unos archivos específicos (log de transacciones) de la base de datos productiva, sin embargo, al solicitarlos nos indican que estos no están disponibles por un tema de control interno y espacios, por lo cual estamos viendo de que manera poder solventarlo, ya que estos archivos son esenciales para la atención de este ticket, al no contar con ellos, estamos viendo como poder resolverlo es por ello que estamos tardando en la atención correspondiente.",
+          "consecutivo": 2,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "09/10/2025 10:17 a. m.",
+          "fechaVisible": "09/10/2025 10:17 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería se encuentra analizando la situación para identificar el motivo por el que se genera esta duplicidad, estaré informando en cuanto culminen, ya que la búsqueda se centra a nivel de BD y no dentro del cliente",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "19/09/2025 01:47 p. m.",
+          "fechaVisible": "19/09/2025 01:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al tratar de deshacer la transferencia de 34 plazas",
+      "descripcionDetallada": "La Dirección de Presupuestos reporta que un error que se está presentando al intentar deshacer la transferencia de 34 plazas en SIRE nóminas , están con el proceso para el presupuesto 2026.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "02/09/2025 02:04 p. m.",
+      "fechaRegistroVisible": "02/09/2025 02:04 p. m.",
+      "id": 4974,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 5,
+      "seguimiento": [
+        {
+          "comentario": "Nos indica la Dirección de Presupuestos que ya no es posible confirmar si se solventó de raíz lo reportado, confirman que es viable finalizar el incidente y en caso de que se presente nuevamente el error, se tomaría este caso como referencia.",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/09/2025 10:58 a. m.",
+          "fechaVisible": "19/09/2025 10:58 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 06:16 p. m.",
+          "fechaVisible": "05/09/2025 06:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema se derivo a una relación de costos por plaza y los detalles del requerimiento presupuestal, este problema fue solventado por personal de ingeniería al momento que se presento el problema y posteriormente en el sistema",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 05:57 p. m.",
+          "fechaVisible": "05/09/2025 05:57 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Agradecemos el apoyo y quedamos al pendiente de su retroalimentación, a fin de saber el motivo que originó esta situación.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/09/2025 03:15 p. m.",
+          "fechaVisible": "05/09/2025 03:15 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema fue atendido por Josué Andrade el día de ayer, sin embargo, en cuanto me indique a que se derivo el problema les brindo la retro por este medio para que tengan el motivo que origino el mensaje correspondiente",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "03/09/2025 12:54 p. m.",
+          "fechaVisible": "03/09/2025 12:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - deshabilitar reglas y subreglas del techo presupuestal con cabecera 197",
+      "descripcionDetallada": "Buenas tardes\nComo parte de a las actividades de Integración del Proyecto de Presupuesto 2026, se requiere el apoyo para la des-habilitación de las reglas y subreglas de los techos presupuestales 2026 con cabecera 197 para poder continuar con la autorización de los requerimientos presupuestales de servicios personales.\nEste requerimiento se ha solicitado ya anteriormente, por ejemplo, para el 2024 en el incidente 36710 y para el 2025 en el incidente 39257.\nSe adjunta correo petición del área y se enviará correo de solicitud de apoyo.\nGracias.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/08/2025 04:24 p. m.",
+      "fechaRegistroVisible": "19/08/2025 04:24 p. m.",
+      "id": 4900,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido lo solicitado en este incidente.\nGracias por el apoyo, cualquier otra situación que se identifique, se abriría otro incidente.",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 10:49 a. m.",
+          "fechaVisible": "27/11/2025 10:49 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "01/09/2025 12:45 p. m.",
+          "fechaVisible": "01/09/2025 12:45 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "De acuerdo",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/08/2025 01:19 p. m.",
+          "fechaVisible": "29/08/2025 01:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nOk, gracias, se procederá a revisar\n\nCualquier observación que surja se les retroalimentará\n\nSaludos Cordiales",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "29/08/2025 09:59 a. m.",
+          "fechaVisible": "29/08/2025 09:59 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "28/08/2025 11:49 p. m.",
+          "fechaVisible": "28/08/2025 11:49 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nYa se encuentra atendida la solicitud de apoyo en producción",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/08/2025 11:46 p. m.",
+          "fechaVisible": "28/08/2025 11:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error al transferir requerimiento presupuestal (SPRFM nominas)",
+      "descripcionDetallada": "Buenas tardes\n\nLa Dirección de Presupuestos, nos reporta un mensaje de error que se presenta al darle clic en el botón Transferir del requerimiento presupuestal 223638 en el SPRF_Nómina\n\nAdjunto pantalla de error\n\nAdemás, les comentamos que esto ya se había presentado con anterioridad, por ejemplo el incidente 34366\n\nPor lo que, se solicita que sea atendido de raíz\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "18/08/2025 01:25 p. m.",
+      "fechaRegistroVisible": "18/08/2025 01:25 p. m.",
+      "id": 4890,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "18/08/2025 09:27 p. m.",
+          "fechaVisible": "18/08/2025 09:27 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe realizó la atención de lo reportado por parte de Josué Andrade, el problema radico con la elaboración del requerimiento 018448 del 2025 el cual pareciera que fue por cierre presupuestal, sin embargo, no fue un cierre desde el módulo si no manual, esto ocasiono un descuadre en el presupuesto por plaza y contrato, no porque estuvieran los montos incorrectos si no por la acción de realizarlo manual y no desde el módulo. Sin embargo, se realizó el ajuste correspondiente y no se presentará mas adelante ya que Josué cuido que si se vuelve hacer manual no afecte de esta manera.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/08/2025 09:22 p. m.",
+          "fechaVisible": "18/08/2025 09:22 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Error al registrar requerimiento",
+      "descripcionDetallada": "Buenas tardes,\nNos reportan que al intentar generar un requerimiento presupuestal, este marco un mensaje de error.\nAdjunto documento Word con detalle de lo reportado y del mensaje\nQuedamos al pendiente del porque se presento dicho mensaje\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "07/07/2025 12:46 p. m.",
+      "fechaRegistroVisible": "07/07/2025 12:46 p. m.",
+      "id": 4612,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo solicitado",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "08/07/2025 10:44 a. m.",
+          "fechaVisible": "08/07/2025 10:44 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenos días\n\nEn seguimiento a la respuesta que nos brindan, les comento que el usuario intento nuevamente la operación y logro realizar su requerimiento y guardado del mismo\n\nEste incidente se quedara como antecedente en caso de que se presente una situación similar \n\nSaludos Cordiales",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/07/2025 10:41 a. m.",
+          "fechaVisible": "08/07/2025 10:41 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEnterado, quedo al pendiente, muchas gracias por el apoyo en la revisión con el usuario",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/07/2025 10:01 a. m.",
+          "fechaVisible": "08/07/2025 10:01 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nTe comento que nos encontramos realizando la revisión con el usuario, en cuanto tengamos más elementos, estaremos retroalimentando o en su caso finalizando el incidente.\n\nRecibe saludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/07/2025 07:21 p. m.",
+          "fechaVisible": "07/07/2025 07:21 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/07/2025 07:18 p. m.",
+          "fechaVisible": "07/07/2025 07:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPara este incidente necesito el apoyo del personal de la USIIU para poder investigar un poco más a detalle o agregarme el detalle (Pudiera ser que revisaron lo reportado por el área de presupuestos y no agregaron el resultado de su revisión o consulta con la dirección), el apoyo es el siguiente: en el archivo que se llama Erro al intentar guardar viene la imagen de que no deja guardar el requerimiento, pero tiene la clave Cve de requerimiento 001660, sin embargo, quisiera saber si ese es el requerimiento que estaban guardando, o ya existía y le hicieron alguna modificación, así mismo, en el documento adjunto con nombre Mensaje de error requerimiento, se observa otro mensaje que ya tiene el requerimiento relacionado 1633, sin embargo, la imagen que nos ponen de 224,017.85 es el requerimiento 001660 de tipo ingreso que si se genero y cuenta con estatus Reabierto por la URC, los mensajes que nos muestran por lo que entendemos que si se registro el requerimiento, sería derivado al tema de concurrencia que hubo en producción, varias operaciones se quedaron detenidas o tardaban en registrarse dado que se estaba ocupando el ancho de banda al 100% por un movimiento de archivo pesado por el equipo del Mtro. Rafa, sin embargo, necesito el apoyo de la USIIU para validar que los requerimientos si estén dados de alta, o que nos indiquen si los estaban modificando por favor o en su defecto si si se registraron es derivado a lo que comento del tema de concurrencia que afecto a todo el sistema e incluso se presentaba cierta lentitud.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/07/2025 05:44 p. m.",
+          "fechaVisible": "07/07/2025 05:44 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al eliminar requerimiento",
+      "descripcionDetallada": "Se reporta que al intentar eliminar el requerimiento presupuestal 018849 el sistema manda un mensaje de error en relación al valor de una variable.",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "07/07/2025 10:05 a. m.",
+      "fechaRegistroVisible": "07/07/2025 10:05 a. m.",
+      "id": 4608,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 8,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 8,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 09:38 a. m.",
+          "fechaVisible": "04/08/2025 09:38 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe informa que la actualización de producción no se pudo realizar durante el periodo de vacaciones, dado que no fue liberada la versión de calidad por el personal de las áreas, este tema fue derivado a procesos de nómina y periodo vacacional, la actualización de producción se estuvo tratando con Angelica Báez, por lo cual espero indicación para poder actualizar productivo y cumplir con lo que se había solicitado, sin embargo, esta en curso el periodo de inscripción, por lo cual sería probable que se actualice posterior a esta actividad, sin embargo, será decisión del Mtro. Rafa y personal de la USIIU.\n\nAunado a esto, la corrección se encuentra en producción, solo quedo pendiente lo ya indicado respecto a la actualización general que nos habían solicitado, sin embargo, esto no afecta a la corrección.",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 09:34 a. m.",
+          "fechaVisible": "04/08/2025 09:34 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\n\n\nSe espera llevar a cabo la actualización de producción en estos días de vacaciones para el personal de UV, sin embargo, la actualización será en general, atendiendo la petición de que todo el personal de UV tenga la misma versión de ejecutable, por lo cual, espero la indicación del Mtro. Rafa y Angelica Báez para poder realizar la actualización e informar cuando se encuentre lista dicha actualización",
+          "consecutivo": 6,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "15/07/2025 09:24 a. m.",
+          "fechaVisible": "15/07/2025 09:24 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nSe espera llevar a cabo la actualización de producción en estos días de vacaciones para el personal de UV, sin embargo, la actualización será en general, atendiendo la petición de que todo el personal de UV tenga la misma versión de ejecutable, por lo cual, espero la indicación del Mtro. Rafa y Angelica Báez para poder realizar la actualización e informar cuando se encuentre lista dicha actualización",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/07/2025 09:22 a. m.",
+          "fechaVisible": "15/07/2025 09:22 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra la atención de esta problemática, necesitamos realizar una actualización de los servidores de producción, sin embargo, por temas de la nómina que se están ejecutando no se ha podido realizar, consultare con el personal de UV para saber cuando puedo realizar dicho ajuste y lo informo por este medio",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "09/07/2025 12:58 p. m.",
+          "fechaVisible": "09/07/2025 12:58 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Gracias por la retroalimentación, el personal de ingeniería se encuentra atendiendo esta problematica",
+          "consecutivo": 3,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "07/07/2025 07:07 p. m.",
+          "fechaVisible": "07/07/2025 07:07 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a lo indicado, se instaló la versión indicada, sin embargo, se sigue presentando el error (se adjunta documento).\nSe compartió el número anydesk del equipo del usuario donde se detonó el error.\n\nSaludos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/07/2025 04:59 p. m.",
+          "fechaVisible": "07/07/2025 04:59 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe compartió a los compañeros de la USIIU el ultimo ejecutable del cliente para compartírselo al usuario y que este pueda realizar de nuevo el proceso de borrado de la operación con este ejecutable, con la finalidad de que nos indiquen si se presenta de nuevo el mensaje por favor, dado que se realizo en un ambiente de pruebas de nosotros el ejercicio y no se presento el mensaje, me comentan los compañeros de ingeniería que puede ser un ejecutable viejito que tenga el usuario, sin embargo, para estar seguros y de lo contrario atenderlo, me podrán apoyar a que el usuario realice el proceso con el ejecutable reciente por favor.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "07/07/2025 12:37 p. m.",
+          "fechaVisible": "07/07/2025 12:37 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - No se visualiza la clave auxiliar de la UR 0312",
+      "descripcionDetallada": "Se adjunta sustento donde se reporta que la UR 0312 no muestra la clave auxiliar del clasificador administrativo al que está asociado, sin embargo, este clasificador si tiene la clave auxiliar configurada.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "25/06/2025 10:28 a. m.",
+      "fechaRegistroVisible": "25/06/2025 10:28 a. m.",
+      "id": 4537,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo solicitado, de forma rápida y de acuerdo a lo indicado",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "26/06/2025 12:39 p. m.",
+          "fechaVisible": "26/06/2025 12:39 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes\n\nDe acuerdo a lo comentado en este incidente nos queda clara la funcionalidad del catálogo en relación al despliegue de la clave auxiliar, compartiremos esta información con el área quien tiene la gobernanza del catálogo, a fin de que, valore la pertinencia del cambio y una vez autorizado por la alta dirección, sea enviado a ustedes, mientras tanto, se da por finalizado el incidente.\n\nSaludos",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "26/06/2025 12:38 p. m.",
+          "fechaVisible": "26/06/2025 12:38 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nAnteriormente se había solicitado en un ticket diferente el apoyo para agregar la clave auxiliar, por ello es que se visualiza, sin embargo, no es algo que realice de manera automática a plataforma y como se comento en el turno anterior, las claves auxiliares solo se utilizarían en la transición del sistema anterior hacia SIRE, esto se indico con los directores de las áreas en su momento, entendemos han habido cambios, sin embargo, esto se dejo claro, por lo cual de ser necesario que sea editable el campo de auxiliar en las áreas físicas es necesaria la solicitud de cambio, ya que la clave auxiliar no es necesaria para interconexiones o búsquedas dentro del sistema, así mismo SIRE genera un consecutivo por el cual se pueden buscar dentro del sistema aparte de por el nombre.\n\nPor lo cual reitero que en caso de que vean necesario que en el catálogo de U.Resp el campo de auxiliar pueda ser modificado, deberá de ser solicitud de cambio, indicando en que proceso lo necesita, reiterando que las interconexiones y dentro del sistema este valor no es utilizado, ya que referencian al número que asigna SIRE a la U.Resp o el administrativo.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 08:31 p. m.",
+          "fechaVisible": "25/06/2025 08:31 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Agradecemos la retroalimentación proporcionada y coincidimos en que el campo de clave auxiliar surgió como una necesidad durante el proceso de migración de información del sistema anterior al actual. Su propósito fue facilitar la localización de datos mientras nos adaptábamos a la nueva herramienta tecnológica, no obstante, derivado de su retroalimentación, surgen las siguientes dudas:\n\n1. ¿Por qué el sistema permitió registrar la clave auxiliar en el clasificador administrativo 21114111712216, al cual está relacionado la clave de UR 0312 ?\n\n2. ¿Por qué específicamente en esta Unidad Responsable (clave 0312) no se despliega el dato auxiliar? Según nuestro entendimiento, dicha clave debería visualizarse con base en la información registrada en el clasificador administrativo.\n\nCabe señalar que recientemente se crearon tres dependencias con claves 0310, 0311 y 0312; sin embargo, únicamente en esta última (0312) no se muestra la clave auxiliar en el clasificador administrativo dentro del catálogo de UR. Asimismo, por parte de la UV no se ha solicitado ningún ajuste en la funcionalidad de este campo, el cual ha estado operando desde el inicio de SIRE. Por lo tanto, no comprendemos por qué ahora, para utilizarlo o conservarlo, se requiere gestionar una solicitud de cambio, lo cual consideramos improcedente.\n\n\nTambién, si el campo de auxiliar existe en el catálogo, debe tener una funcionalidad en relación al clasificador administrativo relacionado, por lo tanto, debe desplegar la información.\n\nQuedamos al pendiente.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 07:59 p. m.",
+          "fechaVisible": "25/06/2025 07:59 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 06:15 p. m.",
+          "fechaVisible": "25/06/2025 06:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nDerivado de la revisión realizada en conjunto con David Lima respecto al incidente reportado mediante el ticket correspondiente, se determinó que la situación no corresponde a una falla de la plataforma. Ello en virtud de que, desde el inicio, se estableció que los auxiliares únicamente serían utilizados de manera temporal durante el periodo de transición del sistema anterior; en tanto que, en el sistema SIRE, los registros de nueva creación prescinden de dicha figura.\n\nCabe señalar que, para fines de búsqueda, el sistema SIRE genera un número consecutivo que cumple con dicha función, eliminando la necesidad de incorporar auxiliares como referencia adicional.\n\nNo obstante, en caso de que se considere indispensable mantener el uso del campo auxiliar, pese al conocimiento previo, será necesario gestionar una solicitud de cambio.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "25/06/2025 05:53 p. m.",
+          "fechaVisible": "25/06/2025 05:53 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Claves con saldo comprometido no devengado",
+      "descripcionDetallada": "Buenas tardes, La Dirección de Presupuestos nos reporta lo siguiente:\nse identificaron 21 claves al mes de mayo con saldo comprometido no devengado por un monto total de $40,433.28 (adjunto archivo), dicho mes ya se encuentra cerrado contablemente; sin embargo, no permite ejecutar el proceso con otro mes para descomprometer el saldo, por lo anterior, se solicita se pueda liberar el recurso en la ejecución del proceso del cierre presupuestal de junio.\n\nAdjunto documento Excel con las claves mencionadas y le comento que esto ya se ha presentado en el incidente 4094 en donde se le dio continuidad a lo reportado en el 42460\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "23/06/2025 12:49 p. m.",
+      "fechaRegistroVisible": "23/06/2025 12:49 p. m.",
+      "id": 4527,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Se da por atendido, saludos.",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/07/2025 01:35 p. m.",
+          "fechaVisible": "04/07/2025 01:35 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 01:32 p. m.",
+          "fechaVisible": "24/06/2025 01:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde\n\nAdjunto sustento de Word con el análisis de lo en el ticket correspondiente",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "24/06/2025 01:13 p. m.",
+          "fechaVisible": "24/06/2025 01:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Modificación Reportes Estados Analíticos Presupuestal del Egreso",
+      "descripcionDetallada": "Buenos días,\nA solicitud de la Dirección de Presupuestos, se solicita la modificación de la Etiqueta \"Total de Gasto\" por \"Total del Egreso\", tal como se define en la documentación emitida por el CONAC.\nAdjunto sustento de lo solicitado\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "19/06/2025 10:58 a. m.",
+      "fechaRegistroVisible": "19/06/2025 10:58 a. m.",
+      "id": 4512,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo solicitado de forma rápida y en forma",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "20/06/2025 10:14 a. m.",
+          "fechaVisible": "20/06/2025 10:14 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/06/2025 05:17 p. m.",
+          "fechaVisible": "19/06/2025 05:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nYa se encuentra realizada la modificación de la etiqueta indicada en el ticket, para la valoración del personal de presupuestos",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/06/2025 05:16 p. m.",
+          "fechaVisible": "19/06/2025 05:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error en transferencia de renovación de contratos",
+      "descripcionDetallada": "El Departamento de Plazas reporta que se detona un error al realizar una transferencia de renovación de contratos.\nSe adjunta correo sustento.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "16/06/2025 07:37 p. m.",
+      "fechaRegistroVisible": "16/06/2025 07:37 p. m.",
+      "id": 4494,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "Fueron atendidos los casos reportados de forma rápida y de acuerdo a lo solicitado",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/06/2025 09:28 a. m.",
+          "fechaVisible": "19/06/2025 09:28 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 12:01 p. m.",
+          "fechaVisible": "18/06/2025 12:01 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde, así es, así mismo el ajuste se encuentra realizado en producción con el cambio derivado el día de ayer por la noche con el cambio de servidor",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 11:59 a. m.",
+          "fechaVisible": "18/06/2025 11:59 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\n\nTras lo atendido el día de ayer, se detectaron otros dos casos, los cuales fueron reportados de manera telefónica.\nPor lo tanto, se requiere que la situación sea atendida desde la corrección del funcionamiento, no solo los casos reportados, ya que de esta manera se evitará se presenten inconsistencias.\n\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:20 p. m.",
+          "fechaVisible": "17/06/2025 12:20 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:13 p. m.",
+          "fechaVisible": "17/06/2025 12:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl día de ayer quedo atendido esta problemática, se le fue informando a Angelica Báez de manera directa a su número personal, para que pudieran avanzar en el proceso nominal correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:04 p. m.",
+          "fechaVisible": "17/06/2025 12:04 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "fesantos-Inconsistencia Proceso-Proyecto",
+      "descripcionDetallada": "Buenos días,\nLa Dirección de presupuestos nos reporta lo siguiente:\n\nEn pantallas adjuntas en correo Word, se muestran pantallas con inconsistencia en el Proceso-Proyecto 1627822901E00101, el cual a pesar de tener un requerimiento de Ingreso afectando el CRI 7891112 Remanente de Ej. Anteriores Ingresos Propios, no refleja en la Disp. Financiera el monto por 547,272.88.\n\nComo lo menciono, adjunto documento Word\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "29/05/2025 10:41 a. m.",
+      "fechaRegistroVisible": "29/05/2025 10:41 a. m.",
+      "id": 4412,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 2,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo reportado de acuerdo a lo solicitado",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "03/06/2025 01:49 p. m.",
+          "fechaVisible": "03/06/2025 01:49 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAdjunto documento con la respuesta a este ticket",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/06/2025 05:05 p. m.",
+          "fechaVisible": "02/06/2025 05:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - Plantilla del Catálogo de U. Resp. - Urgente",
+      "descripcionDetallada": "Buenas tardes\nSe requiere nos proporcionen la Plantilla del Catálogo de U.Resp. en virtud de que se agregaron claves de UR y el número consecutivo tiene letras, debió ser los números 310 y 311 pero generó el 30A y 30B.\nEs urgente crear los registros ya que las dependencias requieren realizar sus proyectos.\nSe adjunta imagen con los registros creados",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/05/2025 07:57 p. m.",
+      "fechaRegistroVisible": "13/05/2025 07:57 p. m.",
+      "id": 4304,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 9,
+      "seguimiento": [
+        {
+          "comentario": "Fue atendido lo solicitado de acuerdo a lo reportado",
+          "consecutivo": 9,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 04:30 p. m.",
+          "fechaVisible": "19/05/2025 04:30 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Ya se visualiza la Clave auxiliar en la R´S de reciente creación, por lo que se da por atendido el tema. \n\nLes agradecemos como siempre el apoyo",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 04:28 p. m.",
+          "fechaVisible": "19/05/2025 04:28 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 02:54 p. m.",
+          "fechaVisible": "19/05/2025 02:54 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde. pudieran verificar nuevamente por favor ambos registros, de preferencia si pueden abrir y cerrar el catálogo para que observen la actualización de información correspondiente, ya que estaba en espera el proceso de actualización de dicho dato.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 02:50 p. m.",
+          "fechaVisible": "19/05/2025 02:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\nTras lo sugerido por el Ing. Josué, vía chat, se desmarcó el parámetro (en la utilería de 3 capas) para que se pueda capturar directamente la clave de la U.Resp. a agregar y los usuarios ya pudieron realizarlo, sin embargo, se observa que no se está mostrando el código auxiliar, el cual si está configurado en el clasificador administrativo.\nSe adjunta documento sustento, las UR´s son la 0310 y 0311.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 02:02 p. m.",
+          "fechaVisible": "19/05/2025 02:02 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nLa plantilla de migración para los clasificadores ustedes ya la tienen, es la plantilla con la que se migra por ejemplo el proceso/proyecto o el PGD, en este caso, les adjunto la plantilla del PGD de este año que se utilizo para otro ejercicio y solo es ajustar a la información del Administrativo, es decir, nombres, clave del clasificador, si es detalle o no, el código de clasificación, la plantilla es la misma para todos los clasificadores, solo cambia el ID del clasificador, nombre, código de clasificación que es de acuerdo al tamaño de cada clasificador",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 02:20 p. m.",
+          "fechaVisible": "16/05/2025 02:20 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nConfirmo de enterada, sin embargo, hacemos no omitimos mencionar que la funcionalidad de considerar una letra posterior al 9 no es una buena práctica en los sistemas, pues lo ideal es que esto se contemple cuando ya no existan más dígitos, en este caso se llegue al 999 se inicie con 00A.... además, que en otras operaciones se considera la clave de UR como númerica y al estar alfanumérica pueda causar inconsistencias. También, si existe la opción de insertar y realizar los registros de manera manual, por esta inconsistencia en los dígitos, nos impide aminorar el tiempo, pues se depende de la carga de la plantilla y su elaboración, así como que para todo sea plantilla en lugar de poder realizarlo directamente en el sistema.\n\nDe acuerdo a lo que nos indican, se tiene la necesidad de que nos compartan la plantilla del clasificador administrativo, para poder realizar lo que corresponda a fin de que el consecutivo sea numérico.\n\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/05/2025 01:33 p. m.",
+          "fechaVisible": "16/05/2025 01:33 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "15/05/2025 11:29 p. m.",
+          "fechaVisible": "15/05/2025 11:29 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe reviso con el personal de ingeniería lo indicado y a continuación les informo lo correspondiente.\n\nLa plantilla para migrar las áreas físicas como tal no existe, esto se realiza a partir de la migración del administrativo, cuando se carga la plantilla se indica que se generen las U.Resp de los datos que son detalles.\n\nUna vez aclarado esto, se reviso con el personal de ingeniería y me comenta que es correcto que se muestre la letra A en los registros, esto debido a que la longitud de los campos al indicar que sobre pasa el valor de 9 asigna una letra, esto solo ocurre cuando es directo desde el sistema , mientras que por migración la asignación en automático la omite y carga los registros de acuerdo al barrido de lo indicado, generando de 1 a N, es así como se encuentra estructurado el catálogo.\n\nPor lo cual una vez revisado con el personal de ingeniería, me indican que no impactará en la operatividad del sistema esa letra, por lo cual pueden continuar sin problema.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/05/2025 11:13 p. m.",
+          "fechaVisible": "15/05/2025 11:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "CAQUIROZ - Solicitud de apoyo cabecera anteproyecto 2026 - versión 2",
+      "descripcionDetallada": "A petición de la Dirección de Presupuestos, y de la DPI se requiere el apoyo para que en los anteproyectos, se ajusten las claves de los techos presupuestales de la cabecera de la versión de PbR 000002 del ejercicio 2026.\nPara el Techo Presupuestal Egreso deberá asignarse la clave 187 y para el Techo Presupuestal Ingreso se debe asignar la clave 186.\nLo anterior se requiere en virtud de que por error involuntario se asignaron de manera invertida y al querer finalizar la captura de los requerimientos el sistema no lo permite, muestra un mensaje indicando que no corresponde con el tipo de clave presupuestaria (se adjunta imagen con mensaje de error).",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "13/05/2025 01:24 p. m.",
+      "fechaRegistroVisible": "13/05/2025 01:24 p. m.",
+      "id": 4294,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "Agradecemos el apoyo brindado, ya se pudo continuar con la operación",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "19/05/2025 10:30 a. m.",
+          "fechaVisible": "19/05/2025 10:30 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "15/05/2025 11:12 p. m.",
+          "fechaVisible": "15/05/2025 11:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nLa atención de la solicitud se encuentra atendida en el ambiente de producción, realizando el cambio de techos presupuestales para la cabecera de anteproyecto correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "15/05/2025 11:11 p. m.",
+          "fechaVisible": "15/05/2025 11:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error en Reporte de Endeudamiento Neto",
+      "descripcionDetallada": "Buenas tardes\n\nLa Dirección de Presupuestos nos reporta lo siguiente:\nEl reporte “Endeudamiento Neto” está desplegando de manera incorrecta una fila con importes en cero. Por lo anterior solicito tu apoyo para corregirlo. Cabe mencionar que anteriormente se generaba correctamente (en documento Word se visualiza lo presentado en el 4to informe trimestral generado en el mes de enero de 2025).\n\nAdjunto documento Word con pantallas y parámetros con el que se genero el reporte\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/05/2025 02:51 p. m.",
+      "fechaRegistroVisible": "08/05/2025 02:51 p. m.",
+      "id": 4260,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 3,
+      "seguimiento": [
+        {
+          "comentario": "A la fecha esta situación quedo solventada, en caso de presentarse nuevamente, se registrará un nuevo incidente",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 05:47 p. m.",
+          "fechaVisible": "05/08/2025 05:47 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "09/05/2025 09:13 p. m.",
+          "fechaVisible": "09/05/2025 09:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe encuentra atendido el problema reportado con el reporte dentro del ambiente de producción para que puedan volver a ejecutarlo",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:40 p. m.",
+          "fechaVisible": "08/05/2025 10:40 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "caquiroz - error al cargar plantilla de techos presupuestales - urgente",
+      "descripcionDetallada": "Se solicita su apoyo para revisar la plantilla de techos presupuestales adjunta al presente, ya que se ha intentado cargar varias veces y muestra el mensaje de error: \"Error al realizar la carga de límites presupuestales 197, Error al realizar la carga de calendarización de límites presupuestales, no se han distribuido correctamente los importes\"\nEs importante mencionar que ya se revisó el formato de cada celda, también se comparó con la plantilla cargada para el ejercicio 2025 y cuenta con la misma estructura y llenado.\nPor lo anterior, requerimos que nos indiquen a qué deriva el error.\nSe adjunta plantilla (se intentó cargar con ID y sin ID (columna A) y muestra el mismo mensaje de error.",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "08/05/2025 02:16 p. m.",
+      "fechaRegistroVisible": "08/05/2025 02:16 p. m.",
+      "id": 4258,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "Se agradece el apoyo brindado.",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 05:45 p. m.",
+          "fechaVisible": "05/08/2025 05:45 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "09/05/2025 09:18 p. m.",
+          "fechaVisible": "09/05/2025 09:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nRevisando la plantilla que nos comentan, se observa que existe una diferencia en los montos, la diferencia radica en la fila 2818 del Excel, en la columna P se observa el monto 347,745.63, mientras que en la columna J y K tiene el monto 347,745.61, se recomienda validar los montos para localizar alguna otra inconsistencia o realizar la suma de las columnas para validar que los montos totales sean iguales en las columnas que contemplen montos.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/05/2025 09:13 p. m.",
+          "fechaVisible": "09/05/2025 09:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEstamos revisando lo reportado en conjunto con el personal de ingeniería para dar atención al problema presentado",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:41 p. m.",
+          "fechaVisible": "08/05/2025 10:41 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Error auxiliar mayor presupuestal",
+      "descripcionDetallada": "Buenas tardes, La Dirección de Presupuestos nos reporta lo siguiente:\nPor la presente te informo que derivado de un requerimiento de la Contraloría General para la “Auditoria de cumplimiento y legalidad al proceso de planeación, programación, presupuestación, contratación y ejecución de las adquisiciones de bienes y servicios afectadas por la Dirección de Recursos Materiales del periodo 2024”, necesitamos generar los registros de las transferencias presupuestarias del primer trimestre del ejercicio 2024. Al intentar generar la información través del Auxiliar Presupuestal, el sistema nos genera errores e inconsistencias.\n\nAdjunto documento Word con mayor detalle\n\nAdemás cabe mencionar que el área, descargó la versión actualizada del cliente y verificó nuevamente el auxiliar, sin embargo, obtuvo los mismos resultados, por lo que se solicita el apoyo urgente en virtud a que se debe entregar a información a la Contraloría General.\n\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/05/2025 02:59 p. m.",
+      "fechaRegistroVisible": "06/05/2025 02:59 p. m.",
+      "id": 4242,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 7,
+      "seguimiento": [
+        {
+          "comentario": "La atención fue buena , rápida y de acuerdo a lo reportado se nos brindo una solución",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "14/05/2025 10:03 a. m.",
+          "fechaVisible": "14/05/2025 10:03 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "09/05/2025 09:13 p. m.",
+          "fechaVisible": "09/05/2025 09:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe realizó la entrega de la mejora en el ambiente de producción, la mejora fue atendida por el personal de ingeniería",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/05/2025 09:11 p. m.",
+          "fechaVisible": "09/05/2025 09:11 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl personal de ingeniería se encuentra atendiendo la problemática por lo que el día de mañana estaremos entregando la atención a lo reportado.",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:33 p. m.",
+          "fechaVisible": "08/05/2025 10:33 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nEn seguimiento a la respuesta proporcionada, la dirección de presupuestos nos comenta lo siguiente:\n\nSe procedió a actualizar el ejecutable y realice la consulta del Auxiliar de Mayor Presupuestal, genere la consulta del mes de enero y sigue sin arrojarme información, de igual forma lo realice con el mes de febrero y me arroja únicamente algunos datos, en el mes de marzo tampoco arroja información.\n\nPor parte de la USII, se descargo el ejecutable y se realizaron las pruebas y nos arrojo el mismo resultado \n\nAdjunto documento Word con los resultados obtenidos\n\nQuedamos al pendiente \n\nSaludos Cordiales",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "08/05/2025 10:49 a. m.",
+          "fechaVisible": "08/05/2025 10:49 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 05:33 p. m.",
+          "fechaVisible": "07/05/2025 05:33 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería realizó la atención de la problemática reportada dentro del ticket, para ello se realizó el día de hoy la actualización de los servidores productivo como parte de la atención a dicho ticket.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 05:32 p. m.",
+          "fechaVisible": "07/05/2025 05:32 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Contrato activos No finalizados",
+      "descripcionDetallada": "Buenos días, la Dirección de Presupuestos nos reporta lo siguiente:\n\nse identifican contratos activos que debieron inactivarse en el proceso de Finalización de contratos; lo anterior identifico que se origina por que no está registrando la fecha final del contrato para algunos movimientos, aun cuando en el requerimiento sí se envió la información, por lo que actualmente existen más de 350 contratos activos.\nAdjunto Word con casos identificados\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "06/05/2025 07:54 a. m.",
+      "fechaRegistroVisible": "06/05/2025 07:54 a. m.",
+      "id": 4235,
+      "posesion": "Cliente",
+      "prioridad": "Critica",
+      "totalSeguimientos": 4,
+      "seguimiento": [
+        {
+          "comentario": "El área revisó la información de contratos y consideraron que es correcta por lo que consideran procedente la finalización del incidente 4235",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 11:48 a. m.",
+          "fechaVisible": "04/08/2025 11:48 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 05:34 p. m.",
+          "fechaVisible": "07/05/2025 05:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl personal de ingeniería realizó la atención de este ticket, por lo cual durante la mañana del día de hoy se llevó a cabo la actualización de servidor como parte de dicha atención.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 05:30 p. m.",
+          "fechaVisible": "07/05/2025 05:30 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día.\n\nEl problema reportado fue informado al personal de ingeniería para que realice la revisión correspondiente y se les brinde la atención a dicha problemática",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "06/05/2025 10:25 a. m.",
+          "fechaVisible": "06/05/2025 10:25 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Movimientos máximos 99999 - Catálogo de claves presupuestales",
+      "descripcionDetallada": "Se levanta este incidente para continuar con la atención del incidente 41427, el cual sigue con estatus de pendiente y se registro el 20/01/2025. A continuación se describe lo que se reporto en su momento:\nEl día 14 de enero se observó que en el catálogo de claves presupuestales se mantiene habilitado el campo del No. Máx de Mov permite capturar aún no teniendo la seguridad asignada.\n\nSe adjunta imagen sustento, Nos mantenemos al pendiente de la atención.\n\nAdjunto imagen mencionada y quedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "30/04/2025 04:57 p. m.",
+      "fechaRegistroVisible": "30/04/2025 04:57 p. m.",
+      "id": 4213,
+      "posesion": "SIRE",
+      "prioridad": "Alta",
+      "totalSeguimientos": 10,
+      "seguimiento": [
+        {
+          "comentario": "Se atendió lo solicitado",
+          "consecutivo": 10,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "04/07/2025 04:23 p. m.",
+          "fechaVisible": "04/07/2025 04:23 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe visualiza que en el ambiente productivo ya fue atendida la solicitud de que el número Max de movimientos en el catálogo de claves presupuestales\n\nPor lo anterior, se da por atendido este incidente y adjunto imagen de como se visualiza el catálogo\n\nSaludos Cordiales",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/07/2025 04:19 p. m.",
+          "fechaVisible": "04/07/2025 04:19 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 8,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:35 p. m.",
+          "fechaVisible": "17/06/2025 01:35 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde. \n\nSe informa que el ambiente de calidad se encuentra actualizado con la finalidad de actualizar producción con este release",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:34 p. m.",
+          "fechaVisible": "17/06/2025 01:34 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nAun no se tiene la fecha concreta, una vez que la crucemos con el Mtro. Rafa se las daremos a conocer, así como la fecha de actualización del ambiente de calidad para que realicen las validaciones, tendremos en cuanta la fecha que nos comentan, la cual vemos alcanzable y como tope para llevar acabo dicha actualización.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/05/2025 08:42 p. m.",
+          "fechaVisible": "06/05/2025 08:42 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nSe validó en el ambiente de calidad de SPRFM, observando que el catálogo de claves presupuestales y auxiliar de mayor presupuestal, ya considera la seguridad Consultas.NumeroMaximoMovimientos, de modo que, los grupos o usuarios que no tengan asignada esta seguridad, no pueden modificar el valor del número máximo de movimientos.\n\nPor otro lado, en cuanto a la actualización masiva, solicito nos compartan el plan de actualización o la fecha tentativa en la que se realizará dicha actualización, con la finalidad de pedir a las áreas la ventana de tiempo y coordinarnos con DSIA en esta actividad. Al respecto, se solicita que esta actualización se lleve a cabo antes del 15 de Junio, debido a los procesos críticos que se ejecutan posterior a esa fecha tales como: proceso de inscripción (reinscripción y nuevo ingreso), Pago de nómina, cierres contables, proceso del presupuesto inicial (capitulo 1000), por mencionar algunos.\n\nQuedamos al pendiente de sus comentarios.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/05/2025 07:41 p. m.",
+          "fechaVisible": "06/05/2025 07:41 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 09:17 p. m.",
+          "fechaVisible": "05/05/2025 09:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe reviso con David Lima para brindar la respuesta a lo cual me indica lo siguiente:\n\nSi se realizará la actualización masiva, sin embargo, será un poco más adelante, dado que para realizar dicha actividad, como siempre lo hemos realizado, se actualizará primero el ambiente de calidad, posterior se informarán todos los tickets corregidos desde la versión actual de producción hasta la más reciente para que las diferentes áreas brinden su visto bueno de acuerdo a la revisión correspondiente, posterior a tener el visto bueno, se agenda con el Mtro Rafa. el fin de semana correspondiente para que se realice la actualización (reindexar la BD, cambiar los ejecutables de servidor (en esta actualización el sistema se debe de bajar por completo porque es cambio global), poner los ejecutables correspondientes para su actualización automática, configurar los horarios de actualización por parte de USIIU, es por ello que en este caso no fue así la actualización.\n\nsin embargo, si se realizará una vez realicemos los procesos correspondientes.\n\nEste proceso de actualización  lo hemos realizado de esta forma, para cuidar el proceso de actualización correspondiente cuando es necesario cambiar de versión completa.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 06:47 p. m.",
+          "fechaVisible": "05/05/2025 06:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días Lic. Jose\n\nRespecto a la hacer lo de la actualización del  Sire Cliente, cabe mencionar que la funcionalidad no solo la realiza la Dirección de Presupuestos, si no tambien administradores, auxiliar, todo usuario que tenga acceso al sistema puede ver el módulo, por lo que, deberán realizar la actualización no solo la Dirección de presupuestos \n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 11:25 a. m.",
+          "fechaVisible": "05/05/2025 11:25 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche Emi.\n\n\n\nSe va a realizar la actualización el día de mañana 03/05/2025 de producción para poner esta corrección, donde se agrego la seguridad: Consultas.NumeroMaximoMovimientos, al catálogo de claves presupuestales y auxiliar de mayor, ya que antes no las contemplaba, con ello mientras tengan la seguridad podrán afectar el número máximo y de lo contrario se bloqueará como funciona actualmente en otros módulos.\n\n\nAsí mismo el área de presupuestos quien ocupa estos módulo deberán de actualizar su SIRECliente, para que contemple esta seguridad de lo contrario no verán ningún cambio.\n\nLa liga donde se pondrán los ejecutables es la que previamente se les ha compartido.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 08:47 p. m.",
+          "fechaVisible": "02/05/2025 08:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Inconsistencia en el módulo de disponibilidad financiera",
+      "descripcionDetallada": "La Dirección de Presupuestos nos reporta lo siguiente:\nIdentificamos una inconsistencia en el módulo de disponibilidad financiera, la cual detallo: El proceso proyecto 1410341102E00102, refleja al 31 de diciembre 2024 en el módulo de disponibilidad financiera, un gasto total de $1,033,594.70.La diferencia es de $1,699.40 la cual corresponde a una cancelación, que se puede identificar en el auxiliar presupuestal.\n\nSin embargo, al buscar el folio 37793 en el módulo de disponibilidad financiera, ese movimiento no se muestra, solo se muestra la afectación del pre-comprometido pero no la cancelación del mismo\n\nAdjunto pantallas respecto a lo anterior, en un documento Word\n\nSaludos Cordiales",
+      "estatus": "Solicitud de Finalización",
+      "evaluacionServicio": null,
+      "fechaRegistroTexto": "24/04/2025 12:09 p. m.",
+      "fechaRegistroVisible": "24/04/2025 12:09 p. m.",
+      "id": 4160,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 9,
+      "seguimiento": [
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 9,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:14 p. m.",
+          "fechaVisible": "17/06/2025 12:14 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería reviso lo reportado, sin embargo, hace referencia al capitulo 1000, este capitulo en un ticket se indico que no se encuentra para disponibilidad financiera, la respuesta fue brindada por David Lima",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 12:03 p. m.",
+          "fechaVisible": "17/06/2025 12:03 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, la Dirección de Presupuestos nos indica lo siguiente:\n\nTe comparto que hemos seguido encontrando más inconsistencias en el módulo de disponibilidad financiera\n\nAdjunto documento con mayor detalle\n\nSolicitan el ajuste lo más pronto posible \n\nSaludos Cordiales",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/06/2025 12:28 p. m.",
+          "fechaVisible": "16/06/2025 12:28 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 08:24 p. m.",
+          "fechaVisible": "13/05/2025 08:24 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl personal de ingeniería reviso lo informado en el ticket y todo el ejercicio 2024 respecto a la disponibilidad financiera, atendiendo lo reportado más otros casos localizados en la revisión, el problema se encuentra en la ultima actualización que se realizó de producción.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/05/2025 08:22 p. m.",
+          "fechaVisible": "13/05/2025 08:22 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nSe le comparte al personal de ingeniería la problemática para su revisión correspondiente",
+          "consecutivo": 4,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "12/05/2025 07:06 p. m.",
+          "fechaVisible": "12/05/2025 07:06 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Hola buenos días \n\nLa Dirección de Presupuestos nos comenta lo siguiente:\n\nSe verifico que las cifras ya son coincidentes con la disponibilidad financiera y lo consultado en claves presupuestales, pero te pongo aquí otros casos que tienen diferencias al igual que el caso reportado, independiente a la solución que de el proveedor, sería adecuado detectar el porqué se provoca esta situación. \n\nAdjunto pantallas con casos y se estarán compartiendo otros casos que llegaran a aparecer. Para que nos indiquen, el porque se esta presentando esta situación.\n\nSaludos Cordiales",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/05/2025 10:07 a. m.",
+          "fechaVisible": "12/05/2025 10:07 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:15 p. m.",
+          "fechaVisible": "30/04/2025 07:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería reviso a detalle lo reportado por la dirección de presupuestos, a lo que atendió dicho problema directo en el ambiente de producción para que no se presentara el desfase en montos correspondientes.\n\nPor lo cual pudieran revisar nuevamente por favor",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:12 p. m.",
+          "fechaVisible": "30/04/2025 07:12 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "ALAGONZALEZ_respecto a actualización de reporte Estado analitivos de ingresos UV",
+      "descripcionDetallada": "Reporto a continuación un error que envió el sistema al generar el reporte “Estado Analítico de Ingresos UV”, nos indica el usuario que el pasado sábado estaba trabajando sin ningún problema:\n\nSin embargo, como en otro equipo si se generó el reporte, se procedió a reiniciar la sesión y al dirigirse al reporte notamos que el nombre cambió (antes tenía v1.6_UV y ahora tiene v1.7_UV), y el reporte ya lo pudieron generar:\n \nPor lo anterior, aunque el reporte ya se pudo generar, nos quedan las siguientes dudas:\n\n• ¿Qué cambios hubo en el reporte o por qué la modificación de versión? como indico al inicio, el usuario nos indica que el fin de semana pudo trabajar sin problema y hoy es cuando le mandó el error.\n• Nos pueden indicar lo que se modificó, porque no hemos solicitado modificación a este reporte.\n\nConsultamos con el equipo de UV que se encarga de modificar reportes, sin embargo, nos indicaron que ellos no han modificado nada, y que este reporte lo modifican ustedes, razón por la cual, es que les consultamos estas dudas, pues nos urge saber ¿qué pasó y qué actualización se hizo?",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "22/04/2025 12:46 p. m.",
+      "fechaRegistroVisible": "22/04/2025 12:46 p. m.",
+      "id": 4145,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 6,
+      "seguimiento": [
+        {
+          "comentario": "A la fecha esta situación quedo solventada, en caso de presentarse inconsistencias en el reporte, se registrará un nuevo incidente",
+          "consecutivo": 6,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "05/08/2025 05:43 p. m.",
+          "fechaVisible": "05/08/2025 05:43 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "23/04/2025 01:17 p. m.",
+          "fechaVisible": "23/04/2025 01:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nEl problema quedo corregido, esto se derivo a un error de dedo que cometí al momento de poner la carpeta donde se aloja el reporte, sin embargo, se corrigió ese detalle para que lo puedan ejecutar sin problema.",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/04/2025 01:16 p. m.",
+          "fechaVisible": "23/04/2025 01:16 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, al intentar generar el reporte envía un error, de que \"no se encuentra el nombre del reporte en la carpeta\" nos pueden apoyar por favor, nos URGE ya que se debe entregar información que se genera con este reporte.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "23/04/2025 12:40 p. m.",
+          "fechaVisible": "23/04/2025 12:40 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "22/04/2025 07:53 p. m.",
+          "fechaVisible": "22/04/2025 07:53 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Alan.\n\nte comento que el cambio fue realizado por nosotros, debido a que CONAC publico unas reformas hacia este reporte, por lo cual se realizaron dichos ajustes para que se cumpla con lo solicitado por dicha institución.\n\nLos cambios son de encabezados en los apartados del reporte y se retiraron los numeradores con los que contaba, son cambios de diseño solamente, el calculo de la información no se vio afectado.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/04/2025 07:50 p. m.",
+          "fechaVisible": "22/04/2025 07:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "comentariosFinales": null,
+      "descripcionBreve": "Corrección Cierre presupuestal",
+      "descripcionDetallada": "En seguimiento a lo reportado en el ticket 42460, se solicita la continuidad de la atención por este medio, para la cancelación de 63 claves con \"Comprometido No devengado\", como resultado del proceso del cierre del mes de febrero Marzo.\nAdjunto documento Excel que se compartió anteriormente en el ticket 42460 y realizó hincapié que es de atención urgente\nQuedamos al pendiente de sus comentarios\nSaludos Cordiales",
+      "estatus": "Finalizado",
+      "evaluacionServicio": "Bueno",
+      "fechaRegistroTexto": "10/04/2025 08:05 a. m.",
+      "fechaRegistroVisible": "10/04/2025 08:05 a. m.",
+      "id": 4094,
+      "posesion": "Cliente",
+      "prioridad": "Alta",
+      "totalSeguimientos": 10,
+      "seguimiento": [
+        {
+          "comentario": "la atención fue rápida y de acuerdo a lo reportado",
+          "consecutivo": 10,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "07/05/2025 10:57 a. m.",
+          "fechaVisible": "07/05/2025 10:57 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl personal de ingeniería realizó la atención de lo reportado en el ambiente de producción, realizando el ajuste de mover el saldo de marzo a abril para que no impacte en el mes cerrado, de tal modo que ahora en marzo ya no se presentarán las claves presupuestales y estas se encuentran en abril, generando ahora el cierre en dicho mes.",
+          "consecutivo": 9,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/05/2025 06:36 p. m.",
+          "fechaVisible": "06/05/2025 06:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes, en seguimiento a la última respuesta la Dirección de Presupuestos nos comenta lo siguiente:\n\nTe comento que de la validación del proceso de cierre de abril, se identifica que aún no queda solventado la liberación del presupuesto Comprometido no devengado. Por lo que les compartimos observaciones identificadas:\n\n1. Al mes de marzo existe un saldo comprometido no devengado por $37,124.41\n\n2. Al entrar al proceso de Cierre presupuestal, arroja 49 claves con el saldo de $37,124.41\n\n3. Al intentar transferir nos indica que existen errores derivado de que el mes de marzo ya se encuentra cerrado, es por ello que se había solicitado previamente que el recurso se liberara con el proceso de cierre de abril.\n\n4. El día 01 de mayo se ejecutó el proceso de Cierre presupuestal del mes de abril; sin embargo, aun quedaron claves con saldo Comprometido no devengado por un monto de $1,575,594.84, como se muestra en la consulta de claves presupuestales.\n\n5. Al revisar en el proceso de Cierre mensual nos indica que ya no existen registros pendientes.\n\nAdjunto documento Word con pantallas \n\nSaludos Cordiales",
+          "consecutivo": 8,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "06/05/2025 12:41 p. m.",
+          "fechaVisible": "06/05/2025 12:41 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:19 p. m.",
+          "fechaVisible": "30/04/2025 07:19 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Quedamos pendiente a los resultados correspondientes, gracias",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 07:17 p. m.",
+          "fechaVisible": "30/04/2025 07:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Agradecemos el apoyo, en cuanto la Dirección de Presupuestos ejecute el cierre de servicios personales les informaremos los resultados.",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "30/04/2025 04:56 p. m.",
+          "fechaVisible": "30/04/2025 04:56 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nEl cierre de febrero y marzo si se realizó esto fue corroborado por el personal de ingeniería dentro de la base de datos, respecto al monto que indican en el cierre de abril, no debiera haber mayor problema dado que el presupuesto ya no se encuentra comprometido no devengado, permitiendo realizar el ajuste, por lo cual quedamos a la retroalimentación correspondiente una vez generen el cierre de abril",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "22/04/2025 08:05 p. m.",
+          "fechaVisible": "22/04/2025 08:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "En seguimiento a la última respuesta proporcionada, la Dirección de Presupuestos nos reporta los siguientes puntos:\n\nTe confirmo que al cancelar las afectaciones indicadas por el proveedor, se liberó el presupuesto del mes de enero que se encontraba “Comprometido No devengado” por un total de $40,807.06. \nRespecto a la respuesta del proveedor para ejecutar el cierre de febrero y marzo, te comento que ya no es posible en virtud de que dichos meses ya se encuentran cerrados contablemente, por lo que se requiere que el presupuesto que se encuentra “Comprometido No devengado” de febrero y marzo, se libere en el proceso de cierre de abril.\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "11/04/2025 05:53 p. m.",
+          "fechaVisible": "11/04/2025 05:53 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "n/a",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 06:26 p. m.",
+          "fechaVisible": "10/04/2025 06:26 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl ticket fue atendido con el apoyo del personal de ingeniería, me comentan que realizaron la atención de lo reportado en el ambiente de producción, por lo cual pediría el apoyo para que por favor validen la atención procediendo a realizar el cierre correspondiente de los meses de febrero y marzo.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "10/04/2025 06:08 p. m.",
+          "fechaVisible": "10/04/2025 06:08 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    }
+  ]
+}

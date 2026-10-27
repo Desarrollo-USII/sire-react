@@ -1,0 +1,762 @@
+{
+  "fechaExtraccion": "2026-10-26",
+  "totalTickets": 18,
+  "totalComentarios": 72,
+  "tickets": [
+    {
+      "ticketId": 7318,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde, revisamos lo reportado",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-14T23:54:27.243Z",
+          "fechaTexto": "14/10/2026 05:54 p. m.",
+          "fechaVisible": "14 de Oct, 05:54:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena tarde Emi.\n\nTe informo ya se encuentra atendido lo reportado por el área, pudieran volver a realizar la transferencia por favor",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-15T21:03:54.530Z",
+          "fechaTexto": "15/10/2026 03:03 p. m.",
+          "fechaVisible": "15 de Oct, 03:03:54 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 7264,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nEl día de mañana 05/10/2026 se realizará retroalimentación de este ticket una vez verificada información con el personal de ingeniería.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-10-05T04:59:19.460Z",
+          "fechaTexto": "04/10/2026 10:59 p. m.",
+          "fechaVisible": "4 de Oct, 10:59:19 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe reviso el script correspondiente y no es recomendable que muchos usuarios lo ejecuten al mismo tiempo, dado que genera un temporal y va actualizado la información correspondiente, por lo que si muchos usuarios cargan plantillas con bastante información, puede dejar operaciones en blanco o asignar una información incorrecta.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-10-21T01:50:23.900Z",
+          "fechaTexto": "20/10/2026 07:50 p. m.",
+          "fechaVisible": "Último mar., 07:50:23 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 6720,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche. \n\nAdjunto el análisis del ticket reportado",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-19T02:57:35.943Z",
+          "fechaTexto": "18/06/2026 08:57 p. m.",
+          "fechaVisible": "18 de Jun, 08:57:35 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-19T02:58:24.090Z",
+          "fechaTexto": "18/06/2026 08:58 p. m.",
+          "fechaVisible": "18 de Jun, 08:58:24 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 6645,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe encuentra atendido el problema reportado, fue revisado por nuestra área normativa e ingeniería, el problema se derivo a un centavo que estaba siendo repartido de manera incorrecta, quedando una diferencia entre el valor de la operación y el de entrada, por lo que se realizó el ajuste correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-06-10T19:58:55.917Z",
+          "fechaTexto": "10/06/2026 01:58 p. m.",
+          "fechaVisible": "10 de Jun, 01:58:55 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días\n\nLes comento que ya quedo atendida y validada nuestra solicitud de la diferencia de $0.01 en la cuenta de Equipos y Aparatos Audiovisuales.\nLes agradecemos el apoyo brindado",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-06-11T17:10:42.780Z",
+          "fechaTexto": "11/06/2026 11:10 a. m.",
+          "fechaVisible": "11 de Jun, 11:10:42 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 6564,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nSe encuentra en revisión por parte del área de Normatividad e ingeniería el mensaje reportado, estaré dando más adelante que tenga información por ambas partes de los involucrados en la revisión",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-05-25T16:16:04.123Z",
+          "fechaTexto": "25/05/2026 10:16 a. m.",
+          "fechaVisible": "25 de May, 10:16:04 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día, después de la revisión que llevo a cabo el personal de ingeniería, me informan lo siguiente:\n\nPara realizar el proceso que indica, se deberá de hacer lo siguiente:\n\nDentro de la ventana que se muestra en la reclasificación es necesario borrar el renglón del fondo que se va a cerrar, dejando solo el renglón del fondo que tendrá el 100%\n\nposterior a que se elimina dicho fondo, es necesario, que al fondo restante se le asigne el monto de 100% al asignar este valor el total cambiará indicando que ahora todo el costo es de dicho fondo.\n\nDe esta manera se deberá de realizar este ajuste, observando que es un proceso diferente al que se realiza normalmente derivado a que, el proceso normal es para reclasificar de un Fondo X a uno Y (no existente en la operación), mientras que esta vez, es pasar de un fondo a otro, pero este ultimo ya existe en la propia operación, es por ello que aplica esta opción de borrar y ponerle directo el 100%",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-06-03T17:25:45.360Z",
+          "fechaTexto": "03/06/2026 11:25 a. m.",
+          "fechaVisible": "3 de Jun, 11:25:45 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 6290,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nEl mensaje hace referencia a que otra persona realizó una modificación al activo fijo (no forzosamente el estado físico o con el hecho de darle clic en modificar y cancelar se registra esa acción en la BD) pero la otra persona que tiene su cliente abierto y al querer modificar este mismo activo, no podrá hasta que refresque la información (para obtener los últimos valores), no será necesario que cierren el sistema, solo con que salgan del catálogo de activo y vuelvan a entrar se refresca la información, se estuvo realizando dicha acción en un ambiente copia de producción y no pudimos replicar lo reportado (se estuvieron modificando estados fijos de diferentes activos y no mostro el mensaje) por lo que estaré validando constantemente este tipo de situación",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-03-30T18:21:39.000Z",
+          "fechaTexto": "30/03/2026 12:21 p. m.",
+          "fechaVisible": "30 de Mar, 12:21:39 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-05-25T15:51:28.920Z",
+          "fechaTexto": "25/05/2026 09:51 a. m.",
+          "fechaVisible": "25 de May, 09:51:28 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 5972,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe informa que el problema se encuentra atendido en el ambiente de producción, se reviso lo correspondiente y el personal de ingeniería atendió de raíz el problema, así mismo se atendió la póliza reportada con la problemática, durante la revisión y atención no se localizó algún otro problema ",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-02-06T22:33:40.310Z",
+          "fechaTexto": "06/02/2026 04:33 p. m.",
+          "fechaVisible": "6 de Feb, 04:33:40 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "La DCBMel identifico que las correcciones aplicadas fueron correctas, por lo que se da por atendido lo reportado\n\nGracias por el apoyo brindado",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-02-09T19:10:52.560Z",
+          "fechaTexto": "09/02/2026 01:10 p. m.",
+          "fechaVisible": "9 de Feb, 01:10:52 PM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 5926,
+      "total": 3,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nRespecto a este ticket, no entendemos cual es la finalidad de su reporte, nosotros no asignamos códigos contables, revise y la ultima modificación que sufrió esa línea (la 1740) fue el día 27-11-2024 por el usuario MALIMON, posterior a esa fecha no ha tenido algún otro movimiento, por lo cual si me pudieran apoyar en darnos más contexto de lo que necesitan por favor, para poderles brindar el apoyo correspondiente.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T03:02:21.270Z",
+          "fechaTexto": "28/01/2026 09:02 p. m.",
+          "fechaVisible": "28 de Jan, 09:02:21 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen día\n\nLe agradezco la retroalimentación proporcionada y le comento que lo compartido fue debido a un incorrecto análisis\n\nPor lo que, le agradezco el tiempo brindado  y se procederá a finalizar el incidente \n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T16:41:48.140Z",
+          "fechaTexto": "29/01/2026 10:41 a. m.",
+          "fechaVisible": "29 de Jan, 10:41:48 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Agradecemos el apoyo brindado",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-29T16:43:21.463Z",
+          "fechaTexto": "29/01/2026 10:43 a. m.",
+          "fechaVisible": "29 de Jan, 10:43:21 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 5910,
+      "total": 7,
+      "seguimiento": [
+        {
+          "comentario": "Buen día. revisamos lo reportado por la DCBMeI para su atención correspondiente de acuerdo al cierre del ejercicio 2025",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": "2026-01-26T16:52:56.740Z",
+          "fechaTexto": "26/01/2026 10:52 a. m.",
+          "fechaVisible": "26 de Jan, 10:52:56 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días, \n\nA solicitud de la DCBMel se requiere el avance de atención de lo reportado\n\nQuedamos al pendiente de sus comentarios\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-28T15:14:28.510Z",
+          "fechaTexto": "28/01/2026 09:14 a. m.",
+          "fechaVisible": "28 de Jan, 09:14:28 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nEl día de ayer se realizó la actualización del ambiente de producción, con la finalidad de atender de raíz el problema que causo la depreciación correspondiente, se informo por correo electrónico y por el grupo de WhatsApp el ajuste correspondiente",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-29T23:15:27.860Z",
+          "fechaTexto": "29/01/2026 05:15 p. m.",
+          "fechaVisible": "29 de Jan, 05:15:27 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-30T17:53:41.643Z",
+          "fechaTexto": "30/01/2026 11:53 a. m.",
+          "fechaVisible": "30 de Jan, 11:53:41 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nEn seguimiento a lo que nos comentan . la DCBMel procedió a actualizar su versión en productivo con apoyo de Alberto Mesa, y siguen visualizando el error de la depreciación acumulada\n\nPor favor de apoyarnos a revisar\n\nAdjunto Word con detalle\n\nSaludos Cordilaes",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": "2026-01-30T23:36:18.343Z",
+          "fechaTexto": "30/01/2026 05:36 p. m.",
+          "fechaVisible": "30 de Jan, 05:36:18 PM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde. \n\nDe acuerdo a la llama que sostuvimos la Lic. Angelica Báez y un servidor, la visualización del monto correcto (costo con IVA) lo observarán en la depreciación del mes de enero, por lo cual este ajuste quedará correcto hasta que se haga dicha depreciación.",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-01-31T03:07:52.930Z",
+          "fechaTexto": "30/01/2026 09:07 p. m.",
+          "fechaVisible": "30 de Jan, 09:07:52 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": "2026-03-04T16:16:15.997Z",
+          "fechaTexto": "04/03/2026 10:16 a. m.",
+          "fechaVisible": "4 de Mar, 10:16:15 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 5872,
+      "total": 8,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde Fernanda.\n\nSolicito de tu apoyo para que el documento adjunto sea un poco más claro, esto a manera de lo siguiente:\n\n1.- Si el sistema arrojo algún mensaje me lo puedes compartir por favor.\n\n2.- Existe un punto que indica \"Quedo pendiente no pudo realizar la reclasificación tiene dos fondos bien 412214\", ese texto a que hace referencia? que fue lo que quedo pendiente.\n\nPido de tu apoyo para aclarar un poco el tema, dado que existen varios compañeros que nos apoyan en analizar e identificar los problemas, pero en esta ocasión no entendemos completamente la problemática reportada, así que solicito de tu apoyo para especificar un poco más el problema por favor, con la finalidad de poderles brindar el apoyo correcto.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-21T22:56:32.897Z",
+          "fechaTexto": "21/01/2026 04:56 p. m.",
+          "fechaVisible": "21 de Jan, 04:56:32 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nAdjunto repuesta de lo solicitado, con el mensaje de error que se les muestra \n\nAdjunto documento Word con el caso\n\nQuedo al pendiente \n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": "2026-01-22T14:02:58.353Z",
+          "fechaTexto": "22/01/2026 08:02 a. m.",
+          "fechaVisible": "22 de Jan, 08:02:58 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día.\n\nAgradezco la información agregada (imágenes y procesos), me puedes apoyar con lo siguiente, ya que esto es lo que entiendo juntando los dos archivos.\n\nSe trato de realizar desde el cliente la reclasificación del activo 412214, sin embargo, el mensaje que muestra (mensaje adjunto) no lo permite, por lo que optaron por realizar una póliza manual para realizar la reclasificación.\n\nSería así el proceso? o simplemente el problema reportado en este ticket es el mensaje que sale en el SIRECliente al momento de realizar la reclasificación?",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": "2026-01-22T17:52:04.367Z",
+          "fechaTexto": "22/01/2026 11:52 a. m.",
+          "fechaVisible": "22 de Jan, 11:52:04 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nEn respuesta a su pregunta le comento lo siguiente:\n\nEs correcto el problema es el mensaje de error que emite SIRECliente al momento de realizar la reclasificación; lo de las pólizas aplicadas es otro proceso para la reclasificación del gasto, por lo que requerimos que el SIRECliente permita hacer la reclasificación de los fondos.\n\nQuedamos al pendiente de sus comentarios sobre la atención de lo comentado y del porque se presento esta situación \n\nGracias de antemano, saludos cordiales\n\n\n",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": "2026-01-23T14:05:08.473Z",
+          "fechaTexto": "23/01/2026 08:05 a. m.",
+          "fechaVisible": "23 de Jan, 08:05:08 AM",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Gracias por la respuesta, atendemos el mensaje que se muestra en el SIRECliente para identificar el motivo por el cual se presenta.",
+          "consecutivo": 5,
+          "cortesia": "Sí",
+          "fechaISO": "2026-01-23T16:32:24.857Z",
+          "fechaTexto": "23/01/2026 10:32 a. m.",
+          "fechaVisible": "23 de Jan, 10:32:24 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe realizó la atención de lo reportado, para ello es necesario que por favor, el usuario que se encuentra realizando el proceso, tenga esta nueva versión de ejecutable de cliente y con ello ya no se le mostrará el mismo mensaje.\n\nasí mismo si algún otro usuario realizará este proceso igual debe de tener esta ultima versión",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": "2026-01-24T03:00:02.650Z",
+          "fechaTexto": "23/01/2026 09:00 p. m.",
+          "fechaVisible": "23 de Jan, 09:00:02 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-24T03:02:00.323Z",
+          "fechaTexto": "23/01/2026 09:02 p. m.",
+          "fechaVisible": "23 de Jan, 09:02 PM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "La DCBMel, nos indica que se actualizó la versión del Subsistema y la aplicación de las reclasificaciones de fondos fue de manera exitosa\n\nPor lo que, se da por atendido lo solicitado,\n\nGracias por el apoyo brindado\n\nSaludos Cordiales",
+          "consecutivo": 8,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-26T17:58:59.450Z",
+          "fechaTexto": "26/01/2026 11:58 a. m.",
+          "fechaVisible": "26 de Jan, 11:58:59 AM",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 5860,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nLa plataforma ya se encuentra configurada para operar con nuevo valor de la UMA el cual entra en vigencia el primero de febrero del 2026, por lo que hasta antes de esa fecha, el sistema contempla el valor de 113.14 en la UMA, una vez que sea primero de febrero el valor de la UMA tomará la nueva configuración que será de 117.31, se adjuntan imágenes de configuración de dicho valor en el sistema ",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": "2026-01-20T15:53:50.020Z",
+          "fechaTexto": "20/01/2026 09:53 a. m.",
+          "fechaVisible": "20 de Jan, 09:53:50 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:13:24.750Z",
+          "fechaTexto": "20/01/2026 10:13 a. m.",
+          "fechaVisible": "20 de Jan, 10:13:24 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 5596,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nEn el correo que mando el Lic. David Lima, se especifica que el proceso correspondiente, así mismo en las ultimas respuestas que le brindo a la Lic. Angelica Báez menciona lo siguiente:\n\nLa corrección no tiene ningún impacto en la emisión de los estados financieros, es 100% operativa y como lo comenté en mi correo anterior tiene que ver que el cálculo a nivel de los decimales de algunos activos fijos en el porcentaje de la depreciación acumulada.\n\nPor lo cual tomando como base el correo original, mas esta ultima respuesta que fue brindada, el impacto no afecta a la nómina, ni reportes, de igual manera, es solo para unos activos fijos que cuentan con depreciación al 100% y tienen una diferencia a nivel de centavos poco significativa pero que se debe de corregir, por lo cual recomendamos que sea en el mes de noviembre dicha atención y cuando se deprecie diciembre ya se encuentre todo en orden",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "09/12/2025 06:50 p. m.",
+          "fechaVisible": "09/12/2025 06:50 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": "2026-01-20T16:15:06.650Z",
+          "fechaTexto": "20/01/2026 10:15 a. m.",
+          "fechaVisible": "20 de Jan, 10:15:06 AM",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 5375,
+      "total": 8,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nRevisaremos lo reportado en el ticket, sin embargo, solo como aclaración, no hemos realizado ninguna clonación de producción a calidad recientemente, por lo que si se realizo no fue de nuestra parte, esto es solo para aclarar ese punto ya que nos llamo la atención ese comentario, sin embargo, es indistinto a la revisión que brindaremos respecto a lo informado en el ambiente de calidad.",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "04/11/2025 10:09 a. m.",
+          "fechaVisible": "04/11/2025 10:09 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buen días\n\nComo aclaración de lo que nos comenta, en referencia a la Clonación nos referimos a la realizada el pasado 6 de Julio, de este año, posterior a ella, la DCBMel quiso realizar las validaciones en este ambiente para la no afectar la operatividad en ambiente productivo.\n\nPor lo que, los casos identificados son de este ambiente (Calidad) identificados en la validación posterior a la clonación. Cabe recalcar que los incidentes antes mencionados fueron entendido antes de la clonación mencionada.\n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "04/11/2025 10:43 a. m.",
+          "fechaVisible": "04/11/2025 10:43 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nLes comparto los documentos de análisis de nuestra área normativa respecto a ambos casos que se presentaron en calidad donde se indica la configuración correspondiente a realizar, se menciona que se realizó un ejemplo, sin embargo, se regreso a la configuración anterior esto para no afectar su configuración y ustedes visualicen donde se deben de aplicar los cambios",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 10:13 p. m.",
+          "fechaVisible": "13/11/2025 10:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:15 p. m.",
+          "fechaVisible": "19/11/2025 08:15 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días,\n\nLa DCBMel, posterior a la respuesta proporcionada, estos retroalimentan lo siguiente:\n\nDe acuerdo a la nueva configuración que realizó el proveedor y la explicación sobre la creación de los Concepto de reclasificación de fondos, se realizaron distintas pruebas en el ambiente calidad, tanto de bienes depreciados, con saldo pendiente depreciar y bienes con dos fondos, las cuales previa validación por parte de la Dirección de Contabilidad, resultaron satisfactorios.\n\nSe solicita al proveedor que replique la configuración al ambiente productivo y estar en posibilidades de aplicar la reclasificación de los fondos que se pretenden cerrar.\n\nAsimismo, sobre los comentarios del proveedor sobre la solicitud que realizó esta Dirección en el levantamiento de necesidades, nos dimos a la tarea de buscar los videos en donde se explican los temas de reclasificación de fondos identificado lo siguiente:\n\n• En la sesión del día 28 de octubre de 2020 en el minuto 23:00 el proveedor empieza a explicar cómo realizar la reclasificación de fondos por activo, sin embargo, en el video se observa que no fue satisfactorio el ejemplo ya que no dio ningún resultado, dando como finalizado el tema al mencionar que necesitaba apoyo de la contadora Ángeles para configurar partes contables.\n\n• Posteriormente en la sesión del día 8 de marzo de 2021 en el minuto 2:08:15, dicha sesión fue parte de la capacitación de la Dirección de Contabilidad, se muestra la reclasificación de fondos, mostrando así ejemplos CON depreciación acumulada y SIN depreciación acumulada.\n\nAdjunto videos de las sesiones mencionadas \n\nQuedamos al pendiente de sus retroalimentación\n\nSaludos Cordiales",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 07:55 a. m.",
+          "fechaVisible": "27/11/2025 07:55 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "En seguimiento a la retroalimentación anterior, los archivos de los videos mencionados \n\nSesión 8 de Marzo:\n\nhttps://uvmx-my.sharepoint.com/:v:/g/personal/lufuentes_uv_mx/EY5yfRuX9sZHl_LIwtWC8W0BPeWAks3spzxnWzmXe90a2A\n\nSesión 28 de Octubre\n\nhttps://uvmx-my.sharepoint.com/:v:/g/personal/lufuentes_uv_mx/EY5yfRuX9sZHl_LIwtWC8W0BPeWAks3spzxnWzmXe90a2A\n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales\n\n\n\n\n\n",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "27/11/2025 08:05 a. m.",
+          "fechaVisible": "27/11/2025 08:05 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buen día. \n\nPudieran realizar el proceso en producción sin problema, solo es necesario que realicen la actualización de su ejecutable de SIRECLiente, por el que compartí por correo a Angelica Báez, así mismo sería necesario que realicen la actualización de la utilería de 3 capas antes de realizar una depreciación de activos fijos los compañeros de DCBMeI, les pediría tomar estas dos medidas:\n\n1.- Antes de realizar en producción el proceso de reclasificación de activos (actualizar su ejecutable de SIRECliente) \n\n2.- Antes de depreciar (actualizar la utilería), les comparto la liga de descarga del ejecutable de producción para que puedan continuar con su proceso:\n\nhttps://drive.google.com/drive/folders/1wXav3b8YJipcm74nW4rIHdK7J25Vr6oX?usp=sharing\n\n\n",
+          "consecutivo": 7,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 10:23 a. m.",
+          "fechaVisible": "28/11/2025 10:23 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 8,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "28/11/2025 11:08 a. m.",
+          "fechaVisible": "28/11/2025 11:08 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 5328,
+      "total": 5,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nEsta siendo revisado este ticket por nuestra área normativa, analizando lo solicitado por el área correspondiente, informare una vez culmine el análisis correspondiente",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "29/10/2025 06:36 p. m.",
+          "fechaVisible": "29/10/2025 06:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buena noche.\n\nEn revisión de este ticket con David Lima y la petición que se realiza respecto a agregar los tipos de bienes vehículos en el avaluó y posterior a ello agregar el cambio de vida útil a este tipo de bienes y a los muebles (lo cual es para biológicos actualmente) esto no se encuentra actualmente en el sistema, por lo cual en una nueva versión de SIRE aplicaría este ajuste",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/11/2025 10:17 p. m.",
+          "fechaVisible": "13/11/2025 10:17 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nAgradecemos la atención que siempre nos brindan, sin embargo, al área y a esta Unidad, nos surge la duda de a qué se refiere el comentario \"una nueva versión de SIRE aplicaría este ajuste\" si se trata de una actualización del release o de un ajuste en la aplicación.\nNos mantenemos al pendiente de sus comentarios.\n\nSaludos.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "14/11/2025 07:21 p. m.",
+          "fechaVisible": "14/11/2025 07:21 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena noche.\n\nSe refiere a un ajuste en la aplicación, dado que esto que nos informan es algo nuevo que el sistema no tiene actualmente y que a nivel contable CONAC no indica como obligatorio dentro de sus leyes, es algo que se tendrá que realizar desde cero, es decir, un desarrollo nuevo",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 07:47 p. m.",
+          "fechaVisible": "19/11/2025 07:47 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "19/11/2025 08:20 p. m.",
+          "fechaVisible": "19/11/2025 08:20 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        }
+      ]
+    },
+    {
+      "ticketId": 4916,
+      "total": 2,
+      "seguimiento": [
+        {
+          "comentario": "Buena tarde.\n\nSe reviso la información y se observa que el cambio de la serie fue realizado por ONEGI OSIEL VELASCO CAMPOS, así mismo se observa otro cambio por LUZ ADRIANA ZACARIAS GARCIA este ultimo impacto al apartado de modelo.",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 01:46 p. m.",
+          "fechaVisible": "21/08/2025 01:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Agradezco la información brindada\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "21/08/2025 02:33 p. m.",
+          "fechaVisible": "21/08/2025 02:33 p. m.",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 4473,
+      "total": 6,
+      "seguimiento": [
+        {
+          "comentario": "Buen día.\n\nEl mensaje indica que el resguardo sufrió un cambio no realizado por el usuario de la pantalla, es decir, el usuario tenia su resguardo abierto, alguien más pudo realizar alguna acción que afecto el estatus de ese resguardo y al no refrescar la operación, cerrar el módulo, no tomo esos nuevos valores, esto puede ir desde un imprimir, hasta un editar, ya que afecta la fecha del ultimo movimiento dentro de las tablas.\n\nPodrían por favor, generar nuevamente ese resguardo e indicarme si sale el mismo mensaje",
+          "consecutivo": 1,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaVisible": "12/06/2025 10:52 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes\n\nLa DCBMeI intentó nuevamente realizar la copia del resguardo, pero sigue mandando el mismo error.\n\nSe adjunta correo de evidencia.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 12:39 p. m.",
+          "fechaVisible": "12/06/2025 12:39 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buenas tardes, en seguimiento a lo que nos comentas Josue, la DCBMEI nos comenta lo siguiente:\n\nEn este momento realice la operación y me sigue enviado el mismo mensaje, abajo mostrado en este momento solo yo intente realizar la copia de resguardo y mando el mismo error de ayer\n\nAdjunto la pantalla del error \n\nQuedamos al pendiente de sus comentarios \n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "12/06/2025 12:32 p. m.",
+          "fechaVisible": "12/06/2025 12:32 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nPueden realizarlo de nuevo, ya que por la hora en la que regresaron el ticket, aun no culminaba con la actualización del ambiente de producción por favor, con la actualización culmine 15:30 pm",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 06:05 p. m.",
+          "fechaVisible": "17/06/2025 06:05 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 06:07 p. m.",
+          "fechaVisible": "17/06/2025 06:07 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se atendió lo solicitado de forma rápida y de acuerdo a lo solicitado",
+          "consecutivo": 5,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "18/06/2025 05:01 p. m.",
+          "fechaVisible": "18/06/2025 05:01 p. m.",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 4454,
+      "total": 8,
+      "seguimiento": [
+        {
+          "comentario": "Buena noche.\n\nEstamos revisando a detalle lo reportado por el área, así como los documentos adjuntos para poder identificar el problema del cambio de estatus ",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "10/06/2025 10:07 p. m.",
+          "fechaVisible": "10/06/2025 10:07 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días \n\nA solicitud del área se requiere el avance de atención de lo reportado, ya que por tiempos el área inicia con la recepción del LFI el próximo lunes 16 de Junio, por lo que solicitan que nos brinden retroalimentación\n\nQuedamos al pendiente \n\nSaludos Cordiales",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/06/2025 10:42 a. m.",
+          "fechaVisible": "13/06/2025 10:42 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde.\n\nRevisando a detalle el problema, observamos que el script fue modificado por personal de la UV, agregando la siguiente información:\n\n Modificado: Equipo DSIA. Silvia Cervantes Flores/Veronica Sarmiento Orduña\n\n   Fecha: 06 DIC 2023.\n\n   PASE A PRODUCTIVO 06FEB2024,por Verónica Sarmiento O, fue solicitado vía correo electrónico por Ismael Ortega el 01Febrero2024.\n\n   Objetivo: Que el script no actualice la clasificación del activo de LOC a NLOC (cuando no vienen en el archivo de excel) a aquéllos activos que estén cancelados,dados de baja o campo vacío, además de los inmuebles.\n\n   Se realizan los cambios al script original de SIRE, solo agregando condiciones.\n\n   Se agrega a la condición\n\n   QueryTemp:= QueryTemp +' ) AND ACTIVOF.CANCELA<>''S'' AND ACTIVOF.STATUS_ACT IN (''L'',''R'' ) '; // las dos lineas siguientes agregadas DSIA. SCF, VSO 06DIC2023, No considere cancelados, inmuebles, bajas , VACIOS para hacer el cambio\n\n   QueryTemp:= QueryTemp +' AND ACTIVOF.CVEACTF NOT IN ( SELECT TIP_ACTF.CVEACTF FROM TIP_ACTF WHERE TIP_ACTF.TIPO =''I'' ) ';\n\nRevisando esta validación que ingresaron al script, observamos que el problema se encuentra en la siguiente línea:\n\nQueryTemp:= QueryTemp +' ) AND ACTIVOF.CANCELA<>''S'' AND ACTIVOF.STATUS_ACT IN (''L'',''R'' ) '; // las dos lineas siguientes agregadas DSIA. SCF, VSO 06DIC2023, No considere cancelados, inmuebles, bajas , VACIOS para hacer el cambio\n\nEl problema radica en que se esta validando en ACTIVOF.STATUS_ACT las letras L y R, sin embargo, no se valida el estatus de vacío, los activos que se encuentran en el documento número 7 que son los bienes que deberían de haberse afectado, se observa que en su mayoría esta el campo vacío con excepción de los si afectados.\n\nPor lo cual el área que realizo la petición y afecto el script deberá de validar un nuevo cambio o ajuste al script, las letras significan lo siguiente:\n\nL: El activo se encuentra activo, sin embargo, se encuentra bloqueado ya que esta en proceso de alguna operación (Movimiento de mercancía tanto de entrada o salida)\n\nR: El activo se encuentra habilitado, sin embargo, se encuentra bloqueado ya que esta en un resguardo.\n\nVacío: El activo se encuentra habilitado, y disponible para realizar cualquier operación.",
+          "consecutivo": 3,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "13/06/2025 02:02 p. m.",
+          "fechaVisible": "13/06/2025 02:02 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 4,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "13/06/2025 02:13 p. m.",
+          "fechaVisible": "13/06/2025 02:13 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenos días\n\nAgradecemos el apoyo brindado, se ha solicitado al equipo técnico el ajuste al script con base en la información proporcionada. El ticket se mantendrá abierto en tanto se confirma la correcta funcionalidad del script de acuerdo a lo reportado.\n\nSaludos Cordiales",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/06/2025 07:52 a. m.",
+          "fechaVisible": "16/06/2025 07:52 a. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Quedamos atentos a la retro",
+          "consecutivo": 6,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "16/06/2025 09:24 a. m.",
+          "fechaVisible": "16/06/2025 09:24 a. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "17/06/2025 01:36 p. m.",
+          "fechaVisible": "17/06/2025 01:36 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "El área indica que el correcto funcionamiento del Script",
+          "consecutivo": 8,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "04/08/2025 11:39 a. m.",
+          "fechaVisible": "04/08/2025 11:39 a. m.",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    },
+    {
+      "ticketId": 4077,
+      "total": 7,
+      "seguimiento": [
+        {
+          "comentario": "Buenas tardes\n\nLo revisamos y retroalimentamos. \n\nSaludos",
+          "consecutivo": 1,
+          "cortesia": "Sí",
+          "fechaISO": null,
+          "fechaTexto": "09/04/2025 07:47 p. m.",
+          "fechaVisible": "09/04/2025 07:47 p. m.",
+          "personalEnAtencion": "Abdiel Pérez Martínez"
+        },
+        {
+          "comentario": "Buena tarde.\n\nEl problema que reportan dentro de la operación, es un mensaje operativo y el cual es correcto.\n\nPara que ustedes puedan validarlo en futuros mensajes es necesario realizar lo siguiente:\n\n1.- Ingresar al catálogo de artículos internos y localizar el artículo en cuestión.\n\n2.- En el archivo menú del catálogo de artículos internos, dar clic en la opción selección de área física y poner el área física del movimiento de transferencia de mercancía interna del cual quieren sacar el artículo en este caso el valor 9319\n\n3.- Posteriormente dirigirse al apartado de tarjeta de área física del artículo interno, donde se mostrarán las entradas y salidas del artículo dentro de esa área física, observando que la entrada de existencia a esa área fue el día 13/08/2025 por lo cual el movimiento podrá realizarse posterior a dicha fecha, ya que antes no cuenta con existencia suficiente, siendo el mensaje que muestra el sistema correcto.",
+          "consecutivo": 2,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 01:58 p. m.",
+          "fechaVisible": "02/05/2025 01:58 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 3,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "02/05/2025 02:03 p. m.",
+          "fechaVisible": "02/05/2025 02:03 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Buenas tardes, en seguimiento a la respuesta proporcionada la Dirección de Bienes, Muebles e Inmuebles tiene la siguientes dudas:\n\n1. El Historial de operaciones de Subsistema no indica un movimiento en agosto de 2025 como se indica, lo que no nos permite identificar el error mencionado.\n\n2.  En la tarjeta de áreas física si indica un movimiento de fecha 13 de agosto de 2025, con operación 42345\n\n3. En la Operación se 42345, al validarla marca con fecha 12 de agosto de 2024\n\n4. El historial de operaciones del bien con número de activo 359336, no marca indica operaciones de agosto de 2025, ni tampoco indica la operación 42345 que si menciona el la Ficha de áreas físicas.\n\nPor lo anterior, es pertinente nos indique por que no aparece dicho movimiento en el historial de operaciones, asimismo por que no concuerda la fecha de la operación en la Ficha de áreas físicas y la propia operación 42345 y de ser un error en la configuración de fechas o del propio historial solicitan que este se corrija o les proporcione el porque esta pasando lo que comentan en las observaciones.\n\nAdjunto documento Word del correo con pantallas \n\nSaludos Cordiales ",
+          "consecutivo": 4,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 12:23 p. m.",
+          "fechaVisible": "05/05/2025 12:23 p. m.",
+          "personalEnAtencion": "Clientes"
+        },
+        {
+          "comentario": "Buena tarde, se agrega el mismo documento que nos hicieron favor de compartir, con la respuesta correspondiente, se brindan las imágenes sustento.\n\nEl problema se deriva a un error de dedo por parte del usuario respecto al cambio de fecha para la recepción de mercancía interna, ya que la operación en efecto fue realizada en 2024 pero la recepción fue en 2025 lo que ocasiona que en la tarjeta del almacén se observe la fecha 2025/08/13.\n\nPara atender esto deberá de ser una solicitud de apoyo y en un ticket diferente a este para poder analizar el impacto de dicho cambio si es que llegan a solicitar el apoyo-",
+          "consecutivo": 5,
+          "cortesia": "No",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 07:46 p. m.",
+          "fechaVisible": "05/05/2025 07:46 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Solicitud de Finalización de Ticket. Si usted está de acuerdo con la finalización del ticket, favor de dar clic en la opción de Finalizar, en caso contrario agregue un comentario para que le sigamos atendiendo. Gracias",
+          "consecutivo": 6,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "05/05/2025 09:18 p. m.",
+          "fechaVisible": "05/05/2025 09:18 p. m.",
+          "personalEnAtencion": "Josué Alejandro Popo del Ángel"
+        },
+        {
+          "comentario": "Se atendió lo reportado con la información proporcionada",
+          "consecutivo": 7,
+          "cortesia": "N/A",
+          "fechaISO": null,
+          "fechaTexto": "06/08/2025 11:30 a. m.",
+          "fechaVisible": "06/08/2025 11:30 a. m.",
+          "personalEnAtencion": "Clientes"
+        }
+      ]
+    }
+  ]
+}
